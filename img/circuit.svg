@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Circuit neural">
+  <rect width="640" height="400" fill="#f0f0f0"/>
+  <g stroke="#222" stroke-width="2" fill="none">
+    <rect x="260" y="150" width="120" height="100" fill="#ddd"/>
+    <line x1="80" y1="80" x2="260" y2="180"/>
+    <line x1="80" y1="200" x2="260" y2="200"/>
+    <line x1="80" y1="320" x2="260" y2="220"/>
+    <line x1="380" y1="180" x2="560" y2="80"/>
+    <line x1="380" y1="200" x2="560" y2="200"/>
+    <line x1="380" y1="220" x2="560" y2="320"/>
+  </g>
+  <g fill="#111">
+    <circle cx="80" cy="80" r="10"/><circle cx="80" cy="200" r="10"/><circle cx="80" cy="320" r="10"/>
+    <circle cx="560" cy="80" r="10"/><circle cx="560" cy="200" r="10"/><circle cx="560" cy="320" r="10"/>
+    <circle cx="320" cy="200" r="14"/>
+  </g>
+  <text x="320" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111" letter-spacing="4">INTELIGENȚĂ ARTIFICIALĂ</text>
+</svg>
