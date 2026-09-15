@@ -1,5 +1,5 @@
 /**
- * BOTO TIMES / BOTO TIMES
+ * BOTO TIMES
  * Loads data/days.json (newest first, max 3 days) and renders
  * two site sections: Știri + Cupoane/Reduceri.
  */
@@ -304,13 +304,16 @@
   }
 
   function fillMasthead(meta, days) {
+    // Brand locked: always BOTO TIMES (ignore stale meta.title on Pages)
     const title = "BOTO TIMES";
-    const titleRo = meta.titleRo || "BOTO TIMES";
-    document.title = `${title} · ${titleRo}`;
+    document.title = title;
     $("#masthead-title").textContent = title;
-    $("#masthead-eyebrow").textContent = `${titleRo} · Broadsheet digital`;
+    $("#masthead-eyebrow").textContent = "Broadsheet digital · Europe / Bucharest";
     $("#masthead-subtitle").textContent =
       meta.subtitle || "Știri · Cupoane / Reduceri";
+
+    const footerName = $("#footer-name") || $(".footer__name");
+    if (footerName) footerName.textContent = title;
 
     const today = days[0];
     $("#masthead-date").innerHTML = today
