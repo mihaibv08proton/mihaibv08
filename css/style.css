@@ -1,4 +1,4 @@
-/* The Daily Ledger / Ziarul Hub — classic American B&W broadsheet */
+/* BOTO TIMES — NYT-style classic American B&W broadsheet */
 :root {
   --ink: #111111;
   --ink-mid: #2a2a2a;
@@ -9,8 +9,9 @@
   --paper: #f5f5f5;
   --paper-edge: #ececec;
   --halftone: #d0d0d0;
-  --font-display: "Old Standard TT", "Libre Baskerville", "Times New Roman", Times, serif;
-  --font-body: "Source Serif 4", "Libre Baskerville", Georgia, "Times New Roman", serif;
+  --font-masthead: "UnifrakturCook", "Old English Text MT", "Cloister Black", "Playfair Display", "Times New Roman", Times, serif;
+  --font-display: "Playfair Display", "Old Standard TT", "Libre Baskerville", "Times New Roman", Times, serif;
+  --font-body: "Libre Baskerville", "Source Serif 4", Georgia, "Times New Roman", serif;
   --font-ui: "Libre Franklin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --max: 1100px;
   --gutter: clamp(0.85rem, 2.5vw, 1.5rem);
@@ -168,14 +169,15 @@ code {
 }
 
 .masthead__title {
-  font-family: var(--font-display);
-  font-size: clamp(2.35rem, 9vw, 4.6rem);
+  font-family: var(--font-masthead);
+  font-size: clamp(2.85rem, 11.5vw, 5.6rem);
   font-weight: 700;
-  letter-spacing: -0.015em;
+  letter-spacing: 0.02em;
   line-height: 0.95;
   margin: 0;
   color: var(--ink);
-  text-transform: none;
+  text-transform: none; /* blackletter nameplate like NYT — mixed case looks wrong; keep as authored BOTO TIMES */
+  /* Authentic NYT-inspired nameplate: blackletter/display, dense, printed */
 }
 
 .masthead__subtitle {
