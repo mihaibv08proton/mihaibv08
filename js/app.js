@@ -1,5 +1,5 @@
 /**
- * The Daily Ledger / Ziarul Hub
+ * BOTO TIMES / BOTO TIMES
  * Loads data/days.json (newest first, max 3 days) and renders
  * two site sections: Știri + Cupoane/Reduceri.
  */
@@ -304,8 +304,8 @@
   }
 
   function fillMasthead(meta, days) {
-    const title = meta.title || "The Daily Ledger";
-    const titleRo = meta.titleRo || "Ziarul Hub";
+    const title = "BOTO TIMES";
+    const titleRo = meta.titleRo || "BOTO TIMES";
     document.title = `${title} · ${titleRo}`;
     $("#masthead-title").textContent = title;
     $("#masthead-eyebrow").textContent = `${titleRo} · Broadsheet digital`;
