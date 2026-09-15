@@ -9,7 +9,7 @@
   --paper: #f5f5f5;
   --paper-edge: #ececec;
   --halftone: #d0d0d0;
-  --font-masthead: "UnifrakturCook", "Old English Text MT", "Cloister Black", "Playfair Display", "Times New Roman", Times, serif;
+  --font-masthead: "Playfair Display", "Old Standard TT", "Libre Baskerville", "Times New Roman", Times, serif;
   --font-display: "Playfair Display", "Old Standard TT", "Libre Baskerville", "Times New Roman", Times, serif;
   --font-body: "Libre Baskerville", "Source Serif 4", Georgia, "Times New Roman", serif;
   --font-ui: "Libre Franklin", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -176,7 +176,7 @@ code {
   line-height: 0.95;
   margin: 0;
   color: var(--ink);
-  text-transform: none; /* blackletter nameplate like NYT — mixed case looks wrong; keep as authored BOTO TIMES */
+  text-transform: none; /* NYT-inspired nameplate — readable Playfair */
   /* Authentic NYT-inspired nameplate: blackletter/display, dense, printed */
 }
 
