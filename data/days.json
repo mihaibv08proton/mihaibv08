@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "The Daily Ledger",
+    "titleRo": "Ziarul Hub",
+    "subtitle": "Știri · Cupoane / Reduceri",
+    "timezone": "Europe/Bucharest",
+    "windowDays": 3,
+    "updatedAt": "2026-09-15T23:10:00+03:00",
+    "brand": "mihaibv08",
+    "sections": [
+      "stiri",
+      "cupoane"
+    ]
+  },
+  "days": [
+    {
+      "date": "2026-09-15",
+      "label": "Marți, 15 septembrie 2026",
+      "edition": "Ediția de marți · Vol. I, Nr. 47",
+      "stiri": [
+        {
+          "section": "Science",
+          "headline": "Observatorul cosmic confirmă o populație neașteptată de galaxii tinere",
+          "lead": "Datele din ultima campanie de observare sugerează că formarea stelelor a început mai devreme decât prevedeau modelele standard.",
+          "body": "Echipa internațională a publicat un catalog preliminar cu peste două sute de obiecte la redshift ridicat. Analiza spectrală arată emisii puternice de oxigen ionizat, semn că aceste galaxii erau deja chimic mature la mai puțin de un miliard de ani după Big Bang. Cercetătorii avertizează că unele detecții pot fi contaminate de lentile gravitaționale, iar următorul pas este confirmarea cu spectroscopie pe timp lung. Rezultatele, dacă rezistă, vor forța o recalibrare a simulărilor cosmologice folosite în ultima decadă.",
+          "image": "img/lab.svg",
+          "imageCaption": "Schiță tipărită: instrumentație de laborator pentru calibrare spectrală.",
+          "source": "Nature Astronomy",
+          "sourceUrl": "https://www.nature.com/natastron/"
+        },
+        {
+          "section": "AI",
+          "headline": "Modele multimodale trec testul de diagnostic radiologic pe seturi publice",
+          "lead": "Un studiu comparativ arată că asistenții de IA egalează radiologii juniori pe fracturi și pneumonie, dar rămân fragili pe cazuri rare.",
+          "body": "Cercetătorii au evaluat trei sisteme comerciale și două modele open pe același set de radiografii anonimizate. Pe clasele frecvente, sensibilitatea a fost comparabilă cu medicii cu sub cinci ani de experiență. Pe patologii rare, însă, modelele au produs erori sistematice — inclusiv „halucinații” de leziuni inexistente. Autorii recomandă ca sistemele să fie folosite doar ca al doilea cititor, cu audit uman obligatoriu. Studiul subliniază și nevoia de seturi de date reprezentative pentru populații subreprezentate.",
+          "image": "img/circuit.svg",
+          "imageCaption": "Diagramă stil tipar: noduri și legături într-o rețea neurală.",
+          "source": "The Lancet Digital Health",
+          "sourceUrl": "https://www.thelancet.com/journals/landig/home"
+        },
+        {
+          "section": "Medicine",
+          "headline": "Terapia genică pentru hemofilia B raportează remisie clinică pe 18 luni",
+          "lead": "Pacienții incluși în faza a III-a au redus dramatic dependența de factorul de coagulare intravenos.",
+          "body": "Protocolul folosește un vector viral adeno-asociat pentru a livra gena factorului IX în hepatocite. La 18 luni, majoritatea participanților menținea niveluri terapeutice ale proteinei, iar episoadele de sângerare spontană au scăzut sub un eveniment pe an. Efectele adverse severe au fost rare, dar monitorizarea enzimelor hepatice rămâne esențială în primele luni. Regulatorii cer date pe cinci ani înainte de aprobare largă. Experții avertizează că costul și accesul echitabil vor fi la fel de importante ca eficacitatea biologică.",
+          "source": "New England Journal of Medicine",
+          "sourceUrl": "https://www.nejm.org/"
+        },
+        {
+          "section": "Health",
+          "headline": "Somnul fragmentat crește riscul metabolic chiar și la adulții activi",
+          "lead": "O analiză pe cohortă europeană leagă trezirile nocturne repetate de markeri ai rezistenței la insulină.",
+          "body": "Participanții care s-au trezit de trei sau mai multe ori pe noapte, timp de cel puțin patru nopți pe săptămână, au prezentat valori mai ridicate ale hemoglobinei glicate, independent de indicele de masă corporală. Cercetătorii sugerează că întreruperile de somn afectează axa hormonală și inflamația de grad scăzut. Intervențiile simple — orar fix, reducerea luminii albastre după ora 22, evitarea cafeinei după-amiaza — au produs îmbunătățiri măsurabile în subgrupul de intervenție. Publicul este îndemnat să trateze somnul ca pe un factor de sănătate publică, nu ca pe un lux.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Linie de puls stilizată — motiv medical în cerneală neagră.",
+          "source": "BMJ Open",
+          "sourceUrl": "https://bmjopen.bmj.com/"
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Vivobarefoot — 20% la Primus Lite III (exemplu)",
+          "text": "Reducere de exemplu pe modelul Primus Lite III. Verifică stocul pe site-ul oficial înainte de cumpărare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/",
+          "expires": "2026-09-30",
+          "category": "Încălțăminte",
+          "example": true
+        },
+        {
+          "title": "Cod EXAMPLE10 — livrare redusă (exemplu)",
+          "text": "Placeholder de cupon generic: folosește codul EXAMPLE10 la checkout pentru o reducere demonstrativă. Nu este o ofertă reală.",
+          "store": "Magazin partener (exemplu)",
+          "link": "https://example.com/deals",
+          "expires": "2026-09-22",
+          "category": "Cod promo",
+          "example": true
+        },
+        {
+          "title": "Vivobarefoot Tracker — set starter −15% (exemplu)",
+          "text": "Ofertă de exemplu pe line-up-ul Tracker / Outdoor. Marcat ca exemplu pentru layout-ul de cupoane.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/",
+          "expires": "2026-10-05",
+          "category": "Outdoor",
+          "example": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "label": "Luni, 14 septembrie 2026",
+      "edition": "Ediția de luni · Vol. I, Nr. 46",
+      "stiri": [
+        {
+          "section": "Science",
+          "headline": "Materiale 2D accelerează detectoarele de radiație pentru spitale",
+          "lead": "Un prototip pe bază de grafen și perovskit reduce doza necesară pentru imagistică de înaltă rezoluție.",
+          "body": "Laboratoarele din trei universități europene au demonstrat un senzor care menține raportul semnal-zgomot la doze cu 40% mai mici decât filmul digital clasic. Stratul de grafen colectează rapid sarcinile generate în perovskit, iar encapsulation-ul previne degradarea la umiditate. Următorul obstacol este fabricarea pe suprafețe mari, compatibilă cu liniile industriale existente. Dacă scalarea reușește, radiologia pediatrică ar putea beneficia primul de doze mai mici fără compromis de claritate.",
+          "source": "Science",
+          "sourceUrl": "https://www.science.org/"
+        },
+        {
+          "section": "AI",
+          "headline": "Agenții de codare reduc timpul de review, dar cresc datoria tehnică ascunsă",
+          "lead": "Un audit pe 120 de depozite open-source arată că patch-urile generate de IA trec mai ușor CI-ul, însă introduc pattern-uri greu de întreținut.",
+          "body": "Echipa de cercetare a măsurat densitatea de duplicare, complexitatea ciclomatică și documentația lipsă pe commit-uri etichetate ca „AI-assisted”. Pe termen scurt, timpul până la merge a scăzut. Pe termen mediu, însă, bug-urile de tip off-by-one și dependențele nejustificate au crescut. Autorii propun check-list-uri dedicate pentru review-ul codului generat: teste de proprietate, verificare de licențe și interzicerea copierii de blocuri fără citare. Concluzia pragmatică: IA e un accelerator, nu un înlocuitor al disciplinei de inginerie.",
+          "image": "img/circuit.svg",
+          "imageCaption": "Circuit tipărit — metaforă pentru fluxuri de date în asistenții de cod.",
+          "source": "Communications of the ACM",
+          "sourceUrl": "https://cacm.acm.org/"
+        },
+        {
+          "section": "Medicine",
+          "headline": "Vaccinul ARNm anti-RSV pentru vârstnici arată protecție pe două sezoane",
+          "lead": "Datele de urmărire confirmă reducerea spitalizărilor la persoanele peste 65 de ani.",
+          "body": "Studiul de fază a III-a a inclus peste 30.000 de participanți. Eficacitatea împotriva bolii severă a rămas peste 70% în al doilea sezon, cu un profil de siguranță acceptabil. Reacțiile locale și febra ușoară au fost cele mai frecvente efecte. Comitetele naționale de imunizare discută acum calendarul: vaccinare anuală versus booster la doi ani. Pentru sistemele de sănătate, impactul așteptat este o scădere a ocupării paturilor de terapie intensivă în sezonul rece.",
+          "source": "The Lancet",
+          "sourceUrl": "https://www.thelancet.com/"
+        },
+        {
+          "section": "Health",
+          "headline": "Mersul pe jos după masă blochează vârfurile de glicemie mai bine decât sportul intens rar",
+          "lead": "Zece minute de plimbare imediat după masă au redus spike-urile postprandiale în trialul randomizat.",
+          "body": "Participanții cu prediabet au fost împărțiți în trei grupuri: sedentar, exercițiu intens de trei ori pe săptămână și plimbare scurtă după fiecare masă principală. Grupul „plimbare” a avut cea mai bună curbă glicemică medie pe 24 de ore. Mecanismul propus: contracția musculară folosește glucoza independent de insulină, exact când nivelul din sânge crește. Mesajul pentru public e simplu: mișcarea mică și consecventă bate sesiunile eroice ocazionale.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Motiv medical: undă de puls pe hârtie de ziar.",
+          "source": "Diabetes Care",
+          "sourceUrl": "https://diabetesjournals.org/care"
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Vivobarefoot Geo Court — clearance exemplu",
+          "text": "Listă de clearance demonstrativă pentru Geo Court. Prețurile și stocul sunt fictive — doar pentru template.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/",
+          "expires": "2026-09-28",
+          "category": "Încălțăminte",
+          "example": true
+        },
+        {
+          "title": "Bundle wellness — 2+1 gratis (exemplu)",
+          "text": "Cupon generic de tip bundle pentru produse de mișcare / barefoot. Exemplu de layout, nu ofertă activă.",
+          "store": "Hub Deals (exemplu)",
+          "link": "https://example.com/wellness",
+          "expires": "2026-09-21",
+          "category": "Bundle",
+          "example": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "label": "Duminică, 13 septembrie 2026",
+      "edition": "Ediția de duminică · Vol. I, Nr. 45",
+      "stiri": [
+        {
+          "section": "Science",
+          "headline": "Harta proteinelor din creier dezvăluie ținte noi pentru Alzheimer",
+          "lead": "Proteomica pe țesut post-mortem identifică căi de inflamație și sinapsă neglijate de terapiile actuale.",
+          "body": "Consortiul a profilat mii de proteine din cortexul prefrontal al donatorilor cu și fără demență. Dincolo de amiloid și tau, au apărut semnale puternice în metabolismul lipidic și în celulele microgliale. Unele proteine corelate cu declinul cognitiv nu apar în modelele de șoarece clasice — un avertisment împotriva extrapolării premature. Următorul pas: validarea pe biobanțuri independente și screening de molecule mici pe țintele prioritare. Dacă confirmat, harta ar putea redesena pipeline-urile farmaceutice din următorul deceniu.",
+          "image": "img/lab.svg",
+          "imageCaption": "Instrumente de laborator — ilustrație în gri pentru pagina de știință.",
+          "source": "Cell",
+          "sourceUrl": "https://www.cell.com/"
+        },
+        {
+          "section": "AI",
+          "headline": "Reglementarea europeană a IA medicale cere audit de bias înainte de piață",
+          "lead": "Ghidul final clarifică ce dovezi trebuie depuse pentru dispozitivele de diagnostic asistat.",
+          "body": "Producătorii vor trebui să raporteze performanța pe subgrupuri demografice, să documenteze seturile de antrenament și să mențină un plan de monitorizare post-market. Excepțiile pentru cercetare rămân, dar orice utilizare clinică trece prin evaluare de conformitate. Criticii spun că cerințele pot încetini startup-urile; susținătorii răspund că fără audit, inegalitățile din date se transformă în erori medicale. Pentru spitale, mesajul e clar: achizițiile trebuie să ceară fișe de bias, nu doar demo-uri impresionante.",
+          "source": "Official Journal of the EU",
+          "sourceUrl": "https://eur-lex.europa.eu/"
+        },
+        {
+          "section": "Medicine",
+          "headline": "Antibioticele cu spectru îngust revin în ghidurile de pneumonie comunitară",
+          "lead": "Societățile medicale recomandă de-escaladarea rapidă pe baza testelor moleculare la patul bolnavului.",
+          "body": "Noul ghid subliniază că tratamentul empiric larg trebuie scurtat ori de câte ori patogenul e identificat în primele 24 de ore. Testele PCR multiplex în urgență au redus durata medie a antibioticelor cu aproape două zile în spitalele pilot. Rezistența antimicrobiană rămâne o amenințare de sănătate publică; fiecare zi de terapie inutilă contează. Medicii de familie sunt încurajați să evite antibioticele în infecțiile virale tipice de sezon, chiar când presiunea pacientului e mare.",
+          "source": "Clinical Infectious Diseases",
+          "sourceUrl": "https://academic.oup.com/cid"
+        },
+        {
+          "section": "Health",
+          "headline": "Dieta mediteraneană plus socializare reduce depresia ușoară la vârstnici",
+          "lead": "Un program comunitar de 12 săptămâni a combinat mese comune, plimbări și educație nutrițională.",
+          "body": "Participanții peste 70 de ani din cinci orașe au raportat scoruri mai bune pe scalele de depresie și singurătate față de grupul de control care a primit doar broșuri. Efectul a fost mai puternic la cei care au mâncat împreună cel puțin de trei ori pe săptămână. Cercetătorii notează că beneficiul nu e doar „alimentația”: ritmul social și rutina contează la fel de mult. Politicile locale de sănătate pot scala modelul prin centre de zi și piețe alimentare, cu costuri modeste față de internări evitabile.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Puls stilizat — sănătate publică pe pagina de weekend.",
+          "source": "JAMA Network Open",
+          "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen"
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Vivobarefoot — free shipping peste 100€ (exemplu)",
+          "text": "Placeholder: livrare gratuită demonstrativă peste un prag de 100€. Verifică condițiile pe site.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/",
+          "expires": "2026-09-20",
+          "category": "Livrare",
+          "example": true
+        },
+        {
+          "title": "Reducere sezonieră −25% (exemplu)",
+          "details": "Ofertă generică de sezon pentru template-ul Cupoane/Reduceri. Marcată explicit ca exemplu.",
+          "store": "Retail partener (exemplu)",
+          "link": "https://example.com/sale",
+          "expires": "2026-09-27",
+          "category": "Sezon",
+          "example": true
+        }
+      ]
+    }
+  ]
+}
