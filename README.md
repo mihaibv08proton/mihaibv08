@@ -1,4 +1,4 @@
-# The Daily Ledger · Ziarul Hub
+# BOTO TIMES
 
 Ziar static alb-negru (broadsheet american tipărit), cu **două secțiuni de site**:
 
@@ -119,10 +119,10 @@ Root = acest folder. `vercel.json` setează cache scurt pe `/data/*`.
 
 ## Branding
 
-- Masthead: **The Daily Ledger** / **Ziarul Hub**
-- Footer: **mihaibv08**
+- Masthead / nameplate: **BOTO TIMES** (Playfair Display 900, NYT-style)
+- Footer: **BOTO TIMES** · **mihaibv08**
 - Secțiuni site: **Știri** · **Cupoane / Reduceri**
 
 ## Design
 
-Pure black / white / gray — cerneală pe hârtie. Fără accente color. Multi-coloană pe desktop pentru știri; grilă de cupoane tip „clipping”; o coloană pe mobil; tab-uri touch-friendly pentru cele 3 zile.
+Pure black / white / gray — cerneală pe hârtie, tipar broadsheet american. Nameplate tip New York Times (serif greu, tracking discret). Fără accente color. Multi-coloană pe desktop pentru știri; grilă de cupoane tip „clipping”; o coloană pe mobil; tab-uri touch-friendly pentru cele 3 zile.
