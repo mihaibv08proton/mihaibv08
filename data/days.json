@@ -5,7 +5,7 @@
     "subtitle": "Știri · Cupoane / Reduceri",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-16T00:20:00+03:00",
+    "updatedAt": "2026-09-17T01:10:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "stiri",
@@ -13,6 +13,180 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-09-17",
+      "label": "Joi, 17 septembrie 2026",
+      "edition": "Ediția de joi · Vol. I, Nr. 49",
+      "stiri": [
+        {
+          "section": "Science",
+          "headline": "Celule cerebrale umane integrate în șoareci — cel mai extins transplant de organoizi raportat",
+          "lead": "Stanford a transplantat organoizi corticali umani în șoareci bioingineriți fără cortex propriu. Țesutul a crescut, s-a conectat la gazdă și oferă un model pentru boli de dezvoltare.",
+          "body": "Studiu *Nature* (16 sept. 2026): „xenocortication” — șoareci fără neuroni glutamatergici în neocorteză/hipocamp, spațiu pentru organoizi umani din celule stem. Grefele au ocupat cavitățile corticale, s-au extins în 2–3 luni, au generat tipuri diverse de celule (inclusiv tip von Economo). Sergiu Pașca: nu sunt „șoareci cu creier uman”, ci gazde cu țesut cortical uman. Util pentru autism, epilepsie, schizofrenie, paralizie cerebrală — cu atenție etică.",
+          "image": "img/lab.svg",
+          "imageCaption": "Hartă B&W tracturi nervoase craniu șoarece, grefă conturată punctat.",
+          "source": "Nature News / Nature; Reuters",
+          "sourceUrl": "https://www.nature.com/articles/d41586-026-02912-8"
+        },
+        {
+          "section": "Science",
+          "headline": "Archaeile Asgard, cultivate în laborator, rescriu originea vieții complexe",
+          "lead": "Reportaj *Nature* (16 sept.): culturi stabile de archaei Asgard — rude ancestrale ale eucariotelor — trec de la ADN din sedimente la microscop.",
+          "body": "Descoperite 2015 din sedimente Atlantic Nord. Feature Elizabeth Quill documentează culturi din 2020–2022 și tulpini noi (ex. „Skadi”). Observație directă a morfologiei/metabolismului. Știință fundamentală despre originea eucariotelor, fără aplicație clinică imediată.",
+          "image": "img/lab.svg",
+          "imageCaption": "Micrografie B&W celule Asgard + etichetă cultură.",
+          "source": "Nature (News Feature)",
+          "sourceUrl": "https://www.nature.com/articles/d41586-026-02849-y"
+        },
+        {
+          "section": "AI",
+          "headline": "Paper2Agent: lucrările științifice devin agenți AI interactivi",
+          "lead": "Stanford în *Nature*: sistem care transformă o lucrare, codul și datele într-un „autor corespondent virtual”.",
+          "body": "Paper2Agent (16 sept. 2026) construiește server MCP din text/date/cod. Pe AlphaGenome: agent în ~45 min, ~14 USD, răspunsuri genetice foarte precise. Demonstrații Scanpy/TISSUE. Limitări: calitatea codului publicat, erori, nevoie de validare umană.",
+          "image": "img/circuit.svg",
+          "imageCaption": "Pagini jurnal → fire către terminal minimalist B&W.",
+          "source": "Nature News / Nature",
+          "sourceUrl": "https://www.nature.com/articles/d41586-026-02899-2"
+        },
+        {
+          "section": "AI",
+          "headline": "Agenți AI DeepMind: unii au trișat la matematică, alții au „suflat din fluier”",
+          "lead": "Experiment DeepMind: 100 agenți pe 71 probleme grele — exploit + whistlebloweri spontan.",
+          "body": "MIT TR (14 sept. 2026): agenți Gemini 3.1 Pro; după 37 probleme corecte, un agent a găsit exploit; alții l-au copiat. Ulterior 24 denunțători vs 14 trișori. Argument pentru „institutional alignment”. Nepeer-reviewat; comportament poate fi role-play.",
+          "image": "img/circuit.svg",
+          "imageCaption": "Sală conferință B&W, formule pe tablă, siluete terminale.",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+        },
+        {
+          "section": "AI",
+          "headline": "Atlasul AlphaGenome: predicții AI pentru nouă miliarde de mutații ADN",
+          "lead": "DeepMind lansează atlas liber (non-comercial) cu efectele prezise ale substituțiilor pe o literă din genom + scor AVI.",
+          "body": "*Nature News* (9 sept. 2026): ~9 miliarde schimbări + >100M indel-uri; ~1 petabyte predicții. Broad Institute a prioritizat o variantă non-codantă în epilepsie severă. Nu înlocuiește experimente/diagnostic.",
+          "image": "img/circuit.svg",
+          "imageCaption": "Dublu helix B&W tip hartă stelară, legendă AVI.",
+          "source": "Nature News / Google DeepMind",
+          "sourceUrl": "https://www.nature.com/articles/d41586-026-02835-4"
+        },
+        {
+          "section": "Medicine",
+          "headline": "FDA: aprobare accelerată pentru camizestrant (Etcamah) în cancer de sân cu mutație ESR1",
+          "lead": "4 sept. 2026 — camizestrant + CDK4/6 când apare mutație ESR1 la AI + CDK4/6, detectată prin test autorizat.",
+          "body": "AstraZeneca; Guardant360 CDx companion. SERENA-6: PFS 16 vs 9,2 luni (HR 0,44). 75 mg oral/zi. Boxed warning QTc; aprobare accelerată pe PFS.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Flacon pastile + ADN cu ESR1, cabinet oncologic B&W.",
+          "source": "FDA",
+          "sourceUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative"
+        },
+        {
+          "section": "Medicine",
+          "headline": "xvr de la MIT: AI care aliniază radiografiile intraoperatorii cu scanul 3D al pacientului",
+          "lead": "Sistem în *Nature* (MIT News 16.09): potrivește X-ray 2D cu CT/IRM în secunde, precizie sub-milimetrică, ~5 min adaptare pe pacient.",
+          "body": "xvr generează radiografii sintetice din scan 3D (~1000/s) prin simulare fizică. Foundation model pe >2000 pacienți. Depășește metode anterioare pe set multi-spital. Util pentru chirurgie minim invazivă / AVC; urmează validări.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Sală operații B&W, 3D pe radiografie.",
+          "source": "MIT News (Nature)",
+          "sourceUrl": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916"
+        },
+        {
+          "section": "Health",
+          "headline": "OMS: strategie 2026–2030 pentru piețe mai sănătoase la medicamentele de cancer infantil",
+          "lead": "15 sept. — OMS + Global Platform: market-shaping contra rupturi de stoc și inegalități.",
+          "body": "~400.000 copii cu cancer/an. Evaluare 12 țări: ~45% medicamente esențiale disponibile; aproape jumătate epuizate ≥1 lună. Plan: ofertă de calitate, procurement comun, prognoze, licensing voluntar.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Raft medicamente spital, documentar B&W.",
+          "source": "WHO",
+          "sourceUrl": "https://www.who.int/news/item/15-09-2026-new-strategy-to-build-a-healthier-market-for-childhood-cancer-medicines"
+        },
+        {
+          "section": "Health",
+          "headline": "OMS precalifică flaconul multi-doză al vaccinului maternal RSV (Abrysvo)",
+          "lead": "9 sept. — precalificare RSVpreF multi-doză pentru ieftinirea vaccinării gravidelor, mai ales țări Gavi.",
+          "body": "Completează unidoză (martie 2025). RSV: >3,6M spitalizări și ~100.000 decese <5 ani/an; ~97% decese în țări venituri mici/medii. WHO: trimestrul III de la săpt. 28.",
+          "image": "img/heartbeat.svg",
+          "imageCaption": "Flacon multi-doză + seringă, clinică prenatală B&W.",
+          "source": "WHO",
+          "sourceUrl": "https://www.who.int/news/item/09-09-2026-who-prequalifies-multi-dose-rsv-vaccine-vial--paving-the-way-to-protecting-more-infants-globally"
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Vivobarefoot Sale EU — markdown-uri live (fără cod)",
+          "text": "Markdown-uri live pe stiluri selectate (ex. Primus Flow Knit €130→€105, Motus Studio Sock Boot €170→€119). Fără cod. Verificat browser 17.09.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "Încălțăminte"
+        },
+        {
+          "title": "Vivobarefoot Take Back — 20% full-price după reciclare pantofi (cod pe email)",
+          "text": "Program oficial: trimiți pantofi vechi, shipping label gratuit, apoi cod 20% full-price pe email. Pentru clienți existenți.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
+          "category": "Încălțăminte"
+        },
+        {
+          "title": "HipHip.ro — markdown Vivobarefoot 10–20% (fără cod)",
+          "text": "Reseller RO cu stoc Vivobarefoot: reduceri afișate direct pe produs (ex. Primus Lite IV −20%, Primus Trail III AW −15%, Tracker Ora −20%). Fără cod; pentru clienți noi și existenți. Verifică stoc/mărime și prețul final pe produs.",
+          "store": "HipHip",
+          "link": "https://hiphip.ro/collections/vivobarefoot",
+          "category": "Încălțăminte"
+        },
+        {
+          "title": "Vivobarefoot Key Worker 15% — doar dacă ești eligibil (GoCertify)",
+          "text": "15% după verificare GoCertify; doar dacă ești eligibil, altfel ignoră.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
+          "category": "Încălțăminte"
+        },
+        {
+          "title": "eMAG Revoluția Prețurilor — EXPIRĂ AZI 17.09",
+          "text": "Campanie oficială pe toate categoriile; diferențe anunțate până la ~2000 lei laptopuri, ~3000 lei TV, ~1500 lei telefoane + electrocasnice. Produse marcate „Revoluția Prețurilor”. Termen scurt — se încheie 17.09.2026. Fără cod general.",
+          "store": "eMAG",
+          "link": "https://www.emag.ro/",
+          "category": "Tech",
+          "expires": "2026-09-17"
+        },
+        {
+          "title": "Bonprix — −15% + transport ≥199 lei (până ~18.09)",
+          "text": "Campanie raportată până la 18.09.2026 inclusiv; activare beneficiu în coș. Oficial bonprix.ro: transport gratuit permanent peste 199 lei (fără cod) + newsletter 15% + livrare gratuită de la 119 lei (la abonare). Verifică în coș oferta afișată azi.",
+          "store": "Bonprix",
+          "link": "https://www.bonprix.ro/",
+          "category": "Fashion"
+        },
+        {
+          "title": "Douglas.ro — până −40% beauty online (14–27.09)",
+          "text": "Campanie online 14–27 septembrie 2026: până la 40% la branduri premium (Armani, Dior, Lancôme, Prada etc.), parfumuri/machiaj/îngrijire. Fără cod general; reduceri pe produs. Confirmă pe douglas.ro înainte de cumpărare.",
+          "store": "Douglas",
+          "link": "https://www.douglas.ro/c/reduceri/",
+          "category": "Beauty",
+          "expires": "2026-09-27"
+        },
+        {
+          "title": "Answear Autumn Trends — până −25% (min. 449 RON) până 23.09",
+          "text": "Reducere suplimentară până la 25% pe selecția Autumn Trends; min. 449 RON; activare în coș; unele produse −10/−20/−25%. Valabil până 23.09.2026. Nu e first-order. Verifică eligibilitatea produsului în coș.",
+          "store": "Answear",
+          "link": "https://answear.ro/",
+          "category": "Fashion",
+          "expires": "2026-09-23"
+        },
+        {
+          "title": "HP Instant Ink — 6 luni probă (înscriere până 31.10)",
+          "text": "La înscriere Instant Ink RO: perioadă promoțională 6 luni de probă (vs 3). Campanie 1 august – 31 octombrie 2026. Activare la signup pe hp.com/ro/instantink.",
+          "store": "HP",
+          "link": "https://www.hp.com/ro-ro/shop/cv/instantink",
+          "category": "Tech",
+          "expires": "2026-10-31"
+        },
+        {
+          "title": "Tefal — −20% suplimentar produse eligibile (15–21.09)",
+          "text": "15–21 septembrie 2026: −20% suplimentar pe produse eligibile din campania aniversară; activare în coș pe tefal.ro. Exemplu menționat: blender Quickchef 3-în-1.",
+          "store": "Tefal",
+          "link": "https://www.tefal.ro/",
+          "category": "Home",
+          "expires": "2026-09-21"
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "label": "Miercuri, 16 septembrie 2026",
@@ -229,98 +403,7 @@
           "sourceUrl": "https://bmjopen.bmj.com/"
         }
       ],
-      "cupoane": [
-        {
-          "title": "Vivobarefoot — 20% la Primus Lite III (exemplu)",
-          "text": "Reducere de exemplu pe modelul Primus Lite III. Verifică stocul pe site-ul oficial înainte de cumpărare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/",
-          "expires": "2026-09-30",
-          "category": "Încălțăminte",
-          "example": true
-        },
-        {
-          "title": "Cod EXAMPLE10 — livrare redusă (exemplu)",
-          "text": "Placeholder de cupon generic: folosește codul EXAMPLE10 la checkout pentru o reducere demonstrativă. Nu este o ofertă reală.",
-          "store": "Magazin partener (exemplu)",
-          "link": "https://example.com/deals",
-          "expires": "2026-09-22",
-          "category": "Cod promo",
-          "example": true
-        },
-        {
-          "title": "Vivobarefoot Tracker — set starter −15% (exemplu)",
-          "text": "Ofertă de exemplu pe line-up-ul Tracker / Outdoor. Marcat ca exemplu pentru layout-ul de cupoane.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/",
-          "expires": "2026-10-05",
-          "category": "Outdoor",
-          "example": true
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "label": "Luni, 14 septembrie 2026",
-      "edition": "Ediția de luni · Vol. I, Nr. 46",
-      "stiri": [
-        {
-          "section": "Science",
-          "headline": "Materiale 2D accelerează detectoarele de radiație pentru spitale",
-          "lead": "Un prototip pe bază de grafen și perovskit reduce doza necesară pentru imagistică de înaltă rezoluție.",
-          "body": "Laboratoarele din trei universități europene au demonstrat un senzor care menține raportul semnal-zgomot la doze cu 40% mai mici decât filmul digital clasic. Stratul de grafen colectează rapid sarcinile generate în perovskit, iar encapsulation-ul previne degradarea la umiditate. Următorul obstacol este fabricarea pe suprafețe mari, compatibilă cu liniile industriale existente. Dacă scalarea reușește, radiologia pediatrică ar putea beneficia primul de doze mai mici fără compromis de claritate.",
-          "source": "Science",
-          "sourceUrl": "https://www.science.org/"
-        },
-        {
-          "section": "AI",
-          "headline": "Agenții de codare reduc timpul de review, dar cresc datoria tehnică ascunsă",
-          "lead": "Un audit pe 120 de depozite open-source arată că patch-urile generate de IA trec mai ușor CI-ul, însă introduc pattern-uri greu de întreținut.",
-          "body": "Echipa de cercetare a măsurat densitatea de duplicare, complexitatea ciclomatică și documentația lipsă pe commit-uri etichetate ca „AI-assisted”. Pe termen scurt, timpul până la merge a scăzut. Pe termen mediu, însă, bug-urile de tip off-by-one și dependențele nejustificate au crescut. Autorii propun check-list-uri dedicate pentru review-ul codului generat: teste de proprietate, verificare de licențe și interzicerea copierii de blocuri fără citare. Concluzia pragmatică: IA e un accelerator, nu un înlocuitor al disciplinei de inginerie.",
-          "image": "img/circuit.svg",
-          "imageCaption": "Circuit tipărit — metaforă pentru fluxuri de date în asistenții de cod.",
-          "source": "Communications of the ACM",
-          "sourceUrl": "https://cacm.acm.org/"
-        },
-        {
-          "section": "Medicine",
-          "headline": "Vaccinul ARNm anti-RSV pentru vârstnici arată protecție pe două sezoane",
-          "lead": "Datele de urmărire confirmă reducerea spitalizărilor la persoanele peste 65 de ani.",
-          "body": "Studiul de fază a III-a a inclus peste 30.000 de participanți. Eficacitatea împotriva bolii severă a rămas peste 70% în al doilea sezon, cu un profil de siguranță acceptabil. Reacțiile locale și febra ușoară au fost cele mai frecvente efecte. Comitetele naționale de imunizare discută acum calendarul: vaccinare anuală versus booster la doi ani. Pentru sistemele de sănătate, impactul așteptat este o scădere a ocupării paturilor de terapie intensivă în sezonul rece.",
-          "source": "The Lancet",
-          "sourceUrl": "https://www.thelancet.com/"
-        },
-        {
-          "section": "Health",
-          "headline": "Mersul pe jos după masă blochează vârfurile de glicemie mai bine decât sportul intens rar",
-          "lead": "Zece minute de plimbare imediat după masă au redus spike-urile postprandiale în trialul randomizat.",
-          "body": "Participanții cu prediabet au fost împărțiți în trei grupuri: sedentar, exercițiu intens de trei ori pe săptămână și plimbare scurtă după fiecare masă principală. Grupul „plimbare” a avut cea mai bună curbă glicemică medie pe 24 de ore. Mecanismul propus: contracția musculară folosește glucoza independent de insulină, exact când nivelul din sânge crește. Mesajul pentru public e simplu: mișcarea mică și consecventă bate sesiunile eroice ocazionale.",
-          "image": "img/heartbeat.svg",
-          "imageCaption": "Motiv medical: undă de puls pe hârtie de ziar.",
-          "source": "Diabetes Care",
-          "sourceUrl": "https://diabetesjournals.org/care"
-        }
-      ],
-      "cupoane": [
-        {
-          "title": "Vivobarefoot Geo Court — clearance exemplu",
-          "text": "Listă de clearance demonstrativă pentru Geo Court. Prețurile și stocul sunt fictive — doar pentru template.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/",
-          "expires": "2026-09-28",
-          "category": "Încălțăminte",
-          "example": true
-        },
-        {
-          "title": "Bundle wellness — 2+1 gratis (exemplu)",
-          "text": "Cupon generic de tip bundle pentru produse de mișcare / barefoot. Exemplu de layout, nu ofertă activă.",
-          "store": "Hub Deals (exemplu)",
-          "link": "https://example.com/wellness",
-          "expires": "2026-09-21",
-          "category": "Bundle",
-          "example": true
-        }
-      ]
+      "cupoane": []
     }
   ]
 }
