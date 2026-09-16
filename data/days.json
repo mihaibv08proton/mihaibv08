@@ -5,7 +5,7 @@
     "subtitle": "Știri · Cupoane / Reduceri",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T01:10:00+03:00",
+    "updatedAt": "2026-09-17T01:15:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "stiri",
@@ -284,13 +284,6 @@
         }
       ],
       "cupoane": [
-        {
-          "title": "Vivobarefoot: -15% prima pereche + livrare gratuită (DISCOVER15)",
-          "text": "Cod oficial pe pagina Discover: 15% reducere la prima pereche și livrare gratuită, cu DISCOVER15 la checkout. Promovat pe site-ul EU și UK. Fără 50% public găsit acum; pe /offers nu apar promoții flash active. Verifică aplicarea în coș (poate fi limitat la prima comandă / stiluri eligibile). Cod: DISCOVER15.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/discover-vivobarefoot",
-          "category": "Încălțăminte"
-        },
         {
           "title": "Vivobarefoot Sale EU: reduceri pe stiluri selectate (fără cod)",
           "text": "Secțiunea Sale activă pe magazinul Europe: markdown-uri pe modele selectate (ex. Primus Flow Knit ~€105 vs €130; Motus Studio Sock Boot €119 vs €170; Gobi Wavey Mule €105 vs €150; kids până la ~40% off; tricou So Long Airsoles €15 vs €30 = -50%). Nu e un cupon sitewide 50% — doar produse la reducere. Verifică stocul și dacă DISCOVER15 se cumulează (de obicei nu pe sale).",
