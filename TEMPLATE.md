@@ -8,10 +8,7 @@ Standing masthead and section rules. Do not reintroduce removed chrome.
 - **No** Broadsheet / Europe / Bucharest eyebrow (`#masthead-eyebrow` / `.masthead__eyebrow`).
 - Meta row: only **Ediție gratuită** (centered).
 - Nameplate: Playfair **BOTO TIMES**.
-- Subtitle (`.masthead__subtitle`) is **page-specific**, set by `fillMasthead` from `data-page`:
-  - `stiri` / index → `POSTĂRI X`
-  - `cupoane` → `CUPOANE / REDUCERI`
-  - `gyh` → `GROW YOUR WEALTH`
+- **No** masthead subtitle (`#masthead-subtitle` / `.masthead__subtitle`) — nothing under the nameplate except date row + section-rail.
 - Keep the **section-rail** nav (X · Cupoane / Reduceri · Grow Your Wealth) so all three pages stay reachable.
 - Meta description: e.g. `BOTO TIMES — X / Cupoane / Grow Your Wealth` (no “Broadsheet” wording).
 

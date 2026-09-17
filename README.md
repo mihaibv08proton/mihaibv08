@@ -11,7 +11,7 @@ Interfața chrome e în română; tiparul rămâne quality-news B&W. Fără buil
 
 ## Locked template
 
-See **[TEMPLATE.md](TEMPLATE.md)** for permanent masthead rules: no Vol. I, no Broadsheet Europe/Bucharest eyebrow, page-specific subtitles (`POSTĂRI X` / `CUPOANE / REDUCERI` / `GROW YOUR WEALTH`), single X section header, light separators, Playfair B&W.
+See **[TEMPLATE.md](TEMPLATE.md)** for permanent masthead rules: no Vol. I, no Broadsheet Europe/Bucharest eyebrow, no masthead subtitle, single X section header, light separators, Playfair B&W.
 
 ## Structură
 

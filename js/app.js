@@ -21,11 +21,6 @@
     gyh: "BOTO TIMES — Grow Your Wealth"
   };
 
-  const PAGE_SUBTITLES = {
-    stiri: "POSTĂRI X",
-    cupoane: "CUPOANE / REDUCERI",
-    gyh: "GROW YOUR WEALTH"
-  };
 
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
@@ -649,9 +644,7 @@ function formatStructuredText(raw) {
     if (vol) vol.remove();
 
     const subEl = $("#masthead-subtitle");
-    if (subEl) {
-      subEl.textContent = PAGE_SUBTITLES[page] || PAGE_SUBTITLES.stiri;
-    }
+    if (subEl) subEl.remove();
 
     const footerName = $("#footer-name") || $(".footer__name");
     if (footerName) footerName.textContent = title;
