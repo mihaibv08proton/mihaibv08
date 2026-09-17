@@ -383,7 +383,7 @@
     }
 
     return `
-      <article class="x-post${isThread ? " x-post--thread" : ""}">
+      <article class="x-post${isThread ? " x-post--thread" : ""}" data-handle="${escapeHtml(handle)}">
         <header class="x-post__header">
           <p class="x-post__handle">@${escapeHtml(handle)}</p>
           ${
@@ -399,10 +399,42 @@
       </article>`;
   }
 
+  function uniqueXHandles(items) {
+    const seen = new Set();
+    const out = [];
+    (items || []).forEach((item) => {
+      const h = String(item.handle || item.author || "").replace(/^@/, "").trim();
+      if (!h) return;
+      const key = h.toLowerCase();
+      if (seen.has(key)) return;
+      seen.add(key);
+      out.push(h);
+    });
+    return out;
+  }
+
+  function renderXFilters(handles) {
+    const btns = [
+      `<button type="button" class="x-filter is-active" data-filter="all" aria-pressed="true">Toate</button>`,
+    ].concat(
+      handles.map(
+        (h) =>
+          `<button type="button" class="x-filter" data-filter="${escapeHtml(h)}" aria-pressed="false">@${escapeHtml(h)}</button>`
+      )
+    );
+    return `
+      <nav class="x-filters" aria-label="Filtrează după cont">
+        ${btns.join("")}
+      </nav>
+      <p class="x-filters__empty state-msg" hidden>Nicio postare pentru acest cont în ediție.</p>`;
+  }
+
   function renderXBlock(items) {
     if (!items || !items.length) return "";
+    const handles = uniqueXHandles(items);
     return `
       <div class="x-block">
+        ${renderXFilters(handles)}
         <div class="x-list">
           ${items.map(renderXPost).join("")}
         </div>
@@ -631,6 +663,37 @@ function formatStructuredText(raw) {
     });
   }
 
+  function wireXFilters(root) {
+    $$(".x-block", root).forEach((block) => {
+      const filters = $$(".x-filter", block);
+      const posts = $$(".x-post", block);
+      const empty = $(".x-filters__empty", block);
+      if (!filters.length) return;
+
+      function apply(filter) {
+        const needle = String(filter || "all");
+        filters.forEach((btn) => {
+          const on = btn.dataset.filter === needle;
+          btn.classList.toggle("is-active", on);
+          btn.setAttribute("aria-pressed", on ? "true" : "false");
+        });
+        let visible = 0;
+        posts.forEach((post) => {
+          const handle = post.dataset.handle || "";
+          const show =
+            needle === "all" || handle.toLowerCase() === needle.toLowerCase();
+          post.hidden = !show;
+          if (show) visible += 1;
+        });
+        if (empty) empty.hidden = visible > 0;
+      }
+
+      filters.forEach((btn) => {
+        btn.addEventListener("click", () => apply(btn.dataset.filter || "all"));
+      });
+    });
+  }
+
   function fillMasthead(meta, days, page) {
     const title = "BOTO TIMES";
     document.title = PAGE_TITLES[page] || title;
@@ -688,6 +751,7 @@ function formatStructuredText(raw) {
       `;
 
       wireTabs(main);
+      wireXFilters(main);
     } catch (err) {
       console.error(err);
       main.innerHTML = `

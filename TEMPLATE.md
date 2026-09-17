@@ -23,6 +23,7 @@ Standing masthead and section rules. Do not reintroduce removed chrome.
 
 - **One** section header only: title `X`, deck `Postări · Thread-uri`.
 - Posts render in `.x-list` directly — **no** nested `X · Twitter` / `.section__title--sub` under that header.
+- Optional `.x-filters` account chips (Toate + @handles) above `.x-list`; B&W only, derived from that day’s `xPosts`.
 
 ## Footer
 

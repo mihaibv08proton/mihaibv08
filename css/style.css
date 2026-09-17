@@ -1067,3 +1067,65 @@ code {
 .x-block {
   margin-top: 0.15rem;
 }
+
+/* —— X account filter chips —— */
+.x-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0 0 1rem;
+  padding: 0.15rem 0 0.75rem;
+  border-bottom: 1px solid var(--rule-light);
+}
+
+.x-filter {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink-soft);
+  cursor: pointer;
+  border-radius: 999px;
+  touch-action: manipulation;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+
+.x-filter:hover {
+  color: var(--ink);
+  background: #ebebeb;
+}
+
+.x-filter.is-active,
+.x-filter[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+.x-filter:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+.x-filters__empty {
+  margin: 0 0 1rem;
+}
+
+.x-post[hidden] {
+  display: none;
+}
+
+@media (max-width: 520px) {
+  .x-filters {
+    gap: 0.35rem;
+  }
+  .x-filter {
+    font-size: 0.68rem;
+    padding: 0.35rem 0.65rem;
+  }
+}
