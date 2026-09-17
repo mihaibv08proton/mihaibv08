@@ -194,6 +194,7 @@ code {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 0.35rem 0.55rem;
   font-family: var(--font-ui);
   font-size: 0.7rem;
@@ -202,6 +203,25 @@ code {
   text-transform: uppercase;
   padding: 0.45rem 0 0.15rem;
   color: var(--ink);
+}
+
+.section-rail__link {
+  color: var(--ink-soft);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding: 0.1rem 0;
+}
+
+.section-rail__link:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+  text-decoration: none;
+}
+
+.section-rail__link.is-active,
+.section-rail__link[aria-current="page"] {
+  color: var(--ink);
+  border-bottom: 2px solid var(--ink);
 }
 
 /* —— Day tabs —— */
@@ -763,6 +783,88 @@ code {
 
 @media print {
   .cupon {
+    break-inside: avoid;
+  }
+}
+
+
+/* —— Grow Your Wealth —— */
+.site-section--gyh {
+  margin-top: 0.25rem;
+}
+
+.gyh-list {
+  display: grid;
+  gap: 1.35rem;
+}
+
+.gyh-item {
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--rule-light);
+}
+
+.gyh-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.gyh-item__headline {
+  font-family: var(--font-display);
+  font-size: clamp(1.25rem, 3.2vw, 1.75rem);
+  font-weight: 700;
+  line-height: 1.15;
+  margin: 0 0 0.4rem;
+  letter-spacing: -0.01em;
+}
+
+.gyh-item__date {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin: 0 0 0.55rem;
+}
+
+.gyh-item__summary {
+  font-size: 0.98rem;
+  color: var(--ink-soft);
+  margin: 0 0 0.85rem;
+  line-height: 1.5;
+  text-align: justify;
+  hyphens: auto;
+  white-space: pre-wrap;
+}
+
+.gyh-item__recs {
+  border: 1px solid var(--ink);
+  background: #efefef;
+  padding: 0.75rem 0.9rem 0.85rem;
+  margin: 0.35rem 0 0.5rem;
+  box-shadow: inset 0 0 0 1px var(--paper), inset 0 0 0 2px var(--ink);
+}
+
+.gyh-item__recs-title {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0 0 0.45rem;
+  color: var(--ink);
+}
+
+.gyh-item__recs-body {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin: 0;
+  color: var(--ink-mid);
+  white-space: pre-wrap;
+}
+
+@media print {
+  .gyh-item {
     break-inside: avoid;
   }
 }

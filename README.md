@@ -1,27 +1,29 @@
 # BOTO TIMES
 
-Ziar static alb-negru (broadsheet american tipărit), cu **două secțiuni de site**:
+Ziar static alb-negru (broadsheet american tipărit), pe **trei pagini separate**:
 
-1. **Știri** — Science · AI · Medicine · Health  
-2. **Cupoane / Reduceri** — oferte, coduri promo, deal-uri
+1. **Știri** (`index.html`) — Science · AI · Medicine · Health  
+2. **Cupoane / Reduceri** (`cupoane.html`) — oferte, coduri promo, deal-uri  
+3. **Grow Your Wealth** (`gyh.html`) — note, sumar, recomandări autor
 
-Interfața chrome e în română; tiparul rămâne quality-news B&W. Fără build, fără CMS — doar HTML/CSS/JS + JSON.
+Interfața chrome e în română; tiparul rămâne quality-news B&W. Fără build, fără CMS — doar HTML/CSS/JS + JSON. Conținutul vine **doar** din `data/days.json` (nu se inventează știri/GYH).
 
 ## Structură
 
 ```
 research-ziar/
-├── index.html          # Masthead + shell
-├── css/style.css       # Tipar B&W, responsive (coloane desktop / stivă mobil)
-├── js/app.js           # Încarcă days.json, tab-uri pe zile, Știri + Cupoane
+├── index.html          # Știri (landing)
+├── cupoane.html        # Cupoane / Reduceri
+├── gyh.html            # Grow Your Wealth
+├── css/style.css       # Tipar B&W, nav, responsive
+├── js/app.js           # Citește days.json; randare pe pagina curentă (data-page)
 ├── data/days.json      # Ultimele 3 zile (cea mai recentă prima)
 ├── img/                # Placeholder-e grayscale (SVG)
-│   ├── lab.svg
-│   ├── circuit.svg
-│   └── heartbeat.svg
 ├── vercel.json         # Opțional (Vercel); inofensiv pe GitHub Pages
 └── README.md
 ```
+
+Nav sub masthead: **Știri · Cupoane / Reduceri · Grow Your Wealth** (active pe pagina curentă). Tab-urile pe zile rămân pe fiecare pagină (fereastră de 3 zile).
 
 ## Fereastra rulantă de 3 zile
 
@@ -34,7 +36,7 @@ research-ziar/
 
 1. Deschide `data/days.json`.
 2. **Prepend** un obiect nou la începutul lui `days[]` (ziua de azi).
-3. Completează `date` (`YYYY-MM-DD`), `label`, `edition`, `stiri[]`, `cupoane[]`.
+3. Completează `date` (`YYYY-MM-DD`), `label`, `edition`, `stiri[]`, `cupoane[]`, `gyh[]` (poate fi `[]`).
 4. **Păstrează maxim 3** elemente în `days` — șterge ultima (cea mai veche).
 5. Actualizează `meta.updatedAt` (ISO cu offset Europe/Bucharest, ex. `+03:00`).
 6. Opțional: arhivează ziua scoasă în afara hub-ului.
@@ -47,7 +49,8 @@ research-ziar/
   "label": "Marți, 15 septembrie 2026",
   "edition": "Ediția de marți · Vol. I, Nr. 47",
   "stiri": [ /* articole Science/AI/Medicine/Health */ ],
-  "cupoane": [ /* oferte / reduceri */ ]
+  "cupoane": [ /* oferte / reduceri */ ],
+  "gyh": [ /* note Grow Your Wealth; [] dacă nu există */ ]
 }
 ```
 
@@ -75,13 +78,12 @@ Compatibilitate: `js/app.js` acceptă încă `articles` ca alias pentru `stiri`.
 
 ```json
 {
-  "title": "Vivobarefoot — 20% la Primus Lite III (exemplu)",
+  "title": "Ofertă magazin — reducere",
   "text": "Detalii ofertă…",
-  "store": "Vivobarefoot",
-  "link": "https://www.vivobarefoot.com/",
+  "store": "Magazin",
+  "link": "https://example.com/",
   "expires": "2026-09-30",
-  "category": "Încălțăminte",
-  "example": true
+  "category": "Încălțăminte"
 }
 ```
 
@@ -93,7 +95,30 @@ Compatibilitate: `js/app.js` acceptă încă `articles` ca alias pentru `stiri`.
 | `link` | recomandat | URL ofertă |
 | `expires` | opțional | `YYYY-MM-DD` |
 | `category` | opțional | ex. Încălțăminte, Cod promo |
-| `example` | opțional | `true` → badge „Exemplu” în UI |
+| `example` | opțional | `true` → badge „Exemplu” (evită în fereastra live) |
+
+### Schema GYH (în `gyh`)
+
+```json
+{
+  "headline": "Titlu notă",
+  "summary": "Sumar complet, fără pierderi de conținut.",
+  "recommendations": "Buy / sell / hold / staged — text recomandări autor.",
+  "date": "2026-09-17",
+  "source": "Autor / newsletter",
+  "sourceUrl": "https://example.com/"
+}
+```
+
+| Câmp | Obligatoriu | Note |
+|------|-------------|------|
+| `headline` sau `title` | da | Titlu |
+| `summary` | recomandat | Corp / sumar lossless |
+| `recommendations` | recomandat | Afișat în caseta „Recomandări autor” |
+| `date` | opțional | |
+| `source` / `sourceUrl` | opțional | |
+
+Dacă `gyh` e gol, pagina arată: *Nicio notă Grow Your Wealth în această ediție.*
 
 ## Rulează local
 
@@ -104,7 +129,10 @@ cd /workspace/research-ziar   # sau calea ta locală
 python3 -m http.server 8080
 ```
 
-Deschide: [http://localhost:8080](http://localhost:8080)
+Deschide:
+- [http://localhost:8080/](http://localhost:8080/) — Știri  
+- [http://localhost:8080/cupoane.html](http://localhost:8080/cupoane.html)  
+- [http://localhost:8080/gyh.html](http://localhost:8080/gyh.html)
 
 ## GitHub Pages
 
@@ -119,10 +147,10 @@ Root = acest folder. `vercel.json` setează cache scurt pe `/data/*`.
 
 ## Branding
 
-- Masthead / nameplate: **BOTO TIMES** (Playfair Display 900, NYT-style)
+- Masthead / nameplate: **BOTO TIMES** (Playfair Display, NYT-style — nu blackletter)
 - Footer: **BOTO TIMES** · **mihaibv08**
-- Secțiuni site: **Știri** · **Cupoane / Reduceri**
+- Pagini: **Știri** · **Cupoane / Reduceri** · **Grow Your Wealth**
 
 ## Design
 
-Pure black / white / gray — cerneală pe hârtie, tipar broadsheet american. Nameplate tip New York Times (serif greu, tracking discret). Fără accente color. Multi-coloană pe desktop pentru știri; grilă de cupoane tip „clipping”; o coloană pe mobil; tab-uri touch-friendly pentru cele 3 zile.
+Pure black / white / gray — cerneală pe hârtie, tipar broadsheet american. Nameplate tip New York Times (serif greu, tracking discret). Fără accente color. Multi-coloană pe desktop pentru știri; grilă de cupoane tip „clipping”; casetă „Recomandări autor” pe GYH; o coloană pe mobil; tab-uri touch-friendly pentru cele 3 zile.

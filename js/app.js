@@ -1,7 +1,7 @@
 /**
  * BOTO TIMES
  * Loads data/days.json (newest first, max 3 days) and renders
- * two site sections: Știri + Cupoane/Reduceri.
+ * ONE page section based on <body data-page="stiri|cupoane|gyh">.
  */
 (function () {
   "use strict";
@@ -15,8 +15,20 @@
     Health: "Health · Sănătate"
   };
 
+  const PAGE_TITLES = {
+    stiri: "BOTO TIMES — Știri",
+    cupoane: "BOTO TIMES — Cupoane / Reduceri",
+    gyh: "BOTO TIMES — Grow Your Wealth"
+  };
+
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+
+  function getPage() {
+    const raw = (document.body.dataset.page || "stiri").toLowerCase();
+    if (raw === "cupoane" || raw === "gyh" || raw === "stiri") return raw;
+    return "stiri";
+  }
 
   function escapeHtml(str) {
     return String(str ?? "")
@@ -68,7 +80,6 @@
     return map[s.toLowerCase()] || (STIRI_ORDER.includes(s) ? s : s);
   }
 
-  /** Prefer day.stiri; fall back to legacy day.articles */
   function getStiri(day) {
     if (Array.isArray(day.stiri)) return day.stiri;
     if (Array.isArray(day.articles)) return day.articles;
@@ -77,6 +88,10 @@
 
   function getCupoane(day) {
     return Array.isArray(day.cupoane) ? day.cupoane : [];
+  }
+
+  function getGyh(day) {
+    return Array.isArray(day.gyh) ? day.gyh : [];
   }
 
   function groupBySection(articles) {
@@ -223,10 +238,64 @@
       </section>`;
   }
 
-  function renderEdition(day, index) {
-    const stiri = getStiri(day);
-    const cupoane = getCupoane(day);
+  function renderGyhItem(item) {
+    const headline = item.headline || item.title || "Notă GYH";
+    const summary = item.summary || item.body || "";
+    let recommendations = item.recommendations || "";
+    if (Array.isArray(recommendations)) {
+      recommendations = recommendations.map((x) => `• ${x}`).join("\n");
+    }
+    const date = item.date || "";
+    const sourceBlock = renderSource(item);
 
+    return `
+      <article class="gyh-item">
+        <h3 class="gyh-item__headline">${escapeHtml(headline)}</h3>
+        ${date ? `<p class="gyh-item__date">${escapeHtml(date)}</p>` : ""}
+        ${summary ? `<div class="gyh-item__summary">${escapeHtml(summary)}</div>` : ""}
+        ${
+          recommendations
+            ? `<aside class="gyh-item__recs" aria-label="Recomandări autor">
+                <h4 class="gyh-item__recs-title">Recomandări autor</h4>
+                <p class="gyh-item__recs-body">${escapeHtml(recommendations)}</p>
+              </aside>`
+            : ""
+        }
+        ${sourceBlock}
+      </article>`;
+  }
+
+  function renderGyhBlock(items) {
+    const id = "sec-gyh";
+    if (!items.length) {
+      return `
+        <section class="site-section site-section--gyh" aria-labelledby="${id}">
+          <header class="site-section__header">
+            <h2 class="site-section__title" id="${id}">Grow Your Wealth</h2>
+            <p class="site-section__deck">Note · analiză · recomandări autor</p>
+          </header>
+          <p class="state-msg">Nicio notă Grow Your Wealth în această ediție.</p>
+        </section>`;
+    }
+    return `
+      <section class="site-section site-section--gyh" aria-labelledby="${id}">
+        <header class="site-section__header">
+          <h2 class="site-section__title" id="${id}">Grow Your Wealth</h2>
+          <p class="site-section__deck">Note · analiză · recomandări autor</p>
+        </header>
+        <div class="gyh-list">
+          ${items.map(renderGyhItem).join("")}
+        </div>
+      </section>`;
+  }
+
+  function renderPageContent(day, page) {
+    if (page === "cupoane") return renderCupoaneBlock(getCupoane(day));
+    if (page === "gyh") return renderGyhBlock(getGyh(day));
+    return renderStiriBlock(getStiri(day));
+  }
+
+  function renderEdition(day, index, page) {
     return `
       <div
         class="edition"
@@ -239,8 +308,7 @@
           <h2 class="edition__label">${escapeHtml(day.label)}</h2>
           <p class="edition__sub">${escapeHtml(day.edition || "")}</p>
         </header>
-        ${renderStiriBlock(stiri)}
-        ${renderCupoaneBlock(cupoane)}
+        ${renderPageContent(day, page)}
       </div>`;
   }
 
@@ -303,14 +371,13 @@
     });
   }
 
-  function fillMasthead(meta, days) {
-    // Brand locked: always BOTO TIMES (ignore stale meta.title on Pages)
+  function fillMasthead(meta, days, page) {
     const title = "BOTO TIMES";
-    document.title = title;
+    document.title = PAGE_TITLES[page] || title;
     $("#masthead-title").textContent = title;
     $("#masthead-eyebrow").textContent = "Broadsheet digital · Europe / Bucharest";
     $("#masthead-subtitle").textContent =
-      meta.subtitle || "Știri · Cupoane / Reduceri";
+      meta.subtitle || "Știri · Cupoane / Reduceri · Grow Your Wealth";
 
     const footerName = $("#footer-name") || $(".footer__name");
     if (footerName) footerName.textContent = title;
@@ -329,6 +396,7 @@
 
   async function init() {
     const main = $("#main");
+    const page = getPage();
     try {
       const res = await fetch(DATA_URL, { cache: "no-store" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -341,12 +409,12 @@
         return;
       }
 
-      fillMasthead(data.meta || {}, days);
+      fillMasthead(data.meta || {}, days, page);
 
       main.innerHTML = `
         ${renderTabs(days)}
         <div class="editions">
-          ${days.map((d, i) => renderEdition(d, i)).join("")}
+          ${days.map((d, i) => renderEdition(d, i, page)).join("")}
         </div>
       `;
 

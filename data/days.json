@@ -2,14 +2,15 @@
   "meta": {
     "title": "BOTO TIMES",
     "titleRo": "BOTO TIMES",
-    "subtitle": "Știri · Cupoane / Reduceri",
+    "subtitle": "Știri · Cupoane / Reduceri · Grow Your Wealth",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T01:15:00+03:00",
+    "updatedAt": "2026-09-17T10:10:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "stiri",
-      "cupoane"
+      "cupoane",
+      "gyh"
     ]
   },
   "days": [
@@ -125,65 +126,21 @@
           "category": "Încălțăminte"
         },
         {
-          "title": "HipHip.ro — markdown Vivobarefoot 10–20% (fără cod)",
-          "text": "Reseller RO cu stoc Vivobarefoot: reduceri afișate direct pe produs (ex. Primus Lite IV −20%, Primus Trail III AW −15%, Tracker Ora −20%). Fără cod; pentru clienți noi și existenți. Verifică stoc/mărime și prețul final pe produs.",
-          "store": "HipHip",
-          "link": "https://hiphip.ro/collections/vivobarefoot",
-          "category": "Încălțăminte"
-        },
-        {
           "title": "Vivobarefoot Key Worker 15% — doar dacă ești eligibil (GoCertify)",
           "text": "15% după verificare GoCertify; doar dacă ești eligibil, altfel ignoră.",
           "store": "Vivobarefoot",
           "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
           "category": "Încălțăminte"
-        },
+        }
+      ],
+      "gyh": [
         {
-          "title": "eMAG Revoluția Prețurilor — EXPIRĂ AZI 17.09",
-          "text": "Campanie oficială pe toate categoriile; diferențe anunțate până la ~2000 lei laptopuri, ~3000 lei TV, ~1500 lei telefoane + electrocasnice. Produse marcate „Revoluția Prețurilor”. Termen scurt — se încheie 17.09.2026. Fără cod general.",
-          "store": "eMAG",
-          "link": "https://www.emag.ro/",
-          "category": "Tech",
-          "expires": "2026-09-17"
-        },
-        {
-          "title": "Bonprix — −15% + transport ≥199 lei (până ~18.09)",
-          "text": "Campanie raportată până la 18.09.2026 inclusiv; activare beneficiu în coș. Oficial bonprix.ro: transport gratuit permanent peste 199 lei (fără cod) + newsletter 15% + livrare gratuită de la 119 lei (la abonare). Verifică în coș oferta afișată azi.",
-          "store": "Bonprix",
-          "link": "https://www.bonprix.ro/",
-          "category": "Fashion"
-        },
-        {
-          "title": "Douglas.ro — până −40% beauty online (14–27.09)",
-          "text": "Campanie online 14–27 septembrie 2026: până la 40% la branduri premium (Armani, Dior, Lancôme, Prada etc.), parfumuri/machiaj/îngrijire. Fără cod general; reduceri pe produs. Confirmă pe douglas.ro înainte de cumpărare.",
-          "store": "Douglas",
-          "link": "https://www.douglas.ro/c/reduceri/",
-          "category": "Beauty",
-          "expires": "2026-09-27"
-        },
-        {
-          "title": "Answear Autumn Trends — până −25% (min. 449 RON) până 23.09",
-          "text": "Reducere suplimentară până la 25% pe selecția Autumn Trends; min. 449 RON; activare în coș; unele produse −10/−20/−25%. Valabil până 23.09.2026. Nu e first-order. Verifică eligibilitatea produsului în coș.",
-          "store": "Answear",
-          "link": "https://answear.ro/",
-          "category": "Fashion",
-          "expires": "2026-09-23"
-        },
-        {
-          "title": "HP Instant Ink — 6 luni probă (înscriere până 31.10)",
-          "text": "La înscriere Instant Ink RO: perioadă promoțională 6 luni de probă (vs 3). Campanie 1 august – 31 octombrie 2026. Activare la signup pe hp.com/ro/instantink.",
-          "store": "HP",
-          "link": "https://www.hp.com/ro-ro/shop/cv/instantink",
-          "category": "Tech",
-          "expires": "2026-10-31"
-        },
-        {
-          "title": "Tefal — −20% suplimentar produse eligibile (15–21.09)",
-          "text": "15–21 septembrie 2026: −20% suplimentar pe produse eligibile din campania aniversară; activare în coș pe tefal.ro. Exemplu menționat: blender Quickchef 3-în-1.",
-          "store": "Tefal",
-          "link": "https://www.tefal.ro/",
-          "category": "Home",
-          "expires": "2026-09-21"
+          "title": "17.09.2026 FED creste rata de dobanda cu 0,25 puncte de baza.",
+          "date": "17.09.2026 19:23",
+          "summary": "Autorul începe prin a recunoaște că s-a înșelat în privința deciziei Fed din seara precedentă. Rezumatul deciziei: Fed a majorat rata cu 25 puncte de bază, pentru prima dată din iulie 2023; votul a fost unanim, 12–0; banca spune că măsura va sprijini o revenire mai rapidă a inflației la 2%; proiecția mediană indică încă o majorare de 25 pb în 2026; ritmul creării locurilor de muncă este solid, iar șomajul a avut doar „modificări minore”; iar Comitetul spune că va asigura stabilitatea prețurilor. Rezultă scenariul unor dobânzi ridicate pentru mai mult timp. Fed afirmă și că productivitatea este puternică și investițiile de capital robuste.\n\nPiața anticipase în mare măsură majorarea, însă autorul consideră că mesajul lui Kevin Warsh a fost mai important decât nivelul ratei. Rata a ajuns la 3,75%–4,00%, prima majorare americană din aproximativ trei ani și prima decizie de acest tip sub conducerea lui Warsh. Votul a rămas unanim chiar dacă Warsh ar fi preferat menținerea ratelor, deoarece nu putea schimba voturile celorlalți 11 membri FOMC. Proiecțiile pentru 2026 sunt mai restrictive: 16 din 18 oficiali văd cel puțin încă o majorare de 25 pb până la sfârșitul anului. Mesajul principal pentru investitori este că lupta cu inflația nu s-a încheiat și majorarea nu trebuie tratată ca un eveniment izolat.\n\nComunicatul FOMC spune că inflația rămâne ridicată și că acțiunea urmărește revenirea mai rapidă la ținta de 2%. Proiecția mediană pentru inflația PCE din 2026 a fost ridicată la 3,7%, de la 3,6% în iunie, iar revenirea la 2% este anticipată abia în 2029. Autorul argumentează că Fed nu consideră inflația un fenomen temporar care va dispărea odată cu normalizarea energiei sau disiparea șocurilor de ofertă; el adaugă că Trezoreria va răscumpăra foarte multe obligațiuni și va inunda piețele cu bani.\n\nÎn lectura autorului, Warsh a spus că economia americană s-a consolidat de la ultima ședință, piața muncii este practic aproape de ocuparea completă, iar problema principală este inflația; creșterea subiacentă este mai puternică, dar tendințele inflației nu s-au îmbunătățit suficient. Warsh a spus că „inflația este prea ridicată și a fost prea ridicată prea mult timp”, că stabilitatea prețurilor este preocuparea principală și că datele de inflație din vară nu confirmă o îmbunătățire fundamentală semnificativă. Deși discursul nu pregătește reduceri rapide și sugerează că economia poate suporta dobânzi mai mari, autorul interpretează declarațiile drept dovish, se așteaptă la pozitivism și creșteri în piață și spune că următorul obstacol este expirarea trimestrială a opțiunilor (QTR OPEX) de vineri. El afirmă că a cumpărat imediat 100 de acțiuni AVGO în portofoliul GYW și probabil va face astăzi achiziții atât în GYW, cât și în GYW500, alimentând suplimentar cu bani din Fondul de siguranță; consideră aceasta o abordare potrivită pentru cine investește o sumă mică și nu mai are cash în cont.\n\nReacția de miercuri a fost: S&P 500 –0,44%, Dow Jones –1,21%, Nasdaq –0,01% (aproape neschimbat); randamentul titlurilor americane pe doi ani a urcat puternic, iar dolarul s-a apreciat. Autorul spune că acțiunile nu au intrat în panică, dar obligațiunile și dolarul au transmis un mesaj mai hawkish decât indicii. Randamentul pe 10 ani a rămas în jurul pragului de 5%, iar randamentul pe doi ani, mai sensibil la Fed, a crescut după comunicat. Investitorii trebuie să urmărească US10Y, nu doar dacă Nasdaq urcă sau scade: randamente peste 5% sau noi maxime ar presa evaluările acțiunilor de growth; scăderea randamentelor ar permite recuperarea pieței chiar cu o Fed restrictivă. Fed nu urmărește prăbușirea economiei.\n\nFed nu vede o recesiune profundă: proiecțiile indică PIB real +2,3% în 2026 și +2,4% în 2027 și șomaj de circa 4,1% la sfârșitul lui 2026 și în anii următori. Economia este suficient de puternică pentru dobânzi mai mari, iar problema centrală este inflația. Prin urmare, autorul nu consideră decizia începutul automat al unei noi piețe bear și spune că investitorii pot continua strategia achizițiilor în tranșe mici.\n\nPentru portofolii, companiile sunt împărțite astfel: (1) growth foarte mare, sensibil la costul capitalului și evaluare: AMD, Tesla, Nebius, SOFI, HOOD, IREN, ASTS, RKLB, IONQ și PL; (2) companii cu fundamente puternice, venituri mari și monetizare demonstrată: Meta, Broadcom, CrowdStrike, Cloudflare, AppLovin și Palantir; (3) companii influențate de teme structurale de energie, apărare și infrastructură: Vistra, Centrus, SpaceX și Ondas. O Fed hawkish afectează diferit aceste grupuri.\n\nPentru AMD, AVGO, NBIS și IREN, semiconductorii și infrastructura AI sunt printre cele mai sensibile la randamente. AMD și Broadcom fuseseră lovite puternic luni, iar indicele semiconductorilor trecuse printr-o corecție severă înaintea ședinței. La AMD trebuie separat un declin zilnic de o penalizare permanentă a multiplilor. La Nebius și IREN riscul este mai mare, fiindcă investitorii plătesc în mare măsură pentru profituri și capacitate de infrastructură viitoare; fiecare creștere a randamentelor reduce matematic valoarea prezentă a acelor fluxuri. Dacă Fed rămâne hawkish, mișcări de 5–10% sau chiar mai mari într-o sesiune nu ar trebui să surprindă. Esențial este să fie separat prețul volatil de deteriorarea afacerii.\n\nLa Meta, CRWD, NET și APP se vede diferența dintre AI și monetizarea AI, prin rotația capitalului din semiconductori către software și cybersecurity mai reziliente. Meta are venituri și profituri robuste, iar AI îmbunătățește publicitatea, recomandările și produsele; CrowdStrike monetizează securitatea într-un moment cu noi suprafețe de atac generate de AI; Cloudflare beneficiază de traficul digital și internetul agentic; AppLovin arată deja venituri și cash-flow masiv din AI. Nu sunt imune la dobânzi, dar nu cer ani de așteptare pentru validarea modelului economic.\n\nTesla este un caz distinct: teza se mută de la automobile spre FSD, robotaxi, energie, AI și robotică. Fed hawkish nu distruge teza, dar poate reduce multiplii pe care piața îi acordă profiturilor îndepărtate. Trebuie urmărite simultan progresul operațional și evaluarea; o scădere de 10–15% pe fondul randamentelor ridicate nu dovedește deteriorarea tezei, dar nici eticheta de „companie extraordinară” nu justifică ignorarea permanentă a prețului.\n\nPalantir (PLTR) ilustrează situația în care fundamentul poate fi solid, dar evaluarea excesivă aduce volatilitate: contractele guvernamentale, AI enterprise și utilizarea platformei AIP susțin teza, însă ratele mai mari pot penaliza o companie cu așteptări ridicate. La prețuri peste 180 USD autorul a repetat că trebuie securizat profit pe câteva procente din poziție. Regula GYW este să nu se vândă doar fiindcă acțiunea scade, ci să se verifice dacă ritmul creșterii mai justifică evaluarea.\n\nCentrus/LEU și Vistra/VST pot beneficia de tema structurală a necesarului de electricitate al AI și a energiei nucleare, dar ratele mari le pot afecta prin finanțare. Pentru Centrus contează capitalul necesar extinderii infrastructurii; pentru Vistra, datoria și costul capitalului trebuie urmărite împreună cu cererea de electricitate. Trebuie analizată relația dintre cererea structurală, investiții, datorie și cash-flow, nu o etichetă simplă bullish/bearish.\n\nQTR OPEX din 18 septembrie, la doar două zile de decizia Fed, introduce expirarea trimestrială majoră a instrumentelor derivate. Secvența „Fed → repricing al dobânzilor → schimbarea poziționării dealerilor → QTR OPEX” poate produce mișcări mari și străpungeri false: un suport poate fi rupt și recucerit, iar o rezistență depășită și apoi pierdută imediat. Autorul nu ar încerca să ghicească minimul sau maximul, ci ar aștepta închiderea săptămânii și evoluția de după OPEX; investitorul de retail nu trebuie să tranzacționeze fiecare mișcare.\n\nPoziționarea recomandată este echilibrată: în primul rând, să nu se reacționeze prin vânzarea acțiunilor, deoarece Fed nu indică recesiune, iar creșterea rămâne solidă; în al doilea rând, să nu se cumpere agresiv doar pentru că unele acțiuni au scăzut. O corecție de 10% nu este automat discount, însă acțiuni deja scăzute 50–60% care mai scad 10% pot ajunge la prețuri bune — autorul dă RKLB, ASTS, ONDAS și APP — chiar dacă aceasta poate fi doar începutul unei corecții mai ample; dacă economia și accesul la finanțare se deteriorează, ele pot pierde încă 30–50% de la nivelurile curente. În al treilea rând, trebuie păstrată lichiditate, pentru că numerarul oferă răbdare și posibilitatea de a cumpăra când piața devine irațională.\n\nPentru AMD, TSLA, PLTR, META, AVGO, CRWD, NET și APP trebuie urmărit dacă rezultatele și perspectivele justifică în continuare evaluarea. Pentru NBIS, IREN, ASTS, RKLB, IONQ, PL și ONDS contează mai mult dimensiunea poziției și necesarul de capital. Pentru VST și LEU se urmăresc dobânzile, investițiile și cash-flow-ul. Pentru SpaceX, teza combină Starlink, lansări și infrastructură AI, dar evaluarea și necesarul de capital trebuie urmărite disciplinat.\n\nAutorul avertizează să nu se încerce recuperarea pierderilor prin risc suplimentar, să nu se folosească levier doar fiindcă piața a scăzut, să nu se transforme o companie speculativă într-o poziție disproporționat de mare doar pentru că povestea place — atenție la mărimea pozițiilor RKLB, ASTS, ONDAS și IREN — și să nu se ia decizii permanente pe baza unor mișcări amplificate de OPEX. Un investitor disciplinat nu este obligat să cumpere fiecare scădere, ci să știe de ce cumpără.\n\nÎn săptămânile următoare trebuie urmăriți cinci indicatori: US10Y pentru presiunea asupra evaluărilor; petrolul (peste 100 USD menține riscul inflaționist); inflația PCE/CPI, care poate face mai probabilă încă o majorare; piața muncii, unde o deteriorare bruscă schimbă echilibrul inflație–creștere; și fluxurile de după OPEX, care arată dacă vânzarea este doar repoziționare sau început de corecție mai largă.\n\nConcluzia este că majorarea de 25 pb la 3,75%–4,00% nu a fost surpriza, ci mesajul că inflația rămâne problema centrală, economia este mai puternică și o nouă majorare este în proiecțiile majorității oficialilor pentru 2026. Investitorii trebuie să fie mai disciplinați, nu mai speriați: piața nu cere vânzarea tuturor deținerilor, ci selectivitate. Companiile cu creștere reală, cash-flow și bilanțuri solide pot traversa rate mari; cele dependente de finanțare și profituri îndepărtate vor fi mai volatile. Pentru GYW, autorul ar păstra nucleul companiilor cu teza intactă, ar evita cumpărăturile impulsive în volatilitatea Fed/OPEX, ar păstra lichiditate pentru corecții și ar folosi nivelurile tehnice pentru controlul riscului, nu pentru a dicta întreaga strategie. Nu este nevoie să fie prins minimul din 18 septembrie, anticipată următoarea declarație Warsh sau ghicită mișcarea Nasdaq de azi/mâine. Fed poate schimba peste noapte costul banilor, dar nu calitatea unei companii în 24 de ore: AMD rămâne AMD, Tesla Tesla, Meta Meta, Palantir Palantir, iar Nebius, IREN, Rocket Lab, ASTS, Vistra, Centrus și celelalte companii își continuă activitatea indiferent de o lumânare. Se schimbă rapid prețul pe care piața îl plătește pentru viitor — de aici apar și oportunitatea, și riscul. Mesajul final este: fără panică și fără alergat după preț, fără încercarea de a fi mai deștepți decât piața în fiecare zi; analiză, așteptare, lichiditate și cumpărare selectivă când prețul este suficient de atractiv față de valoare, cu răbdare și disciplină. Obiectivul este construirea averii în 5, 10 și 20 de ani, nu câștigul în săptămâna Fed+OPEX; o majorare de 25 pb este importantă pentru piață, dar nu trebuie să schimbe filosofia de investiții.",
+          "recommendations": "• Autorul a cumpărat deja 100 AVGO în portofoliul GYW.\n• Probabil va face achiziții și în GYW și GYW500, inclusiv cu o sumă suplimentară din Fondul de siguranță; pentru sume mici fără cash recomandă acțiuni în tranșe mici, nu o intrare agresivă.\n• Nu recomandă vânzarea generală a acțiunilor și nici cumpărarea agresivă doar pentru că prețurile au scăzut.\n• Recomandă păstrarea lichidității și cumpărarea selectivă când prețul devine atractiv raportat la valoare, după evaluarea rezultatelor, perspectivelor și riscurilor.\n• La PLTR peste 180 USD recomandă securizarea unui profit pe câteva procente din poziție; în rest, nu vânzare automată la scădere, ci verificarea dacă ritmul de creștere justifică evaluarea.\n• Pentru companiile speculative (în special RKLB, ASTS, ONDAS, IREN) recomandă poziții dimensionate prudent și atenție la necesarul de capital; nu poziții disproporționate.\n• Recomandă să se aștepte închiderea săptămânii și perioada de după QTR OPEX din 18 septembrie, în locul încercării de a ghici minimul/maximul sau de a tranzacționa fiecare mișcare.\n• Recomandă păstrarea nucleului companiilor cu teza fundamentală intactă, folosirea nivelurilor tehnice pentru controlul riscului și evitarea levierului, a cumpărărilor impulsive și a creșterii riscului pentru recuperarea pierderilor.",
+          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788244",
+          "source": "Grow Your Wealth"
         }
       ]
     },
@@ -286,7 +243,7 @@
       "cupoane": [
         {
           "title": "Vivobarefoot Sale EU: reduceri pe stiluri selectate (fără cod)",
-          "text": "Secțiunea Sale activă pe magazinul Europe: markdown-uri pe modele selectate (ex. Primus Flow Knit ~€105 vs €130; Motus Studio Sock Boot €119 vs €170; Gobi Wavey Mule €105 vs €150; kids până la ~40% off; tricou So Long Airsoles €15 vs €30 = -50%). Nu e un cupon sitewide 50% — doar produse la reducere. Verifică stocul și dacă DISCOVER15 se cumulează (de obicei nu pe sale).",
+          "text": "Secțiunea Sale activă pe magazinul Europe: markdown-uri pe modele selectate (ex. Primus Flow Knit ~€105 vs €130; Motus Studio Sock Boot €119 vs €170; Gobi Wavey Mule €105 vs €150; kids până la ~40% off; tricou So Long Airsoles €15 vs €30 = -50%). Nu e un cupon sitewide 50% — doar produse la reducere. Verifică stocul; reducerile se aplică doar pe produsele din Sale (fără cod sitewide).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/sale",
           "category": "Încălțăminte"
@@ -304,53 +261,9 @@
           "store": "Vivobarefoot",
           "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
           "category": "Încălțăminte"
-        },
-        {
-          "title": "Notino: -15% cu codul SALE (min. 50 RON, produse selectate)",
-          "text": "Ofertă curentă pe notino.ro: la achiziții de peste 50 RON din produsele selectate, codul sale dă 15% la întreaga comandă. Nu se aplică produselor deja la promoție / lichidare. Cuponeria: verificat manual 14.09.2026, ~87% succes; validThrough afișat până ~20.09.2026. Transport gratuit tipic peste 250 lei. Cod: sale.",
-          "store": "Notino",
-          "link": "https://www.notino.ro/oferta-curenta/",
-          "category": "Beauty",
-          "expires": "2026-09-20"
-        },
-        {
-          "title": "Answear: -25% preț întreg / -5% deja reduse (CUPONERIA25, min. 400 RON)",
-          "text": "Cod exclusiv Cuponeria: 25% la produse cu preț întreg sau 5% la cele reduse, coș minim 400 RON; site + app; branduri excluse cf. answear.ro/s/exclusions. Rată succes comunitate 100% (verificat manual 14–15.09.2026). Alternativ: newsletter Answear -15% prima comandă, min. 250 lei, doar preț întreg (cod unic pe email). Cod: CUPONERIA25.",
-          "store": "Answear",
-          "link": "https://answear.ro/",
-          "category": "Fashion",
-          "expires": "2026-12-31"
-        },
-        {
-          "title": "Answear Club / newsletter: -15% prima achiziție (min. 250 lei)",
-          "text": "Ofertă permanentă pe site: abonare newsletter → -15% la prima achiziție pe produse cu preț întreg, o singură dată, comandă peste 250 lei; fără cumul cu alte promoții; unele produse excluse. Codul vine pe email (nu e un cupon public fix).",
-          "store": "Answear",
-          "link": "https://answear.ro/",
-          "category": "Fashion"
-        },
-        {
-          "title": "Glovo: transport gratuit la primele 3 comenzi (min. 19 lei)",
-          "text": "Cupon pentru clienți noi: livrare gratuită la primele 3 comenzi cu valoare minimă 19 lei. Cod popular MXTULQL (Cuponeria: ~80% succes, folosit intens). Valabilitate / eligibilitate pot varia pe oraș și cont — aplică în app înainte de plată. Cod: MXTULQL.",
-          "store": "Glovo",
-          "link": "https://glovoapp.com/",
-          "category": "Food delivery"
-        },
-        {
-          "title": "Booking.com Genius: -10% (până la -20%) la cazări selectate",
-          "text": "Program oficial de loialitate gratuit: cont + login → Level 1 imediat cu 10% la proprietăți Genius (și 10% la mașini selectate). Level 2/3: până la 15–20% după 5 / 15 rezervări în 2 ani, plus breakfast/upgrade pe selecte. Fără cod — reducerea e în preț. Combinabil uneori cu alte oferte proprietății.",
-          "store": "Booking.com",
-          "link": "https://www.booking.com/genius.html",
-          "category": "Travel"
-        },
-        {
-          "title": "Fashion Days Soft & Seven: -20% EXTRA (min. 150 lei) — expiră AZI",
-          "text": "Extra 20% la produsele Soft & Seven, comandă minim 150 lei. Codul e pe Cuponeria (mascat 20•••• — revelează înainte de checkout). validThrough 16.09.2026 23:59 RO (20:59 UTC). Rată succes 100% pe aggregator. Nu lăsa pe mâine.",
-          "store": "Fashion Days",
-          "link": "https://cuponeria.ro/magazin/fashiondays/",
-          "category": "Fashion",
-          "expires": "2026-09-16"
         }
-      ]
+      ],
+      "gyh": []
     },
     {
       "date": "2026-09-15",
@@ -396,7 +309,8 @@
           "sourceUrl": "https://bmjopen.bmj.com/"
         }
       ],
-      "cupoane": []
+      "cupoane": [],
+      "gyh": []
     }
   ]
 }
