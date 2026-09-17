@@ -16,7 +16,7 @@
   };
 
   const PAGE_TITLES = {
-    stiri: "BOTO TIMES — Știri",
+    stiri: "BOTO TIMES — X",
     cupoane: "BOTO TIMES — Cupoane / Reduceri",
     gyh: "BOTO TIMES — Grow Your Wealth"
   };
@@ -96,6 +96,16 @@
 
   function getXPosts(day) {
     return Array.isArray(day.xPosts) ? day.xPosts : [];
+  }
+
+  function formatXDate(iso) {
+    if (!iso) return "";
+    const s = String(iso).trim();
+    // Already a short display string (e.g. 16.09.2026 …)
+    if (!/^\d{4}-\d{2}-\d{2}/.test(s)) return s;
+    const m = s.match(/^(\d{4})-(\d{2})-(\d{2})/);
+    if (m) return shortDateLabel(`${m[1]}-${m[2]}-${m[3]}`);
+    return s;
   }
 
   function groupBySection(articles) {
@@ -220,13 +230,83 @@
       </section>`;
   }
 
+  function renderXPost(item) {
+    const handle = String(item.handle || item.author || "").replace(/^@/, "");
+    const statusUrl = item.statusUrl || item.url || "";
+    const dateLabel = formatXDate(item.date);
+    const isThread = item.thread === true;
+    const tweets = Array.isArray(item.tweets) ? item.tweets.slice() : [];
+    tweets.sort((a, b) => (Number(a.index) || 0) - (Number(b.index) || 0));
+    if (!tweets.length && (item.text || statusUrl)) {
+      tweets.push({ index: 1, text: item.text || "", url: statusUrl });
+    }
+    const n = tweets.length || 1;
+
+    const tweetsHtml = tweets
+      .map((t) => {
+        const idx = Number(t.index) || 0;
+        const text = t.text || "";
+        const tUrl = t.url || statusUrl;
+        const indexLabel = isThread
+          ? `<span class="x-tweet__index">${escapeHtml(String(idx))}/${escapeHtml(String(n))}</span>`
+          : "";
+        return `
+          <div class="x-tweet">
+            ${indexLabel}
+            ${text ? `<div class="x-tweet__body">${escapeHtml(text)}</div>` : ""}
+            ${
+              isThread && tUrl
+                ? `<p class="x-tweet__link"><a href="${escapeHtml(tUrl)}" rel="noopener noreferrer" target="_blank">Deschide pe X →</a></p>`
+                : ""
+            }
+          </div>`;
+      })
+      .join("");
+
+    const metaBits = [];
+    if (dateLabel) metaBits.push(`<span class="x-post__date">${escapeHtml(dateLabel)}</span>`);
+    if (isThread) metaBits.push(`<span class="x-post__thread-label">Thread</span>`);
+    if (statusUrl) {
+      metaBits.push(
+        `<a class="x-post__status" href="${escapeHtml(statusUrl)}" rel="noopener noreferrer" target="_blank">Vezi pe X →</a>`
+      );
+    }
+
+    return `
+      <article class="x-post${isThread ? " x-post--thread" : ""}">
+        <header class="x-post__header">
+          <p class="x-post__handle">@${escapeHtml(handle)}</p>
+          ${
+            metaBits.length
+              ? `<p class="x-post__meta">${metaBits.join(
+                  '<span class="x-post__sep" aria-hidden="true"> · </span>'
+                )}</p>`
+              : ""
+          }
+        </header>
+        <div class="x-post__tweets">${tweetsHtml}</div>
+      </article>`;
+  }
+
+  function renderXBlock(items) {
+    if (!items || !items.length) return "";
+    const id = "sec-stiri-x";
+    return `
+      <section class="section section--stiri-sub x-block" aria-labelledby="${id}">
+        <h3 class="section__title section__title--sub" id="${id}">X · Twitter</h3>
+        <div class="x-list">
+          ${items.map(renderXPost).join("")}
+        </div>
+      </section>`;
+  }
+
   function renderStiriBlock(articles, xPosts) {
     const { groups, other } = groupBySection(articles);
-    const xHtml = renderXBlock(xPosts || []);
     const subs = STIRI_ORDER.map((k) => renderStiriSubsection(k, groups[k])).join("");
     const otherHtml = other.length ? renderStiriSubsection("Altele", other) : "";
+    const xHtml = renderXBlock(xPosts || []);
     const empty =
-      !STIRI_ORDER.some((k) => groups[k].length) && !other.length
+      !STIRI_ORDER.some((k) => groups[k].length) && !other.length && !(xPosts && xPosts.length)
         ? `<p class="state-msg">Niciun articol în această ediție.</p>`
         : "";
     const id = "sec-stiri";
@@ -234,63 +314,17 @@
     return `
       <section class="site-section site-section--stiri" aria-labelledby="${id}">
         <header class="site-section__header">
-          <h2 class="site-section__title" id="${id}">Știri</h2>
-          <p class="site-section__deck">Știință · IA · Medicină · Sănătate · X</p>
+          <h2 class="site-section__title" id="${id}">X</h2>
+          <p class="site-section__deck">Postări · Thread-uri</p>
         </header>
-        ${xHtml || ""}
         ${subs}
         ${otherHtml}
+        ${xHtml}
         ${empty}
       </section>`;
   }
 
-
-  function renderXPost(post) {
-    const handle = post.handle || post.author || "";
-    const date = post.date || "";
-    const url = post.statusUrl || post.url || "";
-    const isThread = post.thread === true;
-    const tweets = Array.isArray(post.tweets) && post.tweets.length
-      ? post.tweets
-      : [{ index: 1, text: post.text || "", url: url }];
-    const badge = isThread
-      ? `<span class="x-post__badge">Thread · ${tweets.length}</span>`
-      : `<span class="x-post__badge">Post</span>`;
-    const body = tweets
-      .map((t, i) => {
-        const n = t.index || i + 1;
-        const label = isThread ? `<p class="x-post__part">${n}/${tweets.length}</p>` : "";
-        const tUrl = t.url || url;
-        return `<div class="x-post__tweet">
-          ${label}
-          <p class="x-post__text">${escapeHtml(t.text || "")}</p>
-          ${tUrl ? `<p class="x-post__link"><a href="${escapeHtml(tUrl)}" rel="noopener noreferrer" target="_blank">Deschide pe X →</a></p>` : ""}
-        </div>`;
-      })
-      .join("");
-    return `<article class="x-post${isThread ? " x-post--thread" : ""}">
-      <header class="x-post__head">
-        <p class="x-post__handle">@${escapeHtml(String(handle).replace(/^@/, ""))}</p>
-        ${date ? `<p class="x-post__date">${escapeHtml(date)}</p>` : ""}
-        ${badge}
-      </header>
-      ${body}
-    </article>`;
-  }
-
-  function renderXBlock(posts) {
-    if (!posts.length) return "";
-    return `
-      <section class="section section--x" aria-labelledby="sec-x">
-        <h3 class="section__title section__title--sub" id="sec-x">X · Postări</h3>
-        <div class="x-list">
-          ${posts.map(renderXPost).join("")}
-        </div>
-      </section>`;
-  }
-
-
-  function formatStructuredText(raw) {
+function formatStructuredText(raw) {
     const text = String(raw || "").trim();
     if (!text) return "";
     const lines = text.split(/\r?\n/);
@@ -356,7 +390,7 @@
   }
 
 
-  function renderGyhItem(item) {
+    function renderGyhItem(item) {
     const headline = item.headline || item.title || "Notă GYH";
     const summary = item.summary || item.body || "";
     const recommendations = item.recommendations || "";
@@ -494,7 +528,7 @@
     $("#masthead-title").textContent = title;
     $("#masthead-eyebrow").textContent = "Broadsheet digital · Europe / Bucharest";
     $("#masthead-subtitle").textContent =
-      meta.subtitle || "Știri · Cupoane / Reduceri · Grow Your Wealth";
+      meta.subtitle || "X · Cupoane / Reduceri · Grow Your Wealth";
 
     const footerName = $("#footer-name") || $(".footer__name");
     if (footerName) footerName.textContent = title;
