@@ -668,10 +668,6 @@ function formatStructuredText(raw) {
       windowEl.textContent = `Ultimele ${meta.windowDays || 3} zile`;
     }
 
-    if (meta.brand) {
-      const brand = $(".footer__brand");
-      if (brand) brand.textContent = meta.brand;
-    }
   }
 
   async function init() {

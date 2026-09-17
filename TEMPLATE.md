@@ -27,6 +27,12 @@ Standing masthead and section rules. Do not reintroduce removed chrome.
 - **One** section header only: title `X`, deck `Postări · Thread-uri`.
 - Posts render in `.x-list` directly — **no** nested `X · Twitter` / `.section__title--sub` under that header.
 
+## Footer
+
+- Keep only **BOTO TIMES** (`.footer__name`).
+- **No** `.footer__note` (days.json / tipar line).
+- **No** `.footer__brand` (`mihaibv08`).
+
 ## Pages
 
 1. `index.html` — X / Postări  
