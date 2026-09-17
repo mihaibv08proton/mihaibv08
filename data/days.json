@@ -153,12 +153,12 @@
               "text": "Copper Chopper: 3 bar BO mode....but, can continue to chop after such damage done.",
               "url": "https://x.com/LindaRaschke/status/2100383073774760150",
               "images": [
-                "https://pbs.twimg.com/media/HSYPHfnXMAABZkf.png?name=orig"
+                "img/x/HSYPHfnXMAABZkf.png"
               ]
             }
           ],
           "images": [
-            "https://pbs.twimg.com/media/HSYPHfnXMAABZkf.png?name=orig"
+            "img/x/HSYPHfnXMAABZkf.png"
           ]
         },
         {
@@ -172,12 +172,12 @@
               "text": "AD: Buy Day after range expansion, 2-per ROC poised to flip up",
               "url": "https://x.com/LindaRaschke/status/2100382724317987118",
               "images": [
-                "https://pbs.twimg.com/media/HSYO1zZX0AAxmvi.png?name=orig"
+                "img/x/HSYO1zZX0AAxmvi.png"
               ]
             }
           ],
           "images": [
-            "https://pbs.twimg.com/media/HSYO1zZX0AAxmvi.png?name=orig"
+            "img/x/HSYO1zZX0AAxmvi.png"
           ]
         },
         {
@@ -191,12 +191,12 @@
               "text": "Crude: 3 bar BO mode",
               "url": "https://x.com/LindaRaschke/status/2100382369400127494",
               "images": [
-                "https://pbs.twimg.com/media/HSYOkdtXAAA1XcQ.png?name=orig"
+                "img/x/HSYOkdtXAAA1XcQ.png"
               ]
             }
           ],
           "images": [
-            "https://pbs.twimg.com/media/HSYOkdtXAAA1XcQ.png?name=orig"
+            "img/x/HSYOkdtXAAA1XcQ.png"
           ]
         },
         {
@@ -210,12 +210,12 @@
               "text": "30 year Bonds: 2-per ROC Buy Div",
               "url": "https://x.com/LindaRaschke/status/2100381671623151695",
               "images": [
-                "https://pbs.twimg.com/media/HSYN2aiWcAMOqJg.png?name=orig"
+                "img/x/HSYN2aiWcAMOqJg.png"
               ]
             }
           ],
           "images": [
-            "https://pbs.twimg.com/media/HSYN2aiWcAMOqJg.png?name=orig"
+            "img/x/HSYN2aiWcAMOqJg.png"
           ]
         },
         {
@@ -229,12 +229,83 @@
               "text": "I like to see A B C up after three pushes down. Perfect! (Rus CAN go higher, its at PDL)",
               "url": "https://x.com/LindaRaschke/status/2100312804716593456",
               "images": [
-                "https://pbs.twimg.com/media/HSXPKNuWEAAqJVQ.png?name=orig"
+                "img/x/HSXPKNuWEAAqJVQ.png"
               ]
             }
           ],
           "images": [
-            "https://pbs.twimg.com/media/HSXPKNuWEAAqJVQ.png?name=orig"
+            "img/x/HSXPKNuWEAAqJVQ.png"
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2100270861555228770",
+          "date": "2026-09-16T17:09:29Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude Design, Claude Slides and Claude Docs also work inside Claude Code now.\n\nAsk for a design review deck or a UI mockup and point it at the actual files and RFCs in the repo. Edit it yourself or keep going in the conversation, and share the link when it's ready.",
+              "url": "https://x.com/ClaudeDevs/status/2100270861555228770"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2099990995740082287",
+          "date": "2026-09-15T22:37:23Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "We work with a lot of early-stage teams through Claude for Startups. At Frontier Day we asked a few of the founders what building a company on Claude looks like right now:",
+              "url": "https://x.com/ClaudeDevs/status/2099990995740082287"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2098519883214643227",
+          "date": "2026-09-11T21:11:43Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Join a Fable 5.1 Build Day near you! We'd love to see what you're building.",
+              "url": "https://x.com/ClaudeDevs/status/2098519883214643227"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2098508880921899197",
+          "date": "2026-09-11T20:28:00Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Here's how our team uses Claude Tag for on-call:\n\nWhen an alert fires in Slack, Claude pulls metrics, diffs deploys, and checks flags. It finds a likely cause and proposes a fix, which we can approve and merge. Every minute counts, so we love that it starts right away!",
+              "url": "https://x.com/ClaudeDevs/status/2098508880921899197"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2098500999656923145",
+          "date": "2026-09-11T19:56:41Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "New in Claude Code: claude plugin eval\n\nSee what value your plugin is adding, or if it needs more work.\n\nYou can create test cases, run your plugin or skill against those test cases, score those runs, then run each case again without the plugin to see the differences.",
+              "url": "https://x.com/ClaudeDevs/status/2098500999656923145",
+              "images": [
+                "img/x/HR9cG20bcAAbBP6.jpg"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HR9cG20bcAAbBP6.jpg"
           ]
         }
       ]

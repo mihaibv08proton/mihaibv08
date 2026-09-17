@@ -251,7 +251,8 @@
         (src) => `
       <figure class="x-post__figure">
         <img class="x-post__img" src="${escapeHtml(src)}" alt="" loading="lazy" decoding="async"
-          onerror="this.parentElement.style.display='none'" />
+          referrerpolicy="no-referrer"
+          onerror="this.parentElement.innerHTML='<div class=\\'article__placeholder\\'>Imagine indisponibilă</div>'" />
       </figure>`
       )
       .join("")}</div>`;
