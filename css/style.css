@@ -831,9 +831,6 @@ code {
   color: var(--ink-soft);
   margin: 0 0 0.85rem;
   line-height: 1.5;
-  text-align: justify;
-  hyphens: auto;
-  white-space: pre-wrap;
 }
 
 .gyh-item__recs {
@@ -945,4 +942,61 @@ code {
   margin-top: 0.85rem;
   padding-top: 0.75rem;
   border-top: 1px dashed var(--rule-light);
+}
+
+
+/* —— GYH structured summary —— */
+.gyh-item__summary {
+  text-align: left;
+  hyphens: none;
+}
+.gyh-struct {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.gyh-struct__heading {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0.55rem 0 0.15rem;
+  color: var(--ink);
+  border-bottom: 1px solid var(--rule-light);
+  padding-bottom: 0.2rem;
+}
+.gyh-struct__heading:first-child {
+  margin-top: 0;
+}
+.gyh-struct__list {
+  margin: 0;
+  padding-left: 1.15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.28rem;
+}
+.gyh-struct__list li {
+  font-size: 0.96rem;
+  line-height: 1.45;
+  color: var(--ink-soft);
+}
+.gyh-struct__p {
+  margin: 0;
+  font-size: 0.96rem;
+  line-height: 1.45;
+  color: var(--ink-soft);
+}
+.gyh-item__recs-list {
+  margin: 0;
+  padding-left: 1.15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.gyh-item__recs-list li {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--ink-mid);
 }

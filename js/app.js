@@ -289,26 +289,92 @@
       </section>`;
   }
 
+
+  function formatStructuredText(raw) {
+    const text = String(raw || "").trim();
+    if (!text) return "";
+    const lines = text.split(/\r?\n/);
+    const blocks = [];
+    let listItems = [];
+
+    function flushList() {
+      if (!listItems.length) return;
+      blocks.push(
+        `<ul class="gyh-struct__list">${listItems
+          .map((li) => `<li>${li}</li>`)
+          .join("")}</ul>`
+      );
+      listItems = [];
+    }
+
+    function inlineFormat(s) {
+      // bold **...**
+      return escapeHtml(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+    }
+
+    lines.forEach((line) => {
+      const trimmed = line.trim();
+      if (!trimmed) {
+        flushList();
+        return;
+      }
+      const heading = trimmed.match(/^\*\*(.+?)\*\*$/);
+      if (heading) {
+        flushList();
+        blocks.push(
+          `<h4 class="gyh-struct__heading">${escapeHtml(heading[1])}</h4>`
+        );
+        return;
+      }
+      const bullet = trimmed.match(/^[•\-\*]\s+(.+)$/);
+      if (bullet) {
+        listItems.push(inlineFormat(bullet[1]));
+        return;
+      }
+      flushList();
+      blocks.push(`<p class="gyh-struct__p">${inlineFormat(trimmed)}</p>`);
+    });
+    flushList();
+    return `<div class="gyh-struct">${blocks.join("")}</div>`;
+  }
+
+  function formatRecommendations(raw) {
+    if (Array.isArray(raw)) {
+      raw = raw.map((x) => `• ${x}`).join("\n");
+    }
+    const text = String(raw || "").trim();
+    if (!text) return "";
+    const items = text
+      .split(/\r?\n/)
+      .map((l) => l.trim())
+      .filter(Boolean)
+      .map((l) => l.replace(/^[•\-\*]\s+/, ""));
+    if (!items.length) return "";
+    return `<ul class="gyh-item__recs-list">${items
+      .map((li) => `<li>${escapeHtml(li)}</li>`)
+      .join("")}</ul>`;
+  }
+
+
   function renderGyhItem(item) {
     const headline = item.headline || item.title || "Notă GYH";
     const summary = item.summary || item.body || "";
-    let recommendations = item.recommendations || "";
-    if (Array.isArray(recommendations)) {
-      recommendations = recommendations.map((x) => `• ${x}`).join("\n");
-    }
+    const recommendations = item.recommendations || "";
     const date = item.date || "";
     const sourceBlock = renderSource(item);
+    const summaryHtml = formatStructuredText(summary);
+    const recsHtml = formatRecommendations(recommendations);
 
     return `
       <article class="gyh-item">
         <h3 class="gyh-item__headline">${escapeHtml(headline)}</h3>
         ${date ? `<p class="gyh-item__date">${escapeHtml(date)}</p>` : ""}
-        ${summary ? `<div class="gyh-item__summary">${escapeHtml(summary)}</div>` : ""}
+        ${summaryHtml ? `<div class="gyh-item__summary">${summaryHtml}</div>` : ""}
         ${
-          recommendations
+          recsHtml
             ? `<aside class="gyh-item__recs" aria-label="Recomandări autor">
                 <h4 class="gyh-item__recs-title">Recomandări autor</h4>
-                <p class="gyh-item__recs-body">${escapeHtml(recommendations)}</p>
+                ${recsHtml}
               </aside>`
             : ""
         }
