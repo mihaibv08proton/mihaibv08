@@ -5,7 +5,7 @@
     "subtitle": "X · Cupoane / Reduceri · Grow Your Wealth",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T10:30:00+03:00",
+    "updatedAt": "2026-09-17T10:35:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -140,6 +140,101 @@
               "index": 2,
               "text": "Available in beta on Pro and Max plans, in the desktop app on macOS. If you're new to computer use, turn it on in Settings → General → Computer use. How it works, and how to use it safely:"
             }
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100383073774760150",
+          "date": "2026-09-17T00:35:22Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Copper Chopper: 3 bar BO mode....but, can continue to chop after such damage done.",
+              "url": "https://x.com/LindaRaschke/status/2100383073774760150",
+              "images": [
+                "https://pbs.twimg.com/media/HSYPHfnXMAABZkf.png?name=orig"
+              ]
+            }
+          ],
+          "images": [
+            "https://pbs.twimg.com/media/HSYPHfnXMAABZkf.png?name=orig"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100382724317987118",
+          "date": "2026-09-17T00:33:59Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "AD: Buy Day after range expansion, 2-per ROC poised to flip up",
+              "url": "https://x.com/LindaRaschke/status/2100382724317987118",
+              "images": [
+                "https://pbs.twimg.com/media/HSYO1zZX0AAxmvi.png?name=orig"
+              ]
+            }
+          ],
+          "images": [
+            "https://pbs.twimg.com/media/HSYO1zZX0AAxmvi.png?name=orig"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100382369400127494",
+          "date": "2026-09-17T00:32:34Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Crude: 3 bar BO mode",
+              "url": "https://x.com/LindaRaschke/status/2100382369400127494",
+              "images": [
+                "https://pbs.twimg.com/media/HSYOkdtXAAA1XcQ.png?name=orig"
+              ]
+            }
+          ],
+          "images": [
+            "https://pbs.twimg.com/media/HSYOkdtXAAA1XcQ.png?name=orig"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100381671623151695",
+          "date": "2026-09-17T00:29:48Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "30 year Bonds: 2-per ROC Buy Div",
+              "url": "https://x.com/LindaRaschke/status/2100381671623151695",
+              "images": [
+                "https://pbs.twimg.com/media/HSYN2aiWcAMOqJg.png?name=orig"
+              ]
+            }
+          ],
+          "images": [
+            "https://pbs.twimg.com/media/HSYN2aiWcAMOqJg.png?name=orig"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100312804716593456",
+          "date": "2026-09-16T19:56:09Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "I like to see A B C up after three pushes down. Perfect! (Rus CAN go higher, its at PDL)",
+              "url": "https://x.com/LindaRaschke/status/2100312804716593456",
+              "images": [
+                "https://pbs.twimg.com/media/HSXPKNuWEAAqJVQ.png?name=orig"
+              ]
+            }
+          ],
+          "images": [
+            "https://pbs.twimg.com/media/HSXPKNuWEAAqJVQ.png?name=orig"
           ]
         }
       ]
