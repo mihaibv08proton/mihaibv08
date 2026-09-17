@@ -1000,3 +1000,25 @@ code {
   line-height: 1.45;
   color: var(--ink-mid);
 }
+
+
+.x-post__media {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.45rem;
+  margin: 0.35rem 0 0.55rem;
+}
+.x-post__figure {
+  margin: 0;
+  border: 1px solid var(--ink);
+  background: #fff;
+  overflow: hidden;
+}
+.x-post__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 320px;
+  object-fit: cover;
+  filter: grayscale(1) contrast(1.05);
+}
