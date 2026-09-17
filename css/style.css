@@ -1004,7 +1004,7 @@ code {
 
 .x-post__media {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-template-columns: 1fr;
   gap: 0.45rem;
   margin: 0.35rem 0 0.55rem;
 }
@@ -1012,14 +1012,14 @@ code {
   margin: 0;
   border: 1px solid var(--ink);
   background: #fff;
-  overflow: hidden;
+  overflow: visible;
 }
 .x-post__img {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 320px;
-  object-fit: cover;
+  max-height: min(80vh, 900px);
+  object-fit: contain;
   filter: grayscale(1) contrast(1.05);
 }
 

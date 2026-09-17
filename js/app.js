@@ -312,6 +312,19 @@
   }
 
 
+  function normalizeXImageKey(u) {
+    const s = String(u || "").trim();
+    if (!s) return "";
+    try {
+      // Compare by pathname when absolute; otherwise by cleaned path string
+      if (/^https?:\/\//i.test(s)) {
+        const url = new URL(s);
+        return url.pathname.replace(/\/+$/, "") || s;
+      }
+    } catch (_) {}
+    return s.replace(/\/+$/, "");
+  }
+
   function renderXPost(item) {
     const handle = String(item.handle || item.author || "").replace(/^@/, "");
     const statusUrl = item.statusUrl || item.url || "";
@@ -324,6 +337,7 @@
     }
     const n = tweets.length || 1;
     const topImages = collectXImages(item, null);
+    const shownKeys = new Set();
 
     const tweetsHtml = tweets
       .map((t) => {
@@ -334,6 +348,10 @@
           ? `<span class="x-tweet__index">${escapeHtml(String(idx))}/${escapeHtml(String(n))}</span>`
           : "";
         const tweetImages = collectXImages({ images: [] }, t);
+        tweetImages.forEach((u) => {
+          const k = normalizeXImageKey(u);
+          if (k) shownKeys.add(k);
+        });
         return `
           <div class="x-tweet">
             ${indexLabel}
@@ -347,6 +365,12 @@
           </div>`;
       })
       .join("");
+
+    // Only render top-level images not already shown on any tweet
+    const leftoverTop = topImages.filter((u) => {
+      const k = normalizeXImageKey(u);
+      return k && !shownKeys.has(k);
+    });
 
     const metaBits = [];
     if (dateLabel) metaBits.push(`<span class="x-post__date">${escapeHtml(dateLabel)}</span>`);
@@ -370,7 +394,7 @@
           }
         </header>
         <div class="x-post__tweets">${tweetsHtml}</div>
-        ${renderXImages(topImages)}
+        ${renderXImages(leftoverTop)}
       </article>`;
   }
 
