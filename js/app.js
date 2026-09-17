@@ -94,6 +94,10 @@
     return Array.isArray(day.gyh) ? day.gyh : [];
   }
 
+  function getXPosts(day) {
+    return Array.isArray(day.xPosts) ? day.xPosts : [];
+  }
+
   function groupBySection(articles) {
     const groups = Object.fromEntries(STIRI_ORDER.map((k) => [k, []]));
     const other = [];
@@ -216,8 +220,9 @@
       </section>`;
   }
 
-  function renderStiriBlock(articles) {
+  function renderStiriBlock(articles, xPosts) {
     const { groups, other } = groupBySection(articles);
+    const xHtml = renderXBlock(xPosts || []);
     const subs = STIRI_ORDER.map((k) => renderStiriSubsection(k, groups[k])).join("");
     const otherHtml = other.length ? renderStiriSubsection("Altele", other) : "";
     const empty =
@@ -230,11 +235,57 @@
       <section class="site-section site-section--stiri" aria-labelledby="${id}">
         <header class="site-section__header">
           <h2 class="site-section__title" id="${id}">Știri</h2>
-          <p class="site-section__deck">Știință · IA · Medicină · Sănătate</p>
+          <p class="site-section__deck">Știință · IA · Medicină · Sănătate · X</p>
         </header>
+        ${xHtml || ""}
         ${subs}
         ${otherHtml}
         ${empty}
+      </section>`;
+  }
+
+
+  function renderXPost(post) {
+    const handle = post.handle || post.author || "";
+    const date = post.date || "";
+    const url = post.statusUrl || post.url || "";
+    const isThread = post.thread === true;
+    const tweets = Array.isArray(post.tweets) && post.tweets.length
+      ? post.tweets
+      : [{ index: 1, text: post.text || "", url: url }];
+    const badge = isThread
+      ? `<span class="x-post__badge">Thread · ${tweets.length}</span>`
+      : `<span class="x-post__badge">Post</span>`;
+    const body = tweets
+      .map((t, i) => {
+        const n = t.index || i + 1;
+        const label = isThread ? `<p class="x-post__part">${n}/${tweets.length}</p>` : "";
+        const tUrl = t.url || url;
+        return `<div class="x-post__tweet">
+          ${label}
+          <p class="x-post__text">${escapeHtml(t.text || "")}</p>
+          ${tUrl ? `<p class="x-post__link"><a href="${escapeHtml(tUrl)}" rel="noopener noreferrer" target="_blank">Deschide pe X →</a></p>` : ""}
+        </div>`;
+      })
+      .join("");
+    return `<article class="x-post${isThread ? " x-post--thread" : ""}">
+      <header class="x-post__head">
+        <p class="x-post__handle">@${escapeHtml(String(handle).replace(/^@/, ""))}</p>
+        ${date ? `<p class="x-post__date">${escapeHtml(date)}</p>` : ""}
+        ${badge}
+      </header>
+      ${body}
+    </article>`;
+  }
+
+  function renderXBlock(posts) {
+    if (!posts.length) return "";
+    return `
+      <section class="section section--x" aria-labelledby="sec-x">
+        <h3 class="section__title section__title--sub" id="sec-x">X · Postări</h3>
+        <div class="x-list">
+          ${posts.map(renderXPost).join("")}
+        </div>
       </section>`;
   }
 
@@ -292,7 +343,7 @@
   function renderPageContent(day, page) {
     if (page === "cupoane") return renderCupoaneBlock(getCupoane(day));
     if (page === "gyh") return renderGyhBlock(getGyh(day));
-    return renderStiriBlock(getStiri(day));
+    return renderStiriBlock(getStiri(day), getXPosts(day));
   }
 
   function renderEdition(day, index, page) {

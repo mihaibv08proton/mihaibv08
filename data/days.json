@@ -5,7 +5,7 @@
     "subtitle": "Știri · Cupoane / Reduceri · Grow Your Wealth",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T10:15:00+03:00",
+    "updatedAt": "2026-09-17T10:20:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "stiri",
@@ -142,6 +142,36 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788244",
           "source": "Grow Your Wealth"
         }
+      ],
+      "x": [
+        {
+          "handle": "RohOnChain",
+          "statusUrl": "https://x.com/RohOnChain/status/2100218484399685984",
+          "date": "2026-09-16T06:41:00Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "i turned GPT-6 Astra into a 24/7 trading agent\n\nhere is the EXACT way to build your FIRST AI trading bot with GPT-6 Astra with COMPLETE ARCHITECTURE\n\nGPT-6 Astra is most powerful trading agent ever built\n\nthe goal was simple - ship hedge fund grade trading strategies with a multi-agent team of quants \n\nevery layer solves one specific failure mode i hit in earlier versions:\n\n1. reasoning substrate - GPT-6 Astra with 1M context, hours of long-horizon reasoning, direct computer use, and mathematical capabilities \n\n2. harness layer - AgenKit installs 10 specialist agents inside Codex CLI. Conductor, Backend Architect, Test Engineer, Code Reviewer, Data Engineer, Debugger, Frontend, Infra DevOps, Perf Observability, Security. same model, TEN DISCIPLINES \n\n3. workflow gates - 6 phases with operator approval at every step. brainstorm, architecture, plan, build, review, ship. nothing writes code until you sign off on the spec\n\n4. mathematical foundation - 4 models running in production. Ornstein-Uhlenbeck stat arb, Avellaneda-Stoikov market making, Hawkes order flow, Heston volatility\n\n5. production architecture - 6 layers wrapping every strategy. data, signal, decision, risk, execution, monitoring. the 2 AM WebSocket disconnect can no longer silently kill the model\n\n6. risk enforcement - Kelly-sized positions, 5% drawdown kill switches, delta-neutral hedging, intent blotter output. these numbers came from watching an earlier chatbot script blow through 12% in one session\n\n7. validation gates - every strategy must pass Sharpe above 1.5, drawdown below 15%, hit rate above 55%, t-stat above 2.0, walk-forward across 5 years before any capital touches it\n\n8. output layer - Telegram Bot pings my phone with instrument, strategy, Sharpe, drawdown, action window and Kelly-sized position\n\nthe principle i built around from day one\n\n> capability without structure is a chatbot\n> the wall was never the math, it was always the six salary team\n\ni learned that one the hard way",
+              "url": "https://x.com/RohOnChain/status/2100218484399685984"
+            }
+          ]
+        }
+      ],
+      "xPosts": [
+        {
+          "handle": "RohOnChain",
+          "statusUrl": "https://x.com/RohOnChain/status/2100218484399685984",
+          "date": "16.09.2026 16:41 EEST",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "i turned GPT-6 Astra into a 24/7 trading agent\n\nhere is the EXACT way to build your FIRST AI trading bot with GPT-6 Astra with COMPLETE ARCHITECTURE\n\nGPT-6 Astra is most powerful trading agent ever built\n\nthe goal was simple - ship hedge fund grade trading strategies with a multi-agent team of quants \n\nevery layer solves one specific failure mode i hit in earlier versions:\n\n1. reasoning substrate - GPT-6 Astra with 1M context, hours of long-horizon reasoning, direct computer use, and mathematical capabilities \n\n2. harness layer - AgenKit installs 10 specialist agents inside Codex CLI. Conductor, Backend Architect, Test Engineer, Code Reviewer, Data Engineer, Debugger, Frontend, Infra DevOps, Perf Observability, Security. same model, TEN DISCIPLINES \n\n3. workflow gates - 6 phases with operator approval at every step. brainstorm, architecture, plan, build, review, ship. nothing writes code until you sign off on the spec\n\n4. mathematical foundation - 4 models running in production. Ornstein-Uhlenbeck stat arb, Avellaneda-Stoikov market making, Hawkes order flow, Heston volatility\n\n5. production architecture - 6 layers wrapping every strategy. data, signal, decision, risk, execution, monitoring. the 2 AM WebSocket disconnect can no longer silently kill the model\n\n6. risk enforcement - Kelly-sized positions, 5% drawdown kill switches, delta-neutral hedging, intent blotter output. these numbers came from watching an earlier chatbot script blow through 12% in one session\n\n7. validation gates - every strategy must pass Sharpe above 1.5, drawdown below 15%, hit rate above 55%, t-stat above 2.0, walk-forward across 5 years before any capital touches it\n\n8. output layer - Telegram Bot pings my phone with instrument, strategy, Sharpe, drawdown, action window and Kelly-sized position\n\nthe principle i built around from day one\n\n> capability without structure is a chatbot\n> the wall was never the math, it was always the six salary team\n\ni learned that one the hard way",
+              "url": "https://x.com/RohOnChain/status/2100218484399685984"
+            }
+          ]
+        }
       ]
     },
     {
@@ -263,7 +293,9 @@
           "category": "Încălțăminte"
         }
       ],
-      "gyh": []
+      "gyh": [],
+      "x": [],
+      "xPosts": []
     },
     {
       "date": "2026-09-15",
@@ -310,7 +342,9 @@
         }
       ],
       "cupoane": [],
-      "gyh": []
+      "gyh": [],
+      "x": [],
+      "xPosts": []
     }
   ]
 }

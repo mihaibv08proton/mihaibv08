@@ -868,3 +868,81 @@ code {
     break-inside: avoid;
   }
 }
+
+
+/* —— X posts (test / Știri subsection) —— */
+.section--x {
+  margin-top: 1.25rem;
+  padding-top: 0.5rem;
+}
+.x-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+.x-post {
+  border: 1px solid var(--ink);
+  padding: 0.85rem 0.95rem 1rem;
+  background: #f7f7f7;
+}
+.x-post--thread {
+  box-shadow: inset 3px 0 0 var(--ink);
+}
+.x-post__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.45rem 0.85rem;
+  margin-bottom: 0.65rem;
+  border-bottom: 1px solid var(--rule-light);
+  padding-bottom: 0.45rem;
+}
+.x-post__handle {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin: 0;
+}
+.x-post__date {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin: 0;
+}
+.x-post__badge {
+  font-family: var(--font-ui);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  border: 1px solid var(--ink);
+  padding: 0.12rem 0.4rem;
+  margin-left: auto;
+}
+.x-post__part {
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin: 0 0 0.35rem;
+}
+.x-post__text {
+  font-size: 0.98rem;
+  line-height: 1.45;
+  white-space: pre-wrap;
+  margin: 0 0 0.5rem;
+  color: var(--ink-soft);
+}
+.x-post__link {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  margin: 0;
+}
+.x-post__tweet + .x-post__tweet {
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--rule-light);
+}
