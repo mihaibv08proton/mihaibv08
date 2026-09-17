@@ -21,6 +21,12 @@
     gyh: "BOTO TIMES — Grow Your Wealth"
   };
 
+  const PAGE_SUBTITLES = {
+    stiri: "POSTĂRI X",
+    cupoane: "CUPOANE / REDUCERI",
+    gyh: "GROW YOUR WEALTH"
+  };
+
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 
@@ -400,14 +406,12 @@
 
   function renderXBlock(items) {
     if (!items || !items.length) return "";
-    const id = "sec-stiri-x";
     return `
-      <section class="section section--stiri-sub x-block" aria-labelledby="${id}">
-        <h3 class="section__title section__title--sub" id="${id}">X · Twitter</h3>
+      <div class="x-block">
         <div class="x-list">
           ${items.map(renderXPost).join("")}
         </div>
-      </section>`;
+      </div>`;
   }
 
   function renderStiriBlock(articles, xPosts) {
@@ -635,19 +639,34 @@ function formatStructuredText(raw) {
   function fillMasthead(meta, days, page) {
     const title = "BOTO TIMES";
     document.title = PAGE_TITLES[page] || title;
-    $("#masthead-title").textContent = title;
-    $("#masthead-eyebrow").textContent = "Broadsheet digital · Europe / Bucharest";
-    $("#masthead-subtitle").textContent =
-      meta.subtitle || "X · Cupoane / Reduceri · Grow Your Wealth";
+    const titleEl = $("#masthead-title");
+    if (titleEl) titleEl.textContent = title;
+
+    // Locked template: no Vol. I, no Broadsheet eyebrow
+    const eyebrow = $("#masthead-eyebrow");
+    if (eyebrow) eyebrow.remove();
+    const vol = $("#masthead-vol");
+    if (vol) vol.remove();
+
+    const subEl = $("#masthead-subtitle");
+    if (subEl) {
+      subEl.textContent = PAGE_SUBTITLES[page] || PAGE_SUBTITLES.stiri;
+    }
 
     const footerName = $("#footer-name") || $(".footer__name");
     if (footerName) footerName.textContent = title;
 
     const today = days[0];
-    $("#masthead-date").innerHTML = today
-      ? `<strong>${escapeHtml(today.label)}</strong>`
-      : "—";
-    $("#masthead-window").textContent = `Ultimele ${meta.windowDays || 3} zile`;
+    const dateEl = $("#masthead-date");
+    if (dateEl) {
+      dateEl.innerHTML = today
+        ? `<strong>${escapeHtml(today.label)}</strong>`
+        : "—";
+    }
+    const windowEl = $("#masthead-window");
+    if (windowEl) {
+      windowEl.textContent = `Ultimele ${meta.windowDays || 3} zile`;
+    }
 
     if (meta.brand) {
       const brand = $(".footer__brand");
