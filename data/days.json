@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T10:35:00+03:00",
+    "updatedAt": "2026-09-18T00:30:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,222 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-09-18",
+      "label": "18 septembrie 2026",
+      "edition": "18.09.2026",
+      "stiri": [],
+      "cupoane": [
+        {
+          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
+          "text": "Markdown-uri pe vivobarefoot.com/eu/sale: stiluri adult selectate (ex. Gobi II Sneaker Leather 160→120 €, Motus Strength II 170→128 €, Primus Trail Flow ~25% off, Hydra ESC 180→126 €, Tracker Ora Sandal, Sensus Yin Slide, Primus Flow Knit, Motus Studio Sock Boot etc.). Fără cod promo. Nu există promoție de tip EXTRA10/FEEL50 activă pe /eu/offers (pagina spune: no active promotions).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Kids Clearance EU – încălțăminte copii la reducere",
+          "text": "Clearance kids pe vivobarefoot.com/eu/kids/sale: Primus Sport IV (Kids/Preschool/Toddlers), Primus Ludo School, Thermal Insole Juniors. Reduceri tipice ~25–30% (ex. Primus Sport IV Kids 82→62 €, Toddlers 70→49 €). Fără cod.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "sale_kids"
+        },
+        {
+          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
+          "text": "Program oficial EU: trimiți adidași vechi (Vivo sau alt brand), shipping label gratuit (UK/EU/USA). După expediere primești pe email un cod 20% off pe articole full-price pe Vivobarefoot.com. Cod valabil 3 luni. Membrilor VivoRewards: +100 puncte per retur. O trimitere = un cod; pentru mai multe perechi, proces separat per pereche. Ideal pentru clienți existenți.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
+          "category": "take_back",
+          "expires": "3 luni de la emiterea codului personal"
+        },
+        {
+          "title": "VivoRewards – 15% la fiecare Milestone (500 puncte)",
+          "text": "Program loialitate oficial EU. La 500 puncte se generează automat un cod recompensă 15% (FAQ oficial; marketingul menționează uneori 20% la Milestone – folosește 15% din FAQ). Puncte din: cumpărături, Take Back (+100), review, newsletter, cursuri VivoHealth, scanare picioare etc. Codurile nu se combină între ele; sunt currency-locked (EUR→țări EUR). Punctele: valabile 12 luni, reset la activitate. Potrivit clienților care revin.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
+          "category": "loyalty",
+          "expires": "puncte: 12 luni (reset la activitate); codul 15% are expirare la emitere"
+        },
+        {
+          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
+          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
+          "category": "key_worker_conditional"
+        },
+        {
+          "title": "Student – 20% (condițional, verificare Gocertify)",
+          "text": "Reducere student ~20% după verificare pe Gocertify (pagina oficială partner). Pe unele canale Student Beans apare 15% și exclusii pe țări (ex. AT/DE/CH/CZ). De obicei: full-price only, un uz per client, nu se combină. Eligibilitate necunoscută – publică doar condițional.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
+          "category": "student_conditional"
+        }
+      ],
+      "gyh": [],
+      "xPosts": [
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2100632677904744716",
+          "date": "2026-09-17T17:07:12Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Projects now run from one conversation, starting in Claude Code. You describe what needs doing, and Claude directs parallel threads that keep working after you close your laptop.\n\nIn beta today for select Pro and Max users in cloud sessions; coming to all Claude users soon.",
+              "url": "https://x.com/claudeai/status/2100632677904744716"
+            },
+            {
+              "index": 2,
+              "text": "You can talk to Claude the way you'd brief a chief of staff: several things at once, in any order. It routes requests to new or existing threads and checks in when it needs you.\n\nThe Overview panel shows what's waiting on you, and you can steer any thread, even from your phone.",
+              "url": "https://x.com/claudeai/status/2100632681180520861",
+              "images": [
+                "img/x/HSbwU2jWoAIJrHd.jpg"
+              ]
+            },
+            {
+              "index": 3,
+              "text": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.\n\nThe project's library keeps the files you add and the ones Claude creates.",
+              "url": "https://x.com/claudeai/status/2100632684074549309",
+              "images": [
+                "img/x/HSbwaASWoAIyuP8.jpg"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.",
+              "url": "https://x.com/claudeai/status/2100632687316730327"
+            },
+            {
+              "index": 5,
+              "text": "Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude.\n\nRead more: https://claude.com/blog/projects-redesigned\n\nJoin the waitlist for earlier access: https://claude.com/form/projects",
+              "url": "https://x.com/claudeai/status/2100632688625348890"
+            }
+          ],
+          "images": [
+            "img/x/HSbwU2jWoAIJrHd.jpg",
+            "img/x/HSbwaASWoAIyuP8.jpg"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100661003730002163",
+          "date": "2026-09-17T18:59:46Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Rus shoddy trend down while NAZ holding best - kudos to semis.",
+              "url": "https://x.com/LindaRaschke/status/2100661003730002163",
+              "images": [
+                "img/x/HScL47KWkAAoMKQ.png",
+                "img/x/HScMCPUWgAEQLxd.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HScL47KWkAAoMKQ.png",
+            "img/x/HScMCPUWgAEQLxd.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100660074683171246",
+          "date": "2026-09-17T18:56:04Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Crude had the best trend UP off 8 AM reading after first 30 minutes...",
+              "url": "https://x.com/LindaRaschke/status/2100660074683171246",
+              "images": [
+                "img/x/HScLFX3XoAAeI-6.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HScLFX3XoAAeI-6.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100659892625252717",
+          "date": "2026-09-17T18:55:21Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "GC and bonds US session...not so interesting!",
+              "url": "https://x.com/LindaRaschke/status/2100659892625252717",
+              "images": [
+                "img/x/HScKtNhXMAAaR1U.png",
+                "img/x/HScK0YoXMAECtTz.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HScKtNhXMAAaR1U.png",
+            "img/x/HScK0YoXMAECtTz.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100659431058944420",
+          "date": "2026-09-17T18:53:31Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Do you ever go back and review how the US session traded relative to the overnight session? (I start all US sessions at 8 AM EST.)  SP and SI 15 min",
+              "url": "https://x.com/LindaRaschke/status/2100659431058944420",
+              "images": [
+                "img/x/HScKKkZXMAA5Bpk.png",
+                "img/x/HScKNBmXYAAYIL3.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HScKKkZXMAA5Bpk.png",
+            "img/x/HScKNBmXYAAYIL3.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2100651587886522677",
+          "date": "2026-09-17T18:22:21Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "7713.50 was OP...Will it or wont it...SPs have refused to trade there all day.  zzzzzzzzzzzzzzzzzzz",
+              "url": "https://x.com/LindaRaschke/status/2100651587886522677"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2100633571543367691",
+          "date": "2026-09-17T17:10:45Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Today we're rolling out Projects in Claude Code on desktop and web.\n\nA project is one conversation with Claude. It splits the work into threads itself, runs them as parallel cloud sessions, passes context between them, and keeps going when you leave.\n\nIn beta for select users.",
+              "url": "https://x.com/ClaudeDevs/status/2100633571543367691"
+            },
+            {
+              "index": 2,
+              "text": "Available today for Pro and Max users who already run cloud sessions and haven't used Claude Projects yet.\n\nIf you've used Projects before, we're rolling out to you slightly later so your existing ones move over cleanly. \n\nWant access now anyway? Join the waitlist:\n\nhttps://claude.com/form/projects",
+              "url": "https://x.com/ClaudeDevs/status/2100633572969484743"
+            },
+            {
+              "index": 3,
+              "text": "Threads run in the cloud, even when your computer is not online. Support for local workflows is coming very soon.\n\nMore in the docs: https://code.claude.com/docs/en/claude-projects",
+              "url": "https://x.com/ClaudeDevs/status/2100633574022230474"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "label": "Joi, 17 septembrie 2026",
@@ -337,15 +553,6 @@
           "category": "Încălțăminte"
         }
       ],
-      "gyh": [],
-      "xPosts": []
-    },
-    {
-      "date": "2026-09-15",
-      "label": "Marți, 15 septembrie 2026",
-      "edition": "Ediția de marți · Vol. I, Nr. 47",
-      "stiri": [],
-      "cupoane": [],
       "gyh": [],
       "xPosts": []
     }
