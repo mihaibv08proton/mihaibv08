@@ -230,6 +230,87 @@
       </section>`;
   }
 
+  function collectXImages(item, tweet) {
+    const urls = [];
+    const push = (u) => {
+      const s = String(u || "").trim();
+      if (s && !urls.includes(s)) urls.push(s);
+    };
+    (Array.isArray(item.images) ? item.images : []).forEach(push);
+    if (tweet) {
+      (Array.isArray(tweet.images) ? tweet.images : []).forEach(push);
+      if (tweet.image) push(tweet.image);
+    }
+    return urls;
+  }
+
+  function renderXImages(urls) {
+    if (!urls.length) return "";
+    return `<div class="x-post__media">${urls
+      .map(
+        (src) => `
+      <figure class="x-post__figure">
+        <img class="x-post__img" src="${escapeHtml(src)}" alt="" loading="lazy" decoding="async"
+          onerror="this.parentElement.style.display='none'" />
+      </figure>`
+      )
+      .join("")}</div>`;
+  }
+
+
+  function formatXText(raw) {
+    const text = String(raw || "").replace(/\r\n/g, "\n").trim();
+    if (!text) return "";
+    // If already has newlines, split on them; else try to break dense numbered lists
+    let lines = text.split("\n").map((l) => l.trimEnd());
+    if (lines.length === 1) {
+      const one = lines[0];
+      // Insert breaks before "1. 2. ..." patterns when jammed
+      const broken = one
+        .replace(/\s+(\d+)\.\s+/g, "\n$1. ")
+        .replace(/\s+(>\s+)/g, "\n$1");
+      lines = broken.split("\n").map((l) => l.trim()).filter(Boolean);
+    } else {
+      lines = lines.map((l) => l.trim()).filter((l) => l.length);
+    }
+    const blocks = [];
+    let listItems = [];
+    const flush = () => {
+      if (!listItems.length) return;
+      blocks.push(
+        `<ol class="x-tweet__list">${listItems
+          .map((li) => `<li>${escapeHtml(li)}</li>`)
+          .join("")}</ol>`
+      );
+      listItems = [];
+    };
+    lines.forEach((line) => {
+      const num = line.match(/^(\d+)\.\s+(.+)$/);
+      if (num) {
+        listItems.push(num[2]);
+        return;
+      }
+      const bullet = line.match(/^[•\-\*]\s+(.+)$/);
+      if (bullet) {
+        listItems.push(bullet[1]);
+        return;
+      }
+      flush();
+      if (line.startsWith(">")) {
+        blocks.push(
+          `<blockquote class="x-tweet__quote">${escapeHtml(
+            line.replace(/^>\s*/, "")
+          )}</blockquote>`
+        );
+      } else {
+        blocks.push(`<p class="x-tweet__p">${escapeHtml(line)}</p>`);
+      }
+    });
+    flush();
+    return `<div class="x-tweet__structured">${blocks.join("")}</div>`;
+  }
+
+
   function renderXPost(item) {
     const handle = String(item.handle || item.author || "").replace(/^@/, "");
     const statusUrl = item.statusUrl || item.url || "";
@@ -241,6 +322,7 @@
       tweets.push({ index: 1, text: item.text || "", url: statusUrl });
     }
     const n = tweets.length || 1;
+    const topImages = collectXImages(item, null);
 
     const tweetsHtml = tweets
       .map((t) => {
@@ -250,10 +332,12 @@
         const indexLabel = isThread
           ? `<span class="x-tweet__index">${escapeHtml(String(idx))}/${escapeHtml(String(n))}</span>`
           : "";
+        const tweetImages = collectXImages({ images: [] }, t);
         return `
           <div class="x-tweet">
             ${indexLabel}
-            ${text ? `<div class="x-tweet__body">${escapeHtml(text)}</div>` : ""}
+            ${text ? `<div class="x-tweet__body">${formatXText(text)}</div>` : ""}
+            ${renderXImages(tweetImages)}
             ${
               isThread && tUrl
                 ? `<p class="x-tweet__link"><a href="${escapeHtml(tUrl)}" rel="noopener noreferrer" target="_blank">Deschide pe X →</a></p>`
@@ -285,6 +369,7 @@
           }
         </header>
         <div class="x-post__tweets">${tweetsHtml}</div>
+        ${renderXImages(topImages)}
       </article>`;
   }
 

@@ -5,7 +5,7 @@
     "subtitle": "X · Cupoane / Reduceri · Grow Your Wealth",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-17T10:25:00+03:00",
+    "updatedAt": "2026-09-17T10:30:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -54,15 +54,91 @@
       ],
       "xPosts": [
         {
-          "handle": "RohOnChain",
-          "statusUrl": "https://x.com/RohOnChain/status/2100218484399685984",
-          "date": "2026-09-16T06:41:00Z",
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2100258490740539730",
+          "date": "2026-09-16T16:20:19Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude Cowork and chat are merging into one Claude.\n\nAsk a quick question or hand over a report, and Claude takes it from there, even after you close your laptop. If something's unclear, Claude asks—you keep the final say.\n\nRolling out to Pro and Max over the next few weeks.",
+              "url": "https://x.com/claudeai/status/2100258490740539730"
+            },
+            {
+              "index": 2,
+              "text": "You can also now make decks, docs, and designs in your conversation.\n\nDraft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place.",
+              "url": "https://x.com/claudeai/status/2100258492590207079"
+            },
+            {
+              "index": 3,
+              "text": "Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.\n\nWhen it's ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.",
+              "url": "https://x.com/claudeai/status/2100258494221812123"
+            },
+            {
+              "index": 4,
+              "text": "If you've been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.\n\nClaude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://claude.com/blog/cowork-is-now-claude",
+              "url": "https://x.com/claudeai/status/2100258495543071016"
+            }
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2099876514330206578",
+          "date": "2026-09-15T15:02:29Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Salesforce in Claude is now available in beta.\n\nIt brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation.",
+              "url": "https://x.com/claudeai/status/2099876514330206578"
+            },
+            {
+              "index": 2,
+              "text": "Learn more about Salesforce in Claude: https://claude.com/blog/salesforce-in-claude",
+              "url": "https://x.com/claudeai/status/2099876515840245772"
+            }
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2098138736642933143",
+          "date": "2026-09-10T19:57:11Z",
           "thread": false,
           "tweets": [
             {
               "index": 1,
-              "text": "i turned GPT-6 Astra into a 24/7 trading agent\n\nhere is the EXACT way to build your FIRST AI trading bot with GPT-6 Astra with COMPLETE ARCHITECTURE\n\nGPT-6 Astra is most powerful trading agent ever built\n\nthe goal was simple - ship hedge fund grade trading strategies with a multi-agent team of quants \n\nevery layer solves one specific failure mode i hit in earlier versions:\n\n1. reasoning substrate - GPT-6 Astra with 1M context, hours of long-horizon reasoning, direct computer use, and mathematical capabilities \n\n2. harness layer - AgenKit installs 10 specialist agents inside Codex CLI. Conductor, Backend Architect, Test Engineer, Code Reviewer, Data Engineer, Debugger, Frontend, Infra DevOps, Perf Observability, Security. same model, TEN DISCIPLINES \n\n3. workflow gates - 6 phases with operator approval at every step. brainstorm, architecture, plan, build, review, ship. nothing writes code until you sign off on the spec\n\n4. mathematical foundation - 4 models running in production. Ornstein-Uhlenbeck stat arb, Avellaneda-Stoikov market making, Hawkes order flow, Heston volatility\n\n5. production architecture - 6 layers wrapping every strategy. data, signal, decision, risk, execution, monitoring. the 2 AM WebSocket disconnect can no longer silently kill the model\n\n6. risk enforcement - Kelly-sized positions, 5% drawdown kill switches, delta-neutral hedging, intent blotter output. these numbers came from watching an earlier chatbot script blow through 12% in one session\n\n7. validation gates - every strategy must pass Sharpe above 1.5, drawdown below 15%, hit rate above 55%, t-stat above 2.0, walk-forward across 5 years before any capital touches it\n\n8. output layer - Telegram Bot pings my phone with instrument, strategy, Sharpe, drawdown, action window and Kelly-sized position\n\nthe principle i built around from day one\n\n> capability without structure is a chatbot\n> the wall was never the math, it was always the six salary team\n\ni learned that one the hard way",
-              "url": "https://x.com/RohOnChain/status/2100218484399685984"
+              "text": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.\n\nRSVP at https://luma.com/claudecommunity?tag=build%20day",
+              "url": "https://x.com/claudeai/status/2098138736642933143"
+            }
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2097718980437831935",
+          "date": "2026-09-09T16:09:13Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.\n\nEnterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.\n\nGet started: https://claude.com/platform/marketplace",
+              "url": "https://x.com/claudeai/status/2097718980437831935"
+            }
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2095226833293685100",
+          "date": "2026-09-02T19:06:19Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+              "url": "https://x.com/claudeai/status/2095226833293685100"
+            },
+            {
+              "index": 2,
+              "text": "Available in beta on Pro and Max plans, in the desktop app on macOS. If you're new to computer use, turn it on in Settings → General → Computer use. How it works, and how to use it safely:"
             }
           ]
         }
