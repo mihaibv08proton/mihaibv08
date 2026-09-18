@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-18T11:26:00+03:00",
+    "updatedAt": "2026-09-19T00:22:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,104 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-09-19",
+      "label": "19 septembrie 2026",
+      "edition": "19.09.2026",
+      "stiri": [],
+      "cupoane": [
+        {
+          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
+          "text": "Markdown-uri active pe vivobarefoot.com/eu/sale (verificat 2026-09-19): stiluri adult selectate, tipic ~25–30% (ex. Gobi II Sneaker Leather 160→120 €, Motus Strength II 170→128 €, Primus Trail Flow 160→119/120 €, Tracker Ora Sandal 130→91 €, Sensus Yin Slide 130→98 €, Primus Flow Knit 130→105 €, Motus Studio Sock Boot 170→119 €, Sensus II Grounding 140→112 €, Gobi Wavey Mule 150→105 €). Fără cod promo. /eu/offers: „There are no active promotions” (FEEL50 expirat Dec 2025; Buy 2 Kids 20% off a închis 2 Sep 2026).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Kids Clearance EU – încălțăminte copii la reducere",
+          "text": "Clearance kids pe vivobarefoot.com/eu/kids/sale (verificat 2026-09-19): Primus Sport IV Kids 82→62 €, Preschool 76→53 €, Toddlers 70→49 €; Primus Ludo School Kids/Preschool; Thermal Insole Juniors 9→5 €. Reduceri tipice ~25–30%. Fără cod.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "sale_kids"
+        },
+        {
+          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
+          "text": "Program oficial EU (eu/recycle-and-upcycle): trimiți adidași vechi (Vivo sau alt brand), shipping label gratuit (UK/EU/USA). După expediere primești pe email un cod 20% off pe articole full-price pe Vivobarefoot.com. Cod valabil 3 luni. Membrilor VivoRewards: +100 puncte per retur (max 4/lună calendaristică). O trimitere = un cod; pentru mai multe perechi, proces separat. Ideal clienți care revin (nu e first-order).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
+          "category": "take_back",
+          "expires": "3 luni de la emiterea codului personal"
+        },
+        {
+          "title": "VivoRewards – 20% la fiecare Milestone (500 puncte)",
+          "text": "Program loialitate oficial EU. T&C VivoRewards (effective 15 Dec 2025): la 500 puncte se generează automat un cod 20% off (expiră la 30 zile de la emitere; trebuie să fii logat). Puncte: cumpărături footwear +150, Take Back +100, review +50, join +200, foot assessment +150 etc. Codurile nu se combină; currency-locked. Punctele: 12 luni. Notă: FAQ pe /eu/vivo-rewards încă menționează uneori 15% – T&C oficiale spun 20%. Potrivit clienților care revin. Exclus: Free Express Delivery la prima comandă (first-order).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
+          "category": "loyalty",
+          "expires": "cod 20%: 30 zile de la emitere; puncte: 12 luni"
+        },
+        {
+          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
+          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
+          "category": "key_worker_conditional"
+        },
+        {
+          "title": "Student – 20% (condițional, verificare Gocertify / Student Beans)",
+          "text": "Reducere student ~20% după verificare (Gocertify / Student Beans). Pe unele canale Student Beans: full-price only, un uz per client, nu se combină; exclusii pe țări (ex. AT/DE/CH/CZ, AU/NZ). Eligibilitate necunoscută – publică doar condițional.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
+          "category": "student_conditional"
+        }
+      ],
+      "gyh": [],
+      "xPosts": [
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2101017902316982783",
+          "date": "2026-09-18T18:37:57Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "A thread of our favorite things people built with Claude recently:\n\nhttps://x.com/kevin_t_ngo/status/2100238648218427563?s=20\n\n(quote @kevin_t_ngo: I made a website with 25 mini rooms, each with Claude keeping people company.\n\nCreated with Claude Opus 5.)",
+              "url": "https://x.com/claudeai/status/2101017902316982783",
+              "quotedStatusUrl": "https://x.com/kevin_t_ngo/status/2100238648218427563"
+            },
+            {
+              "index": 2,
+              "text": "@ann_nnng: jellyfishes in p5.js, made by claude opus 5 on TypingMind\n\none animal a day, until i've got enough sea creatures to build my own lil aquarium",
+              "url": "https://x.com/claudeai/status/2101017903906607400",
+              "quotedStatusUrl": "https://x.com/ann_nnng/status/2093217880896852284"
+            },
+            {
+              "index": 3,
+              "text": "@prasenx: claude built this sedona sunset you can walk in the browser\nevery rock and sound generated in code \nnothing was downloaded",
+              "url": "https://x.com/claudeai/status/2101017905462722619",
+              "quotedStatusUrl": "https://x.com/prasenx/status/2091551772880085268"
+            },
+            {
+              "index": 4,
+              "text": "@aleksksaa: your app deserves better than a boring spinner \n\ni built Whimsy loaders - pixel loaders that actually spark joy, open-source🌸\n\nhttps://whimsically.app",
+              "url": "https://x.com/claudeai/status/2101017907136258511",
+              "quotedStatusUrl": "https://x.com/aleksksaa/status/2060045788676345888"
+            },
+            {
+              "index": 5,
+              "text": "@yanliudesign: Created a gemstone brush in Claude for the trend: put gemstone stickers on anything and make it sparkle!!! 💎\n\nPick your gems, draw whatever you want, and add a little sparkle to anything.￼￼￼￼￼￼ ✨\n\n⛓️‍💥Try it yourself, link in the comments￼",
+              "url": "https://x.com/claudeai/status/2101017908843352238",
+              "quotedStatusUrl": "https://x.com/yanliudesign/status/2100063749403263006"
+            },
+            {
+              "index": 6,
+              "text": "What are you building this weekend?",
+              "url": "https://x.com/claudeai/status/2101017910365901059"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "label": "18 septembrie 2026",
@@ -532,37 +630,6 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-09-16",
-      "label": "Miercuri, 16 septembrie 2026",
-      "edition": "Ediția de miercuri · Vol. I, Nr. 48",
-      "stiri": [],
-      "cupoane": [
-        {
-          "title": "Vivobarefoot Sale EU: reduceri pe stiluri selectate (fără cod)",
-          "text": "Secțiunea Sale activă pe magazinul Europe: markdown-uri pe modele selectate (ex. Primus Flow Knit ~€105 vs €130; Motus Studio Sock Boot €119 vs €170; Gobi Wavey Mule €105 vs €150; kids până la ~40% off; tricou So Long Airsoles €15 vs €30 = -50%). Nu e un cupon sitewide 50% — doar produse la reducere. Verifică stocul; reducerile se aplică doar pe produsele din Sale (fără cod sitewide).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "Încălțăminte"
-        },
-        {
-          "title": "Vivobarefoot Student: ~15% full-price (Student Beans)",
-          "text": "Discount studenți prin verificare Student Beans; termenii UK actuali menționează 15% la produse full-price, o singură dată / client, fără cumul cu alte coduri, fără sale/clearance. Excluderi regionale listate (ex. CH, AT, DE, CZ, AU, NZ). Nu e 50%. Cont + verificare necesare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.studentbeans.com/student-discount/uk/vivobarefoot",
-          "category": "Încălțăminte"
-        },
-        {
-          "title": "Vivobarefoot Key Worker / essential: 15% după verificare",
-          "text": "15% pentru key workers (healthcare, military, police/fire, teachers, charity, care/social, Blue Light — grupurile variază pe țară). Verificare prin Gocertify; cod unic la checkout. Doar full-price; nu se cumulează cu alte promoții. Disponibilitate pe România: verifică pe pagina Gocertify dacă categoria ta e eligibilă.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "Încălțăminte"
-        }
-      ],
-      "gyh": [],
-      "xPosts": []
     }
   ]
 }
