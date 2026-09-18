@@ -38,3 +38,8 @@ Standing masthead and section rules. Do not reintroduce removed chrome.
 3. `gyh.html` — Grow Your Wealth  
 
 Tipar: B&W Playfair broadsheet feel; content from `data/days.json` only.
+
+## GOLDEN RULE
+
+**Responsive forever:** every page must read well on desktop, tablet, and mobile (incl. iPhone Safari). No horizontal scroll; wrap long text; touch-friendly nav.
+

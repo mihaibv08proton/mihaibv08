@@ -28,15 +28,26 @@ html {
   font-size: 16.5px;
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: clip;
 }
 
 body {
   margin: 0;
   min-height: 100vh;
+  width: 100%;
+  overflow-x: clip;
   background: #e4e4e4;
   color: var(--ink);
   font-family: var(--font-body);
   line-height: 1.5;
+}
+
+@supports not (overflow: clip) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
 }
 
 .skip-link {
@@ -73,12 +84,20 @@ code {
 
 /* —— Paper sheet —— */
 .paper {
-  max-width: var(--max);
+  max-width: min(var(--max), 100%);
+  width: 100%;
   margin: 0 auto;
   padding: 1rem var(--gutter) 2.5rem;
   background: var(--paper);
   min-height: 100vh;
+  overflow-x: clip;
   box-shadow: 0 0 0 1px #c8c8c8, 0 8px 32px rgba(0, 0, 0, 0.12);
+}
+
+@supports not (overflow: clip) {
+  .paper {
+    overflow-x: hidden;
+  }
 }
 
 @media (min-width: 900px) {
@@ -171,7 +190,7 @@ code {
 
 .masthead__title {
   font-family: var(--font-masthead);
-  font-size: clamp(2.85rem, 11.5vw, 5.6rem);
+  font-size: clamp(2.35rem, 11vw, 5.6rem);
   font-weight: 700;
   letter-spacing: 0.02em;
   line-height: 0.95;
@@ -179,6 +198,8 @@ code {
   color: var(--ink);
   text-transform: none; /* NYT-inspired nameplate — readable Playfair */
   /* Authentic NYT-inspired nameplate: blackletter/display, dense, printed */
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .masthead__subtitle {
@@ -233,9 +254,11 @@ code {
   padding: 0.85rem 0 0.95rem;
   border-bottom: 1px solid var(--rule-light);
   margin-bottom: 1.15rem;
+  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: thin;
+  overscroll-behavior-x: contain;
 }
 
 .day-tab {
@@ -692,6 +715,11 @@ code {
   display: flex;
   flex-direction: column;
   min-height: 100%;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  word-break: break-word;
   box-shadow: inset 0 0 0 1px var(--paper), inset 0 0 0 2px var(--ink);
 }
 
@@ -734,6 +762,8 @@ code {
   line-height: 1.2;
   margin: 0 0 0.45rem;
   letter-spacing: -0.01em;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .cupon__details {
@@ -742,6 +772,8 @@ code {
   margin: 0 0 0.65rem;
   line-height: 1.45;
   flex: 1;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .cupon__meta {
@@ -817,6 +849,8 @@ code {
   line-height: 1.15;
   margin: 0 0 0.4rem;
   letter-spacing: -0.01em;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .gyh-item__date {
@@ -833,6 +867,8 @@ code {
   color: var(--ink-soft);
   margin: 0 0 0.85rem;
   line-height: 1.5;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .gyh-item__recs {
@@ -840,6 +876,11 @@ code {
   background: #efefef;
   padding: 0.75rem 0.9rem 0.85rem;
   margin: 0.35rem 0 0.5rem;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  word-break: break-word;
   box-shadow: inset 0 0 0 1px var(--paper), inset 0 0 0 2px var(--ink);
 }
 
@@ -860,6 +901,8 @@ code {
   margin: 0;
   color: var(--ink-mid);
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 @media print {
@@ -883,6 +926,11 @@ code {
   border: 1px solid var(--ink);
   padding: 0.85rem 0.95rem 1rem;
   background: #f7f7f7;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .x-post--thread {
   box-shadow: inset 3px 0 0 var(--ink);
@@ -934,6 +982,8 @@ code {
   white-space: pre-wrap;
   margin: 0 0 0.5rem;
   color: var(--ink-soft);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .x-post__link {
   font-family: var(--font-ui);
@@ -967,6 +1017,8 @@ code {
   color: var(--ink);
   border-bottom: 1px solid var(--rule-light);
   padding-bottom: 0.2rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .gyh-struct__heading:first-child {
   margin-top: 0;
@@ -982,12 +1034,16 @@ code {
   font-size: 0.96rem;
   line-height: 1.45;
   color: var(--ink-soft);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .gyh-struct__p {
   margin: 0;
   font-size: 0.96rem;
   line-height: 1.45;
   color: var(--ink-soft);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .gyh-item__recs-list {
   margin: 0;
@@ -1001,6 +1057,8 @@ code {
   font-size: 0.95rem;
   line-height: 1.45;
   color: var(--ink-mid);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 
@@ -1039,6 +1097,8 @@ code {
   font-size: 0.98rem;
   line-height: 1.45;
   color: var(--ink-soft);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .x-tweet__list {
   margin: 0.15rem 0 0.25rem;
@@ -1051,6 +1111,8 @@ code {
   font-size: 0.96rem;
   line-height: 1.4;
   color: var(--ink-soft);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .x-tweet__quote {
   margin: 0.2rem 0;
@@ -1120,6 +1182,55 @@ code {
   display: none;
 }
 
+@media (max-width: 640px) {
+  :root {
+    --gutter: clamp(0.65rem, 3.2vw, 1rem);
+  }
+
+  .masthead__title {
+    font-size: clamp(2.1rem, 12vw, 5.6rem);
+  }
+
+  .section-rail {
+    letter-spacing: 0.08em;
+    gap: 0.3rem 0.4rem;
+    font-size: 0.65rem;
+  }
+
+  .gyh-item__headline {
+    font-size: clamp(1.1rem, 5.2vw, 1.45rem);
+  }
+
+  .gyh-struct__heading,
+  .gyh-item__recs-title {
+    letter-spacing: 0.08em;
+  }
+
+  .gyh-struct__list,
+  .gyh-item__recs-list {
+    padding-left: 1rem;
+    line-height: 1.5;
+  }
+
+  .gyh-struct__list li,
+  .gyh-item__recs-list li {
+    line-height: 1.5;
+  }
+
+  .gyh-item__recs {
+    padding: 0.6rem 0.7rem 0.7rem;
+  }
+
+  .x-post,
+  .cupon {
+    padding: 0.7rem 0.75rem 0.85rem;
+  }
+
+  .x-tweet__list {
+    padding-left: 1rem;
+  }
+}
+
 @media (max-width: 520px) {
   .x-filters {
     gap: 0.35rem;
@@ -1128,4 +1239,16 @@ code {
     font-size: 0.68rem;
     padding: 0.35rem 0.65rem;
   }
+
+  .day-tab {
+    min-width: 4.75rem;
+    font-size: 0.72rem;
+    padding: 0.5rem 0.55rem;
+  }
+}
+
+/* —— Global media safety —— */
+img {
+  max-width: 100%;
+  height: auto;
 }
