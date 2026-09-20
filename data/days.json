@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-20T13:30:00+03:00",
+    "updatedAt": "2026-09-21T00:14:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,67 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-09-21",
+      "edition": "21.09.2026",
+      "label": "21 septembrie 2026",
+      "stiri": [],
+      "xPosts": [],
+      "cupoane": [
+        {
+          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
+          "text": "Sale EU live (browser 21.09): header SALE (19) — 10 pe p.1 + 9 pe ?p=2. Markdown tipic ~25–30% (ex. Gobi II Sneaker Leather Limestone €160→€120 −25%; Tracker Ora Sandal Skyway €130→€91 −30%; Motus Studio Sock Boot Obsidian €170→€119 −30%; So Long Airsoles tee €30→€15 −50%). Bară: „Save up to 25% on selected styles”. Free standard delivery over €100. Fără cod. /eu/offers: „There are no active promotions at the moment” (newsletter first-order 15% — exclus).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Kids Clearance EU – încălțăminte copii la reducere",
+          "text": "Clearance kids pe vivobarefoot.com/eu/kids/sale (verificat 2026-09-21): Primus Sport IV Kids 82→62 €, Preschool 76→53 €, Toddlers 70→49 €; Primus Ludo School Kids 88→62 € / Preschool 82→57 €; Thermal Insole Juniors 9→5 €. Reduceri tipice ~25–30% (până ~44% pe insole). Fără cod.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "sale_kids"
+        },
+        {
+          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
+          "text": "Program oficial EU (eu/recycle-and-upcycle): trimiți adidași vechi (Vivo sau alt brand, orice stare), shipping label gratuit (UK/EU/USA). După expediere + Reference ID primești pe email un cod 20% off pe articole full-price pe Vivobarefoot.com. Cod valabil 3 luni. Membrilor VivoRewards: +100 puncte per retur (max 4/lună calendaristică, T&C). O trimitere = un cod; pentru mai multe perechi, proces separat. Ideal clienți care revin (nu e first-order).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
+          "category": "take_back",
+          "expires": "3 luni de la emiterea codului personal"
+        },
+        {
+          "title": "VivoRewards – 20% la fiecare Milestone (500 puncte)",
+          "text": "Program loialitate oficial EU. T&C VivoRewards (effective 15 Dec 2025 pe eu/terms-and-conditions): la 500 puncte se generează automat un cod 20% off (expiră la 30 zile de la emitere; trebuie să fii logat). Puncte: footwear +150, Take Back +100 (max 4/lună), review +50, join +200, foot assessment +150, referral +200 etc. Codurile nu se combină; currency-locked. Punctele: 12 luni. Notă: FAQ pe /eu/vivo-rewards încă menționează uneori 15% – T&C oficiale spun 20%. Potrivit clienților care revin. Exclus din listă: Free Express Delivery la prima comandă (first-order).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
+          "category": "loyalty",
+          "expires": "cod 20%: 30 zile de la emitere; puncte: 12 luni"
+        },
+        {
+          "title": "Refer a Friend EU – 15% pentru amândoi (după referral reușit)",
+          "text": "Banner live EU pe /eu/share (Mention Me, verificat browser 21.09): „treat a friend to 15% off and get 15% off for yourself”. Cod personal, nu public — neaplicat în coș. Accent pe beneficiul referrer (client care revine); partea prietenului e tipic first-purchase. (Research anterior menționa 20%; bannerul live arată 15%.)",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/share",
+          "category": "refer_a_friend"
+        },
+        {
+          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
+          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
+          "category": "key_worker_conditional"
+        },
+        {
+          "title": "Student – 20% (condițional, verificare Gocertify)",
+          "text": "Reducere student 20% după verificare pe Gocertify (pagina oficială partner). De obicei: full-price only, nu se combină cu alte promoții. Eligibilitate: peste 15 ani, educație full-time. Eligibilitate necunoscută pentru cititor – publică doar condițional. (Student Beans UK afișează uneori alt procent / restricții pe țări – pentru EU folosim Gocertify 20%.)",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
+          "category": "student_conditional"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-09-20",
       "label": "20 septembrie 2026",
@@ -183,230 +244,6 @@
               "index": 6,
               "text": "What are you building this weekend?",
               "url": "https://x.com/claudeai/status/2101017910365901059"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "label": "18 septembrie 2026",
-      "edition": "18.09.2026",
-      "stiri": [],
-      "cupoane": [
-        {
-          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
-          "text": "Markdown-uri pe vivobarefoot.com/eu/sale: stiluri adult selectate (ex. Gobi II Sneaker Leather 160→120 €, Motus Strength II 170→128 €, Primus Trail Flow ~25% off, Hydra ESC 180→126 €, Tracker Ora Sandal, Sensus Yin Slide, Primus Flow Knit, Motus Studio Sock Boot etc.). Fără cod promo. Nu există promoție de tip EXTRA10/FEEL50 activă pe /eu/offers (pagina spune: no active promotions).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Kids Clearance EU – încălțăminte copii la reducere",
-          "text": "Clearance kids pe vivobarefoot.com/eu/kids/sale: Primus Sport IV (Kids/Preschool/Toddlers), Primus Ludo School, Thermal Insole Juniors. Reduceri tipice ~25–30% (ex. Primus Sport IV Kids 82→62 €, Toddlers 70→49 €). Fără cod.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "sale_kids"
-        },
-        {
-          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
-          "text": "Program oficial EU: trimiți adidași vechi (Vivo sau alt brand), shipping label gratuit (UK/EU/USA). După expediere primești pe email un cod 20% off pe articole full-price pe Vivobarefoot.com. Cod valabil 3 luni. Membrilor VivoRewards: +100 puncte per retur. O trimitere = un cod; pentru mai multe perechi, proces separat per pereche. Ideal pentru clienți existenți.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
-          "category": "take_back",
-          "expires": "3 luni de la emiterea codului personal"
-        },
-        {
-          "title": "VivoRewards – 15% la fiecare Milestone (500 puncte)",
-          "text": "Program loialitate oficial EU. La 500 puncte se generează automat un cod recompensă 15% (FAQ oficial; marketingul menționează uneori 20% la Milestone – folosește 15% din FAQ). Puncte din: cumpărături, Take Back (+100), review, newsletter, cursuri VivoHealth, scanare picioare etc. Codurile nu se combină între ele; sunt currency-locked (EUR→țări EUR). Punctele: valabile 12 luni, reset la activitate. Potrivit clienților care revin.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
-          "category": "loyalty",
-          "expires": "puncte: 12 luni (reset la activitate); codul 15% are expirare la emitere"
-        },
-        {
-          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
-          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "key_worker_conditional"
-        },
-        {
-          "title": "Student – 20% (condițional, verificare Gocertify)",
-          "text": "Reducere student ~20% după verificare pe Gocertify (pagina oficială partner). Pe unele canale Student Beans apare 15% și exclusii pe țări (ex. AT/DE/CH/CZ). De obicei: full-price only, un uz per client, nu se combină. Eligibilitate necunoscută – publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
-          "category": "student_conditional"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "18.09.2026 Terminam o saptamana volatila cu QTR OPEX",
-          "date": "18.09.2026",
-          "summary": "**Context post-Fed / relief rally**\n• După majorarea Fed +25 pb miercuri (3,75%–4,00%), joi: rally agresiv pe multe acțiuni; VIX ≈ −13%; Nasdaq +1,69%, S&P +1,14%, Dow +0,62%.\n• Autorul reamintește Scenariul 1 din materialul de miercuri: reacția nu depinde doar de +25 pb, ci de ce înțelege piața că urmează; majorarea era deja prețuită → posibil „sell the rumor, buy the news”.\n• Recunoaște că s-a înșelat: nu credea că Warsh va accepta votul FOMC și va majora înainte de midterms.\n• Speculează că +rate (și eventual încă una în OCT) ar putea contribui la încheierea conflictelor (Iran/Ucraina) pe termen mediu; cheltuielile de război țin inflația și yield-urile sus.\n• Menționează un „plan” geo/macro mai amplu (Covid, Ucraina, aur, crypto, data centers etc.) — fără concluzie operațională.\n\n**De ce au crescut acțiunile (nu e Fed dovish)**\n• Fed nu a devenit dovish; piața a eliminat incertitudinea — relief rally + repoziționare.\n• Înainte de FOMC: growth/semiconductori deja vândute; US10Y >5%; petrol >100 — vestea proastă era parțial în preț.\n• Mesaj Fed: hawkish (unanimitate; 16/18 oficiali văd ≥ încă +25 pb în 2026; piața ~53% șanse majorare oct vs ~27% cu o săptămână înainte); Warsh: economie consolidată, inflație prea mare.\n• Catalizatorul real joi: US10Y înapoi ~4,93–4,95% (sub 5%) → cost de capital mai blând pentru growth (AMD, AVGO, NBIS, IREN, TSLA, PLTR, SOFI, HOOD, IONQ, RKLB, ONDS, ASTS etc.).\n• Al doilea catalizator: petrol în retragere (fluxuri/capacitate Arabia/Oman pe Reuters) — reduce presiunea pe inflație/Fed.\n• Piața muncii: claims ~196k (aproape minime) → economie rezilientă, spațiu pentru Fed restrictivă fără semnal clar de recesiune.\n• Semiconductori rebound: AMD ~+6,5%, MRVL +4,8%, INTC +7,7%; PHLX semis >+3% (după −~5,9% luni pe PHLX; AMD/AVGO <−4% luni).\n• NBIS ~+4,1% (deschis +10%): +20% preț pe unele închirieri acceleratoare AI — cerere compute; HOOD ~+5,2% (+ exceptare SEC 5 ani tokenizare) = barometru risk-on; PLTR/SpaceX mai moderate dar în reziliență.\n• Curve: short yields ↑, long ↓ → piața crede că Fed poate tăia inflația fără șoc economic major (per Reuters/analize citate).\n\n**QTR OPEX (astăzi 18.09) — atenție**\n• Triple witching: volume/hedging pot amplifica mișcările (suport/rezistență false; +7% intraday apoi flat).\n• Combinație grea: Fed miercuri + OPEX azi → nu trata fiecare candle ca schimbare de fundamental.\n• Riscuri rămân: posibilă majorare octombrie; petrol încă >100; US10Y ~5%; Core PCE peste țintă; valuări US scumpe; volatilitate așteptată.\n\n**Ce urmărește autorul azi (în ordine)**\n• US10Y: sub 5% și ↓ = favorabil growth; peste 5% accelerând = prudență.\n• Petrol (Brent): ~/<100 = ok; revenire spre 110 = ecuație mai grea.\n• Nasdaq/semis: dacă AMD, AVGO, NVDA țin câștigurile (AVGO: CALL agresive mat. 9 OCT) = confirmare AI infra; dacă OPEX șterge rally = atenție.\n• Breadth: ieri adv/dec ~2,4:1 NYSE, ~2,2:1 Nasdaq — rally larg.\n• Volum: 17,57 mld vs media 15,37 mld — participare reală.\n\n**Grupuri de urmărit (mecanism, nu ranking)**\n• AI infra/semis: AMD, AVGO, NBIS.\n• Monetizare AI: PLTR, META, CRWD, NET, APP.\n• High beta: SPCX/SpaceX, RKLB, ASTS, ONDS, IREN, IONQ, PL.\n• Speculative distant: RIOT, CIFR, TE, SATL, KEEL, AAOI, POET (dacă +5–10% = risk appetite extins).\n\n**Filozofie**\n• Lecție: nu ghici fiecare sesiune; relația dobânzi–yield–inflație–profituri–evaluări contează mai mult decât headline-ul Fed.\n• După OPEX se vede mai clar: menținere gains + US10Y <5% + petrol ↓ + semis țin = absorbție șoc Fed; altfel = doar relief rally.\n• Obiectiv: folosește volatilitatea, nu deveni victima ei; calm/răbdare/disciplină > predicții WS.",
-          "recommendations": "• Nu cumpăra agresiv doar pentru că piața a urcat ieri (Nasdaq +1,7% după săptămână negativă ≠ confirmare trend nou).\n• Nu vinde companii bune doar pentru că Fed e hawkish — în 24h nu s-a schimbat fundamentalul AMD, TSLA, META, PLTR, NBIS, HOOD, SOFI, RKLB, ASTS, IREN, VST, APP, PL, IONQ, AVGO, CRWD, NET etc.\n• Folosește volatilitatea ca să diferențiezi companii: ideal cumpără când fundament bun + sentiment slab + evaluare mai atractivă — nu pe FOMO când prețul explodează.\n• Înainte de a deveni mai agresiv azi, așteaptă confirmări: US10Y, petrol, semis/Nasdaq, breadth, volum (vezi lista din rezumat).\n• Tratează rally-ul ca relief + repoziționare, nu ca start automat de bull market nou.\n• La OPEX: nu interpreta fiecare spargere de nivel ca schimbare de teză; observă comportamentul la niveluri + US10Y/petrol/semis.\n• Dacă după OPEX gains se țin + US10Y <5% + petrol coboară + AMD/AVGO/NBIS țin rebound → confirmare absorbție Fed; dacă se șterge tot → ieri = relief rally.\n• Nu cumpăra pentru că a crescut ieri; nu vinde pentru că Fed a majorat alaltăieri — analizează reacția, așteaptă confirmarea, lasă piața să arate unde sunt cumpărătorii.\n• Răbdare și disciplină: corecțiile pot fi acumulare dacă economia/EPS/AI infra țin; dacă inflația/petrolul re-accelerează și US10Y se stabilizează >5%, tratează valuările cu mai multă prudență.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788235"
-        }
-      ],
-      "xPosts": [
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2100632677904744716",
-          "date": "2026-09-17T17:07:12Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Projects now run from one conversation, starting in Claude Code. You describe what needs doing, and Claude directs parallel threads that keep working after you close your laptop.\n\nIn beta today for select Pro and Max users in cloud sessions; coming to all Claude users soon.",
-              "url": "https://x.com/claudeai/status/2100632677904744716"
-            },
-            {
-              "index": 2,
-              "text": "You can talk to Claude the way you'd brief a chief of staff: several things at once, in any order. It routes requests to new or existing threads and checks in when it needs you.\n\nThe Overview panel shows what's waiting on you, and you can steer any thread, even from your phone.",
-              "url": "https://x.com/claudeai/status/2100632681180520861",
-              "images": [
-                "img/x/HSbwU2jWoAIJrHd.jpg"
-              ]
-            },
-            {
-              "index": 3,
-              "text": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.\n\nThe project's library keeps the files you add and the ones Claude creates.",
-              "url": "https://x.com/claudeai/status/2100632684074549309",
-              "images": [
-                "img/x/HSbwaASWoAIyuP8.jpg"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.",
-              "url": "https://x.com/claudeai/status/2100632687316730327"
-            },
-            {
-              "index": 5,
-              "text": "Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude.\n\nRead more: https://claude.com/blog/projects-redesigned\n\nJoin the waitlist for earlier access: https://claude.com/form/projects",
-              "url": "https://x.com/claudeai/status/2100632688625348890"
-            }
-          ],
-          "images": [
-            "img/x/HSbwU2jWoAIJrHd.jpg",
-            "img/x/HSbwaASWoAIyuP8.jpg"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2100661003730002163",
-          "date": "2026-09-17T18:59:46Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Rus shoddy trend down while NAZ holding best - kudos to semis.",
-              "url": "https://x.com/LindaRaschke/status/2100661003730002163",
-              "images": [
-                "img/x/HScL47KWkAAoMKQ.png",
-                "img/x/HScMCPUWgAEQLxd.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HScL47KWkAAoMKQ.png",
-            "img/x/HScMCPUWgAEQLxd.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2100660074683171246",
-          "date": "2026-09-17T18:56:04Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Crude had the best trend UP off 8 AM reading after first 30 minutes...",
-              "url": "https://x.com/LindaRaschke/status/2100660074683171246",
-              "images": [
-                "img/x/HScLFX3XoAAeI-6.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HScLFX3XoAAeI-6.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2100659892625252717",
-          "date": "2026-09-17T18:55:21Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "GC and bonds US session...not so interesting!",
-              "url": "https://x.com/LindaRaschke/status/2100659892625252717",
-              "images": [
-                "img/x/HScKtNhXMAAaR1U.png",
-                "img/x/HScK0YoXMAECtTz.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HScKtNhXMAAaR1U.png",
-            "img/x/HScK0YoXMAECtTz.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2100659431058944420",
-          "date": "2026-09-17T18:53:31Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Do you ever go back and review how the US session traded relative to the overnight session? (I start all US sessions at 8 AM EST.)  SP and SI 15 min",
-              "url": "https://x.com/LindaRaschke/status/2100659431058944420",
-              "images": [
-                "img/x/HScKKkZXMAA5Bpk.png",
-                "img/x/HScKNBmXYAAYIL3.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HScKKkZXMAA5Bpk.png",
-            "img/x/HScKNBmXYAAYIL3.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2100651587886522677",
-          "date": "2026-09-17T18:22:21Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "7713.50 was OP...Will it or wont it...SPs have refused to trade there all day.  zzzzzzzzzzzzzzzzzzz",
-              "url": "https://x.com/LindaRaschke/status/2100651587886522677"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2100633571543367691",
-          "date": "2026-09-17T17:10:45Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Today we're rolling out Projects in Claude Code on desktop and web.\n\nA project is one conversation with Claude. It splits the work into threads itself, runs them as parallel cloud sessions, passes context between them, and keeps going when you leave.\n\nIn beta for select users.",
-              "url": "https://x.com/ClaudeDevs/status/2100633571543367691"
-            },
-            {
-              "index": 2,
-              "text": "Available today for Pro and Max users who already run cloud sessions and haven't used Claude Projects yet.\n\nIf you've used Projects before, we're rolling out to you slightly later so your existing ones move over cleanly. \n\nWant access now anyway? Join the waitlist:\n\nhttps://claude.com/form/projects",
-              "url": "https://x.com/ClaudeDevs/status/2100633572969484743"
-            },
-            {
-              "index": 3,
-              "text": "Threads run in the cloud, even when your computer is not online. Support for local workflows is coming very soon.\n\nMore in the docs: https://code.claude.com/docs/en/claude-projects",
-              "url": "https://x.com/ClaudeDevs/status/2100633574022230474"
             }
           ]
         }
