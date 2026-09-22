@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-22T13:39:00+03:00",
+    "updatedAt": "2026-09-23T00:31:00+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,264 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-09-23",
+      "edition": "23.09.2026",
+      "label": "23 septembrie 2026",
+      "stiri": [],
+      "xPosts": [
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2102435511222890900",
+          "date": "2026-09-22T16:31:01Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+              "url": "https://x.com/claudeai/status/2102435511222890900"
+            },
+            {
+              "index": 2,
+              "text": "Opus 5.5 is our first model since we called for pacing the frontier. As with previous models, it was tested by external evaluators before release, including METR and Frontier Design.\n\nOn our most comprehensive alignment test, it achieves the strongest score to date.",
+              "url": "https://x.com/claudeai/status/2102435514855158124"
+            },
+            {
+              "index": 3,
+              "text": "Opus 5.5 is a major step up from Opus 5, leading on agentic coding, computer use, and knowledge work.",
+              "url": "https://x.com/claudeai/status/2102435517165912464",
+              "images": [
+                "img/x/HS1ZEbkXAAABmav.png"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Opus 5.5 requires less compute to serve than Opus 5, and its pricing reflects that.\n\nOur tests show that at default settings it will cost 40% less than Opus 5 on typical workloads.",
+              "url": "https://x.com/claudeai/status/2102435522190717210",
+              "images": [
+                "img/x/HS1XWO4XQAAsB0k.png"
+              ]
+            },
+            {
+              "index": 5,
+              "text": "At its default effort setting, Opus 5.5 delivers frontier results for a fraction of the cost per task, often beating other models running at their highest settings.\n\nIt also generates output more than 30% faster than Opus 5.",
+              "url": "https://x.com/claudeai/status/2102435525399331254",
+              "images": [
+                "img/x/HS1XbkUX0AAlGO-.png",
+                "img/x/HS1XbkSXYAA9vyn.jpg",
+                "img/x/HS1XbkVXsAAmOBR.png",
+                "img/x/HS1XbkrWwAA4ltz.png"
+              ]
+            },
+            {
+              "index": 6,
+              "text": "Opus 5.5 communicates more naturally, addressing some of the most common feedback we heard on Opus 5. \n\nIt puts the most important information up front and follows the writing rules you give it, which makes long sessions easier to follow.",
+              "url": "https://x.com/claudeai/status/2102435529044250670",
+              "images": [
+                "img/x/HS1Xh76WMAATuWk.png"
+              ]
+            },
+            {
+              "index": 7,
+              "text": "Together, these advances make Opus 5.5 a noticeably better collaborator. We’re excited to see what you build and discover.\n\nRead more: https://anthropic.com/claude-opus-5-5",
+              "url": "https://x.com/claudeai/status/2102435535889523157"
+            },
+            {
+              "index": 8,
+              "text": "One more thing: we’re increasing five-hour usage limits on Pro, Max, and Team plans. We’re also providing subscription users a rate limit reset, which you can save and use whenever you choose.",
+              "url": "https://x.com/claudeai/status/2102435538120691886"
+            }
+          ],
+          "images": [
+            "img/x/HS1ZEbkXAAABmav.png",
+            "img/x/HS1XWO4XQAAsB0k.png",
+            "img/x/HS1XbkUX0AAlGO-.png",
+            "img/x/HS1XbkSXYAA9vyn.jpg",
+            "img/x/HS1XbkVXsAAmOBR.png",
+            "img/x/HS1XbkrWwAA4ltz.png",
+            "img/x/HS1Xh76WMAATuWk.png"
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2102438800836489554",
+          "date": "2026-09-22T16:44:06Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Opus 5.5 performs at the level of Fable 5.1. It's ~30% faster and ~40% cheaper than Opus 5 per task.\n\nIn Claude Code:\n- 5-hour session limits increase 20% today\n- Opus 5.5 is priced lower, so it goes 25% further within limits\n- Pro, Max, and Team users get a reset to use anytime",
+              "url": "https://x.com/ClaudeDevs/status/2102438800836489554",
+              "images": [
+                "img/x/HS1bH5zaUAAFcD9.png"
+              ]
+            },
+            {
+              "index": 2,
+              "text": "If you're on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22.\n\nOpus 5.5 is the default for paid plans. It's priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
+              "url": "https://x.com/ClaudeDevs/status/2102438803013333469"
+            }
+          ],
+          "images": [
+            "img/x/HS1bH5zaUAAFcD9.png"
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2102471866635919731",
+          "date": "2026-09-22T18:55:29Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "A thread of early explorations with Claude Opus 5.5:\n\nA short story about a watermelon created by @kevin_t_ngo.",
+              "url": "https://x.com/claudeai/status/2102471866635919731"
+            }
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2102481806121648455",
+          "date": "2026-09-22T19:34:59Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "$ setting up Sell Short day for tomorrow.  Nice topping 3 pushes up on 240 minute.  2 Per ROC poised to flip down tomorrow.",
+              "url": "https://x.com/LindaRaschke/status/2102481806121648455",
+              "images": [
+                "img/x/HS2D2V8WIAA-All.png",
+                "img/x/HS2D8OiWcAADtPl.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HS2D2V8WIAA-All.png",
+            "img/x/HS2D8OiWcAADtPl.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2102482109919007187",
+          "date": "2026-09-22T19:36:11Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Mentioned yesterday that Silver would have a better Buy Day setup today. Good odds of upside followthrough tomorrow.",
+              "url": "https://x.com/LindaRaschke/status/2102482109919007187",
+              "images": [
+                "img/x/HS2EJ8zWoAEP35p.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HS2EJ8zWoAEP35p.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2102482428644483262",
+          "date": "2026-09-22T19:37:27Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Gold, still the laggard in the metals but at least it put in a higher low today.",
+              "url": "https://x.com/LindaRaschke/status/2102482428644483262",
+              "images": [
+                "img/x/HS2EfxxWkAAYUiQ.png",
+                "img/x/HS2En47XsAAtPUu.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HS2EfxxWkAAYUiQ.png",
+            "img/x/HS2En47XsAAtPUu.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2102482773256667516",
+          "date": "2026-09-22T19:38:50Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "About Time!",
+              "url": "https://x.com/LindaRaschke/status/2102482773256667516"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2102491840612380934",
+          "date": "2026-09-22T20:14:51Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Try these in your first Opus 5.5 session:\n\n→ Hand over a whole task. Define \"done\" and when to check in.\n→ Drop \"think carefully\". It always thinks first.\n→ After a long run, check what it needs to go further.\n\nOur playbook: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+              "url": "https://x.com/ClaudeDevs/status/2102491840612380934"
+            }
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
+          "text": "Sale EU live (browser 23.09): 19 rezultate. Banner „up to 25%”. Markdown tipic ~25–30% (ex. Gobi II Sneaker Leather Mens €160→€120 −25%; Motus Strength II Mens €170→€128 ~25%; Primus Trail Flow Womens €160→€120 −25%; Tracker Ora Sandal Womens €130→€91 −30%). Fără cod. /eu/offers: no active promotions. Newsletter first-order 15% — exclus.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Kids Clearance EU – încălțăminte copii la reducere",
+          "text": "Kids Clearance /eu/kids/sale (fetch 23.09): 6 rezultate vizibile. Ex. Primus Sport IV Kids €82→€62 ~24%; Preschool €76→€53 ~30%; Toddlers €70→€49 −30%; Primus Ludo School Kids €88→€62 ~30% / Preschool €82→€57 ~30%; Thermal Insole Juniors €9→€5. Fără cod.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "sale_kids"
+        },
+        {
+          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
+          "text": "Program oficial EU (browser 23.09 FAQ): Trade in old sneakers → voucher 20% pe full-price după shipping. Cod valabil 3 luni. Free label. Ideal clienți care revin.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
+          "category": "take_back",
+          "expires": "cod personal după shipping (durată per email voucher)"
+        },
+        {
+          "title": "VivoRewards – 20% la fiecare Milestone (500 puncte)",
+          "text": "Program loialitate oficial EU. Marketing + T&C: 20% off la fiecare Milestone 500 puncte. FAQ /eu/vivo-rewards încă menționează uneori 15% la convertire — păstrăm 20% per T&C/headline. Puncte: footwear, Take Back +100, review, join, referral etc. Codurile nu se combină; currency-locked. Puncte: 12 luni. Exclus: Free Express Delivery la prima comandă (first-order).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
+          "category": "loyalty",
+          "expires": "cod Milestone: per T&C; puncte: 12 luni"
+        },
+        {
+          "title": "Refer a Friend EU – 15% pentru amândoi (după referral reușit)",
+          "text": "Browser 23.09 pe /eu/share: **15% off yourself** confirmat (Mention Me; personal, nu public). Research fetch menționa 20% pe alte pagini — păstrăm 15% per banner live. Accent pe beneficiul referrer (client care revine).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/share",
+          "category": "refer_a_friend"
+        },
+        {
+          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
+          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
+          "category": "key_worker_conditional"
+        },
+        {
+          "title": "Student – 20% (condițional, verificare Gocertify)",
+          "text": "Reducere student 20% după verificare pe Gocertify. De obicei: full-price only, nu se combină cu alte promoții. Eligibilitate: peste 15 ani, educație full-time. Eligibilitate necunoscută pentru cititor – publică doar condițional.",
+          "store": "Vivobarefoot",
+          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
+          "category": "student_conditional"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-09-22",
       "edition": "22.09.2026",
@@ -234,75 +492,6 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788228"
         }
       ]
-    },
-    {
-      "date": "2026-09-20",
-      "label": "20 septembrie 2026",
-      "edition": "20.09.2026",
-      "stiri": [],
-      "cupoane": [
-        {
-          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
-          "text": "Markdown-uri active pe vivobarefoot.com/eu/sale (verificat 2026-09-20): stiluri adult selectate, tipic ~25–30% (ex. Gobi II Sneaker Leather 160→120 €, Motus Strength II 170→128 €, Primus Trail Flow 160→119/120 €, Tracker Ora Sandal 130→91 €, Sensus Yin Slide 130→98 €, Primus Flow Knit 130→105 €, Motus Studio Sock Boot 170→119 €). Fără cod promo. /eu/offers: „There are no active promotions at the moment” (FEEL50 expirat Dec 2025; Buy 2 Kids 20% off a închis 2 Sep 2026).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Kids Clearance EU – încălțăminte copii la reducere",
-          "text": "Clearance kids pe vivobarefoot.com/eu/kids/sale (verificat 2026-09-20): Primus Sport IV Kids 82→62 €, Preschool 76→53 €, Toddlers 70→49 €; Primus Ludo School Kids 88→62 € / Preschool 82→57 €; Thermal Insole Juniors 9→5 €. Reduceri tipice ~25–30%. Fără cod.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "sale_kids"
-        },
-        {
-          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
-          "text": "Program oficial EU (eu/recycle-and-upcycle): trimiți adidași vechi (Vivo sau alt brand, orice stare), shipping label gratuit (UK/EU/USA). După expediere + Reference ID primești pe email un cod 20% off pe articole full-price pe Vivobarefoot.com. Cod valabil 3 luni. Membrilor VivoRewards: +100 puncte per retur (max 4/lună calendaristică, T&C). O trimitere = un cod; pentru mai multe perechi, proces separat. Ideal clienți care revin (nu e first-order).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
-          "category": "take_back",
-          "expires": "3 luni de la emiterea codului personal"
-        },
-        {
-          "title": "VivoRewards – 20% la fiecare Milestone (500 puncte)",
-          "text": "Program loialitate oficial EU. T&C VivoRewards (effective 15 Dec 2025 pe eu/terms-and-conditions): la 500 puncte se generează automat un cod 20% off (expiră la 30 zile de la emitere; trebuie să fii logat). Puncte: footwear +150, Take Back +100 (max 4/lună), review +50, join +200, foot assessment +150, referral +200 etc. Codurile nu se combină; currency-locked. Punctele: 12 luni. Notă: FAQ pe /eu/vivo-rewards încă menționează uneori 15% – T&C oficiale spun 20%. Potrivit clienților care revin. Exclus: Free Express Delivery la prima comandă (first-order).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
-          "category": "loyalty",
-          "expires": "cod 20%: 30 zile de la emitere; puncte: 12 luni"
-        },
-        {
-          "title": "Refer a Friend EU – 20% pentru amândoi (după referral reușit)",
-          "text": "Banner oficial EU: „Refer a friend and you'll both get 20% off your next order” (link eu/share). Referrer: primești 20% după ce prietenul face o cumpărătură eligibilă (+200 puncte VivoRewards, max 30 referral/lună). Prietenul: 20% pe comanda lui (de obicei prima). Necesită cont / login pe pagina Share. Nu e cod public static. Accent pe beneficiul referrer (client care revine); partea prietenului e tipic first-purchase.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/share",
-          "category": "refer_a_friend"
-        },
-        {
-          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
-          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "key_worker_conditional"
-        },
-        {
-          "title": "Student – 20% (condițional, verificare Gocertify)",
-          "text": "Reducere student 20% după verificare pe Gocertify (pagina oficială partner). De obicei: full-price only, nu se combină cu alte promoții. Eligibilitate: peste 15 ani, educație full-time. Eligibilitate necunoscută pentru cititor – publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
-          "category": "student_conditional"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "20.09.2026 Tensiuni geopolitice, hype-ul Muse by AM",
-          "date": "20.09.2026",
-          "summary": "**Context**\n• Lecție video ~45:09 (fără text pe pagină); conținut din transcript ASR (Whisper RO).\n• Două majorări de dobândă în săptămână, legate de midterms US + tensiuni Orient; rotație spre energie (bottleneck datacenter).\n\n**Macro / indici**\n• NASDAQ: zone ~28.600–28.670 (suport) / ~29.900 (rezistență); suporturi ~28.230 / ~28.645 — așteaptă reacție, apoi posibilă scădere.\n• Lateral clar; pe S&P a existat străpungere a lateralului.\n• VIX: pump spre ~18,5, apoi retragere; scenarii ~15 sau ~20 după geopolitics.\n• DXY: bounce; ~100–105 ca rezistență de urmărit.\n• Petrol: retest ~96; pe tensiuni → mai degrabă 106–109 (nu neapărat 96→83). Spargere >~108 + yields 10Y >5% = test/squeeze.\n• Russell ~−16%, Dow ~−15%; S&P ~−1,5%; NASDAQ ~−3% (fusese ~−6%); volume mici — nu e încă o corecție „reală”.\n\n**Geopolitică**\n• Orient: Iran/Houthis, alertă SUA, Bab el-Mandeb; pregătire acțiune vs Houthis; escaladare → presiune petrol + bonds.\n• Europa: tensiuni NATO/Rusia (granițe, culoar LT–PL) = risc risk-off pe equity.\n• Midterms: ~60% șanse democrații răstoarnă camerele; „vot împotriva”; combustibil/inflație/dobânzi lovesc alegătorul R.\n\n**Structură piață**\n• NYSE overnight → spre ~24h: limit orders + planificare > discretionary continuu; ~70% volum short-term algo/MM.\n\n**META / Muse**\n• Muse #1 downloads US (hype tip ChatGPT); Oppenheimer: potențial ~$28B venituri AI până ~2027 / ~115M users / marje foarte mari dacă se materializează.\n• Grafic: respingere din ~680 (nivel menționat ca exit dacă te-ai plictisit).\n• AM deține ~300 acțiuni META (cost mediu tipic ~603); la 680–682 profit ~13%/an — nu iese pe hype.\n• La ~550 META (~1,4–1,5T market cap) = „aproape gratis” — ar cumpăra agresiv; „să fii nebun să vinzi la 550”.\n\n**Portofoliu / teme**\n• Piramida: energie → datacenters → hyperscalers/chips/neocloud.\n• Preferință actuală: energie (VST, CEG) pe 6–24 luni; gaz ~2,9–3 spre 4–4,4 ar ajuta Vistra.\n• ORCL: caută sub ~139; AMD aproape ATH după scumpiri chipuri — așteaptă corecție, reintrare dorită ~$400.\n• ETH: cost mediu ~$2.000; interesant sub ~2.200 / ~2.000; până scad ratele, energie > crypto.\n• Diversificare ușoară în afara AI (ex. NFLX pe dip puternic).",
-          "recommendations": "• META — HOLD pe cele ~300 acțiuni; NU ieși pe hype Muse. Dacă te-ai plictisit: la ~680 poți tăia/trim și realoca; el personal nu taie.\n• META — pe pullback spre ~550: cumpără / mărește agresiv („la 550 e aproape gratis”).\n• Vistra (VST) — interes mare; dacă scade spre ~134, cumpără mai mult.\n• Constellation (CEG) — urmărește / alocare pe energie (teză bottleneck datacenter).\n• Energie (VST/CEG etc.) — plasamentul „bun” al anului în viziunea lui; horizon ~6–24 luni; predominant vs risk assets până scad ratele.\n• Oracle — așteaptă sub ~139 pentru achiziții.\n• AMD — așteaptă corecție cu piața; reintrare dorită spre ~$400 (nu chase ATH).\n• ETH — interesant sub ~2.200 / sub ~2.000; până atunci energie > crypto ca plasament predominant.\n• Petrol — pe escaladare urmărește 106–109; >~108 + yields >5% = alertă squeeze/test.\n• NASDAQ — urmărește 28.600–28.670 / 29.900; reacție apoi posibilă scădere; fără panică pe volume mici.\n• Midterms — pregătește scenariu democrați pe camere (~60%); nu baza totul pe agenda R.\n• NYSE 24h — ordine LIMIT pe grafic + planificare în avans (esențial).\n• Diversifică ușor în afara AI (ex. NFLX la dip), păstrând greutatea pe creștere/energie/infra.\n• Continuă să înveți / adaptează-te la algo, options short-dated, structură nouă.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788231"
-        }
-      ],
-      "xPosts": []
     }
   ]
 }
