@@ -149,71 +149,7 @@
           ]
         }
       ],
-      "cupoane": [
-        {
-          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
-          "text": "Sale EU live (browser 25.09): 10 rezultate (ieri 18). Markdown tipic ~25% (ex. Primus Flow Knit Womens €130→€105; Motus Studio Sock Boot Womens €170→€119; Gobi Wavey Mule Womens €150→€105; Hydra ESC Mens €180→€126; tee €30→€15). Fără cod. Headline: Signature quality, lower prices.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Kids Clearance EU – încălțăminte copii la reducere",
-          "text": "Kids Clearance /eu/kids/sale (browser 25.09): 5 stiluri, ~24–30% (ex. Primus Sport IV Preschool €76→€53). Fără cod.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "sale_kids"
-        },
-        {
-          "title": "30SAVE – Spend More Save More (€30 la €160+)",
-          "text": "Promo oficială 24–30 sep 2026 (T&C + /eu/offers). Cart-validat EU 25.09: Motus Strength II Mens €170 → €140 (−€30). Doar selecție full-price; exclude Sale/outlet/ReVivo; nu se combină. Unele stiluri (ex. Gobi III) pot fi excluse — verifică în coș.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/offers",
-          "category": "promo_code"
-        },
-        {
-          "title": "60SAVE – Spend More Save More (€60 la €260+)",
-          "text": "Promo oficială 24–30 sep 2026. Cart-validat EU 25.09: 2× Motus Strength II (€340) → €280 (−€60). Aceleași excluderi ca 30SAVE; nu se combină cu alte coduri/VivoRewards.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/offers",
-          "category": "promo_code"
-        },
-        {
-          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
-          "text": "Browser 25.09: Trade in old sneakers → 20% pe full-price Vivos + puncte VivoRewards pentru membri. Alte branduri acceptate.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
-          "category": "take_back"
-        },
-        {
-          "title": "VivoRewards – Milestone 20% la 500 puncte",
-          "text": "Browser/cart 25.09: Every time you reach a 500 point Milestone, you get 20%. Logat, 30 zile, o reducere/tranzacție. Exclus: Free Express Delivery first-order.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
-          "category": "loyalty"
-        },
-        {
-          "title": "Refer a Friend EU – 15% pentru amândoi (după referral reușit)",
-          "text": "Browser 25.09 pe /eu/share: «Treat a friend to 15% off and get 15% off for yourself.» (Mention Me; personal, nu public). Research a zis 20% — folosim browser 15%/15%.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/share",
-          "category": "refer_a_friend"
-        },
-        {
-          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
-          "text": "Reducere 15% pentru key workers după verificare pe Gocertify. Publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "key_worker_conditional"
-        },
-        {
-          "title": "Student – 20% (condițional, verificare Gocertify)",
-          "text": "Reducere student/elev full-time după verificare Gocertify; procent tipic 20% pe full-price; nu se combină. Publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
-          "category": "student_conditional"
-        }
-      ],
+      "cupoane": [],
       "gyh": [
         {
           "title": "25.09.2026 Am vandut 500 AMD si explic de ce...",
@@ -397,57 +333,7 @@
           ]
         }
       ],
-      "cupoane": [
-        {
-          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
-          "text": "Browser 24.09: 18 results (was 19). Typical ~25–30%. Examples: Gobi II Leather Mens €160→€120; Primus Trail Flow W €160→€120; Motus Strength II M €170→€128; Tracker Ora Sandal W €130→€91.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Kids Clearance EU – încălțăminte copii la reducere",
-          "text": "Thermal Insole Juniors 9→5 (~44%) accessory outlier. Shoes ~24–30%.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "sale_kids"
-        },
-        {
-          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
-          "text": "Trade any old sneakers (Vivo or other brands) → email voucher 20% off full-price on vivobarefoot.com. +100 VivoRewards pts if member. Free shipping label UK/EU/USA.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
-          "category": "take_back"
-        },
-        {
-          "title": "VivoRewards – 15% la fiecare 500 puncte",
-          "text": "Marketing banner says 20%; FAQ + T&Cs: every 500 pts → auto 15% code (not combinable). Prefer FAQ/T&Cs. Birthday gift, member drops, express on first order (loyalty, not public cart code).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
-          "category": "loyalty"
-        },
-        {
-          "title": "Refer a Friend EU – 15% pentru amândoi (după referral reușit)",
-          "text": "Browser 24.09: 15% friend + 15% referrer. Prefer browser over research 20% claims.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/share",
-          "category": "refer_a_friend"
-        },
-        {
-          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
-          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "key_worker_conditional"
-        },
-        {
-          "title": "Student – 20% (condițional, verificare Gocertify)",
-          "text": "Reducere student 20% după verificare pe Gocertify. De obicei: full-price only, nu se combină cu alte promoții. Eligibilitate: peste 15 ani, educație full-time. Eligibilitate necunoscută pentru cititor – publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
-          "category": "student_conditional"
-        }
-      ],
+      "cupoane": [],
       "gyh": [
         {
           "title": "24.09.2026 Mai regalam EUFORIA si starea de FOMO !!!",
@@ -668,59 +554,7 @@
           ]
         }
       ],
-      "cupoane": [
-        {
-          "title": "Sale EU – reduceri pe stiluri selectate (fără cod)",
-          "text": "Sale EU live (browser 23.09): 19 rezultate. Banner „up to 25%”. Markdown tipic ~25–30% (ex. Gobi II Sneaker Leather Mens €160→€120 −25%; Motus Strength II Mens €170→€128 ~25%; Primus Trail Flow Womens €160→€120 −25%; Tracker Ora Sandal Womens €130→€91 −30%). Fără cod. /eu/offers: no active promotions. Newsletter first-order 15% — exclus.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Kids Clearance EU – încălțăminte copii la reducere",
-          "text": "Kids Clearance /eu/kids/sale (fetch 23.09): 6 rezultate vizibile. Ex. Primus Sport IV Kids €82→€62 ~24%; Preschool €76→€53 ~30%; Toddlers €70→€49 −30%; Primus Ludo School Kids €88→€62 ~30% / Preschool €82→€57 ~30%; Thermal Insole Juniors €9→€5. Fără cod.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "sale_kids"
-        },
-        {
-          "title": "Take Back / ReVivo – 20% la pereche full-price după reciclare",
-          "text": "Program oficial EU (browser 23.09 FAQ): Trade in old sneakers → voucher 20% pe full-price după shipping. Cod valabil 3 luni. Free label. Ideal clienți care revin.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/recycle-and-upcycle",
-          "category": "take_back",
-          "expires": "cod personal după shipping (durată per email voucher)"
-        },
-        {
-          "title": "VivoRewards – 20% la fiecare Milestone (500 puncte)",
-          "text": "Program loialitate oficial EU. Marketing + T&C: 20% off la fiecare Milestone 500 puncte. FAQ /eu/vivo-rewards încă menționează uneori 15% la convertire — păstrăm 20% per T&C/headline. Puncte: footwear, Take Back +100, review, join, referral etc. Codurile nu se combină; currency-locked. Puncte: 12 luni. Exclus: Free Express Delivery la prima comandă (first-order).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivo-rewards",
-          "category": "loyalty",
-          "expires": "cod Milestone: per T&C; puncte: 12 luni"
-        },
-        {
-          "title": "Refer a Friend EU – 15% pentru amândoi (după referral reușit)",
-          "text": "Browser 23.09 pe /eu/share: **15% off yourself** confirmat (Mention Me; personal, nu public). Research fetch menționa 20% pe alte pagini — păstrăm 15% per banner live. Accent pe beneficiul referrer (client care revine).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/share",
-          "category": "refer_a_friend"
-        },
-        {
-          "title": "Key Worker – 15% (condițional, verificare Gocertify)",
-          "text": "Reducere 15% pentru key workers / Blue Light după verificare angajare pe Gocertify. Grupuri eligibile (pot varia pe țară): healthcare, teachers, police/fire, military, care/social, charity, Blue Light. Nu se combină cu alte coduri. Eligibilitate necunoscută pentru cititor – publică doar ca ofertă condițională.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/key-worker",
-          "category": "key_worker_conditional"
-        },
-        {
-          "title": "Student – 20% (condițional, verificare Gocertify)",
-          "text": "Reducere student 20% după verificare pe Gocertify. De obicei: full-price only, nu se combină cu alte promoții. Eligibilitate: peste 15 ani, educație full-time. Eligibilitate necunoscută pentru cititor – publică doar condițional.",
-          "store": "Vivobarefoot",
-          "link": "https://secure.gocertify.me/at/vivobarefoot/student",
-          "category": "student_conditional"
-        }
-      ],
+      "cupoane": [],
       "gyh": []
     }
   ]
