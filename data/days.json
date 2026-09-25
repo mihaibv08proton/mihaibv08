@@ -14,6 +14,296 @@
   },
   "days": [
     {
+      "date": "2026-09-26",
+      "edition": "26.09.2026",
+      "label": "26 septembrie 2026",
+      "stiri": [],
+      "xPosts": [
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2103464032640397769",
+          "date": "2026-09-25T12:38:00Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Copper  - pullback on intraday charts after new momo high on momentum functions.",
+              "url": "https://x.com/LindaRaschke/status/2103464032640397769",
+              "images": [
+                "img/x/HTEBLrBW4AAqkUu.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTEBLrBW4AAqkUu.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2103464338430505019",
+          "date": "2026-09-25T12:39:13Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "SPs - same as Dax:  mild overnight follow through - now at shorting level with resistance at single prints.",
+              "url": "https://x.com/LindaRaschke/status/2103464338430505019",
+              "images": [
+                "img/x/HTEBiQdXwAAPWtp.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTEBiQdXwAAPWtp.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2103466043549372703",
+          "date": "2026-09-25T12:45:59Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "CORN:   example of a \"U-turn\" after a \"failure test\" (failed to make full retest up, almost always get some downside skids when it looks below that last pivot.",
+              "url": "https://x.com/LindaRaschke/status/2103466043549372703",
+              "images": [
+                "img/x/HTEDB7vXMAA4jPi.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTEDB7vXMAA4jPi.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2103466969278071057",
+          "date": "2026-09-25T12:49:40Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Poor CAT: (the butt of Kyle and my latest stock to pick on.)  Its like the Warp Wall....even though it keeps  gapping up, its just too feeble to get any traction.",
+              "url": "https://x.com/LindaRaschke/status/2103466969278071057",
+              "images": [
+                "img/x/HTEDu3IWMAA7UfF.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTEDu3IWMAA7UfF.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2103467838212382906",
+          "date": "2026-09-25T12:53:07Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "twlo,  meta,   zs  (ETC.ETC.ETC) overextended when they pull too far away from 5 SMA. A consolidation day due at the least, or start of reaction down to tag 5 SMA over the next 2 days at the most.",
+              "url": "https://x.com/LindaRaschke/status/2103467838212382906",
+              "images": [
+                "img/x/HTEEiZoWwAA_7w0.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTEEiZoWwAA_7w0.png"
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2103515655760982273",
+          "date": "2026-09-25T16:03:08Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude Opus 5.5 has been out for a few days. Some of our favorite things people have explored and discovered with it so far:\n\nhttps://x.com/RyanSael/status/2102591147927654847?s=20",
+              "url": "https://x.com/claudeai/status/2103515655760982273"
+            },
+            {
+              "index": 2,
+              "text": "https://x.com/hayashimon1/status/2102576886182453454?s=20",
+              "url": "https://x.com/claudeai/status/2103515657761411465"
+            },
+            {
+              "index": 3,
+              "text": "https://x.com/onofumi_AI/status/2102568200122884553?s=20",
+              "url": "https://x.com/claudeai/status/2103515660571824289"
+            },
+            {
+              "index": 4,
+              "text": "https://x.com/victormustar/status/2102707412704919910?s=20",
+              "url": "https://x.com/claudeai/status/2103515663801393201"
+            },
+            {
+              "index": 5,
+              "text": "https://x.com/techartist_/status/2102503719762018434?s=20",
+              "url": "https://x.com/claudeai/status/2103515665822789667"
+            },
+            {
+              "index": 6,
+              "text": "https://x.com/redp314/status/2102475701844676747?s=20",
+              "url": "https://x.com/claudeai/status/2103515668171853944"
+            },
+            {
+              "index": 7,
+              "text": "https://x.com/scheemunai/status/2103059885361598633?s=20",
+              "url": "https://x.com/claudeai/status/2103515670428238179"
+            },
+            {
+              "index": 8,
+              "text": "What are you going to explore with Opus 5.5 this weekend?",
+              "url": "https://x.com/claudeai/status/2103515672777290083"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2103529951408562569",
+          "date": "2026-09-25T16:59:56Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude FM 🎵 music for thinking and building https://x.com/i/broadcasts/1YGNrbqpRvNGw",
+              "url": "https://x.com/ClaudeDevs/status/2103529951408562569"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "date": "2026-09-25T18:13:31Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Opus 5.5 is 20% cheaper per input and output token than Opus 5, and 60% cheaper on cache reads. So what does that actually do to the cost of a task in Claude Code? \n\nWe ran the numbers, and built a calculator so you can run yours from /usage:\n\nhttps://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+              "url": "https://x.com/ClaudeDevs/status/2103548467729887677"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
+          "date": "2026-09-25T19:04:40Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can.",
+              "url": "https://x.com/ClaudeDevs/status/2103561342057943314"
+            },
+            {
+              "index": 2,
+              "text": "As we roll this out, it's available for:\n\n- Pro plans once a week\n- Max and Team Premium plans each time a 5-hour session limit is hit.\n\nIf you need to keep going past the wrap-up, you can continue with extra usage.",
+              "url": "https://x.com/ClaudeDevs/status/2103561343391735842"
+            }
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2103577007938228300",
+          "date": "2026-09-25T20:06:55Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "It’s now easier to build plugins for Claude.\n\nWe built a new portal to submit your plugin, track review, and see usage.\n\nPlugins package MCP and skills, and are becoming the way to build for Claude. MCP usage across Claude products is up 110x this year!\n\nhttps://claude.com/blog/build-plugins-for-claude",
+              "url": "https://x.com/ClaudeDevs/status/2103577007938228300"
+            },
+            {
+              "index": 2,
+              "text": "Two ways to submit:\n\n- Single MCP connector: point to your remote MCP server\n- Plugin bundle: combine MCP servers and skills in a GitHub repo\n\nYou make submissions directly in Claude: https://claude.ai/directory/manage/new",
+              "url": "https://x.com/ClaudeDevs/status/2103577009645289578",
+              "images": [
+                "img/x/HTFnzlFXEAAcPFG.jpg"
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Once you're live, usage analytics show installs by product and version, so you can prioritize fixes and features. You can also see how often your listing is viewed and which searches lead people to it.",
+              "url": "https://x.com/ClaudeDevs/status/2103577013420499405",
+              "images": [
+                "img/x/HTFn10JWcAAiotL.jpg"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Plugins are the main way for third-party developers to create extensions for Claude. Over the coming weeks, one discovery experience will roll out across Claude and Claude Code.\n\nRead the blog to learn more: https://claude.com/blog/build-plugins-for-claude",
+              "url": "https://x.com/ClaudeDevs/status/2103577016326914186"
+            },
+            {
+              "index": 5,
+              "text": "Go build plugins for Claude!\n\nhttps://claude.com/docs/build/overview",
+              "url": "https://x.com/ClaudeDevs/status/2103577017748766835"
+            }
+          ],
+          "images": [
+            "img/x/HTFnzlFXEAAcPFG.jpg",
+            "img/x/HTFn10JWcAAiotL.jpg"
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens — 30% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €170 → €119, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens — 30% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €150 → €105, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Vivobarefoot So Long Airsoles T-Shirt Unisex — 50% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €30 → €15, reducere 50%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool — 30,26% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €76 → €53, reducere calculată 30,26%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers — 30% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €70 → €49, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Thermal Insole Juniors — 44,44% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €9 → €5, reducere calculată 44,44%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool — 30,49% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €82 → €57, reducere calculată 30,49%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
+    {
       "date": "2026-09-25",
       "edition": "25.09.2026",
       "label": "25 septembrie 2026",
@@ -350,212 +640,6 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788226"
         }
       ]
-    },
-    {
-      "date": "2026-09-23",
-      "edition": "23.09.2026",
-      "label": "23 septembrie 2026",
-      "stiri": [],
-      "xPosts": [
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2102435511222890900",
-          "date": "2026-09-22T16:31:01Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
-              "url": "https://x.com/claudeai/status/2102435511222890900"
-            },
-            {
-              "index": 2,
-              "text": "Opus 5.5 is our first model since we called for pacing the frontier. As with previous models, it was tested by external evaluators before release, including METR and Frontier Design.\n\nOn our most comprehensive alignment test, it achieves the strongest score to date.",
-              "url": "https://x.com/claudeai/status/2102435514855158124"
-            },
-            {
-              "index": 3,
-              "text": "Opus 5.5 is a major step up from Opus 5, leading on agentic coding, computer use, and knowledge work.",
-              "url": "https://x.com/claudeai/status/2102435517165912464",
-              "images": [
-                "img/x/HS1ZEbkXAAABmav.png"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "Opus 5.5 requires less compute to serve than Opus 5, and its pricing reflects that.\n\nOur tests show that at default settings it will cost 40% less than Opus 5 on typical workloads.",
-              "url": "https://x.com/claudeai/status/2102435522190717210",
-              "images": [
-                "img/x/HS1XWO4XQAAsB0k.png"
-              ]
-            },
-            {
-              "index": 5,
-              "text": "At its default effort setting, Opus 5.5 delivers frontier results for a fraction of the cost per task, often beating other models running at their highest settings.\n\nIt also generates output more than 30% faster than Opus 5.",
-              "url": "https://x.com/claudeai/status/2102435525399331254",
-              "images": [
-                "img/x/HS1XbkUX0AAlGO-.png",
-                "img/x/HS1XbkSXYAA9vyn.jpg",
-                "img/x/HS1XbkVXsAAmOBR.png",
-                "img/x/HS1XbkrWwAA4ltz.png"
-              ]
-            },
-            {
-              "index": 6,
-              "text": "Opus 5.5 communicates more naturally, addressing some of the most common feedback we heard on Opus 5. \n\nIt puts the most important information up front and follows the writing rules you give it, which makes long sessions easier to follow.",
-              "url": "https://x.com/claudeai/status/2102435529044250670",
-              "images": [
-                "img/x/HS1Xh76WMAATuWk.png"
-              ]
-            },
-            {
-              "index": 7,
-              "text": "Together, these advances make Opus 5.5 a noticeably better collaborator. We’re excited to see what you build and discover.\n\nRead more: https://anthropic.com/claude-opus-5-5",
-              "url": "https://x.com/claudeai/status/2102435535889523157"
-            },
-            {
-              "index": 8,
-              "text": "One more thing: we’re increasing five-hour usage limits on Pro, Max, and Team plans. We’re also providing subscription users a rate limit reset, which you can save and use whenever you choose.",
-              "url": "https://x.com/claudeai/status/2102435538120691886"
-            }
-          ],
-          "images": [
-            "img/x/HS1ZEbkXAAABmav.png",
-            "img/x/HS1XWO4XQAAsB0k.png",
-            "img/x/HS1XbkUX0AAlGO-.png",
-            "img/x/HS1XbkSXYAA9vyn.jpg",
-            "img/x/HS1XbkVXsAAmOBR.png",
-            "img/x/HS1XbkrWwAA4ltz.png",
-            "img/x/HS1Xh76WMAATuWk.png"
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2102438800836489554",
-          "date": "2026-09-22T16:44:06Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Opus 5.5 performs at the level of Fable 5.1. It's ~30% faster and ~40% cheaper than Opus 5 per task.\n\nIn Claude Code:\n- 5-hour session limits increase 20% today\n- Opus 5.5 is priced lower, so it goes 25% further within limits\n- Pro, Max, and Team users get a reset to use anytime",
-              "url": "https://x.com/ClaudeDevs/status/2102438800836489554",
-              "images": [
-                "img/x/HS1bH5zaUAAFcD9.png"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "If you're on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22.\n\nOpus 5.5 is the default for paid plans. It's priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
-              "url": "https://x.com/ClaudeDevs/status/2102438803013333469"
-            }
-          ],
-          "images": [
-            "img/x/HS1bH5zaUAAFcD9.png"
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2102471866635919731",
-          "date": "2026-09-22T18:55:29Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "A thread of early explorations with Claude Opus 5.5:\n\nA short story about a watermelon created by @kevin_t_ngo.",
-              "url": "https://x.com/claudeai/status/2102471866635919731"
-            }
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102481806121648455",
-          "date": "2026-09-22T19:34:59Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "$ setting up Sell Short day for tomorrow.  Nice topping 3 pushes up on 240 minute.  2 Per ROC poised to flip down tomorrow.",
-              "url": "https://x.com/LindaRaschke/status/2102481806121648455",
-              "images": [
-                "img/x/HS2D2V8WIAA-All.png",
-                "img/x/HS2D8OiWcAADtPl.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS2D2V8WIAA-All.png",
-            "img/x/HS2D8OiWcAADtPl.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102482109919007187",
-          "date": "2026-09-22T19:36:11Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Mentioned yesterday that Silver would have a better Buy Day setup today. Good odds of upside followthrough tomorrow.",
-              "url": "https://x.com/LindaRaschke/status/2102482109919007187",
-              "images": [
-                "img/x/HS2EJ8zWoAEP35p.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS2EJ8zWoAEP35p.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102482428644483262",
-          "date": "2026-09-22T19:37:27Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Gold, still the laggard in the metals but at least it put in a higher low today.",
-              "url": "https://x.com/LindaRaschke/status/2102482428644483262",
-              "images": [
-                "img/x/HS2EfxxWkAAYUiQ.png",
-                "img/x/HS2En47XsAAtPUu.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS2EfxxWkAAYUiQ.png",
-            "img/x/HS2En47XsAAtPUu.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102482773256667516",
-          "date": "2026-09-22T19:38:50Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "About Time!",
-              "url": "https://x.com/LindaRaschke/status/2102482773256667516"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2102491840612380934",
-          "date": "2026-09-22T20:14:51Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Try these in your first Opus 5.5 session:\n\n→ Hand over a whole task. Define \"done\" and when to check in.\n→ Drop \"think carefully\". It always thinks first.\n→ After a long run, check what it needs to go further.\n\nOur playbook: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-              "url": "https://x.com/ClaudeDevs/status/2102491840612380934"
-            }
-          ]
-        }
-      ],
-      "cupoane": [],
-      "gyh": []
     }
   ]
 }
