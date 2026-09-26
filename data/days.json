@@ -14,6 +14,62 @@
   },
   "days": [
     {
+      "date": "2026-09-27",
+      "xPosts": [],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens — 30% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €170 → €119, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens — 30% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €150 → €105, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Vivobarefoot So Long Airsoles T-Shirt Unisex — 50% reducere",
+          "text": "Sale oficial Vivobarefoot EU: €30 → €15, reducere 50%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool — 30,26% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €76 → €53, reducere calculată 30,26%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers — 30% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €70 → €49, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Thermal Insole Juniors — 44,44% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €9 → €5, reducere calculată 44,44%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool — 30,49% reducere",
+          "text": "Kids Sale oficial Vivobarefoot EU: €82 → €57, reducere calculată 30,49%; afișat ca disponibil în stoc la verificare.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/kids/sale",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
+    {
       "date": "2026-09-26",
       "edition": "26.09.2026",
       "label": "26 septembrie 2026",
@@ -455,197 +511,6 @@
           "summary": "**Decizie / mesaj central**\n• Aseară: vândut 500 AMD din 2000 (poziție ~35% din portofoliu) — management al ponderii, NU panică / NU pierdere de teză AMD.\n• Mecanică: închis 20 covered call DEC 2028 (−420.000 USD) → eliberat acțiunile → vândut 500 AMD (+312.500 USD) + 500 CSP SOFI DEC 2028 strike 13$ (+130.000 USD premium) → acoperit și minusul pe IBKR din 100 VST cumpărate în marjă.\n• Portofoliu: 3.700.000 → 3.400.000 USD (−~10%); rămâne cu 1500 AMD libere + CC noi strike 696$ / scadență 9 OCT. Asumat conștient; nu copiați mecanic.\n• Mesaj: diferență între a reacționa la o mișcare pe ecran și a înțelege mecanica; lichiditate = activ, nu declarație pesimistă.\n\n**Reacția pieței**\n• Închidere aparent calmă: SP500 7.704,13 (−0,02%); Nasdaq 26.939,37 (+0,01%); Dow 51.349,98 (−0,31%).\n• Sub suprafață: US10Y 5,2251% (maxim ~19 ani); US30Y 5,5016% (maxim din 2004); US2Y ~4,9035%.\n• Fed futures: ~71% probabilitate majorare luna viitoare (vs ~53% la începutul săptămânii); >90 bps de înăsprire suplimentară deja în preț (~4×25 bps).\n• Brent ~105,75$; DXY ~101,25 (+~1% săptămâna); Nasdaq aproape neschimbat → reziliență ≠ imunitate; digestie a costului capitalului pe săptămâni, nu ore.\n• Breadth: decliners/advancers SP500 ~1,9:1; SP500 14 ATH / 41 new lows; Nasdaq 53 ATH / 238 new lows; 8/11 sectoare pe roșu (materials ~−1,18%, staples ~−0,96%). Divergență indice rezilient vs amplitudine care se deteriorează = fragilitate, nu semnal automat de crash.\n• Separare AI: AMD +2,4%; META +4,5%; AVGO −1,3% — post-QTR OPEX capitalul diferențiază, nu mai merge tot AI în bloc.\n\n**Macro**\n• US10Y >5% → reevaluare globală: acțiuni, imobiliare, PE, credit, crypto, infra. Duration: cashflow-uri îndepărtate (NBIS/RKLB/ASTS/ONDS) lovite mai tare; + canal cost de finanțare (capex data centers/sateliți/fabrici).\n• SP500 multiplu puțin sub ~19× forward earnings — cel mai redus din 2023, deși aproape de maxime: profituri AI ↑ vs multipli comprimați de yields — mediu mai sănătos dacă earnings livrează.\n• Petrol: Brent joi +~3% după rachetă Houthi pe Arabia Saudită; Reuters: explorare proces etapizat Iran–SUA (Hormuz redeschis / relaxare blocadă) → a ajutat recuperarea minimelor. Lanț: Hormuz → petrol → inflație → Fed → Treasuries → Nasdaq.\n• Autorul vede detensionare (nu escaladare): Trump motivat pre-midterms; piața anticipează Brent spre ~70$ + acord comerț China → potențial euforie AMD/META până midterms; SP500 ~8.000 nu ar fi surpriză.\n• Trump–Xi: spectacol (covor roșu, cină AI), puține dovezi pe AI/comerț/Taiwan/Iran; Xi reiteră Taiwan. Pentru investitori: evita deteriorarea > mare acord; AMD/AVGO = export controls / AI chips / networking; piață = tarife / rare earths.\n• Asia AM: MSCI Asia Pac ex-JP flat; Nikkei +1%; Hang Seng −1%. Bond selloff global: US10Y ~5,19%; US30Y ~5,48%; JGB 10Y ~3,115% (maxim din 1996); AU 10Y ~5,408%.\n\n**Portofoliu / nume cheie**\n• AMD: intrat în clubul $1T; catalizator = inference (nu doar training). Teză acceleratoare/EPYC/rack intactă, dar la $1T piața cere execuție (AI revenue, share, gross margin, FCF). Reducerea de 500 = risk/reward + pondere 35%, nu pierdere de teză. Plan negativ: dacă AMD → ~480–460$, vinde 15–20 CSP DEC 2028 strike 250$ (premium >100k) → răscumpără 200–300 acțiuni. Alternativ: poate nu mai cumpără AMD (are 1500) și se concentrează pe AVGO/SPCX/RKLB/ASTS (+ CRDW/NET pe dip cyber).\n• META: +4,5% pe Charm (device fizic pentru Muse). Stack: Muse (inteligență) + Charm (interfață) + FB/IG/WA (distribuție) + ads/commerce/subs (monetizare) → platformă AI consumer. Muse #1 App Store US download; Claude Opus 5 / GPT-6 Astra top performanță; OpenAI ARR ~40B (aug); Anthropic ARR ~65B (iul) / IPO eval ≥$1T. META ~21,4× forward — ieftin relativ la ce construiește.\n• AVGO: −1,3%; vrea să CREASCĂ poziția. Presiune US10Y + China pe dependența switch Broadcom în data centers state-backed = riscuri reale, NU thesis breaker. Monetizează networking/Ethernet/custom silicon — AI = compute + network + energy + optics + data. Ajustează doar pe pierdere TAM China / slowdown hyperscaler / pierdere share custom — nu religie.\n• Tesla: duration + auto financing; piața plătește și FSD/Robotaxi/Optimus/Energy/AI — progres autonomie compensează parțial, nu complet, la US10Y 5,2%.\n• SpaceX: separă business / acțiune / unlock mechanics; Flight 14 catalizator; Starlink/Falcon/Dragon/Starship teză intactă.\n• PLTR: AIP + gov/defense/commercial + Nebius sovereign AI; evaluare foarte ridicată → ajustează preț/valoare, nu teza.\n• NBIS: bond market = parte din teză; întrebare = cine finanțează GPU-urile (prepay clienți ca hedge).\n• SOFI: mediu Fed mai greu (hike oct 53%→71%); CSP 500× DEC 2028 asumate pe termen lung; urmărește deposits/NIM/delinquencies/originations/FS monetization.\n• HOOD: volatilitate monetizată (options/crypto/prediction); problemă doar dacă retail se retrage persistent — VIX/crypto încă nu arată capitulare.\n• RKLB ~74,5$ (+~6% joi) după +8,2% luni / corecție mie; Neutron + Iridium integration = test valoare per share.\n• ASTS +~4% joi după −6% mie = beta/sector flow; contează producție sateliți / launch / monetizare telcos / cash burn.\n• ONDS: la yields >5% — revenue per share vs capital consumed + dilution (toate 4 metrici).\n• LEU: petrol geopolitic → energy security / nuclear baseload pentru AI data centers; risc = execuție industrială + intensitate capital.\n• IREN: BTC + AI power convexity (și invers); teză mută spre digital infra pe energie — dovezi = contracted AI revenue / utilization / margins.\n• COST: EPS 6,75$ vs 6,54$ (incl. 0,15$ tariff refund); sales +11% la 95,72B; comps +9,4% / adj +6,7%; digital ~+20%; membership income 1,85B — acțiunea −1,1% (+−0,1% AH): fără guidance, beat ajutat de one-off, multiplu ~43× deja „parcare plină”. Lecție: rezultat bun vs ce e în preț.\n\n**Filozofie**\n• Trei concepte diferite: piață bună ≠ companie bună ≠ investiție bună; prețul plătit contează.\n• Strategie pe scenarii, nu predicție: „dacă X fac Y; dacă Z fac W”.\n• Frica → decizii emoționale; respectul costului capitalului → ajustarea riscului (exact ce a făcut pe AMD).\n• Same playbook ca PLTR/SOFI: vinde pentru a securiza profit, răscumpără pe scădere — strategie personală, individualizată.\n• Orizont 5–10 ani; teza AI/spațiu/nuclear/infra digitală intactă — s-a schimbat doar prețul capitalului → mai selectivi, nu mai emoționali.",
           "recommendations": "• VÂNZARE executată: −500 AMD (2000→1500); închis 20 CC DEC 2028 (−420k USD); CSP 500× SOFI DEC 2028 strike 13$ (+130k); încasat ~312,5k din AMD; acoperit minus marjă VST 100; portofoliu 3,7M→3,4M USD; CC noi AMD strike 696$ / 9 OCT.\n• NU panica / NU copia mecanic — management pondere (AMD era ~35%); individualizați pe structură/expunere/toleranță.\n• HOLD 1500 AMD libere (teză inference/$1T intactă); pe dip ~480–460$: plan CSP 15–20× DEC 2028 strike 250$ → premium >100k → răscumpără 200–300 AMD SAU concentrează pe AVGO/SPCX/RKLB/ASTS (+ CRDW/NET pe dip cyber) fără a mai crește AMD.\n• CREȘTE treptat AVGO (și SPCX) pe zona semiconductori / AI infra — dip −1,3% + US10Y 5,2% ≠ invalidare teză; monitorizează China switch / hyperscaler / custom silicon share.\n• CSP SOFI DEC 2028: asumate pe termen lung; urmărește deposits, NIM, delinquencies, originations, FS monetization.\n• NU vinde teza long-term pe US10Y maxim ~19 ani; RĂMÂI pe poziții, respectă costul capitalului, fii mai selectiv la achiziții dacă new lows Nasdaq nu scad.\n• Lichiditate = activ / libertate de mișcare — cumpără doar când afacerea + valoare intrinsecă intacte și prețul e mai bun; NU cumpăra doar pentru că e roșu.\n• Scenariu constructiv: Brent <102$; US10Y <5,10%; US2Y <4,85%; Nasdaq >27.000; amplitudine ↑; progres diplomatic SUA–Iran → reacție pozitivă pe high-beta growth.\n• Scenariu risc: Brent >110$; US10Y >5,30%; US2Y >5%; hike oct →80–90%; Nasdaq pierde 26.500; new lows se extind → comprimare multipli autentică, lichiditățile mai valoroase.\n• Urmărește azi: (1) US10Y 5,20–5,25% (sub 5,10% ajută growth; peste 5,25% presiune multipli); (2) Brent 100–102 vs 105–110; (3) breadth / 238 new lows Nasdaq; (4) relative strength AMD/META vs AVGO; (5) Iran/Hormuz headlines.\n• Țintă personală autor: 5.000.000 USD — calm, pas cu pas, decizii la rece; orizont 5–10 ani.",
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788220"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "edition": "24.09.2026",
-      "label": "24 septembrie 2026",
-      "stiri": [],
-      "xPosts": [
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102740388888924412",
-          "date": "2026-09-23T12:42:30Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "$ on day 10 of extended un up - trend is so strong that the previous three pushes on 240 just missed correcting to EMA.",
-              "url": "https://x.com/LindaRaschke/status/2102740388888924412",
-              "images": [
-                "img/x/HS5vF3EWEAA38av.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS5vF3EWEAA38av.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102742875989737479",
-          "date": "2026-09-23T12:52:23Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Rus on sell short day.  Trends for the day started last night.",
-              "url": "https://x.com/LindaRaschke/status/2102742875989737479",
-              "images": [
-                "img/x/HS5xbYXXYAA7B8U.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS5xbYXXYAA7B8U.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102755290785493267",
-          "date": "2026-09-23T13:41:43Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Bonds: 106'27 key swing low.",
-              "url": "https://x.com/LindaRaschke/status/2102755290785493267",
-              "images": [
-                "img/x/HS58ihJXAAAYxef.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS58ihJXAAAYxef.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102756496488411141",
-          "date": "2026-09-23T13:46:30Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "SPs:  3 bars down off OP after NR7.  same concept as open DRIVE.",
-              "url": "https://x.com/LindaRaschke/status/2102756496488411141",
-              "images": [
-                "img/x/HS59wttWkAAPusq.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS59wttWkAAPusq.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2102756779683942767",
-          "date": "2026-09-23T13:47:38Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "MCD - Sell signal off OP.",
-              "url": "https://x.com/LindaRaschke/status/2102756779683942767",
-              "images": [
-                "img/x/HS5-HEzXEAE_rsu.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HS5-HEzXEAE_rsu.png"
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2102839691154427983",
-          "date": "2026-09-23T19:17:05Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "We made claude​.ai 3x faster in two weeks.\n\nHere’s how we use Claude to measure, debug and improve performance. Prompts and methods included.\n\nhttps://claude.dev/blog/how-we-made-claude-ai-faster/",
-              "url": "https://x.com/ClaudeDevs/status/2102839691154427983"
-            }
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2102840851538080172",
-          "date": "2026-09-23T19:21:42Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:\n\n- Add connectors and plugins like Slack and Notion\n- Buy agents and products from companies like Cursor and CrowdStrike\n- Scale with service partners like Accenture and Deloitte",
-              "url": "https://x.com/claudeai/status/2102840851538080172",
-              "images": [
-                "img/x/HS7KXGZWYAABcx9.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "Browse the marketplace: https://claude.com/marketplace\n\nAnd if you're building for Claude, list your tools, agents or services here: https://claude.com/blog/claude-marketplace",
-              "url": "https://x.com/claudeai/status/2102840855258452037"
-            }
-          ],
-          "images": [
-            "img/x/HS7KXGZWYAABcx9.jpg"
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2102871550974427462",
-          "date": "2026-09-23T21:23:41Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed.\n\nExisting subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.",
-              "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-              "images": [
-                "img/x/HS7mgHtacAAYOqU.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "Cloud sessions run on Anthropic-hosted infrastructure, so the work keeps going even without your computer running. Start one at https://claude.ai/code, from the Code tab in the Claude mobile app, from the desktop app, or with claude --cloud in the CLI.",
-              "url": "https://x.com/ClaudeDevs/status/2102871552849322082"
-            },
-            {
-              "index": 3,
-              "text": "The credit is separate from your usage limits, and it applies automatically once you start a cloud session.\n\nIf you hit a limit locally, keep going in the cloud until your credit runs out. One credit per account, for cloud sessions only.",
-              "url": "https://x.com/ClaudeDevs/status/2102871554069774451"
-            },
-            {
-              "index": 4,
-              "text": "Follow the link below to claim the credit or run /claim-credit in the CLI. You’ll need GitHub connected to start a session. Claim by Oct 7. Terms apply.\n\nhttps://claude.ai/code/claim-credit/10",
-              "url": "https://x.com/ClaudeDevs/status/2102871555244257518"
-            }
-          ],
-          "images": [
-            "img/x/HS7mgHtacAAYOqU.jpg"
-          ]
-        }
-      ],
-      "cupoane": [],
-      "gyh": [
-        {
-          "title": "24.09.2026 Mai regalam EUFORIA si starea de FOMO !!!",
-          "date": "24.09.2026",
-          "summary": "**Decizie / mesaj central**\n• Sentimentul de euforie/FOMO (inclusiv tentația printscreen zilnic al portofoliului) a fost semnal de alarmă; sesiunea roșie de miercuri = lecție educațională, nu panică.\n• Diagnostic: duration shock / cost-of-capital repricing (US10Y + petrol), NU o problemă specifică AI — de aceea Russell a subperformat Nasdaq, fără rotație tech→small caps.\n• Mesaj: NU vindem teza pe termen lung pentru +15 bps pe US10Y; nici nu ignorăm yields. Nu cumpărăm doar pentru că e −5%; nici nu ne speriem de roșu. Răbdare, cash, selectivitate.\n\n**Reacția pieței**\n• S&P 500 ≈ −0,75% (~7706); Nasdaq ≈ −1,13% (~26.936) — capăt seriei de două recorduri; Dow ≈ −0,68%; Russell 2000 ≈ −1,77%.\n• US10Y ≈ +15 bps → ~5,11% (intraday ~5,13%, maxim din 2007); US2Y ~4,85–4,89%; Brent ~$103,08 (+~4%); VIX ~15,2 (+~6,8%); DXY ~101,1; USD/JPY ~158,3; BTC ~$80.4–80.5k (−>~2%).\n• Breadth largă: 9/11 sectoare S&P pe roșu; energie aproape singurul sector clar pozitiv; SOX ≈ −1,2%, NVDA ≈ −1,5% — piața recalibrează multiplul AI la yields ~5,1%, nu abandonează AI.\n• Vocabular corect: repricing / multiple compression, NU crash (VIX ~15, fără panică/credit event).\n\n**Macro**\n• Lanț: petrol ↑ → inflation expectations ↑ → Fed mai restrictiv ↑ → Treasury yields ↑ → discount rate ↑ → PV cashflow-uri growth ↓.\n• Fed: interval recent 3,75–4,00%; Collins hawkish; piața ia în serios higher-for-longer; dacă US2Y → ~5%, majorarea nu mai e văzută izolat.\n• Petrol: de la sub $99 la peste $103 — dependență de headline-uri Orientul Mijlociu; corelație petrol–yields foarte puternică.\n• Summit SUA–China (Xi 23–25 sep / Trump): trade, tarife, AI, rare earths, Taiwan, supply chains — impact potențial pe AMD/AVGO/Meta/AI infra.\n• Indicatori de urmărit azi: (1) US10Y 5,10–5,15% (respirație sub 5,05%; presiune peste 5,20%); (2) Brent 100–105 (sub 100 dezinflaționist; peste 105 hawkish); (3) breadth/Russell; (4) headline-uri concrete SUA–China (earnings-relevant), nu fiecare zvon.\n\n**Portofoliu / nume cheie**\n• AVGO: teză Custom Silicon + networking intactă; headline China (switch-uri până la ~90% în unele facility state-backed, FT/Reuters neverificat) = risk premium, NU thesis breaker. Urmărim restricții formale / impact quantificat / substituție Huawei.\n• AMD: teză AI accelerators/EPYC/inference intactă; după ATH ~$613 / cap >$1T, sensibilitate valuation ↑; autorul se așteaptă la revenire în range ~$500–550. Nu confunda fundamental puternic cu macro deteriorat pe o zi.\n• Meta/Muse: ~2,8M download-uri / ~12 zile; +>$200 mld market cap; faza 2 = pe cine dezintermediază (Expedia/Airbnb −>~7%, Amazon ~−2,2%). Urmărim adoption + trust (inclusiv human concierge / privacy).\n• Tesla: reziliență relativă; teză FSD/Robotaxi/Optimus/Energy; duration mare → US10Y 5,1–5,2% îngreunează extensia multiplului pe termen scurt.\n• SpaceX: pressure din share unlock (~328M shares eligible) + planuri Gwynne Shotwell; fundamental puternic (NASA +~$946M / contract total ~$5,9B); Flight 14 catalizator. Autorul analizează rotație PVST→SPCX dacă SPCX <~$145; vrea să mai cumpere (înapoi ~300 shares vs țintă).\n• PLTR: quality + high multiple + rate sensitivity; parteneriat Nebius Sovereign AI (fără valoare $ publicată). NBIS: exemplar growth vs cost of capital; capex intens — yields ↑ = hurdle ↑. SOFI: US2Y > Nasdaq; Hood: engagement/vol. RKLB/ASTS/ONDS: duration/beta, nu deteriorare fundamentală pe −2%/−6%. LEU: teză energy security/HALEU (+~$500M raise = capital vs diluție). IREN: convexitate BTC+AI (funcționează și invers).\n\n**Filozofie**\n• Emoția se schimbă mai repede decât business-urile; instituțiile fac opusul — cumpără pe frică, vând pe euforie, doar dacă teza e intactă.\n• Business + valuation + macro — niciodată doar una. Temă ≠ investiție: recompensează cine transformă bottleneck-ul în revenue/margin/FCF/valoare per share.\n• Cash = opționalitate (nu predicție de corecție); portofoliul are deja suficient beta. Selectivitate: 15–20 nume urmărite zilnic (coverage redus), analiza long-term pe 35+.\n• Scenariu constructiv: US10Y <~5,05%, Brent <$100–101, Nasdaq recucerește ~27.000, SOX stabil, VIX <18, fără headline negativ major SUA–China.\n• Scenariu risc: US10Y >5,20% (sau spre 5,20–5,25%), US2Y →5%, Brent >$105, VIX >20, Nasdaq pierde ~26.700–26.500 → mai multă lichiditate, lasă piața să ofere prețuri.",
-          "recommendations": "• NU VINDE teza pe termen lung doar pentru că US10Y a avut +~15 bps într-o sesiune; nici nu IGNORA US10Y / petrolul.\n• PĂSTREAZĂ / ACUMULEAZĂ CASH până la început de noiembrie (mid-terms) — opționalitate, nu predicție bear; nu forța cumpărări pe fiecare dip.\n• NU cumpăra automat pe −5%; cumpără doar dipurile potrivite (teză intactă + valuation mai bună). Nu te speria de zilele roșii.\n• HOLD selectiv pe tezele AI infra: AMD, AVGO (central), Meta — fără FOMO după lumânări; la yields ~5,1% piața cere demonstrație (growth/margin/FCF/moat).\n• AMD: așteaptă/urmărește range ~$500–550; teză intactă, dar disciplină de intrare la cap $1T.\n• AVGO: NU schimba teza pe un singur headline China — tratează ca risk premium; monitorizează restricții formale / impact pe revenue / substituție.\n• SpaceX (SPCX): pregătit să mai CUMPERE; analizează rotație PVST→SPCX dacă prețul scade sub ~$145; unlock/supply = market mechanics, nu thesis break.\n• Macro gating constructiv: US10Y <~5,05% + Brent <$100–101 + Nasdaq ~27k + VIX <18. Risc: US10Y >5,20–5,25% și/sau Brent >$105 și/sau VIX >20 → mai multă lichiditate.\n• Urmărește zilnic: US10Y, US2Y, Brent, breadth/Russell, VIX, headline-uri concrete SUA–China (tarife / export controls / rare earths) — nu fiecare zvon.\n• Mantră: răbdare, cash, selectivitate, managementul riscului, orizont investițional — prețul plătit contează la fel de mult ca business-ul extraordinar.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788224"
-        },
-        {
-          "title": "23.09.2026 Trump-Xi , o intalnire extrem de importanta.",
-          "date": "23.09.2026",
-          "summary": "**Decizie / mesaj central**\n• Autorul rămâne pe acțiuni, dar semnal de alarmă: tentația „nesănătoasă” de printscreen la valoarea portofoliului → creșteri prea mari/rapide pe fundamente slabe.\n• Preferă să rămână spectator: nu vinde nimic momentan; din contră, acumulează cash pentru fereastra 2–6 NOI (mid-term elections).\n• Atenție maximă la întâlnirea Trump–Xi și la declarațiile despre IRAN — Trump „poate întoarce” soarta midterms unde democrații au șanse mari la ambele camere.\n\n**Reacția pieței**\n• Nasdaq Composite: record închidere 27.244,28 (+0,45%); S&P 500 ~7.764,64 (≈0%); Dow 51.863,69 (−0,36%).\n• Volum Nasdaq/piață peste medie; breadth slab: 6/11 sectoare S&P pe roșu; Financials −1,68%; pe Nasdaq 48 new highs vs 110 new lows → rally de selecție/concentrare, nu „everything rally”.\n• Leadership clar: AI → semiconductori → memory → networking → optical → infrastructură (favorabil portofoliului GYH).\n• Memory: Micron ~+5%, Sandisk ~+7% după rally-ul AI de luni (Nasdaq +2,26% sesiunea anterioară).\n\n**Macro**\n• Brent ~$98,86 după 5 sesiuni de scădere (speranțe Hormuz); petrol ↓ ajută, dar Fed rămâne hawkish.\n• US10Y ~4,98% (aproape de 5%) — yields nu au coborât proporțional cu petrolul → problema nu e doar energia (Fed, deficit, supply, term premium).\n• Fed: Barkin/Collins hawkish; ~53% probabilitate +25 bps octombrie; Fed Funds recent 3,75%–4,00%.\n• Dolar multi-week highs (USD/JPY ~157,93) — headwind FX pentru AMD/AVGO/Meta.\n• Setup: AI expectations ↑, petrol ↓, Nasdaq ↑, dar US10Y ≈5% și breadth ≠ confirmare.\n\n**Portofoliu / nume cheie**\n• Rebalansare APP → AVGO: Broadcom = poziție centrală (custom AI + networking + VMware); teza intactă, dar risc nou China (switch-uri Broadcom până la ~90% în unele instituții de stat — FT/Reuters, neverificat independent).\n• AMD: capitalizare >$1T; după rally ~10% vrea consolidare; teză inference > training; urmărește MI/EPYC/margins/AI revenue/FCF.\n• Meta Muse: ~2,8M download-uri / 12 zile; +>$200 mld market cap de la lansare; pivot „cât câștigă din AI” vs „cât cheltuie”; Meta Connect = catalizator zilei; efecte de ordin II: Uber/Lyft/Airbnb/Schwab sub presiune pe teama de dezintermediere AI.\n• IonQ: +~12% pre-market pe decoder QEC end-to-end pe un singur CPU; Superion 256 + parteneriat Coreea + instalare în centru Nvidia — progres tehnic, nu doar marketing; nu „alerga după lumânare”.\n• Altele: Tesla (FSD/Robotaxi/Optimus; US10Y > benzină); SpaceX Flight 14 amânat ≥28 sep; PLTR–Nebius sovereign AI; SOFI/HOOD (Fed / risc dezintermediere); RKLB după +8% — execuție; IREN power+GPU; Centrus nuclear/HALEU.\n\n**Filozofie**\n• Nasdaq la maxim ≠ moment de relaxare pe risc — dimpotrivă, margin of safety scade când sentimentul se întoarce din frică în FOMO.\n• Strategie pe valoare per share, nu pe sentiment; duration ridicat pe multe holding-uri → US10Y la fel de important ca AMD/AVGO.\n• Ecosistem: compute (AMD) + custom/networking (AVGO) + cloud (Nebius) + apps (Meta) + power/space/quantum/finance layers.",
-          "recommendations": "• NU VINDE pozițiile acum — rămâi pe acțiuni / spectator; nu lichida pe frica de evaluări întinse.\n• ACUMULEAZĂ CASH pentru fereastra 2–6 NOI (mid-term elections) — opționalitate, nu predicție bear.\n• NU deveni agresiv pe cumpărări noi cât timp US10Y ≈5% și breadth slab, chiar dacă Nasdaq e la record.\n• HOLD / urmărește teza AI infra: AMD, AVGO (central post-rebalansare), Meta (Muse + Connect) — fără FOMO după lumânări.\n• AVGO: teza neschimbată; MONITORIZEAZĂ riscul China pe switch-uri — include în evaluare, nu ieși automat.\n• IonQ: progres real pe error correction — NU alerga după gap-ul de +12%; urmărește bookings/revenue/milestones/cash runway.\n• Macro gating: constructiv dacă Brent <$100 și US10Y <~4,95% cu Nasdaq ținând ~27.000; risc dacă US10Y >5,05–5,10% și/sau Brent >$103–105.\n• Atenție Trump–Xi + headline-uri IRAN — pot întoarce narativul politic/midterms.\n• Mantră: răbdare, cash, selectivitate, managementul riscului — fundamental × valuation; ambele contează.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788226"
         }
       ]
     }
