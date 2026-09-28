@@ -14,6 +14,350 @@
   },
   "days": [
     {
+      "date": "2026-09-29",
+      "xPosts": [
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104339526285983942",
+          "date": "2026-09-27T22:36:54Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Trading Sardines should be back in stock on Amazon sometime this week for U.S. traders.  And, it is now available in print on demand format for those outside the US (check your local Amazon)!",
+              "url": "https://x.com/LindaRaschke/status/2104339526285983942",
+              "images": [
+                "img/x/HTQdTCcXYAAWORL.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTQdTCcXYAAWORL.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104569375764132106",
+          "date": "2026-09-28T13:50:14Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "MRVL:  also early sell....",
+              "url": "https://x.com/LindaRaschke/status/2104569375764132106",
+              "images": [
+                "img/x/HTTupm3XcAEChbd.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTTupm3XcAEChbd.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104570326369644672",
+          "date": "2026-09-28T13:54:01Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Early pace of volume decent for a Monday!",
+              "url": "https://x.com/LindaRaschke/status/2104570326369644672",
+              "images": [
+                "img/x/HTTvdSIXQAANab7.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTTvdSIXQAANab7.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104571153419559419",
+          "date": "2026-09-28T13:57:18Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "small body, big tail:  one of the patterns that can lead to a trend day (was on all grains)",
+              "url": "https://x.com/LindaRaschke/status/2104571153419559419",
+              "images": [
+                "img/x/HTTwGsPXkAAkrNN.png",
+                "img/x/HTTwL7HWEAAz6TL.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTTwGsPXkAAkrNN.png",
+            "img/x/HTTwL7HWEAAz6TL.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104572023557193732",
+          "date": "2026-09-28T14:00:46Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Multi quadrillion dollar question:  How far down can they push gasoline prices before midterms? (!!!)",
+              "url": "https://x.com/LindaRaschke/status/2104572023557193732",
+              "images": [
+                "img/x/HTTw30pXkAEw1s-.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTTw30pXkAEw1s-.png"
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2104633115620823187",
+          "date": "2026-09-28T18:03:31Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+              "url": "https://x.com/claudeai/status/2104633115620823187",
+              "images": [
+                "img/x/HTUthyeWIAAInna.jpg"
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically.\n\nIt’s a faster, lower-cost complement to Claude Opus 5.5, strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets.",
+              "images": [
+                "img/x/HTUlY04XkAAMqSy.png"
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Sonnet 5.5 is priced the same as Sonnet 5, but it typically needs far fewer tokens to do the same work. In our testing, it costs up to 30% less per task than its predecessor.\n\nIt also generates output more than 30% faster, making it our fastest Sonnet model to date.",
+              "images": [
+                "img/x/cd0x4KPMloYl69q8.jpg"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "On several benchmarks, Sonnet 5.5 at Low or Medium effort beats Sonnet 5’s best score for about a tenth of the cost.",
+              "images": [
+                "img/x/HTUltNJWQAAaZDk.png",
+                "img/x/HTUltNTXUAA7oiF.png",
+                "img/x/HTUltNSXUAEbYU4.png",
+                "img/x/HTUltNSXoAAyqfl.png"
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Sonnet 5.5 also has a knack for design. It adds polish to user interfaces and follows templates to create slides that need minimal editing.",
+              "images": [
+                "img/x/qUwkFHoavQ--zV-e.jpg"
+              ]
+            },
+            {
+              "index": 6,
+              "text": "Like Opus 5.5, Sonnet 5.5 writes more clearly than our previous generation of models. Its speed also makes it well suited to fast iteration and collaboration on less complex tasks."
+            },
+            {
+              "index": 7,
+              "text": "On our automated behavioral audit, Sonnet 5.5 improves on or matches Sonnet 5 on most measures of alignment and honesty. \n\nIt’s also the first Sonnet model with cyber safeguards and fallbacks like those on our most capable models. Routine software development is unaffected."
+            },
+            {
+              "index": 8,
+              "text": "Claude Sonnet 5.5 is available everywhere today; Claude Haiku 5.5 will join the family in the coming weeks.\n\nRead more: https://www.anthropic.com/claude-sonnet-5-5"
+            }
+          ],
+          "images": [
+            "img/x/HTUthyeWIAAInna.jpg",
+            "img/x/HTUlY04XkAAMqSy.png",
+            "img/x/cd0x4KPMloYl69q8.jpg",
+            "img/x/HTUltNJWQAAaZDk.png",
+            "img/x/HTUltNTXUAA7oiF.png",
+            "img/x/HTUltNSXUAEbYU4.png",
+            "img/x/HTUltNSXoAAyqfl.png",
+            "img/x/qUwkFHoavQ--zV-e.jpg"
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2104641318555353400",
+          "date": "2026-09-28T18:36:07Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goes further too.\n\nUse it for well-scoped everyday tasks like fixing bugs and quickly iterating on features.",
+              "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+              "images": [
+                "img/x/pEpWuexI0XLeEyzW.jpg"
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Price is the same as Sonnet 5: $2/$10 per million tokens with cache reads at $0.20.\n\nThinking is always on but you can use `between_tools` to turn off upfront thinking.\n\nHere’s our Sonnet 5.5 migration guide: https://platform.claude.com/docs/en/models/sonnet-5-5/migration-guide."
+            },
+            {
+              "index": 3,
+              "text": "We recommend starting with Opus for large projects and Sonnet for tasks where you need to balance quality with speed and cost. Claude apps default to medium effort, while Platform is at high. Cranking Sonnet to max loses some of the balance (and you might want to consider Opus)."
+            },
+            {
+              "index": 4,
+              "text": "We’re extending preserved thinking with Sonnet 5.5 to curb distillation attacks via account-switching. Thinking stays in the original org that generated it, so if you switch accounts mid-session, Claude will reread the session and generate new thinking. https://platform.claude.com/docs/en/build-with-claude/preserved-thinking"
+            },
+            {
+              "index": 5,
+              "text": "Sonnet 5.5 is available now in the Claude Platform and Claude Code.\n\nWe granted all Pro, Max, and Team users a reset last Tuesday. If you haven’t used it yet, you can still apply it whenever you want, before Oct 22. https://clau.de/reset"
+            }
+          ],
+          "images": [
+            "img/x/pEpWuexI0XLeEyzW.jpg"
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2104674987164782598",
+          "date": "2026-09-28T20:49:54Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "A thread of early experiments with Claude Sonnet 5.5.\n\nA fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.",
+              "url": "https://x.com/claudeai/status/2104674987164782598",
+              "images": [
+                "img/x/in4Hl4l6NzD9hpWU.jpg"
+              ]
+            },
+            {
+              "index": 2,
+              "text": "@LEJ_limited gave Sonnet 5.5 a 60×46 pixel emoji and asked for a 3D model he could print. A few hours later, it was on his desk.",
+              "images": [
+                "img/x/JHAsRySZZHxncjWp.jpg",
+                "img/x/HTVMlS9WwAInArg.jpg"
+              ]
+            },
+            {
+              "index": 3,
+              "text": "The history of the dinosaurs in under a minute by @kevin_t_ngo, animated in JavaScript from the same prompt, Sonnet 5 vs Sonnet 5.5.",
+              "images": [
+                "img/x/TD7mNCoBCisJfNtH.jpg"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Light through a forest canopy, rendered in real time by @measure_plan. Visuals and sound are written in code.",
+              "images": [
+                "img/x/iNGOqSBXSBgqBsho.jpg"
+              ]
+            },
+            {
+              "index": 5,
+              "text": "A working flowchart tool that looks like doodles on graph paper, by @kevin_t_ngo. Drag shapes, connect them, or sketch on top.",
+              "images": [
+                "img/x/JWLOVKYbatOO0FYP.jpg"
+              ]
+            },
+            {
+              "index": 6,
+              "text": "Pixel-art forest creatures by @measure_plan, every frame drawn in code.",
+              "images": [
+                "img/x/HTVMv1xXQAAXCMP.jpg"
+              ]
+            },
+            {
+              "index": 7,
+              "text": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5.",
+              "images": [
+                "img/x/tAtttz1D3DAqZ-iX.jpg"
+              ]
+            },
+            {
+              "index": 8,
+              "text": "What are you exploring with Sonnet 5.5?"
+            }
+          ],
+          "images": [
+            "img/x/in4Hl4l6NzD9hpWU.jpg",
+            "img/x/JHAsRySZZHxncjWp.jpg",
+            "img/x/HTVMlS9WwAInArg.jpg",
+            "img/x/TD7mNCoBCisJfNtH.jpg",
+            "img/x/iNGOqSBXSBgqBsho.jpg",
+            "img/x/JWLOVKYbatOO0FYP.jpg",
+            "img/x/HTVMv1xXQAAXCMP.jpg",
+            "img/x/tAtttz1D3DAqZ-iX.jpg"
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2104676099083190435",
+          "date": "2026-09-28T20:54:19Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude can now help you build evaluations and hillclimb on them.\n\nIn this article, we share guidance on eval design & skills that Claude Code can use to improve your applications.\n\nhttps://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+              "url": "https://x.com/ClaudeDevs/status/2104676099083190435"
+            }
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens −30%",
+          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
+          "category": "sale"
+        },
+        {
+          "title": "So Long Airsoles T-Shirt Unisex −50%",
+          "text": "Was €30 / now €15 (−50%). Organic cotton tee. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivobarefoot-so-long-airsoles-t-shirt-unisex",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool −30.3%",
+          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers −30%",
+          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Thermal Insole Juniors −44%",
+          "text": "Was €9 / now €5 (−44.44%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/thermal-insole-juniors",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
+    {
       "date": "2026-09-28",
       "xPosts": [],
       "cupoane": [
@@ -139,304 +483,6 @@
         }
       ],
       "gyh": []
-    },
-    {
-      "date": "2026-09-26",
-      "edition": "26.09.2026",
-      "label": "26 septembrie 2026",
-      "stiri": [],
-      "xPosts": [
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2103464032640397769",
-          "date": "2026-09-25T12:38:00Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Copper  - pullback on intraday charts after new momo high on momentum functions.",
-              "url": "https://x.com/LindaRaschke/status/2103464032640397769",
-              "images": [
-                "img/x/HTEBLrBW4AAqkUu.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTEBLrBW4AAqkUu.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2103464338430505019",
-          "date": "2026-09-25T12:39:13Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "SPs - same as Dax:  mild overnight follow through - now at shorting level with resistance at single prints.",
-              "url": "https://x.com/LindaRaschke/status/2103464338430505019",
-              "images": [
-                "img/x/HTEBiQdXwAAPWtp.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTEBiQdXwAAPWtp.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2103466043549372703",
-          "date": "2026-09-25T12:45:59Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "CORN:   example of a \"U-turn\" after a \"failure test\" (failed to make full retest up, almost always get some downside skids when it looks below that last pivot.",
-              "url": "https://x.com/LindaRaschke/status/2103466043549372703",
-              "images": [
-                "img/x/HTEDB7vXMAA4jPi.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTEDB7vXMAA4jPi.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2103466969278071057",
-          "date": "2026-09-25T12:49:40Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Poor CAT: (the butt of Kyle and my latest stock to pick on.)  Its like the Warp Wall....even though it keeps  gapping up, its just too feeble to get any traction.",
-              "url": "https://x.com/LindaRaschke/status/2103466969278071057",
-              "images": [
-                "img/x/HTEDu3IWMAA7UfF.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTEDu3IWMAA7UfF.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2103467838212382906",
-          "date": "2026-09-25T12:53:07Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "twlo,  meta,   zs  (ETC.ETC.ETC) overextended when they pull too far away from 5 SMA. A consolidation day due at the least, or start of reaction down to tag 5 SMA over the next 2 days at the most.",
-              "url": "https://x.com/LindaRaschke/status/2103467838212382906",
-              "images": [
-                "img/x/HTEEiZoWwAA_7w0.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTEEiZoWwAA_7w0.png"
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2103515655760982273",
-          "date": "2026-09-25T16:03:08Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Claude Opus 5.5 has been out for a few days. Some of our favorite things people have explored and discovered with it so far:\n\nhttps://x.com/RyanSael/status/2102591147927654847?s=20",
-              "url": "https://x.com/claudeai/status/2103515655760982273"
-            },
-            {
-              "index": 2,
-              "text": "https://x.com/hayashimon1/status/2102576886182453454?s=20",
-              "url": "https://x.com/claudeai/status/2103515657761411465"
-            },
-            {
-              "index": 3,
-              "text": "https://x.com/onofumi_AI/status/2102568200122884553?s=20",
-              "url": "https://x.com/claudeai/status/2103515660571824289"
-            },
-            {
-              "index": 4,
-              "text": "https://x.com/victormustar/status/2102707412704919910?s=20",
-              "url": "https://x.com/claudeai/status/2103515663801393201"
-            },
-            {
-              "index": 5,
-              "text": "https://x.com/techartist_/status/2102503719762018434?s=20",
-              "url": "https://x.com/claudeai/status/2103515665822789667"
-            },
-            {
-              "index": 6,
-              "text": "https://x.com/redp314/status/2102475701844676747?s=20",
-              "url": "https://x.com/claudeai/status/2103515668171853944"
-            },
-            {
-              "index": 7,
-              "text": "https://x.com/scheemunai/status/2103059885361598633?s=20",
-              "url": "https://x.com/claudeai/status/2103515670428238179"
-            },
-            {
-              "index": 8,
-              "text": "What are you going to explore with Opus 5.5 this weekend?",
-              "url": "https://x.com/claudeai/status/2103515672777290083"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2103529951408562569",
-          "date": "2026-09-25T16:59:56Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Claude FM 🎵 music for thinking and building https://x.com/i/broadcasts/1YGNrbqpRvNGw",
-              "url": "https://x.com/ClaudeDevs/status/2103529951408562569"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2103548467729887677",
-          "date": "2026-09-25T18:13:31Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Opus 5.5 is 20% cheaper per input and output token than Opus 5, and 60% cheaper on cache reads. So what does that actually do to the cost of a task in Claude Code? \n\nWe ran the numbers, and built a calculator so you can run yours from /usage:\n\nhttps://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
-              "url": "https://x.com/ClaudeDevs/status/2103548467729887677"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
-          "date": "2026-09-25T19:04:40Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can.",
-              "url": "https://x.com/ClaudeDevs/status/2103561342057943314"
-            },
-            {
-              "index": 2,
-              "text": "As we roll this out, it's available for:\n\n- Pro plans once a week\n- Max and Team Premium plans each time a 5-hour session limit is hit.\n\nIf you need to keep going past the wrap-up, you can continue with extra usage.",
-              "url": "https://x.com/ClaudeDevs/status/2103561343391735842"
-            }
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2103577007938228300",
-          "date": "2026-09-25T20:06:55Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "It’s now easier to build plugins for Claude.\n\nWe built a new portal to submit your plugin, track review, and see usage.\n\nPlugins package MCP and skills, and are becoming the way to build for Claude. MCP usage across Claude products is up 110x this year!\n\nhttps://claude.com/blog/build-plugins-for-claude",
-              "url": "https://x.com/ClaudeDevs/status/2103577007938228300"
-            },
-            {
-              "index": 2,
-              "text": "Two ways to submit:\n\n- Single MCP connector: point to your remote MCP server\n- Plugin bundle: combine MCP servers and skills in a GitHub repo\n\nYou make submissions directly in Claude: https://claude.ai/directory/manage/new",
-              "url": "https://x.com/ClaudeDevs/status/2103577009645289578",
-              "images": [
-                "img/x/HTFnzlFXEAAcPFG.jpg"
-              ]
-            },
-            {
-              "index": 3,
-              "text": "Once you're live, usage analytics show installs by product and version, so you can prioritize fixes and features. You can also see how often your listing is viewed and which searches lead people to it.",
-              "url": "https://x.com/ClaudeDevs/status/2103577013420499405",
-              "images": [
-                "img/x/HTFn10JWcAAiotL.jpg"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "Plugins are the main way for third-party developers to create extensions for Claude. Over the coming weeks, one discovery experience will roll out across Claude and Claude Code.\n\nRead the blog to learn more: https://claude.com/blog/build-plugins-for-claude",
-              "url": "https://x.com/ClaudeDevs/status/2103577016326914186"
-            },
-            {
-              "index": 5,
-              "text": "Go build plugins for Claude!\n\nhttps://claude.com/docs/build/overview",
-              "url": "https://x.com/ClaudeDevs/status/2103577017748766835"
-            }
-          ],
-          "images": [
-            "img/x/HTFnzlFXEAAcPFG.jpg",
-            "img/x/HTFn10JWcAAiotL.jpg"
-          ]
-        }
-      ],
-      "cupoane": [
-        {
-          "title": "Motus Studio Sock Boot Womens — 30% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €170 → €119, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Wavey Mule Womens — 30% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €150 → €105, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Vivobarefoot So Long Airsoles T-Shirt Unisex — 50% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €30 → €15, reducere 50%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool — 30,26% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €76 → €53, reducere calculată 30,26%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers — 30% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €70 → €49, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Thermal Insole Juniors — 44,44% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €9 → €5, reducere calculată 44,44%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool — 30,49% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €82 → €57, reducere calculată 30,49%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "26.09.2026 SP500 pe verde dar Piata Bondurilor transmite alt mesaj...",
-          "date": "26.09.2026",
-          "summary": "**Decizie / Mesaj central**\n• Wall Street închide săptămâna pe verde, dar piața obligațiunilor transmite alt mesaj — divergența acțiuni vs bonduri = tema centrală a începutului de Q4.\n• Săptămână de 4 mesaje contradictorii: luni Nasdaq explozie / AMD $1T / META +două cifre / RKLB accelerează → miercuri US10Y >5% + petrol ↑ → joi US10Y >5,2% → vineri Nasdaq >27.000. Companiile nu s-au schimbat de 4 ori în 5 zile — s-au schimbat prețul capitalului și starea de spirit.\n• Mesaj: reacție emoțională la fiecare ședință (cumpărat luni, vândut miercuri, cumpărat vineri) = agitație costisitoare, nu investiție.\n• AI continuă să câștige lupta fundamentală, dar bond market a ridicat ștacheta: de acum nu mai e suficient să promiți creștere — trebuie să demonstrezi valoare care bate un randament fără risc >5%.\n\n**Reacția pieței**\n• Vineri: SP500 7.743,41 (+0,51%); Nasdaq 27.068,72 (+0,48%, prag 27.000 recuperat); Dow 51.828,62 (+0,93%). Săptămână: SP500 ~+1,2%; Nasdaq ~+2%.\n• Breadth vineri aparent ok: 7/11 sectoare pe verde; tech ~+0,91%; industriale ~+0,6%; advancers/decliners ~1,9:1 — dar structural: SP500 3 ATH vs 31 new lows; Nasdaq 54 ATH vs 175 new lows; 8/11 sectoare încă pe roșu în septembrie; equal-weight SP500 ~−4% luna asta vs cap-weighted aproape flat; financiare + utilități ~−5% septembrie.\n• Traducere: giganții AI maschează o piață mult mai slabă dedesubt → trend ascendent intact dar mai fragil; semnal de atenție, NU semnal automat de vânzare.\n• Tech catalizatori vineri: MSFT ~+3,7% (Copilot noi funcții / agent AI); QCOM ~+4%; DELL ~+5%; AKAM ~+3,2% (contract cloud 11,6B$ cu Anthropic). Capitalul continuă în AI pe dovezi de capex + contracte + monetizare.\n• BTC = barometru de regim, nu oracol; riscul macro principal rămâne piața obligațiunilor, nu crypto.\n\n**Macro / Obligațiuni**\n• US10Y vineri intraday 5,2297% (maxim din 2007) → retragere ~5,16–5,17%; US30Y 5,5319% (maxim din 2004); US2Y ~4,81%. Curba 2Y–10Y pozitivă ~+35–36 bps — dar normalizare de tipul „dobânzi lungi ↑ pe primă de inflație/termen”, nu tipul „dobânzi scurte ↓ pe easing”.\n• MOVE (VIX-ul obligațiunilor) +~30% într-o săptămână — cel mai puternic avans de după turbulențele tarifare din aprilie 2025; autorul îl urmărește mai atent decât VIX.\n• Fed: septembrie 2026 prima majorare din 2023 → interval 3,75%–4,00%; PCE core proiectat 3,4% pe 2026 (țintă 2%); PIB real median revizuit 2,3%. Piața: ~66% probabilitate majorare ≥25 bps în octombrie (vs ~50% la începutul săptămânii).\n• Regim: raport NFP „prea bun” poate fi negativ pentru acțiuni (întărește hike). Ideal = dezinflație fără recesiune.\n• Fundament SP500: GS — EPS Q2 2026 ~+51% a/a; U.S. Bank — venituri >+16% / profituri >+53%; Forward P/E puțin sub ~19× (minim din 2023, de la ~22 la începutul anului). Ecuație: EPS ↑ vs P/E ↓; evităm scenariul „estimări ↓ + yields ridicate” = compresie dublă.\n• Petrol: Brent vineri ~−3% pe speranțe armistițiu SUA–Iran / Hormuz etapizat, dar încă >100$. Pentru respiro durabil pe bonduri: Brent mai aproape de 90–95$ decât 105–110$. Lanț: Brent ↓ → primă inflație ↓ → așteptări Fed mai blânde → yields ↓ → multipli growth ↑.\n• FX: EUR/USD ~1,1395; USD/JPY ~157,22. Combinația dolar puternic + yields ridicate + petrol scump = greu pentru high-beta growth; vineri măcar petrolul a mers în direcția bună.\n• Trump–Xi: diplomație, puține progrese pe AI/comerț/Taiwan/Iran — absența escaladării e suficientă pentru risk assets, dar export controls rămân risc structural pe AMD/AVGO. Midterms noiembrie 2026 (435 House + ~1/3 Senate); RBC: adesea greu pre-scrutin, apoi clarificare; MS: ciclu/fundamente/AI > zgomot electoral pe termen lung.\n\n**Portofoliu (tickers)**\n• AVGO (~352$, +~0,6% vineri): spațiu deliberat mai mare după rebalansare — „taxă de trecere” pe infrastructura AI (XPU custom + Ethernet). Urmărește Q4: capex hyperscaler / pipeline custom silicon / venituri networking AI. Risc China = primă de risc, NU thesis breaker.\n• AMD (~630$, club $1T după ~+10% luni): teză inference/EPYC/rack intactă și optimistă pe afacere, dar la $1T piața cere rezultate; după ~+200%/an NU aleargă după preț. Afacere extraordinară ≠ moment bun de intrare.\n• META (−~3,3% vineri / ~+13% săptămână pe Muse): marcarea profitului e normală după rally. Muse ~2,8M descărcări / 12 zile; următorul pas = retenție / utilizare / conversie plată / ARPU — decide dacă e afacere sau fenomen.\n• TSLA (~372$, −~1,5%): yields >5% lovesc finanțare auto + evaluare; teză structurală = FSD / Robotaxi / Optimus / Energy. Orizont 5 ani: progres autonomie >> ședința −1,5%.\n• SPCX (~148$): volatilitate pe unlock ≠ afacere. NASA +946M$ (3 misiuni echipaj) → Commercial Crew ~5,92B$; Falcon/Starlink/Starship = fundament; separă mecanica pieței de teză.\n• PLTR (~191$): AIP + gov/defense/commercial/sovereign AI intact; problema = cât succes e deja în preț la risk-free >5%.\n• NBIS (~236$ de la ~243,5$): venituri/cerere AI extraordinare, dar data centers cer capital extraordinar; întrebare = cine finanțează (datorie / equity / convertibile / prepay clienți). Dimensionare = reflectă riscul de drawdown mare.\n• SOFI (~16,8$ flat): curbă steeper poate ajuta banca, dar ciclu de hike poate deteriora credit demand / housing / refi / credit quality. Urmărește deposits, NIM, delinquencies, originations, FS monetization — nu doar fed funds.\n• HOOD (~119$, −~1–2%): volatilitate = produsul firmei (trading/options/crypto/prediction/cash); problemă doar dacă retail se retrage persistent — nu suntem acolo.\n• RKLB (joi ~73,61$ +4,69%, impuls vineri): Cantor Overweight / țintă 122$; teză = lansări + sateliți + componente + comunicații (Iridium); risc = execuție Neutron.\n• ASTS: +5%/−6% consecutive ≠ schimbare fundamentală zilnică; KPI = sateliți produși/lansați, acoperire, activare telcos, venituri, cash burn.\n• ONDS: la yields >5% standardul se schimbă — valoarea crește mai repede decât nr. de acțiuni? Urmărește revenue + gross margin + cash burn + share count (toate 4).\n• LEU: AI → cerere electricitate; geopolitică → energy security; SUA reconstruiește lanț nuclear (HALEU/îmbogățire = infra strategică). Risc = intensitate capital / execuție / finanțare politică; teză nucleară mai puternică cu petrol >100$ pe conflict.\n• IREN (~44–45$, −~3–4% vineri): FY2026 ~4B$ venituri contractate anualizat pe capacitatea actuală + contracte multi-an cu developeri AI. Risc = capex potențial 25–30B$ FY2027 → disciplină de finanțare critică. Ecuație: creștere contracte vs intensitate capital.\n\n**Calendar / Scenarii PCE-NFP**\n• Miercuri: PCE (inflație preferată Fed); core anterior 3,3% a/a vs țintă 2%.\n• Vineri 2 octombrie: NFP septembrie — consens ~100.000 locuri noi; șomaj 4,2%.\n• Scenariu ideal: PCE încetinește; NFP 75.000–125.000; șomaj stabil; US10Y <5% → treptat mai constructiv pe growth.\n• Scenariu prea fierbinte: PCE ridicat; NFP >200.000; salarii puternice → hike oct ↑; US2Y/US10Y ↑; multipli ↓ → PĂSTREAZĂ mai multe lichidități.\n• Scenariu prea rece: NFP ~0/negativ; șomaj ↑ → yields pot scădea, dar din deteriorare economică (nu e healthy pentru acțiuni) → NU cumpără automat; întreabă dacă estimările de profit trebuie reduse.\n• Niveluri urmărite: US10Y sub 5% = respiro; 5,00–5,25% = tensiune gestionabilă; >5,30% = risc nouă compresie multipli. Brent sub 100$ constructiv; 100–105$ gestionabil dar inflaționist; >110$ modifică așteptări Fed. Nasdaq 27.000 trebuie să devină suport real; breakout maximelor confirmat de participare largă. VIX <20 = fără panică sistemică; MOVE = indicatorul principal.\n\n**Filozofie**\n• Nu ghicim cifrele — construim scenarii: „ce fac dacă se întâmplă”, nu „ce cred că se va întâmpla”.\n• Nu încercăm să câștigăm fiecare zi; construim capital pe ani. Din 2020 riscuri fără număr + volatilitate record → profituri oricum, pentru că am ales companiile potrivite în 2024–2025. Pentru 2027–2028 construim acum cu NBIS, RKLB, ASTS, ONDAS, IREN, SPCX.\n• Teme structurale: AI, spațiu, autonomie, nuclear, infra digitală, fintech — valoare economică în viitor → de aceea contează yields (prețul plătit azi pentru 1$ profit în 2030).\n• Calitatea afacerii ≠ evaluarea acțiunii; cine le confundă cumpără mereu la momentul greșit.\n• Lichiditățile ≠ poziție pesimistă; = libertatea de a alege. La risk-free 5% ești plătit să aștepți.\n• Dimensionare: afacere 5× poate avea −50%; risk management permite convingerii să supraviețuiască.\n• Weekend: zero decizie emoțională — reevaluează poziții, dimensionare, lichidități, teze; separă afacerea de preț.\n",
-          "recommendations": "• NU reacționa emoțional la fiecare ședință (cumpărat luni / vândut miercuri / cumpărat vineri) — agitație costisitoare, nu investiție.\n• LICHIDITATE = activ / libertate de a alege (NU poziție pesimistă); la risk-free 5% ești plătit să aștepți — putere, nu frică.\n• NU cumpăra AMD la orice preț; NU cumpăra NBIS după fiecare scădere; NU cumpăra RKLB doar pentru că cineva ridică ținta; NU cumpăra ASTS doar pentru că a scăzut 6%.\n• AVGO: spațiu deliberat mai mare după rebalansare — ține / urmărește ca „taxă de trecere” AI infra (capex cloud / custom silicon / networking AI); China = primă de risc, nu invalidare.\n• AMD: HOLD pe teză inference/$1T; optimist pe afacere, dar NU alerga după preț după ~+200%/an — așteaptă risk/reward mai bun.\n• META: marcarea profitului după +~13% săptămână pe Muse e normală; urmărește retenție/ARPU, nu doar downloads.\n• TSLA / SPCX / PLTR / HOOD / RKLB / ASTS / ONDS / LEU / IREN: RĂMÂI pe teze structurale; ajustează preț/valoare și dimensionarea, nu vinde teza pe yields 5,2%.\n• NBIS: disciplinează dimensionarea — afacere extraordinară poate avea drawdown-uri enorme; preferă finanțare prin prepay/contracte vs diluare.\n• SOFI: CSP/poziție pe termen lung — urmărește deposits/NIM/delinquencies/originations/FS monetization; „higher for longer” e gestionabil, recesiune + dobânzi ridicate NU.\n• Scenariu ideal PCE/NFP: PCE ↓ + NFP 75–125k + US10Y <5% → treptat mai constructiv pe growth.\n• Scenariu fierbinte: PCE ridicat + NFP >200k → PĂSTREAZĂ mai multe lichidități (hike oct ↑, multipli ↓).\n• Scenariu rece: NFP ~0/negativ → NU cumpăra automat; verifică dacă estimările de profit trebuie reduse.\n• Niveluri: US10Y <5% respiro / 5,00–5,25% gestionabil / >5,30% risc compresie; Brent <100$ constructiv / 100–105$ / >110$ Fed hawkish; Nasdaq 27.000 = suport de confirmat; urmărește MOVE > VIX.\n• Urmărește săptămâna: (1) PCE miercuri; (2) NFP vineri 2 oct; (3) US10Y vs 5,00/5,25/5,30; (4) Brent vs 100/110; (5) breadth / new lows Nasdaq; (6) MOVE.\n• Orizont 5–10 ani / țintă construcție 2027–2028 pe NBIS, RKLB, ASTS, ONDAS, IREN, SPCX — calm, răbdare, atenție la ce contează; nu elimina incertitudinea, investește în ciuda ei.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788218"
-        }
-      ]
     }
   ]
 }
