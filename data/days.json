@@ -14,6 +14,101 @@
   },
   "days": [
     {
+      "date": "2026-09-30",
+      "xPosts": [
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2104687805876367793",
+          "date": "2026-09-28T21:40:50Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Claude Sonnet 5.5 is out! We wrote a guide for building with it:\n\n• choosing between Sonnet 5.5 and Opus 5.5\n• migrating from Sonnet 5 and tuning effort\n• using it in Claude Code\n\nhttps://claude.dev/blog/building-with-claude-sonnet-5-5/",
+              "url": "https://x.com/ClaudeDevs/status/2104687805876367793",
+              "images": [
+                "img/x/xhLxqQ74Siz5FXXj.jpg"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/xhLxqQ74Siz5FXXj.jpg"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2104901813610676553",
+          "date": "2026-09-29T11:51:14Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Turnaround Tuesday?!    NAZ has open door to upside structurally....",
+              "url": "https://x.com/LindaRaschke/status/2104901813610676553",
+              "images": [
+                "img/x/HTYc4zIWsAACEch.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTYc4zIWsAACEch.png"
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens −30%",
+          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
+          "category": "sale"
+        },
+        {
+          "title": "So Long Airsoles T-Shirt Unisex −50%",
+          "text": "Was €30 / now €15 (−50%). Organic cotton tee. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivobarefoot-so-long-airsoles-t-shirt-unisex",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool −30.3%",
+          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers −30%",
+          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Thermal Insole Juniors −44%",
+          "text": "Was €9 / now €5 (−44.44%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/thermal-insole-juniors",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
+    {
       "date": "2026-09-29",
       "xPosts": [
         {
@@ -435,62 +530,6 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788216"
         }
       ]
-    },
-    {
-      "date": "2026-09-27",
-      "xPosts": [],
-      "cupoane": [
-        {
-          "title": "Motus Studio Sock Boot Womens — 30% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €170 → €119, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Wavey Mule Womens — 30% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €150 → €105, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Vivobarefoot So Long Airsoles T-Shirt Unisex — 50% reducere",
-          "text": "Sale oficial Vivobarefoot EU: €30 → €15, reducere 50%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sale",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool — 30,26% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €76 → €53, reducere calculată 30,26%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers — 30% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €70 → €49, reducere exactă 30%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Thermal Insole Juniors — 44,44% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €9 → €5, reducere calculată 44,44%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool — 30,49% reducere",
-          "text": "Kids Sale oficial Vivobarefoot EU: €82 → €57, reducere calculată 30,49%; afișat ca disponibil în stoc la verificare.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/kids/sale",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": []
     }
   ]
 }
