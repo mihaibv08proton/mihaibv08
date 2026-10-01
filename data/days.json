@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-09-28T13:05:44+03:00",
+    "updatedAt": "2026-10-02T00:13:49+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,211 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-10-02",
+      "xPosts": [
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2105709530550079839",
+          "date": "2026-10-01T17:20:48Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "IF  TLT cant do OD up,  Rus is trying to make a stab at it after 4 days of selling....am sure its happy to see mild relief in yields...",
+              "url": "https://x.com/LindaRaschke/status/2105709530550079839",
+              "images": [
+                "img/x/HTj7cUqWcAEKs8p.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTj7cUqWcAEKs8p.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2105710601293250937",
+          "date": "2026-10-01T17:25:04Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "GC at first upside level.  I don't have success with sloping trendlines being broken, but DO pay attention when the last swing high or low is taken out from formations.     Cramer's BUY BUY BUY button at work in the markets right now. Even DE coming back up into gap area.",
+              "url": "https://x.com/LindaRaschke/status/2105710601293250937",
+              "images": [
+                "img/x/HTj8B8uWQAAXxtb.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTj8B8uWQAAXxtb.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2105714824353096059",
+          "date": "2026-10-01T17:41:51Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Love my RS board - have one for ETFs,  futures, stocks w % up or down off OP...school of \"trade by colors\".",
+              "url": "https://x.com/LindaRaschke/status/2105714824353096059",
+              "images": [
+                "img/x/HTkAPkVWEAAlVsY.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTkAPkVWEAAlVsY.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2105718311275380910",
+          "date": "2026-10-01T17:55:42Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Unleaded - going for 20-day highs!",
+              "url": "https://x.com/LindaRaschke/status/2105718311275380910",
+              "images": [
+                "img/x/HTkDlWCXsAApkUS.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HTkDlWCXsAApkUS.png"
+          ]
+        },
+        {
+          "handle": "ClaudeDevs",
+          "statusUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "date": "2026-10-01T18:08:07Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "You can now mod Claude Code:\n\n- Change how it behaves\n- Customize the UI\n- Swap in your own features\n\nWrite one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.\n\nA few examples:",
+              "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+              "images": [
+                "img/x/Q9dFvgbOG4e1ZxIc.jpg"
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Token Weather adds a forecast of your context window: how full it is, plus a sparkline of your last 12 turns.",
+              "images": [
+                "img/x/GRPpr0kErx8FGkEv.jpg"
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Blast Radius catches risky shell commands like rm -rf, git reset --hard, or a force push before they run. It shows what the command would touch in a side pane.",
+              "images": [
+                "img/x/ESm4JRalgOHBmEXu.jpg"
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Replay Theater records every file edit Claude makes in a turn. Run /replay to step through the diffs one at a time in a docked pane.",
+              "images": [
+                "img/x/hQLRrRnvVDs-rQDq.jpg"
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Keep mods to yourself, or submit them to the Claude directory if others might find them useful. Mods run with the same access to your machine as Claude Code itself, so make sure to only install mods from sources you trust.\n\nhttps://claude.ai/directory"
+            },
+            {
+              "index": 6,
+              "text": "We're adding pre-built sample mods to the Claude Code Playground repo you can riff off of, if you need some inspiration.\n\nLearn more in our getting started guide: https://claude.dev/blog/getting-started-with-claude-code-mods/"
+            },
+            {
+              "index": 7,
+              "text": "We’ve used mods to build features like /diff and AGENTS.md support. We hope you find them as useful (and fun) as we do, and can't wait to see what you build!\n\nhttps://claude.com/blog/claude-code-mods"
+            }
+          ],
+          "images": [
+            "img/x/Q9dFvgbOG4e1ZxIc.jpg",
+            "img/x/GRPpr0kErx8FGkEv.jpg",
+            "img/x/ESm4JRalgOHBmEXu.jpg",
+            "img/x/hQLRrRnvVDs-rQDq.jpg"
+          ]
+        },
+        {
+          "handle": "claudeai",
+          "statusUrl": "https://x.com/claudeai/status/2105721630051692804",
+          "date": "2026-10-01T18:08:53Z",
+          "thread": true,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing.",
+              "url": "https://x.com/claudeai/status/2105721630051692804"
+            },
+            {
+              "index": 2,
+              "text": "Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans.\n\nHow it works and full terms: https://support.claude.com/en/articles/17274727"
+            }
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens −30%",
+          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
+          "category": "sale"
+        },
+        {
+          "title": "So Long Airsoles T-Shirt Unisex −50%",
+          "text": "Was €30 / now €15 (−50%). Organic cotton tee. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/vivobarefoot-so-long-airsoles-t-shirt-unisex",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool −30.3%",
+          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers −30%",
+          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Thermal Insole Juniors −44%",
+          "text": "Was €9 / now €5 (−44.44%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/thermal-insole-juniors",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-10-01",
       "xPosts": [
@@ -212,358 +417,6 @@
           "summary": "**Decizie / Mesaj central**\n• Autor a rebalansat dinspre VST către SPCX (anunțat ieri pe Discord, cu câteva minute înainte de open) și a ajuns la 600 acțiuni SPCX; ținta personală: 1000 cât mai repede posibil, după testul reușit Starship care i-a schimbat calibrarea și așteptările pe țintele joase de cumpărare.\n• Ce l-a marcat la Flight 14 nu a fost racheta, ci fața îngrijorată a lui Elon Musk înainte de lansare și relaxarea după confirmarea orbitei — încrederea necesară ca să apese mai tare pe accelerație pe această companie.\n• VST rămâne prețuită, dar pentru autor unele poziții sunt doar „parcare” de bani: dacă apare o oportunitate mai repede, e gata să marcheze o pierdere mică și să rebalanseze.\n• Membri profil moderat-dinamic: NU VINDEȚI VISTRA — ba chiar adăugați la aceste prețuri; la fel, cumpărați GOOGL și AMZN la prețuri foarte bune acum. Pregătim portofoliile pentru creșterile din 2027 și 2028, nu pentru ședința de mâine.\n• Mesaj final: rămâneți pozitivi și cumpărați acțiuni. Continuă achizițiile pe AVGO, SPCX, RKLB, ASTS și NBIS — fără grabă, fără a strica dimensionarea. Așteaptă QQQ în zona 800 până la final de an (cu riscurile analizate).\n\n**Macro / Calendar PCE + NFP**\n• Săptămâna se decide pe PCE și NFP: Joi 1 octombrie = PCE august (preferatul Fed pentru inflație); Vineri 2 octombrie = NFP. Cele două rapoarte decid dacă US10Y la 5,26% e vârful stresului sau doar o etapă.\n• Marți (ieri): JOLTS — locuri disponibile −256.000, la 7,079 milioane; încrederea consumatorilor 88,6 → 81,9 (cel mai redus nivel din ~12,5 ani; așteptări 63,6); John Williams (Fed NY) mai prudent; după close — Tesla noi facilități de credit; AMD anunță achiziția World Labs.\n• Miercuri (azi): ultima ședință a trimestrului III — rebalansări instituționale, fluxuri pensii, cosmetizare portofolii, marcare profituri, CTA, repoziționări Q4. Fluxurile pot conta mai mult decât știrile.\n• Teză 2027–2028: dacă Trump oprește războiul din Iran → petrol spre sub 75$ → se rupe lanțul de temeri. Piața are deja în preț încă 4–5 majorări de dobândă până la final 2027. Dacă acel scenariu „cade” (temerile se dizolvă) → explozie a prețurilor; P/E SP500 de la 19X (nu scump) spre 23–25X (abia atunci supraevaluat).\n• Optimist chiar dacă republicanii pierd ambele camere: contează veniturile și EPS, nu calendarul războiului / petrolul peste 100$. Exemplu: război Europa din 2022 + portofoliu autor 250.000 → 3.500.000 USD.\n\n**Reacția pieței (ieri) — US10Y 5,26%**\n• SP500 7.670,84 (−0,17%); Nasdaq Composite 26.797,54 (−0,09%); Dow 51.349,92 (−0,26%); Russell 2000 2.807,92 (−0,35%). Nasdaq −0,09% cu US10Y aproape de 5,30% = absorbție surprinzător de bună.\n• US10Y ~5,26% (maxim intrasesiune ~5,29%); US30Y testează ~5,60%; US2Y coboară spre 4,89%; VIX ~16,04; Bitcoin ~83.600$.\n• Cheie: capătul lung al curbei = stres inflaționist/fiscal; capătul scurt reacționează la răcire economică. ~63% dintre titlurile lichide în creștere (tech, materiale, financiar, industriale relativ puternice) → digestie și rotație internă, nu fugă clasică de la risc (contrast cu luni: toate indicii↓ + duration sub presiune).\n• VIX ~16 confirmă: piața nu tratează US10Y 5,26% ca început de criză, ci ca problemă de evaluare și alocare.\n• Zone US10Y (neschimbate): sub 5,20% = relaxare; 5,20–5,30% = stres ridicat, încă gestionabil; peste 5,30–5,35% = risc real de comprimare suplimentară a multiplilor.\n\n**Consumator / Petrol / Dolar**\n• JOLTS 7,079M + încredere 81,9 + așteptări 63,6: nu optimiste în sine, dar în context Fed care a reluat majorările + petrol inflaționist + Treasury la maxime de decenii, o răcire controlată a cererii poate fi constructivă (lanț: locuri↓ → salarii↓ → inflație servicii↓ → presiune Fed↓ → US2Y↓ → US10Y↓).\n• Risc: răcire → contracție → scădere consum, revizuire profituri, pierderi credite — lovește în special SOFI, HOOD și ciclice (explicație pentru scăderi SOFI/TSLA în prima fază). Nu celebrăm datele slabe — le clasificăm.\n• Brent marți spre 102–103$; Asia dimineață ~103$; WTI ~89–90$. Sub 100$ → obligațiunile pierd un argument puternic de primă de inflație; 100–105$ = stres, dar direcția contează; peste 110$ = regim mult mai dificil.\n• DXY ~101,4 (susținut de diferențialul de randament US). Combinație ideală: petrol↓ + US10Y↓ + dolar↓ — doar primul element a început să coopereze.\n\n**AMD World Labs + Fluxuri final trimestru**\n• AMD cumpără World Labs (inteligență spațială, fondată Fei-Fei Li) — 8,2 miliarde USD, integral în acțiuni; Fei-Fei Li → EVP + chief scientist după closing. Modele ale lumii 3D: robotică, autonome, simulare, AI pentru lumea fizică.\n• Strategic: AMD urcă în lanțul de valoare — de la putere de calcul către ecosistem Instinct/ROCm + modele + aplicații fizice. Riscul: preț mare pentru business timpuriu; piața va cere sinergii reale vs diluare.\n• AMD tehnic: după testul de luni 596–600$, zona devine suport critic; 620–625$ prima zonă de recuperat; 639$ maxim/rezistență majoră. Nu decidem azi dacă deal-ul e genial sau prea scump.\n• 30 septembrie: mișcare neobișnuită (ex. AMD +5% sau NBIS −6%) — prima întrebare nu e automat „ce știre?”, ci fundament nou / străpungere tehnică / flux final trimestru. Investitorul disciplinat clasifică motivul, nu reacționează la procent.\n\n**Portofoliu (tickers + niveluri)**\n• AVGO: fără catalizator comparabil, dar combinația dorită — creștere AI puternică + FCF solid prezent + diversificare custom silicon/networking. Mai puțin sensibilă la durată decât AMD/NBIS/IREN. Zone: 346–350$ suport imediat; 338–342$ secundar; 360–365$ rezistență de recuperat. Rămâne una dintre pozițiile cu cea mai mare atenție; rebalansare către AVGO = expunere AI diferită.\n• TSLA: facilități credit 30 mld USD (term 20 mld delayed-draw + revolver 5 ani 8 mld + 364 zile 2 mld); zero trase la 29.09; nu intenționează utilizare în 2026. Capex >25 mld în 2026 vs 8,53 mld în 2025 (AI compute, solar, semiconductori cu SpaceX, expansiune). Semnal optimist (flexibilitate) + risc (consum capital↑; LSEG = FCF negativ anul ăsta). FSD Europa: ETSC cere respingere unele funcții; decizie mai largă spre decembrie. Tehnic: 355–360$ prim suport; sub 355 → 340–345$; upside: 372–375$ apoi 385–387$. Nu premiem cheltuiala — premiem randamentul pe cheltuială.\n• SPCX / Starship Flight 14: primă orbită + 26 sateliți Starlink V3 reali (nu simulatoare); misiune scurtată după problemă motor, dar payload plasat. V3 ~10× trafic vs V2 Mini → Starship esențial pentru economia Starlink, nu doar Marte. Standardul se schimbă: repetabilitate, realimentare orbită, reutilizare, recuperare etaje, life support, cadență. Autor cumpără constant, mai ales pe scăderi ample → spre 1000.\n• META: recuperare marți ~+3,25%, close ~738,9$ (după −~4,8% luni); intraday ~715–740$. Zona 700–715$ (suport după pierderea 740–750$) a atras cumpărători → vânzarea de luni = marcare profit + comprimare multipli, nu respingere Muse/AI. Upside: 750$ apoi 775–780$. Test Muse: retenție, utilizare, monetizare — nu descărcări.\n• PLTR: ~186–188$; suport 182–185$; rezistență 194–195$. US10Y ~5,25% ține ridicată rata minimă de randament. Problema nu e business-ul, ci cât din următorii 5 ani de succes sunt deja în preț.\n• NBIS: rebound puternic 238–241$ (close luni 231,88$; test ~247$). Cu US10Y 5,26%, o firmă capital-intensive ar fi trebuit să sufere — cerere instituțională pentru infra AI persistă. Suport major 225–230$; rezistență 247–250$. Întrebare: venituri contractate + FCF viitor / $ capex?\n• SOFI: citită prin JOLTS/încredere consumator, nu AI. Dacă răcirea muncii accelerează → restanțe, charge-offs, calitate credit. Suport apropiat 15,50–16$. Q4 ideal: muncă suficient de slabă să oprească Fed, suficient de puternică să țină consumatorul solvabil.\n• HOOD: close ~116,22$ (−0,21%); VIX nu explodează, BTC >83k, retail nu capitulează. Volatilitate moderată poate susține volume; bear prelungit ar distruge activitate/AUM. Suport 112–116$; rezistență 120–122$.\n• RKLB: fără catalizator nou; consolidare normală după raliu spațial. Starship validează economia orbitală și ridică ștacheta. Teză: Electron + sisteme spațiale + Neutron. Suport 70–72$; rezistență 76–80$. Verdictul = Neutron.\n• ASTS: fără nevoie de narațiune zilnică — KPI clari: sateliți, lansări, acoperire, activare operatori, venituri. Lansare grea mai eficientă ajută structural, nu înlocuiește execuția. Suport 58–61$; recuperare 65–68$.\n• ONDS: close ~7,48$ (−2,6%); ~570,6 mil. acțiuni în circulație (+~297% YoY) — diferența creștere companie vs creștere acționar. Suport 7,20–7,40$; rezistență 8–8,20$.\n• LEU: ~139$; testează suportul urmărit. HALEU + securitate aprovizionare nucleară US = teme strategice; piața nu confirmă încă inversare. 135–140$ trebuie apărat. Nu folosi teza fundamentală ca să negi graficul.\n• IREN: 41–42$ pe suportul după scăderea de luni. BTC >83k susține mining; LT decis de AI (utilizare GPU, venituri contractate, cost energie, ROI). Dacă 40$ rezistă = consolidare; sub 40$ = mai multă prudență tehnică.\n\n**Scenarii azi / Ce urmărim**\n• Constructiv: Brent continuă spre 100$; US10Y revine sub 5,20%; Nasdaq recuperează 27.000; amplitudine pozitivă → scăderea de luni = reașezare evaluări, nu deteriorare amplă.\n• Neutru: US10Y rămâne 5,20–5,30%; petrol 101–104$; Nasdaq oscilează 26.600–27.000. Sănătos înainte de PCE/NFP — nu cere acțiune agresivă.\n• Risc: US10Y >5,30–5,35%; petrol >105$; Nasdaq pierde 26.500; VIX trece decisiv peste 18–20 → NU cumpăra mecanic prima scădere; lichidități + dimensionare = prioritate.\n• Ordine variabile: (1) US10Y (2) Brent (3) Nasdaq — suport imediat Nasdaq 26.700–26.800. Urmărește amplitudinea: indici plați + participare↑ = ok fără străpungere; Nasdaq ținut doar de mega-caps + minime noi↑ = mai defensiv.\n\n**Filozofie / Dimensionare**\n• Wall Street se adaptează la Treasury >5%, dar adaptare ≠ eliminarea riscului. Piața nu capitulează — piața recalibrează.\n• Nu deveni agresiv înainte de PCE, NFP și închiderea de trimestru. Analizează calm unde fundamentul se îmbunătățește și unde prețul oferă risk/reward mai bun. Lichiditățile = parte din strategie.\n• NU cumpăra fiecare scădere și NU vinde fiecare zi roșie. Dimensionarea pozițiilor e la fel de importantă ca selecția: dacă o corecție normală 10–15% te forțează emoțional, problema e arhitectura portofoliului, nu volatilitatea.\n• High-beta trebuie dimensionat ca să poată fi ținut exact când beta lucrează greșit — acolo se câștigă/pierde randamentul pe 5 ani.\n• Pe 5 ani nu decide randamentul bondurilor dintr-o dimineață: AMD = compute AI + AI lume fizică; AVGO = custom + networking; TSLA = auto/energie/autonomie/robotică/eficiență capital; SpaceX = Starlink/Starship/reutilizare; META = monetizare AI; PLTR = adopție corporate; NBIS = ROI infra; SOFI = calitate credit; HOOD = engagement/AUM; RKLB = Neutron; ASTS = conectivitate comercială; ONDS = FCF/acțiune; LEU = HALEU; IREN = energie + compute.\n• Folosește ultima zi de trimestru pentru observație, nu reacții emoționale. Continuă să cumperi acțiuni bune la prețuri bune. Avantajul aparține companiilor care transformă creșterea în FCF și investitorilor care transformă volatilitatea în oportunitate.\n",
           "recommendations": "• REBALANCE AUTOR: VST → SPCX; acum 600 SPCX; țintă 1000 ASAP după succes Starship (calibrare schimbată; cumpără constant, mai ales pe scăderi ample).\n• Profil moderat-dinamic: NU VINDEȚI VISTRA — ba chiar adăugați la aceste prețuri; cumpărați și GOOGL și AMZN la prețuri foarte bune acum.\n• Continuă achiziții (dimensionate, fără grabă): AVGO, SPCX, RKLB, ASTS, NBIS.\n• QQQ așteptat ~800 până la final de an (cu riscurile pe care le analizează toată lumea).\n• Rămâneți pozitivi și cumpărați acțiuni. Pregătim portofoliile pentru 2027–2028, nu pentru ședința de mâine.\n• US10Y zone neschimbate: <5,20% relaxare / 5,20–5,30% stres ridicat gestionabil / >5,30–5,35% comprimare reală multipli — azi ~5,26% (max ~5,29%).\n• Petrol Brent ~102–103$ (Asia ~103$; WTI ~89–90$): sub 100$ ajută bondurile; 100–105$ stres (direcția contează); >110$ regim mai greu. Ideal: petrol↓ + US10Y↓ + dolar↓.\n• Scenariu constructiv azi: Brent→100$ / US10Y <5,20% / Nasdaq 27.000 / amplitudine+ → luni = reașezare, nu deteriorare.\n• Scenariu neutru: US10Y 5,20–5,30% / petrol 101–104$ / Nasdaq 26.600–27.000 = sănătos pre-PCE/NFP; fără acțiune agresivă.\n• Scenariu risc: US10Y >5,30–5,35% / petrol >105$ / Nasdaq <26.500 / VIX >18–20 decisiv → NU cumpăra mecanic prima scădere; lichidități + sizing prioritare.\n• Final trimestru Q3 (30.09): observă, nu reacționa emoțional; clasifică mișcările ca fundamental / tehnic / flux (ex. AMD +5% sau NBIS −6%).\n• Lichiditate + dimensionare critice: NU cumpăra fiecare dip / NU vinde fiecare zi roșie. Corecție 10–15% nu trebuie să forțeze exit emoțional.\n• Nu deveni agresiv înainte de PCE (1 oct) și NFP (2 oct) + close trimestru.\n• AMD World Labs 8,2 mld all-stock (Fei-Fei Li): strategic interesant (AI lume fizică), risc diluare/sinergii. Tehnic: suport critic 596–600$; recuperare 620–625$; rezistență 639$.\n• AVGO: ține / atenție maximă — AI + FCF prezent; zone 346–350 / 338–342 / 360–365. Continuă cumpărări dimensionate.\n• TSLA: credit 30 mld (neutilizat intenționat 2026); capex >25 mld 2026; FSD EU incert (ETSC/decembrie). Zone: 355–360 / 340–345 / 372–375 / 385–387. Premiază ROI pe capex, nu cheltuiala.\n• SPCX/Starship: teză întărită (orbită + Starlink V3); următorul obstacol = repetabilitate/economie. BUY pe scăderi ample → 1000.\n• META ~738,9$ (+~3,25% marți): HOLD teză Muse; suport 700–715 confirmat cumpărători; upside 750 / 775–780. KPI = retenție/utilizare/monetizare (nu downloads).\n• PLTR ~186–188$: HOLD pe fundament; suport 182–185; rezistență 194–195; atenție evaluare (câți ani prețuiți?).\n• NBIS 238–241$: cerere instituțională persistă la US10Y 5,26%; suport 225–230; rezistență 247–250; size pe duration/capex; continuă cumpărări dimensionate.\n• SOFI: urmărește credit/JOLTS/încredere; suport 15,50–16; Q4 = Goldilocks muncă (nici prea cald, nici prea rece).\n• HOOD ~116,22$: ok cât VIX/BTC/retail nu capitulează; suport 112–116; rezistență 120–122.\n• RKLB: consolidare ok; suport 70–72; rezistență 76–80; verdict = Neutron; continuă cumpărări dimensionate.\n• ASTS: KPI fizice; suport 58–61; recuperare 65–68; continuă cumpărări dimensionate.\n• ONDS ~7,48$: share count ~570,6M (+297% YoY) — urmărește FCF/acțiune; suport 7,20–7,40; rezistență 8–8,20.\n• LEU ~139$: teză HALEU intactă; tehnic — apără 135–140; nu nega graficul cu fundamentul.\n• IREN 41–42$: pe suport; 40$ = linie; sub 40 = prudență; LT = GPU/AI monetizare, nu doar mining.\n• Nasdaq suport imediat 26.700–26.800; variabile ordine: US10Y → Brent → Nasdaq + amplitudine.\n• Macro pozitiv 2027–28: stop Iran → petrol <75$ → yields↓ → multipli↑ (P/E 19→23–25X). Piața prețuiește deja 4–5 hike-uri până final 2027.",
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788205"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "xPosts": [
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2104339526285983942",
-          "date": "2026-09-27T22:36:54Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Trading Sardines should be back in stock on Amazon sometime this week for U.S. traders.  And, it is now available in print on demand format for those outside the US (check your local Amazon)!",
-              "url": "https://x.com/LindaRaschke/status/2104339526285983942",
-              "images": [
-                "img/x/HTQdTCcXYAAWORL.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTQdTCcXYAAWORL.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2104569375764132106",
-          "date": "2026-09-28T13:50:14Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "MRVL:  also early sell....",
-              "url": "https://x.com/LindaRaschke/status/2104569375764132106",
-              "images": [
-                "img/x/HTTupm3XcAEChbd.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTTupm3XcAEChbd.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2104570326369644672",
-          "date": "2026-09-28T13:54:01Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Early pace of volume decent for a Monday!",
-              "url": "https://x.com/LindaRaschke/status/2104570326369644672",
-              "images": [
-                "img/x/HTTvdSIXQAANab7.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTTvdSIXQAANab7.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2104571153419559419",
-          "date": "2026-09-28T13:57:18Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "small body, big tail:  one of the patterns that can lead to a trend day (was on all grains)",
-              "url": "https://x.com/LindaRaschke/status/2104571153419559419",
-              "images": [
-                "img/x/HTTwGsPXkAAkrNN.png",
-                "img/x/HTTwL7HWEAAz6TL.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTTwGsPXkAAkrNN.png",
-            "img/x/HTTwL7HWEAAz6TL.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2104572023557193732",
-          "date": "2026-09-28T14:00:46Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Multi quadrillion dollar question:  How far down can they push gasoline prices before midterms? (!!!)",
-              "url": "https://x.com/LindaRaschke/status/2104572023557193732",
-              "images": [
-                "img/x/HTTw30pXkAEw1s-.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HTTw30pXkAEw1s-.png"
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2104633115620823187",
-          "date": "2026-09-28T18:03:31Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
-              "url": "https://x.com/claudeai/status/2104633115620823187",
-              "images": [
-                "img/x/HTUthyeWIAAInna.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically.\n\nIt’s a faster, lower-cost complement to Claude Opus 5.5, strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets.",
-              "images": [
-                "img/x/HTUlY04XkAAMqSy.png"
-              ]
-            },
-            {
-              "index": 3,
-              "text": "Sonnet 5.5 is priced the same as Sonnet 5, but it typically needs far fewer tokens to do the same work. In our testing, it costs up to 30% less per task than its predecessor.\n\nIt also generates output more than 30% faster, making it our fastest Sonnet model to date.",
-              "images": [
-                "img/x/cd0x4KPMloYl69q8.jpg"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "On several benchmarks, Sonnet 5.5 at Low or Medium effort beats Sonnet 5’s best score for about a tenth of the cost.",
-              "images": [
-                "img/x/HTUltNJWQAAaZDk.png",
-                "img/x/HTUltNTXUAA7oiF.png",
-                "img/x/HTUltNSXUAEbYU4.png",
-                "img/x/HTUltNSXoAAyqfl.png"
-              ]
-            },
-            {
-              "index": 5,
-              "text": "Sonnet 5.5 also has a knack for design. It adds polish to user interfaces and follows templates to create slides that need minimal editing.",
-              "images": [
-                "img/x/qUwkFHoavQ--zV-e.jpg"
-              ]
-            },
-            {
-              "index": 6,
-              "text": "Like Opus 5.5, Sonnet 5.5 writes more clearly than our previous generation of models. Its speed also makes it well suited to fast iteration and collaboration on less complex tasks."
-            },
-            {
-              "index": 7,
-              "text": "On our automated behavioral audit, Sonnet 5.5 improves on or matches Sonnet 5 on most measures of alignment and honesty. \n\nIt’s also the first Sonnet model with cyber safeguards and fallbacks like those on our most capable models. Routine software development is unaffected."
-            },
-            {
-              "index": 8,
-              "text": "Claude Sonnet 5.5 is available everywhere today; Claude Haiku 5.5 will join the family in the coming weeks.\n\nRead more: https://www.anthropic.com/claude-sonnet-5-5"
-            }
-          ],
-          "images": [
-            "img/x/HTUthyeWIAAInna.jpg",
-            "img/x/HTUlY04XkAAMqSy.png",
-            "img/x/cd0x4KPMloYl69q8.jpg",
-            "img/x/HTUltNJWQAAaZDk.png",
-            "img/x/HTUltNTXUAA7oiF.png",
-            "img/x/HTUltNSXUAEbYU4.png",
-            "img/x/HTUltNSXoAAyqfl.png",
-            "img/x/qUwkFHoavQ--zV-e.jpg"
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "date": "2026-09-28T18:36:07Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goes further too.\n\nUse it for well-scoped everyday tasks like fixing bugs and quickly iterating on features.",
-              "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-              "images": [
-                "img/x/pEpWuexI0XLeEyzW.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "Price is the same as Sonnet 5: $2/$10 per million tokens with cache reads at $0.20.\n\nThinking is always on but you can use `between_tools` to turn off upfront thinking.\n\nHere’s our Sonnet 5.5 migration guide: https://platform.claude.com/docs/en/models/sonnet-5-5/migration-guide."
-            },
-            {
-              "index": 3,
-              "text": "We recommend starting with Opus for large projects and Sonnet for tasks where you need to balance quality with speed and cost. Claude apps default to medium effort, while Platform is at high. Cranking Sonnet to max loses some of the balance (and you might want to consider Opus)."
-            },
-            {
-              "index": 4,
-              "text": "We’re extending preserved thinking with Sonnet 5.5 to curb distillation attacks via account-switching. Thinking stays in the original org that generated it, so if you switch accounts mid-session, Claude will reread the session and generate new thinking. https://platform.claude.com/docs/en/build-with-claude/preserved-thinking"
-            },
-            {
-              "index": 5,
-              "text": "Sonnet 5.5 is available now in the Claude Platform and Claude Code.\n\nWe granted all Pro, Max, and Team users a reset last Tuesday. If you haven’t used it yet, you can still apply it whenever you want, before Oct 22. https://clau.de/reset"
-            }
-          ],
-          "images": [
-            "img/x/pEpWuexI0XLeEyzW.jpg"
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2104674987164782598",
-          "date": "2026-09-28T20:49:54Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "A thread of early experiments with Claude Sonnet 5.5.\n\nA fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.",
-              "url": "https://x.com/claudeai/status/2104674987164782598",
-              "images": [
-                "img/x/in4Hl4l6NzD9hpWU.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "@LEJ_limited gave Sonnet 5.5 a 60×46 pixel emoji and asked for a 3D model he could print. A few hours later, it was on his desk.",
-              "images": [
-                "img/x/JHAsRySZZHxncjWp.jpg",
-                "img/x/HTVMlS9WwAInArg.jpg"
-              ]
-            },
-            {
-              "index": 3,
-              "text": "The history of the dinosaurs in under a minute by @kevin_t_ngo, animated in JavaScript from the same prompt, Sonnet 5 vs Sonnet 5.5.",
-              "images": [
-                "img/x/TD7mNCoBCisJfNtH.jpg"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "Light through a forest canopy, rendered in real time by @measure_plan. Visuals and sound are written in code.",
-              "images": [
-                "img/x/iNGOqSBXSBgqBsho.jpg"
-              ]
-            },
-            {
-              "index": 5,
-              "text": "A working flowchart tool that looks like doodles on graph paper, by @kevin_t_ngo. Drag shapes, connect them, or sketch on top.",
-              "images": [
-                "img/x/JWLOVKYbatOO0FYP.jpg"
-              ]
-            },
-            {
-              "index": 6,
-              "text": "Pixel-art forest creatures by @measure_plan, every frame drawn in code.",
-              "images": [
-                "img/x/HTVMv1xXQAAXCMP.jpg"
-              ]
-            },
-            {
-              "index": 7,
-              "text": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5.",
-              "images": [
-                "img/x/tAtttz1D3DAqZ-iX.jpg"
-              ]
-            },
-            {
-              "index": 8,
-              "text": "What are you exploring with Sonnet 5.5?"
-            }
-          ],
-          "images": [
-            "img/x/in4Hl4l6NzD9hpWU.jpg",
-            "img/x/JHAsRySZZHxncjWp.jpg",
-            "img/x/HTVMlS9WwAInArg.jpg",
-            "img/x/TD7mNCoBCisJfNtH.jpg",
-            "img/x/iNGOqSBXSBgqBsho.jpg",
-            "img/x/JWLOVKYbatOO0FYP.jpg",
-            "img/x/HTVMv1xXQAAXCMP.jpg",
-            "img/x/tAtttz1D3DAqZ-iX.jpg"
-          ]
-        },
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2104676099083190435",
-          "date": "2026-09-28T20:54:19Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Claude can now help you build evaluations and hillclimb on them.\n\nIn this article, we share guidance on eval design & skills that Claude Code can use to improve your applications.\n\nhttps://claude.dev/blog/automating-eval-design-and-hillclimbing/",
-              "url": "https://x.com/ClaudeDevs/status/2104676099083190435"
-            }
-          ]
-        }
-      ],
-      "cupoane": [
-        {
-          "title": "Motus Studio Sock Boot Womens −30%",
-          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Wavey Mule Womens −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
-          "category": "sale"
-        },
-        {
-          "title": "So Long Airsoles T-Shirt Unisex −50%",
-          "text": "Was €30 / now €15 (−50%). Organic cotton tee. Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/vivobarefoot-so-long-airsoles-t-shirt-unisex",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool −30.3%",
-          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers −30%",
-          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Thermal Insole Juniors −44%",
-          "text": "Was €9 / now €5 (−44.44%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/thermal-insole-juniors",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool −30.5%",
-          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "29.09.2026 Randamentul Bondurilor loveste Piata de Actiuni",
-          "date": "29.09.2026",
-          "summary": "**Decizie / Mesaj central**\n• Bond market a câștigat runda de ieri: petrol↑ + Treasury↑ + dolar↑ → comprimare evaluări pe growth. Informația centrală NU e −0,9% Nasdaq, ci US10Y la 5,241% (maxim din iunie 2007) și US2Y ~4,92%.\n• Teza AI nu s-a deteriorat peste noapte — s-a schimbat prețul capitalului (discount rate) cu care piața actualizează cash-flow-urile viitoare.\n• Mesaj 29.09: nu luptăm cu piața de obligațiuni, nu alergăm după primul dip, nu confundăm volatilitatea cu deteriorarea fundamentală. Nu devenim agresivi, dar nici emoționali.\n• Portofoliu autor −>$100k ieri; fără cash pentru SPCX dorit — îndemn: fiți deschiși la achiziții / alimentați portofoliile / cumpărați în tranșe când risk/reward e clar.\n• Zone US10Y (neschimbate): <5% = respiro growth; 5–5,25% = stres ridicat dar gestionabil; >5,30–5,35% = comprimare evaluări serioasă. Azi suntem la limita zonei de stres (5,24%).\n\n**Reacția pieței (ieri)**\n• SP500 7.683,69 (−0,77%); Nasdaq 26.820,38 (−0,92%); Dow 51.481,51 (−0,67%); Russell 2000 ~−0,7%; SOX (Philadelphia Semi) ~−1,6%. Vânzare largă, fără capitulare.\n• Growth hit disproporționat: AMD ~−3,6%; Tesla ~−4%; Meta ~−4,8%. Poziții high-beta GYW sub presiune toată ziua.\n• NVDA ~+1,7% într-o zi proastă pentru semis → diferențiere pe afaceri, nu abandon mecanic al sectorului.\n• Config clasică open: petrol↑ Treasury↑ dolar↑ equity↓. Respingere propunere iraniană → petrol inițial ~+3%; mediere ulterioară reduce impulsul; Brent închide ~105,28 USD. Treasury NU urmează retragerea petrolului — divergență esențială (inflație persistentă, Fed, term premium, fiscal, ofertă de titluri).\n• Nu avem încă semne de stres major pe credit / lichidare forțată / panic hedge → șoc de evaluare, nu de lichiditate.\n\n**Macro / Fed / Politică / Calendar**\n• Ecuație Octombrie: petrol ridicat → presiune inflaționistă → Fed mai restrictiv → Treasury↑ → multipli↓ pe acțiuni.\n• Dacă Trump NU se înțelege cu Iranul în ~2 săptămâni, petrolul NU coboară sub 75 USD și yields rămân ridicate → aproape sigur Fed +25 bp pe 26 Octombrie. Problema reală: US10Y poate merge spre 6,3% apoi 8% → devastator pentru evaluări + recesiune probabilă.\n• Scenariu extrem menționat (nu pentru panică): eveniment militar/cibernetic → suspendare alegeri 3 Noiembrie → dispare traiectoria pozitivă 2027, posibil bear market de durată.\n• Scenariu pozitiv: înțelegere Trump–Iran; date BLS „prelucrate” convenabil; yields↓; hike 26 Oct amânat; șanse mici republicani păstrează o cameră (probabil Senat).\n• Semnal negativ: amânare listare Anthropic din Octombrie → Noiembrie (rareori e semn că merge prea bine).\n• US2Y ~4,92%: piața nu mai tratează înăsprirea Fed ca eveniment izolat. PCE blând → US2Y/US10Y/dolar↓ → growth↑; inflație fierbinte = opusul.\n• Calendar: PCE, NFP/labor, JOLTS, ADP, ISM Manufacturing + oficiali Fed. Nu extrapola mecanic 5,24% → 6%; construiește scenarii și lasă datele să confirme.\n• 30 septembrie = final lună + trimestru → rebalansări / pensii / window dressing / algo — mișcări „ciudate” pe AMD/SHNBIS etc. pot fi flux, nu știre fundamentală.\n\n**Nvidia buyback + Anthropic + Starship**\n• NVDA: autorizare nouă buyback $150B → capacitate rămasă $235B până la final FY2028 = cel mai mare buyback din istorie. Autorizare ≠ execuție, dar sprijin substanțial sub preț; totuși a pierdut pragul $230 înainte de close → puterea vântului din față la US10Y 5,24%.\n• NVDA: platformă deschisă monitorizare agenți AI (Sentry pe BlueField + OpenShell pe Vera); >100 companii/bănci/infra/cercetare în spate.\n• Anthropic prospect: venituri $4,6B; cheltuieli compute/infra $7,3B; angajamente viitoare $518B; țintă listare ~$2T. Dacă se întâmplă, autor vede PLTR reevaluat rapid spre $1,5–2T.\n• Starship Flight 14: primă orbită de la Starbase TX (~08:15 local); 26 sateliți Starlink V3 pe orbită; un motor cu probleme / misiune scurtată, dar obiective comerciale principale atinse → potențial vehicul comercial payload. Cerc virtuos: orbită → payload↑ → Starlink V3 → venituri → finanțare → cost/kg↓ → mai multe lansări. Progres fundamental major pentru portofoliu GYW (exemplu: folosește volatilitatea ca pregătire, nu panică).\n\n**Companii / știri individuale**\n• Kodiak Sciences: aproape ×3 după hit pe obiective fază 3 oftalmologie.\n• MongoDB −18,5%: CEO (<1 an) pleacă la Meta.\n• Boeing −7%: FAA amână certificare 737 Max 10 (eroare software).\n• Nu Holdings −10% pe discuții preliminare Monzo (evaluare bancă $8–13B, teamă diluare); Needham = buy opportunity, PT $19.\n• Applied Digital −7%: Rothschild & Co Redburn inițiază Neutral, PT $22; backlog contracte $31B; earnings Q1 fiscal 7 octombrie — dezbatere: pot depăși așteptările Octombrie?\n\n**Portofoliu (tickers + niveluri)**\n• Niveluri ieri: AMD 607,93 (−3,6%); AVGO 349,67 (−0,9%); META 715,65 (−4,8%); TSLA 357,34 (−4%); PLTR 187,48 (−1,15%); NBIS 231,88 (−2,3%); SOFI 15,93 (−3,9%); HOOD 116,48 (−2,45%); RKLB ~72–73; ASTS ~61; ONDS ~7,68 (ușor +); LEU ~140,5 (−4,5%); IREN 41,72 (−5,45%).\n• AMD: teză AI acceleratoare/inferență/EPYC/cotă intactă; multiplu comprimat de US10Y>5,2%. Suport 625–630 CEDAT; zonă critică 600–610; dacă 600 cedează + US10Y>5,30% → extensie spre 570. NU chase.\n• AVGO: forță relativă (doar −0,9%) — custom silicon + networking AI + FCF prezent mare (mai puțin sensibil la discount rate). Zone: 346–350 rezistă; sub 346 → 338–342; peste 360–365 îmbunătățire.\n• META: −4,8% după săptămână ~+13% = profit-taking + comprimare; Muse rămâne catalizator, piața cere utilizare/retenție/monetizare. Pierdut 740–750; suport relevant 700–715.\n• TSLA: pierdut 365–368, testează 355–360; sub 355 → 340–345. Lovită dublu: finanțare auto ↑ + discount pe FSD/Robotaxi/Optimus. Fundamental neschimbat major.\n• PLTR: rezistență relativă (−1,15%); Jana Partners presează Fiserv să folosească PLTR (AIP în procese reale). Fundament puternic; risc = evaluare exigentă.\n• NBIS: fără deteriorare fundamentală nouă; sensibilă la Treasury (capex/finanțare/CF viitor). Tehnic: 225–230; sub → 210–220. Întrebare: venit contractat + CF viitor / $ capex?\n• SOFI: nu doar rate — risc de credit (delinquencies/losses/calitate portofoliu) dacă higher-for-longer lovește consumatorul. Suport imediat 15,80–16. NFP săptămâna asta contează mult.\n• HOOD: barometru retail (acțiuni/crypto/opțiuni/AUM). Volatilitate inițială poate susține volume; bear prelungit ar reduce engagement — încă nu suntem acolo.\n• RKLB: forță relativă; Cantor pozitiv (lansări + diversificare clienți). Succes Starship ≠ automat veste proastă (economia spațială mai mare extinde TAM). Neutron = cheia.\n• ASTS: stabilă pe zi grea; cadru neschimbat: sateliți → cadență lansare → acoperire → activare operatori → venituri.\n• ONDS: una din cele mai reziliente (ușor + vs Nasdaq −1%). Urmărește venituri, marjă brută, cash burn, conversie contracte și mai ales share count — creștere per acțiune.\n• LEU (Centrus): −4,5%; teză HALEU/lanț US intactă, dar tehnic slab; zonă critică 135–140.\n• IREN: cea mai lovită (−5,45%); beta ridicat + Jones Trading inițiază Hold cu îngrijorări structură/business. Optimist = clustere GPU live → venituri recurente/FCF pe acțiune (nu „miner BTC”). Zonă critică 40–42.\n\n**Scenarii azi / Ce urmărim**\n• Variabile: US10Y 5,25% apoi 5,30–5,35%; US2Y spre 5%; Brent 105–110; Nasdaq 27.000; SP500 7.650–7.700; amplitudine/breadth.\n• Constructiv: US10Y <5,20%; Brent 102–104; Nasdaq recuperează 27k; AMD >620; TSLA apără 355–360; META se stabilizează 700–715 → apar oportunități.\n• Neutru: Treasury 5,20–5,30%; Brent 104–108; Nasdaq consolidează 26.600–27.000 înaintea datelor macro.\n• Risc: US10Y >5,30–5,35%; US2Y atacă 5%; Brent >110; Nasdaq pierde 26.500; VIX+amplitudine confirmă → NU cumpăra mecanic primul dip; PĂSTREAZĂ cash.\n• Dacă Treasury se stabilizează → oportunități; dacă avansează spre 5,35% → prețurile pot deveni și mai atractive — nu trebuie prins minimul azi.\n\n**Filozofie / Dimensionare**\n• Stabilește cât ești dispus să pierzi ÎNAINTE de a intra. Dimensionarea face parte din tranzacție, nu se decide în timpul ei.\n• 20% într-o poziție tip RKLB/ASTS/ONDS (model încă în construcție) = rău (excepție early portfolio cu 2–3 poziții). 20% în AMD/TSLA/META/PLTR (afaceri profitabile) = altceva.\n• Portofoliu high-beta (AMD, TSLA, NBIS, RKLB, ASTS, ONDS, IREN) = volatilitate inevitabilă. Problema e size care forțează decizii emoționale în ziua cea mai proastă.\n• Separă: (1) Fundamental — Starship pe orbită + Starlink V3; (2) Tehnic — TSLA pierde 365–368, AMD pierde 625–630; (3) Mecanică/macro — META ~−5% după raliu + Treasury accelerează. Nu vinde o afacere bună pe flux temporar.\n• Cash = poziție strategică, nu lipsă de curaj. Dip ≠ automat oportunitate; oportunitate = preț scade mai mult decât valoarea fundamentală. Cash permite așteptarea PCE/NFP/reacției yields la 5,25–5,35 / petrol vs 110.\n• Forța relativă contează: AVGO > AMD, PLTR solid, ONDS ~plus, NVDA↑. Capitalul migrează spre creștere+CF+evaluare atractivă. Pentru IREN: ROI pe capital; NBIS: venituri/CF vs capex; RKLB: economia Neutron; ASTS: sateliți→venituri; ONDS: creștere+FCF/acțiune.\n• Cu răbdare și disciplină, Octombrie = din lună de frică → lună de oportunități. Cumpărăm calitate când costul capitalului sperie lumea, nu când toată lumea e confortabilă — inclusiv pe fondul narativului „catastrofă” spre 3 Noiembrie.\n",
-          "recommendations": "• Deschis la achiziții / alimentează portofoliile / cumpără în tranșe — nu agresiv azi, ci pregătit când risk/reward e clar favorabil (autor: −>$100k ieri, fără cash pentru SPCX dorit).\n• NU lupta cu piața de obligațiuni; NU alerga după primul dip; NU confunda volatilitatea cu deteriorarea fundamentală.\n• Cash = strategic: așteaptă PCE, NFP, reacția US10Y la 5,25–5,35% și petrol vs 110 USD înainte de a forța.\n• US10Y zone: <5% relief / 5–5,25% stres gestionabil / >5,30–5,35% comprimare serioasă — azi 5,241% la limită.\n• Scenariu constructiv: US10Y <5,20% / Brent 102–104 / Nasdaq 27k / AMD >620 / TSLA 355–360 / META 700–715 → oportunități; nu deveni emoțional-defensiv.\n• Scenariu neutru: Treasury 5,20–5,30% / Brent 104–108 / Nasdaq 26.600–27.000 pre-date macro = consolidare.\n• Scenariu risc: US10Y >5,30–5,35% / US2Y→5% / Brent >110 / Nasdaq <26.500 + VIX↑ → NU cumpăra mecanic primul dip; PĂSTREAZĂ cash.\n• AMD ~607,93: HOLD teză AI/EPYC; suport 625–630 cedat; critic 600–610; dacă 600+US10Y>5,30 → risc 570; NU chase.\n• AVGO ~349,67: forță relativă / ține teza custom+networking AI; zone 346–350 / 338–342 / 360–365.\n• META ~715,65: digestie după +~13% săptămână; Muse KPI = utilizare/retenție/monetizare; suport 700–715 (pierdut 740–750).\n• TSLA ~357,34: yields lovesc dublu; testează 355–360; sub 355 → 340–345; nu forța.\n• PLTR ~187,48: HOLD pe fundament (Jana/Fiserv AIP); atenție evaluare; forță relativă ieri.\n• NBIS ~231,88: duration/capex — size; zone 225–230 / 210–220; cere venituri+CF vs capex.\n• SOFI ~15,93: urmărește credit/delinquencies; suport 15,80–16; NFP > Nasdaq pentru teză.\n• HOOD ~116,48: barometru retail — ok cât engagement nu capitulează.\n• RKLB ~72–73: Starship NU e automat negativ pentru RKLB (TAM↑); Neutron = cheie; Cantor pozitiv.\n• ASTS ~61: ține cadrul execuție fizică (sateliți→venituri).\n• ONDS ~7,68 (+): forță relativă; urmărește FCF/venituri pe acțiune + share count.\n• LEU ~140,5: teză HALEU intactă; tehnic slab — critic 135–140.\n• IREN ~41,72 (−5,45%): dimensionare critică (beta); Jones Trading Hold; zonă 40–42; teză = GPU→venituri recurente/FCF pe acțiune.\n• SpaceX/Starship: progres fundamental real (orbită + Starlink V3) — folosește volatilitatea ca pregătire, nu panică; exemplu de execuție pe care o cumperi la dip.\n• Dimensionare: NU 20% în early-stage (RKLB/ASTS/ONDS) dacă portofoliul e matur; size înainte de intrare; drawdown normal nu trebuie să forțeze exit emoțional.\n• 30.09 window dressing Q3: nu interpreta automat mișcări ciudate pe AMD/NBIS ca știre fundamentală.\n• Macro Oct: dacă Trump–Iran eșuează + petrol nu <75$ + yields ridicate → Fed +25 bp 26 Oct aproape sigur; risc US10Y 6,3%→8% = devastator — construiește scenarii, nu extrapola liniar.\n• Narativ media „catastrofă” spre 3 Noiembrie: jocul rămâne cumpără calitate când costul capitalului sperie, nu când e confortabil.\n• Fără tranzacție nouă executată anunțată în acest material — mesaj de regim (yields/petrol), niveluri, dimensionare, cash și tranșe; nu trade nou tip −500 AMD.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165689/posts/2197788207"
         }
       ]
     }
