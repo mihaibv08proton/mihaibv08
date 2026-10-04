@@ -282,6 +282,20 @@ code {
   outline-offset: 2px;
 }
 
+/* Three day tabs must sit on one row at phone width. No sideways scroll. */
+@media (max-width: 520px) {
+  .day-tabs {
+    overflow-x: hidden;
+  }
+
+  .day-tab {
+    min-width: 0;
+    flex: 1 1 0;
+    padding: 0.45rem 0.2rem;
+    white-space: normal;
+  }
+}
+
 /* —— Edition —— */
 .edition {
   animation: fadeIn 0.22s ease;
