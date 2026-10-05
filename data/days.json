@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-10-05T18:45:22+03:00",
+    "updatedAt": "2026-10-06T00:08:30+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,134 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-10-06",
+      "xPosts": [
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2107104362484945298",
+          "date": "2026-10-05T13:43:22Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "ADSK- nice early impulse off OP, CLF, ORCL on early buys as well.",
+              "url": "https://x.com/LindaRaschke/status/2107104362484945298",
+              "images": [
+                "img/x/HT3wCtUWkAAdUzh.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HT3wCtUWkAAdUzh.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2107104571726418144",
+          "date": "2026-10-05T13:44:12Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "Short CVX.",
+              "url": "https://x.com/LindaRaschke/status/2107104571726418144",
+              "images": [
+                "img/x/HT3wYBZXgAAPU4x.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HT3wYBZXgAAPU4x.png"
+          ]
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2107104961322701292",
+          "date": "2026-10-05T13:45:45Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "FDX, GS, COP  under early selling pressure as well.",
+              "url": "https://x.com/LindaRaschke/status/2107104961322701292"
+            }
+          ],
+          "images": []
+        },
+        {
+          "handle": "LindaRaschke",
+          "statusUrl": "https://x.com/LindaRaschke/status/2107111928828977294",
+          "date": "2026-10-05T14:13:26Z",
+          "thread": false,
+          "tweets": [
+            {
+              "index": 1,
+              "text": "hg (COPPER) need range expansion to confirm upside BO from 3-bar balance. then can turn daily swing back UP.",
+              "url": "https://x.com/LindaRaschke/status/2107111928828977294",
+              "images": [
+                "img/x/HT32_R2WoAAgBYS.png"
+              ]
+            }
+          ],
+          "images": [
+            "img/x/HT32_R2WoAAgBYS.png"
+          ]
+        }
+      ],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens −30%",
+          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool −30.3%",
+          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers −30%",
+          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Kids −40.2%",
+          "text": "Was €82 / now €49 (−40.24%). Automatic sale price on vivobarefoot.com/eu. In stock. SLACK ≥40%.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-kids",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-10-05",
       "xPosts": [],
@@ -147,159 +275,6 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789716"
         }
       ]
-    },
-    {
-      "date": "2026-10-03",
-      "xPosts": [
-        {
-          "handle": "ClaudeDevs",
-          "statusUrl": "https://x.com/ClaudeDevs/status/2106118517447876618",
-          "date": "2026-10-02T20:25:59Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "We're adding a new plugin to Claude Code: You should Know.\n\nIt scans Claude's output for important information you might miss to help keep you in the loop.\n\nEnable it with:\n\n/plugin enable cc-plugin-you-should-know@builtin",
-              "url": "https://x.com/ClaudeDevs/status/2106118517447876618",
-              "images": [
-                "img/x/re-zKSZJxfNzWR7l.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "\"You should know\" is a mod that works by spinning off a sideagent to observe Claude's output.\n\nRead more about mods in our newest blog post: https://claude.dev/blog/getting-started-with-claude-code-mods/"
-            }
-          ],
-          "images": [
-            "img/x/re-zKSZJxfNzWR7l.jpg"
-          ]
-        },
-        {
-          "handle": "claudeai",
-          "statusUrl": "https://x.com/claudeai/status/2106125468365918268",
-          "date": "2026-10-02T20:53:36Z",
-          "thread": true,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Lots of inventive things made with Claude these past few weeks. A few of our favorites:\n\nA working watermill, built with Opus 5.5.",
-              "url": "https://x.com/claudeai/status/2106125468365918268",
-              "images": [
-                "img/x/7XO-gsduGRB63T3x.jpg"
-              ]
-            },
-            {
-              "index": 2,
-              "text": "Embossed cards, made with Opus 5.5.",
-              "images": [
-                "img/x/KaZwP9bRIBIKsMEs.jpg"
-              ]
-            },
-            {
-              "index": 3,
-              "text": "A 3D site that flies you from outside the Milky Way down to Jupiter’s moons, Opus 5.5.",
-              "images": [
-                "img/x/Qe4GMU7MTsWfMeVc.jpg"
-              ]
-            },
-            {
-              "index": 4,
-              "text": "Water, simulated in the browser.",
-              "images": [
-                "img/x/FK4EXlMDjxkrVNaN.jpg"
-              ]
-            },
-            {
-              "index": 5,
-              "text": "Poems, illustrated in Claude Code.",
-              "images": [
-                "img/x/9S_3pUIgfh_PPnL4.jpg"
-              ]
-            },
-            {
-              "index": 6,
-              "text": "Claude Code and a camera, left running overnight on Old Street.",
-              "images": [
-                "img/x/cY1N7RPYJ2bubuJa.jpg"
-              ]
-            },
-            {
-              "index": 7,
-              "text": "A pixel walk through Seattle that follows the real weather and time of day.",
-              "images": [
-                "img/x/H5_l1w6B8-h1VHU_.jpg"
-              ]
-            },
-            {
-              "index": 8,
-              "text": "A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5.",
-              "images": [
-                "img/x/WKh5nSFzmgW3dcBX.jpg"
-              ]
-            },
-            {
-              "index": 9,
-              "text": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5.",
-              "images": [
-                "img/x/v1YJJYplKWAb44Ui.jpg"
-              ]
-            },
-            {
-              "index": 10,
-              "text": "What are you exploring with Claude this weekend?"
-            }
-          ],
-          "images": [
-            "img/x/7XO-gsduGRB63T3x.jpg",
-            "img/x/KaZwP9bRIBIKsMEs.jpg",
-            "img/x/Qe4GMU7MTsWfMeVc.jpg",
-            "img/x/FK4EXlMDjxkrVNaN.jpg",
-            "img/x/9S_3pUIgfh_PPnL4.jpg",
-            "img/x/cY1N7RPYJ2bubuJa.jpg",
-            "img/x/H5_l1w6B8-h1VHU_.jpg",
-            "img/x/WKh5nSFzmgW3dcBX.jpg",
-            "img/x/v1YJJYplKWAb44Ui.jpg"
-          ]
-        }
-      ],
-      "cupoane": [
-        {
-          "title": "Motus Studio Sock Boot Womens −30%",
-          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Wavey Mule Womens −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool −30.3%",
-          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers −30%",
-          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool −30.5%",
-          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": []
     }
   ]
 }
