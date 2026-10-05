@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-10-05T13:26:00+03:00",
+    "updatedAt": "2026-10-05T18:45:22+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -50,6 +50,20 @@
           "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Kids −40.2%",
+          "text": "Was €82 / now €49 (−40.24%). Automatic sale price on vivobarefoot.com/eu. In stock. SLACK ≥40%.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-kids",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids",
           "category": "kids_sale"
         }
       ],
