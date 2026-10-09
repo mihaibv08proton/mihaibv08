@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-10-08T13:09:24+03:00",
+    "updatedAt": "2026-10-09T13:09:45+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,63 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-10-09",
+      "xPosts": [],
+      "cupoane": [
+        {
+          "title": "Motus Studio Sock Boot Womens −30%",
+          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Wavey Mule Womens −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool −30.3%",
+          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers −30%",
+          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool −30.5%",
+          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Kids −40.2%",
+          "text": "Was €82 / now €49 (−40.24%). Automatic sale price on vivobarefoot.com/eu. In stock. SLACK ≥40%.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-kids",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": [
+        {
+          "title": "09.10.2026 Zilele de corectie sunt bune si sanatoase",
+          "date": "09.10.2026",
+          "summary": "**Tema zilei: corecție, nu panică**\n• Ieri, mai multe poziții au scăzut puternic: AMD -3,9%, Broadcom -4,35%, Nebius -7,35%, IREN -7,70%.\n• Autorul spune: prima reacție este emoțională. Reacția este normală.\n• Orizontul nostru este de 5, 10 și 15 ani, nu de două ședințe.\n• Banii s-au mutat de la semiconductori spre energie. Piața digeră o întrebare nouă. Piața nu se prăbușește.\n\n**Ce a făcut autorul ieri**\n• Autorul a crescut ASTS cu 100 de acțiuni.\n• Autorul a crescut RKLB cu 100 de acțiuni.\n• Autorul nu a încercat să prindă minimul și nu a folosit sume mari.\n• De acum, autorul se concentrează pe SPCX și AVGO. Înainte să cumpere, autorul așteaptă stabilizarea prețului.\n• Autorul rămâne pe poziții pe restul portofoliului. Autorul nu vinde nimic.\n\n**Ședința de joi, 08.10.2026: rotație, nu vânzare generalizată**\n• SP500 a închis la 7.765,36 (-0,47%). Nasdaq Composite a închis la 27.193,34 (-1,25%).\n• Dow Jones a închis la 51.231,64 (+0,10%). Russell 2000 a închis aproape neschimbat, la 2.794,13.\n• Este a doua scădere la rând pentru SP500 și Nasdaq, după maximele istorice de marți.\n• Aproximativ 2/3 din companiile SP500 au închis pe verde. Companiile tech mari au tras indicele în jos.\n• Sectorul tech din SP500 a scăzut cu ~1,8%. Indicele semiconductorilor a scăzut cu ~3,4%.\n• NVDA și AMD au scăzut cu aproape 3%. Broadcom a scăzut cu peste 4%. Oracle a scăzut cu ~5,5%.\n• Volumul a fost 18,81 mld. de acțiuni, peste media recentă. Investitorii au redus expunerea pe semiconductori.\n• VIX a închis la ~15,4, de la ~15,1 miercuri. Creșterea este moderată. VIX nu arată panică.\n• Lecția: un portofoliu de creștere concentrat are fluctuații mai mari decât SP500. Acceptăm aceste fluctuații.\n\n**Raportul despre veniturile OpenAI**\n• Ședința a avut 2 teme: creșterea petrolului și veniturile OpenAI.\n• FT, citat de Reuters: veniturile anualizate OpenAI erau ~50 mld. USD la final de septembrie. Estimarea anterioară era ~70 mld. USD.\n• O parte din diferență vine din metode de calcul diferite și din veniturile prin parteneri cloud.\n• Autorul spune: cererea pentru AI nu s-a prăbușit. Problema este calitatea veniturilor și profitabilitatea clienților AI.\n• Întrebarea pieței s-a schimbat. Acum piața întreabă cine finanțează creșterea AI și cât câștigă din ea.\n• Autorul consideră întrebarea sănătoasă. O piață care diferențiază companiile este mai bună pe termen lung.\n\n**Treasury, FED și piața muncii**\n• Licitația US30Y a avut cerere solidă. Raportul cerere/ofertă a fost 2,54, peste media de 2,41 a ultimelor 6 licitații.\n• Investitorii indirecți au luat ~72,3% din emisiune. Randamentul de adjudecare a fost 5,618%.\n• La închidere: US2Y 4,75%, US10Y 5,23%, US30Y 5,60%.\n• Nasdaq nu a crescut, deși US10Y a coborât. Raportul OpenAI a anulat efectul pozitiv al dobânzilor mai mici.\n• Zone US10Y: sub 5,20–5,25% este bine pentru Growth. Între 5,25% și 5,35% piața este volatilă și selectivă.\n• Peste 5,35–5,40%, riscul de noi ajustări de evaluare crește. Zonele sunt repere de scenariu, nu niveluri magice.\n• Cererile inițiale de șomaj au fost 197.000, de la 199.000. Media pe 4 săptămâni este ~198.000.\n• Concedierile rămân reduse. Angajările au încetinit.\n• Guvernatorul FED Christopher Waller spune că pot fi necesare noi majorări de dobândă, pentru inflația de 2%.\n• Piața vede o pauză în octombrie. Probabilitatea unei majorări până în decembrie rămâne ridicată.\n• Autorul spune: problema pentru Growth este durata dobânzilor mari, nu nivelul de azi. Durata posibilă este 12–18 luni.\n\n**Petrol, dolar și Bitcoin**\n• Brent a închis la 104,28 USD. WTI a închis la 91,49 USD. Cauze: riscuri în Orientul Mijlociu și uraganul Isaias în Golful Mexic.\n• Dimineață, Brent era ~103,8 USD și WTI ~91,1 USD.\n• DXY a închis la ~102,14, apoi a coborât spre 102,0.\n• Bitcoin a scăzut în zona 81.000–82.000 USD, de la peste 85.000 USD la începutul săptămânii.\n• Combinația este nefavorabilă pentru activele speculative. Nu toate companiile de creștere trebuie să scadă.\n\n**Portofoliu (închidere 08.10.2026)**\n• AVGO: 360,14 USD (-4,35%), minim 357,41 USD. Volumul a fost ~27,1 mil. acțiuni, de la 17 mil. miercuri.\n• AVGO: teza fundamentală rămâne puternică. Riscul este finanțarea de ~60 mld. USD pentru infrastructura AI a Anthropic (42 mld. senior, 18 mld. junior), parțial cu sprijinul creditului Broadcom.\n• AVGO: suport 357–360, apoi 350–352 și 343–345 USD. Rezistență 369–373, apoi 376–381 USD.\n• AMD: 620,68 USD (-3,90%), minim 613,34 USD. Maximul de marți a fost 658,52 USD.\n• AMD: Lisa Su vrea mai multe cipuri în 2027. AMD poate colabora mai mult cu Samsung. Suport 613–615, apoi 600–605 USD. Rezistență 630–635, apoi 645–650 USD.\n• TSLA: 375,00 USD (-0,74%), minim 368,03 USD. Raportarea este pe 21 octombrie. Suport 368–370, apoi 360–365 USD. Rezistență 380–383, apoi 390–400 USD.\n• SPCX: 160,57 USD (-4,19%), minim 160 USD, volum ~71,8 mil. După închidere, SPCX a recuperat ~+3%.\n• SPCX: azi expiră o nouă etapă de restricții de vânzare. Până la 328,4 mil. acțiuni pot intra la tranzacționare (~7% din pachetul restricționat).\n• SPCX: SpaceX vrea să extindă Starlink Mobile prin spectru radio suplimentar. Suport 158–160, apoi 150–153 USD. Rezistență 165–168, apoi 172–176 USD.\n• META: 720,89 USD (-0,06%). META finanțează investițiile din fluxurile proprii de numerar. Suport 711–715, apoi 700 USD. Rezistență 725–730, apoi 738–740 USD.\n• PLTR: 198,78 USD (+2,40%), maxim 204,44 USD, volum ~41,7 mil. Goldman Sachs a crescut recomandarea la „cumpărare”, cu țintă 230 USD.\n• PLTR: riscul este evaluarea ridicată. Suport 195–196, apoi 190–192 USD. Rezistență 200, apoi 204–205 USD.\n• NBIS: 219,71 USD (-7,35%), a doua scădere puternică. Maximul de marți a fost 255,10 USD, minimul 217,73 USD.\n• NBIS: suport 217–220, apoi 205–210 USD. Rezistență 230–235, apoi 245–250 USD.\n• SOFI: 15,61 USD (-0,32%). SoFi Tech Solutions are un parteneriat cu Orbi și Mastercard pentru un card cripto în Mexic. Raportarea este pe 27 octombrie.\n• SOFI: suport 15,25–15,40, apoi 15 USD. Rezistență 15,65–15,80, apoi 16,00–16,20 USD.\n• HOOD: 107,01 USD (-2,28%), minim 105,11 USD. Suport 105–106, apoi 101–103 USD. Rezistență 109–110, apoi 112–115 USD.\n• RKLB: 68,40 USD (-4,89%), minim 67,71 USD. Achiziția Iridium are ~8 mld. USD. Emisiunea din septembrie a adus ~1,94 mld. USD și a eliminat creditul temporar de 3,6 mld. USD.\n• RKLB: suport 67–68, apoi 64–65 USD. Rezistență 71–72, apoi 75–76 USD.\n• ASTS: 56,93 USD (-6,13%), minim 55,96 USD. ASTS a pierdut zona 58–59 USD. Concurența SpaceX în comunicațiile mobile crește.\n• ASTS: suport 55–56, apoi 52–53 USD. Rezistență 59–60, apoi 63–65 USD. Urmărim constelația BlueBird.\n• ONDS: 6,85 USD (-4,73%), minim 6,79 USD, volum ~60,8 mil. Suport 6,75–6,80, apoi 6,40–6,50 USD. Rezistență 7–7,15, apoi 7,40–7,60 USD.\n• LEU: 142,09 USD (-3,43%), interval 138,78–146,78 USD. Teza este HALEU și combustibilul nuclear american. Suport 138–140, apoi 135 USD. Rezistență 146–147, apoi 150–154 USD.\n• IREN: 35,71 USD (-7,70%), minim 35,24 USD. Marți a închis la 41,28 USD. Scăderea în 2 ședințe este ~13,5%.\n• IREN: contractul cu NVDA are ~3,4 mld. USD pe 5 ani. Suport 35–35,50, apoi 32–33 USD. Rezistență 38–39, apoi 40–41 USD.\n\n**Azi și săptămâna viitoare**\n• Azi, la 17:00 ora României, apare încrederea consumatorilor University of Michigan. Consensul este 47,5–47,6, de la 48,1 în septembrie.\n• Componenta de așteptări de inflație contează mai mult decât indicele general.\n• Autorul urmărește: US10Y sub 5,25%, Brent sub 103 USD sau spre 106–108 USD, Nasdaq în zona 27.000–27.200, cumpărători pe AVGO și AMD.\n• Autorul crede că acești cumpărători vor apărea.\n• Săptămâna viitoare încep raportările importante. CPI apare pe 14 octombrie.\n\n**Scenarii**\n• Revenire tehnică: US10Y sub 5,25%, petrol stabil, raport Michigan fără surpriză. AVGO, AMD, NBIS și IREN pot recupera o parte din pierderi.\n• 1–2 ședințe verzi nu confirmă sfârșitul corecției.\n• Consolidare: Nasdaq în zona 27.000–27.300, randamente stabile, piața așteaptă CPI și raportările.\n• Continuarea corecției AI: investitorii taie estimările de profit ale marilor dezvoltatori AI.\n• Presiune energetică și inflaționistă: Brent peste 106–108 USD și US10Y peste 5,35%. În acest caz, prioritatea este protecția lichidității.\n\n**Concluzie și filozofie**\n• O industrie poate crește foarte mult, iar acțiunile ei pot scădea sever în același timp.\n• O companie poate fi extraordinară și totuși supraevaluată. O acțiune poate scădea 20% și poate rămâne scumpă.\n• Dimensionarea poziției este la fel de importantă ca selecția companiei.\n• 14 poziții care depind de aceiași factori macro sunt o singură expunere repetată de 14 ori.\n• Numerarul este o rezervă de flexibilitate, nu un semn de pesimism. Nici numerarul nu trebuie să devină o religie.",
+          "recommendations": "• Nu intrați în panică pentru 2 ședințe roșii. Orizontul este 5–10–15 ani.\n• Autorul a cumpărat ieri 100 ASTS și 100 RKLB. Autorul nu a folosit sume mari și nu a încercat să prindă minimul.\n• Autorul se concentrează acum pe SPCX și AVGO. Înainte de orice cumpărare, autorul așteaptă stabilizarea prețului.\n• AVGO: autorul nu crește poziția înainte de stabilizarea prețului. Autorul urmărește și US10Y.\n• Autorul rămâne pe poziții pe restul portofoliului. Autorul nu vinde nimic.\n• Nu cumpărați fiecare scădere. Nu vindeți la fiecare corecție.\n• AMD: autorul a recomandat zilele trecute reducerea treptată a poziției și reechilibrarea spre poziții mai mici.\n• AMD: pentru investitorii cu rezidență fiscală în Danemarca, Germania, Olanda și SUA, impozitul este foarte mare. Pentru ei, autorul a decis să nu reechilibreze dinspre AMD (profit peste 300%).\n• AMD: dimensionați poziția cu răbdare, din cauza volatilității.\n• NBIS: autorul nu cumpără doar pentru că prețul este mai mic decât marți. Autorul vrea stabilizare și confirmarea tezei.\n• IREN: nu ghiciți minimul. Verificați fundamentele. Nu creșteți expunerea fără control.\n• ONDS: administrați riscul foarte strict. O revenire peste 7 USD este doar un prim semnal de stabilizare.\n• PLTR: marcarea profitului lângă maxim este în regulă, dacă ați ținut acțiunea până aici.\n• TSLA: urmăriți raportarea din 21 octombrie. SOFI: urmăriți raportarea din 27 octombrie. RKLB: urmăriți efectul emisiunii de acțiuni asupra participației.\n• Păstrați numerar ca rezervă de flexibilitate. Nu așteptați permanent corecția perfectă.\n• Priorități: răbdare, selectivitate, lichiditate și controlul riscului.",
+          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789699"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "xPosts": [],
@@ -124,135 +181,6 @@
           "summary": "**Mesajul autorului**\n• Autorul spune: nu intrăm în starea de euforie sau FOMO. Nu cumpărăm acțiuni la orice preț.\n• Portofoliul autorului a ajuns la 32,7%. SP500 are 13,6%.\n• Nu consumăm tot cash-ul acum. Vor veni și zile fără soare.\n• Autorul face achiziții mai mici în această lună. Motivul este o vacanță cu copiii la Paris-Disney.\n• Portofoliul autorului primește alimentări mai mici în octombrie.\n\n**Ședința de marți, 06.10.2026**\n• SP500 a crescut cu 0,58%, la 7.818,95. Nasdaq a crescut cu 0,45%, la 27.599,79.\n• Dow a crescut cu 0,49%, la 51.521,04.\n• SP500 și Nasdaq au închis la noi maxime istorice.\n• Cauzele sunt: randamente Treasury în scădere, petrol stabilizat și optimism pentru sezonul de rezultate.\n• AMD a crescut cu 2,8%. Lisa Su a confirmat o ofertă de cipuri mult mai mare în 2027, pentru cererea AI.\n• Pe NYSE, acțiunile în creștere au depășit acțiunile în scădere cu 1,93 la 1.\n• 10 din 11 sectoare SP500 au închis pe plus.\n• Pe Nasdaq, 2.394 de companii au crescut și 2.378 au scăzut. Nasdaq a avut 61 de noi maxime și 182 de noi minime.\n• Russell 2000 a scăzut cu aproximativ 0,6%.\n• Utilities au condus piața. Semiconductorii au crescut. 6 din 7 mega-cap-uri AI au închis pe plus.\n• Constellation Energy a crescut cu 12,3%, după acordul de 3.590 MW cu Google.\n• Marvell a crescut cu 5,8%, după estimări de venituri mai mari pentru 2028.\n• Volumul a fost 16,50 mld. de acțiuni. Media pe 20 de ședințe este 17,51 mld.\n• Autorul spune: indicii sunt la record, dar nu toate segmentele participă egal.\n\n**Macro și Treasury**\n• Lanțul este: petrol stabil, inflație mai mică, Treasury mai jos, risc Fed hike mai mic, multipli growth susținuți.\n• US10Y a coborât marți spre 5,27%. Luni, US10Y a atins aproximativ 5,35%.\n• În această dimineață, US10Y este din nou în jurul 5,30%.\n• PLTR, NBIS, RKLB, ASTS, ONDS și IREN sunt cele mai sensibile la o mișcare de 10–15 bps în US10Y.\n• META, AVGO și AMD sunt mai protejate de cash-flow și de profitul actual.\n• Deficitul comercial SUA din august a crescut cu 13,7%, la aproximativ 105,6 mld. $ (Reuters).\n• Importurile de capital goods au crescut cu 4,4%. Ele confirmă investițiile în infrastructura AI.\n• Cererea internă puternică poate menține presiunea pe inflație.\n\n**Petrol, dolar și Bitcoin**\n• WTI este aproximativ 90,38$ (+1,05%). Brent este aproximativ 101,65$ (+1,06%).\n• Cauzele sunt atacurile Houthi asupra Arabiei Saudite și o furtună lângă infrastructura energetică din Golful Mexic.\n• În ultimele 7–10 zile, aproximativ 12 mil. bpd de crude și 2 mil. bpd de produse rafinate au plecat din Orientul Mijlociu.\n• DXY este în jurul 101,94, după -0,27% marți. Un dolar mai slab ajută marginal growth.\n• Bitcoin a scăzut cu aproximativ 0,6%, spre 85.300$. Acest lucru contează pentru IREN și HOOD.\n\n**Portofoliul GrowYourWealth**\n• AVGO: autorul spune că poziția este una dintre cele mai puternice din portofoliu.\n• AVGO: Broadcom are un acord cu Google pentru custom AI chips și componente de rack AI până în 2031.\n• AVGO: autorul spune că rebalansarea spre AVGO are logică. Riscurile sunt evaluarea, concentrarea clienților și vendor financing.\n• AVGO: pivot 360–365$. Un breakout confirmat duce spre 375–380$. Suport 350–355$, apoi 340–345$.\n• AMD: AMD discută cu TSMC și cu furnizori asiatici pentru mai multă capacitate. Planul este pe 3–5 ani.\n• AMD: autorul spune că problema devine oferta, nu cererea. Acest lucru întărește bull case-ul.\n• AMD: zona actuală este 640–650$. Peste 650–655$ cu volum, breakout-ul continuă. Suport 625–630$.\n• TSLA: 486.532 de livrări în Q3. Acum contează marja auto, prețul mediu, FCF, capex și AI/autonomy.\n• TSLA: pivot 380–385$. Peste 385$, următoarea zonă este 400$. Suport 370–375$.\n• SPCX: a crescut cu aproximativ 0,5% marți, după +7,6% luni.\n• SPCX: pe 9 octombrie urmează un nou unlock. Aproximativ 7% din acțiunile cu lock-up pot deveni vandabile.\n• SPCX: suport 168–170$, apoi 158–160$. Zonele în sus sunt 175$ și 180$.\n• META: AI growth este finanțat dintr-un business foarte profitabil. Autorul preferă self-funded growth.\n• PLTR: evaluarea este exigentă. PLTR este foarte sensibil la US10Y.\n• PLTR: suport 185–188$. Pivot 193–195$. Peste 195$, PLTR poate reataca 200$+.\n• NBIS: pivot 247–250$. Un breakout susținut peste 250$ este constructiv. Suport 235–240$.\n• SOFI: autorul urmărește calitatea creditelor, depozitele, cererea de credite și monetizarea ecosistemului.\n• HOOD: depinde de volume, active în custodie, crypto și apetitul de risc.\n• RKLB: Neutron poate schimba structural business-ul. Suport 68–70$. Rezistență 75–76$.\n• ASTS: autorul urmărește execuția proprie, nu povestea SpaceX. Suport 58–61$. Rezistență 65–68$.\n• ONDS: autorul urmărește gross margin, cash burn și numărul de acțiuni. Suport 7,20–7,40$. Rezistență 8–8,20$.\n• LEU: acordul Google–Constellation validează tema nucleară și HALEU. Suport 135–140$. Zona de recuperat este 147–150$.\n• IREN: AI trebuie să devină motorul principal, nu doar Bitcoin. Suport 40–42$. Primul prag este 45–46$.\n\n**Fundamental, tehnic și mecanica pieței**\n• Estimările LSEG pentru Q3: profiturile SP500 cresc cu aproximativ 30,6% anual. Tech crește cu 66,5%.\n• Tehnic, SP500 și Nasdaq sunt la maxime. Trendul trebuie respectat.\n• Mecanica pieței: unlock SPCX pe 9 octombrie și licitația Treasury pe 10 ani astăzi.\n\n**Ce urmărim pe 7 octombrie**\n• Licitația US Treasury pe 10 ani.\n• Minutele FOMC din 15–16 septembrie.\n• Probabilitatea unei majorări Fed în octombrie a scăzut la aproximativ 19%. Acum o săptămână era aproximativ 50%.\n• Dimineața: US10Y ~5,30%, DXY ~101,94, Brent ~101,65$, WTI ~90,38$.\n• O licitație slabă poate duce US10Y spre 5,35%. Acest nivel pune presiune pe evaluările growth.\n• FOMC dovish sau neutru, licitație solidă și US10Y sub 5,30% înseamnă continuarea rally-ului.\n• US10Y peste 5,35% și petrol peste 102–103$ înseamnă risc de compresie a evaluărilor.\n\n**Scenarii**\n• Goldilocks: US10Y spre 5,20–5,25%, Brent sub 102$. Cel mai bun pentru AMD, AVGO, PLTR, NBIS, RKLB, ASTS, ONDS și IREN.\n• Consolidare sănătoasă: US10Y 5,25–5,32%, petrol 100–103$. Câteva ședințe laterale reduc supraextinderea.\n• Bond shock: licitație slabă sau minute hawkish, US10Y peste 5,35%. Apetitul pentru high-beta scade.\n• Șoc geopolitic sau de inflație: Brent peste 105$, din cauza Saudi–Houthi sau a ofertei.",
           "recommendations": "• Nu intrați în euforie sau FOMO. Nu cumpărați acțiuni la orice preț.\n• Nu consumați tot cash-ul acum. Vor veni zile mai slabe.\n• Autorul face achiziții mai mici în octombrie.\n• Nu alergați după piață.\n• Nu măriți pozițiile AVGO și AMD doar pentru că indicii fac recorduri.\n• AVGO: cumpărați calitate când macro oferă preț. Nu alergați după breakout dacă US10Y revine peste 5,35%.\n• AMD: nu urmăriți prețul vertical.\n• SPCX: nu cumpărați la orice preț după +7,6%. Atenție la unlock-ul din 9 octombrie.\n• PLTR: autorul nu crește agresiv sizing-ul cu US10Y în jurul 5,30%.\n• ONDS: sizing-ul este la fel de important ca teza.\n• Păstrați cash-ul. Cash-ul dă randament, opționalitate și control emoțional.\n• Dacă piața urcă, participați prin expunerea existentă.\n• Dacă Treasury produce o corecție de 10–15% în growth fără deteriorare fundamentală, folosiți cash-ul pentru cumpărări.\n• Astăzi urmăriți reacția pieței obligațiunilor, nu fiecare cuvânt din minutele FOMC.\n• Fed hawkish și US10Y fără creștere înseamnă risc deja în preț.\n• Fed dovish și US10Y peste 5,35% înseamnă o problemă fiscală și inflaționistă.\n• Păstrați companiile cu fundamental în întărire. Nu confundați prețul cu valoarea. Nu măriți sizing-ul din FOMO.\n• Fiți foarte selectivi. Obiectivul real este compounding-ul pe 5–10 ani.",
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789705"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "xPosts": [
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2107104362484945298",
-          "date": "2026-10-05T13:43:22Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "ADSK- nice early impulse off OP, CLF, ORCL on early buys as well.",
-              "url": "https://x.com/LindaRaschke/status/2107104362484945298",
-              "images": [
-                "img/x/HT3wCtUWkAAdUzh.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HT3wCtUWkAAdUzh.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2107104571726418144",
-          "date": "2026-10-05T13:44:12Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "Short CVX.",
-              "url": "https://x.com/LindaRaschke/status/2107104571726418144",
-              "images": [
-                "img/x/HT3wYBZXgAAPU4x.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HT3wYBZXgAAPU4x.png"
-          ]
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2107104961322701292",
-          "date": "2026-10-05T13:45:45Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "FDX, GS, COP  under early selling pressure as well.",
-              "url": "https://x.com/LindaRaschke/status/2107104961322701292"
-            }
-          ],
-          "images": []
-        },
-        {
-          "handle": "LindaRaschke",
-          "statusUrl": "https://x.com/LindaRaschke/status/2107111928828977294",
-          "date": "2026-10-05T14:13:26Z",
-          "thread": false,
-          "tweets": [
-            {
-              "index": 1,
-              "text": "hg (COPPER) need range expansion to confirm upside BO from 3-bar balance. then can turn daily swing back UP.",
-              "url": "https://x.com/LindaRaschke/status/2107111928828977294",
-              "images": [
-                "img/x/HT32_R2WoAAgBYS.png"
-              ]
-            }
-          ],
-          "images": [
-            "img/x/HT32_R2WoAAgBYS.png"
-          ]
-        }
-      ],
-      "cupoane": [
-        {
-          "title": "Motus Studio Sock Boot Womens −30%",
-          "text": "Was €170 / now €119 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Wavey Mule Womens −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool −30.3%",
-          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers −30%",
-          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool −30.5%",
-          "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi T Bar Kids −40.2%",
-          "text": "Was €82 / now €49 (−40.24%). Automatic sale price on vivobarefoot.com/eu. In stock. SLACK ≥40%.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-kids",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "06.10.2026 SPCX decoleaza, concentrare vs diversificare, ETF/dividende vs Growth",
-          "date": "06.10.2026",
-          "summary": "**Decizia autorului**\n• Autorul a cumpărat mai agresiv SPCX acum ceva timp.\n• Autorul a rebalansat 300 VST în alte 300 SPCX.\n• Autorul nu a făcut alte achiziții.\n• Aproape toți banii investiți la început de lună sunt deja în SPCX.\n\n**Portofoliu concentrat vs diversificat**\n• Diversificarea reduce riscul. Ea reduce și efectul unei investiții foarte bune.\n• Autorul recomandă 15–20 de companii atent selectate.\n• O poziție de 8–10% care se dublează sau se triplează schimbă mult rezultatul.\n• Autorul a arătat acest efect cu Tesla, Palantir, SoFi, AMD și HOOD.\n• Autorul vrea să repete acest efect cu SPCX, RKLB, ASTS și ONDAS.\n• Concentrarea nu înseamnă jumătate din bani într-o singură companie.\n• Exemplu: 15 companii în AI, semiconductori, fintech, spațiu, energie, nuclear, robotică și autonomie.\n• Concentrarea mărește și câștigurile, și greșelile.\n• Exemplu de greșeală: CLSK, din 2024 până în aprilie 2025.\n• La o greșeală, vinde poziția. Mută banii într-o poziție importantă cu perspective bune dovedite.\n\n**Growth vs ETF și dividende**\n• Primii 5–10 ani contează cel mai mult pentru construcția averii.\n• Un investitor de 30–45 de ani, cu venit și investiții lunare, nu are nevoie de dividend acum.\n• Companiile growth reinvestesc banii în produse noi, AI, fabrici, centre de date și clienți noi.\n• Exemplu: dividend 4% plus creștere 5% înseamnă aproximativ 9%. O companie fără dividend poate crește 15%.\n• Exemplu matematic: 100.000 la 10% pe an devin aproximativ 259.000 în 10 ani.\n• La 15% pe an devin aproximativ 405.000. La 20% pe an devin aproximativ 619.000.\n• 10% pe an este randamentul mediu anualizat al SP500.\n• 20% pe an este ținta autorului pentru portofoliul propriu și pentru portofoliile administrate.\n• Autorul spune că aceste randamente nu sunt promisiuni. Ele nu apar liniar.\n• Autorul administrează portofolii de 9 ani.\n• Portofoliile produc bani lunar din covered calls și cash secured puts, nu din dividende.\n\n**Întâi capital, apoi venit**\n• Exemplu: 50.000 de dolari cu dividend 4% dau aproximativ 2.000$ pe an, adică aproximativ 175$ pe lună.\n• La 500.000 sau 1 milion de dolari, o parte poate trece în companii stabile, dividende sau obligațiuni.\n• Această mutare este pentru profilul moderat-dinamic.\n• O altă variantă este vânzarea de contracte CC și CSP.\n• Autorul spune că CC și CSP dau un randament anualizat mai mare decât dividendele.\n• Cu CC și CSP, investitorul păstrează expunerea pe creșterea acțiunilor growth și high-growth.\n• Etapele sunt: construim averea, protejăm averea, apoi folosim averea pentru venit.\n\n**Volatilitate și risc**\n• Acțiunile growth pot scădea cu 30%, 40% sau 50% într-o criză, ca în 2022.\n• Investitorul tânăr poate cumpăra mai ieftin când piața scade.\n• O scădere de 30% la 50.000 înseamnă 15.000. La 2 milioane înseamnă 600.000.\n• Riscul acceptat trebuie să scadă odată cu vârsta, mărimea portofoliului și momentul în care ai nevoie de bani.\n• Growth nu înseamnă orice acțiune care urcă. Prețul plătit contează.\n• Filozofia autorului: companii extraordinare, cumpărate la prețuri pe care rezultatele viitoare le pot justifica.\n\n**Ședința de luni, 05.10.2026**\n• Nasdaq a crescut cu 1,05%, la recordul de 27.477,31.\n• SP500 a crescut cu 0,66%, la 7.773,95. El este la aproximativ 0,3% de maximul istoric.\n• Dow Jones a crescut cu 0,18%. Russell 2000 a crescut cu 0,5%.\n• 10 din 11 sectoare S&P au închis pe plus. Volumul a fost relativ mic.\n• După NFP-ul slab, probabilitatea unei majorări Fed în octombrie a scăzut de la aproximativ 70% la 24%.\n• Nvidia a crescut cu 2,1%, la un nou record. Microsoft, Meta și Tesla au participat la rally.\n• SpaceX a crescut cu 7,6%. Tesla a trecut de 380$ în timpul ședinței.\n• ISM Services a fost 54,9. Consensul era 55. Valoarea anterioară era 55,4.\n• S&P Global Services PMI a fost 58,8. Valoarea anterioară era 56,5.\n• Autorul crede că piața va crește în continuare pe AI, din cauza investițiilor mari.\n• Autorul spune asta chiar dacă vin presiuni inflaționiste, petrol scump sau o nouă majorare de dobândă, poate în decembrie.\n\n**Treasury și dividende**\n• US10Y a închis în jurul 5,31%. Acesta este cel mai ridicat nivel din 2002.\n• US30Y s-a apropiat de 5,68%.\n• După ISM, US10Y a coborât temporar de la 5,307% la 5,298%. Mișcarea nu a rezistat.\n• Long-end-ul prețuiește riscul fiscal, emisiunile Treasury, term premium-ul, inflația și energia.\n• Obligațiunile franceze au fost din nou lovite de îngrijorări despre datorie și politică.\n• Pragurile US10Y: sub 5,20% înseamnă relief pentru growth.\n• 5,20–5,30% înseamnă presiune gestionabilă. 5,30–5,35% este zona critică actuală.\n• Peste 5,35% există risc clar de multiple compression.\n• Autorul spune că, la randamente mari la titluri de stat, acțiunile cu dividende se vor corecta agresiv.\n• Un dividend de 6–7% nu ajută dacă acțiunea scade cu 30–40%.\n\n**Petrol, dolar și Bitcoin**\n• Brent a coborât la aproximativ 100,32$. WTI a coborât la 89,43$.\n• Cauzele sunt exporturile mai mari din Orientul Mijlociu și angajamentele G7 pentru mai multă ofertă.\n• Hormuz rămâne închis. Prin strâmtoare trece în mod normal aproximativ o cincime din oferta globală de petrol.\n• Dolarul a rămas puternic. Euro a coborât la minimul ultimelor 17 luni (Reuters).\n• Pentru HOOD și IREN, autorul urmărește combinația BTC în creștere și US10Y în scădere.\n\n**Portofoliul GrowYourWealth**\n• AVGO: Broadcom poate finanța până la 42 mld. $ din infrastructura Anthropic.\n• AVGO: Anthropic are angajamente de aproximativ 125,2 mld. $ pe cinci ani. Anthropic poate deveni cel mai mare client chip design AVGO în 2027.\n• AVGO: Bank of America, Citi și Morgan Stanley pregătesc o finanțare de aproximativ 60 mld. $ (42 mld. senior secured, 18 mld. junior).\n• AVGO: autorul vede și un risc de vendor financing. Suport 346–350$, apoi 338–342$. Zona de depășit este 360–365$.\n• AMD: a închis la aproximativ 631,75$, cu -0,3%. Stifel a ridicat ținta la 700$. BNP Paribas a ridicat ținta la 960$.\n• AMD: suport 620–625$, apoi 600$. Rezistență 640–645$. Peste 645$ cu volum, trendul poate accelera.\n• TSLA: 486.532 de livrări în Q3. Acțiunea a crescut cu aproximativ 2,5%, peste 380$.\n• TSLA: rezultatele vin pe 21 octombrie. Autorul urmărește marja auto, ASP, FCF și capex.\n• TSLA: Baird are Buy/475$. JPMorgan are Hold/415$. BNP Paribas are Sell/268$.\n• TSLA: Elon Musk a sugerat că TSMC poate intra în proiectul Terafab.\n• TSLA: rezistență 385$, apoi 400–415$. Suport 370–375$, apoi 355–360$.\n• SPCX: +7,63%, la 171,09$. Maximul intraday a fost 172,47$.\n• SPCX: Morgan Stanley menține Overweight și ținta de 300$.\n• SPCX: următorul catalizator major este Starship Flight 15.\n• SPCX: pe 9 octombrie expiră o parte din lock-up, până la aproximativ 328,4 mil. acțiuni Class A.\n• SPCX: suport 158–160$. Rezistență 172–175$, apoi 180$.\n• META: finanțează AI capex din publicitate. Suport 715–720$, apoi 700$. Rezistență 740–750$.\n• PLTR: a închis la 189,40$, cu +0,34%. Veniturile trailing au crescut cu 78,9%.\n• PLTR: evaluarea este aproximativ 161x trailing earnings și aproape 100x forward earnings.\n• PLTR: suport 185–188$. Rezistență 193–195$. Peste 195$, următoarea zonă este 200–207$.\n• NBIS: rezistență critică 247–250$. Suport 235–240$.\n• SOFI: suport 15,50–16$. HOOD: suport 112–116$, rezistență 120–122$.\n• RKLB: suport 68–70$. Rezistență 75–76$, apoi 80$.\n• ASTS: suport 58–61$. Rezistență 65–68$.\n• ONDS: autorul urmărește conversia veniturilor, marja, cash burn și numărul de acțiuni. Suport 7,20–7,40$. Rezistență 8–8,20$.\n• LEU: suport 135–140$. Zona de recuperat este 147–150$.\n• IREN: suport 40–42$. Zona de recuperat este 45–46$.\n\n**Ce urmărim pe 6 octombrie**\n• Balanța comercială SUA pentru august. Consensul este un deficit de aproximativ 102 mld. $. Valoarea anterioară era 88,6 mld. $.\n• Seara vorbește Lorie Logan, președinta Dallas Fed.\n• Miercuri vin minutele FOMC din 15–16 septembrie.\n• Niveluri: US10Y 5,30–5,35%, Brent 100$, AVGO 360–365$, Tesla 385$, SPCX 172–175$.\n• Autorul se așteaptă ca SPCX să revină spre 162–160$, după marcarea de profit.\n\n**Scenarii**\n• Bullish: US10Y coboară spre 5,25%, Brent sparge 100$, Nasdaq păstrează breakout-ul. AVGO, AMD, PLTR și NBIS conduc.\n• Consolidare: US10Y 5,25–5,32%, petrol 100–102$. Autorul preferă acest scenariu.\n• Bond shock: US10Y trece clar de 5,35%. PLTR, NBIS, RKLB, ASTS, ONDS și IREN sunt cele mai expuse.\n• Șoc geopolitic: Brent revine peste 105$, din cauza Hormuz.",
-          "recommendations": "• Un investitor aflat la început (primii 5–10 ani) să aleagă un portofoliu concentrat, growth și high-growth, nu ETF-uri, value sau dividende.\n• Țineți 15–20 de companii atent selectate. Nu puneți jumătate din bani într-o singură companie.\n• La o greșeală, vindeți poziția. Mutați banii într-o poziție importantă cu perspective bune dovedite.\n• Nu cumpărați orice acțiune care urcă. Analizați prețul plătit.\n• Întâi construiți capitalul. Apoi protejați-l. Apoi construiți venitul.\n• La 500.000–1 milion de dolari, profilul moderat-dinamic poate muta o parte în companii stabile, dividende sau obligațiuni.\n• Alternativă: vindeți contracte CC și CSP.\n• Cât timp randamentele la titluri de stat sunt mari, autorul se așteaptă la corecții agresive la acțiunile cu dividende.\n• Autorul a rebalansat 300 VST în alte 300 SPCX.\n• Autorul nu a făcut alte achiziții. Banii de la început de lună sunt deja în SPCX.\n• Autorul se așteaptă ca SPCX să revină spre 162–160$, după marcarea de profit.\n• SPCX: nu alergați după preț după +7,6%, mai ales înainte de lock-up-ul din 9 octombrie.\n• Nu cumpărați fără discriminare high-beta cu US10Y la 5,30–5,35%.\n• Pentru confirmare, AMD trebuie să treacă de 645$, AVGO de 365$, Tesla de 385$, PLTR de 195$ și NBIS de 250$.\n• Păstrați cash. Motivul nu este o viziune bearish. Motivul este să aveți capital când prețul scade sub valoare.\n• Dacă Nasdaq face noi recorduri, participați prin pozițiile existente.\n• Dacă US10Y produce o corecție de 10–15% în high-growth fără deteriorare fundamentală, folosiți capitalul pentru cumpărări.\n• Păstrați sizing-ul, cash-ul și disciplina. Nu alergați după breakout-uri. Cumpărați business-uri, nu candles.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789710"
         }
       ]
     }
