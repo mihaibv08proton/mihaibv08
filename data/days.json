@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-10-12T13:19:53+03:00",
+    "updatedAt": "2026-10-12T20:26:42+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -51,6 +51,13 @@
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
           "category": "kids_sale"
+        },
+        {
+          "title": "Vivobarefoot Hydra ESC Mens -30%",
+          "text": "Was €180 / now €126 (−30.0%). Automatic sale on vivobarefoot.com/eu. Verified on /eu/sale 12.10 seară.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sale",
+          "category": "sale"
         }
       ],
       "gyh": [
