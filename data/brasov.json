@@ -1,10 +1,512 @@
 {
   "meta": {
-    "updatedAt": "2026-10-06T12:09:56+03:00",
+    "updatedAt": "2026-10-12T10:27:35+03:00",
     "source": "https://www.salutbrasov.ro/",
     "windowEditions": 3
   },
   "editions": [
+    {
+      "id": "138",
+      "titleExact": "👋 Ce se întâmplă în Brașov în săpt. 12-18 octombrie",
+      "subtitleExact": "🧛 37 de recomandări: Dracula Film Festival, Horia Brenciu, Adrian Despot și Mizerabilii",
+      "dateExact": "12.10.2026",
+      "week": "12-18 octombrie",
+      "sourceUrl": "https://www.salutbrasov.ro/p/138-dracula",
+      "authors": "Alex Vita & Victor Ilioiu",
+      "intro": "Săptămâna 12-18 octombrie are aer de toamnă cu un strop de groază: de joi până duminică, Dracula Film Festival aduce patru zile de horror și fantasy la Cinema Astra, cu Ziua Spielberg și un cine-concert în premieră mondială. Joi seara alegi între Horia Brenciu și HB Orchestra la Lux Divina și Adrian Despot, singur cu chitara, la Waldkafe. La Reduta, săptămâna începe luni cu premiera Mizerabilii și se încheie cu Zilele Teatrului Particular, trei seri de comedie cu Dorina Roman. Sâmbătă, Steffen Schlandt închide stagiunea Organ Nights la Biserica Neagră, iar Metal Militia cântă tot Master of Puppets la Tâmplărie. Pentru cei mici sunt dovleci de sculptat și pictat la Caravana dovlecilor de Halloween din Bran, ultimele zile cu Circo Bellucci și teatru de păpuși.",
+      "sections": [
+        {
+          "name": "Concerte",
+          "emoji": "🎸",
+          "lead": "De la pian japonez și simfonic la Filarmonică până la Horia Brenciu, Adrian Despot și orgă la Biserica Neagră, săptămâna asta muzica e peste tot.",
+          "items": [
+            {
+              "title": "Recital cameral Aripi",
+              "when": "miercuri, 14 octombrie, ora 19:00",
+              "where": "Filarmonica Brașov",
+              "text": "Miercuri, 14 octombrie, de la 19:00, la Filarmonica Brașov, patru tineri pianiști japonezi, premiați la concursuri internaționale, cântă Mozart, Debussy, Bartók, Chopin și compozitori japonezi. Invitat special e Alexandru Dumitrașcu, la marimbă.",
+              "link": "https://www.facebook.com/events/2109754099905589/"
+            },
+            {
+              "title": "Horia Brenciu & HB Orchestra: Fac ce-mi spune inima",
+              "when": "joi, 15 octombrie, ora 19:00",
+              "where": "Lux Divina",
+              "text": "Joi, 15 octombrie, de la 19:00, Horia Brenciu și HB Orchestra urcă pe scena de la Lux Divina. Trec prin piesele cunoscute din repertoriu, cu dans și umor între ele.",
+              "link": "https://www.iabilet.ro/bilete-Brasov-Horia-Brenciu-and-HB-Orchestra-Fac-ce-mi-spune-inima-128397"
+            },
+            {
+              "title": "Sergey Smbatyan, Tomoko Akasaka și orchestra Filarmonicii Brașov",
+              "when": "joi, 15 octombrie, ora 19:00",
+              "where": "Filarmonica Brașov",
+              "text": "Joi, 15 octombrie, de la 19:00, la Filarmonica Brașov, e seară simfonică sub bagheta lui Sergey Smbatyan. Tomoko Akasaka e solistă la violă în Rapsodia-Concert de Martinů, apoi urmează Simfonia nr. 2 de Haciaturian.",
+              "link": "https://www.facebook.com/events/1068369282581812/"
+            },
+            {
+              "title": "Autumn in Blue: Petru Călinescu Quartet",
+              "when": "joi, 15 octombrie, ora 19:00",
+              "where": "Grădina Brukenhalle",
+              "text": "Joi, 15 octombrie, de la 19:00, în Grădina Brukenhalle, Petru Călinescu Quartet cântă jazz, swing și reinterpretări vintage. Lângă muzică ai vinuri de la Domeniile Davidescu și brânzeturi artizanale de la Balint Sajt.",
+              "link": "https://www.facebook.com/events/2058320298904155"
+            },
+            {
+              "title": "Adrian Despot: Un om cu o chitară",
+              "when": "joi, 15 octombrie, ora 20:00",
+              "where": "Waldkafe",
+              "text": "Joi, 15 octombrie, de la 20:00, la Waldkafe, Adrian Despot de la Vița de Vie urcă pe scenă doar cu vocea și chitara. E chiar formula în care și-a scris piesele solo, precum Lorelai și Om la loc.",
+              "link": "https://www.facebook.com/events/1062508696674038/"
+            },
+            {
+              "title": "Seara cântecelor de munte cu trupa CALEnDAR",
+              "when": "joi, 15 octombrie, ora 20:00",
+              "where": "All Time Events (Foișorul A)",
+              "text": "Joi, 15 octombrie, de la 20:00, la All Time Events (Foișorul A), trupa CALEnDAR cântă live cântece de munte. E o seară la care vii cu familia sau cu prietenii, iar copiii nu plătesc intrare.",
+              "link": "https://www.facebook.com/events/1420869013331499/"
+            },
+            {
+              "title": "Chop Snobs",
+              "when": "vineri, 16 octombrie, ora 20:00",
+              "where": "Galeria Ora0",
+              "text": "Vineri, 16 octombrie, de la 20:00, la Galeria Ora0, Chop Snobs aduc blues-rock cu atitudine și instrumente date mai tare. Pe scenă sunt Adelina la voce, Attila la tobe, Miklós la chitară și Tamás la bas.",
+              "link": "https://www.facebook.com/events/1097658636004231/"
+            },
+            {
+              "title": "Metal Militia: 40 de ani de Master of Puppets",
+              "when": "sâmbătă, 17 octombrie, ora 17:00",
+              "where": "Tâmplărie",
+              "text": "Sâmbătă, 17 octombrie, de la 17:00, la Tâmplărie, Metal Militia face un tribut Metallica și cântă toate piesele de pe Master of Puppets, plus restul playlistului lor. Copiii până la 12 ani intră gratuit cu un părinte.",
+              "link": "https://www.facebook.com/events/1110400121409336/"
+            },
+            {
+              "title": "Organ Nights, închiderea festivalului: Steffen Schlandt",
+              "when": "sâmbătă, 17 octombrie, ora 18:00",
+              "where": "Biserica Neagră",
+              "text": "Sâmbătă, 17 octombrie, de la 18:00, Biserica Neagră găzduiește ultimul concert de orgă din stagiunea Organ Nights. Cântă Steffen Schlandt, organistul Bisericii Negre și dirijorul corului Bach. Copiii până la 18 ani intră gratuit.",
+              "link": "https://www.facebook.com/events/1404092615233054/"
+            },
+            {
+              "title": "Muzică de film la lumina lumânărilor cu Cvartet Fortissimi",
+              "when": "duminică, 18 octombrie, ora 19:00",
+              "where": "Cercul Militar",
+              "text": "Duminică, 18 octombrie, de la 19:00, la Cercul Militar, Cvartet Fortissimi cântă la lumina lumânărilor teme din Gladiatorul, James Bond, Pirații din Caraibe sau Titanic. Aranjamentele sunt pentru cvartet, cu percuție și balet pe scenă.",
+              "link": "https://www.facebook.com/events/1773858597184570"
+            },
+            {
+              "title": "Alex Ștefănescu: Ia-ți o viață!",
+              "when": "duminică, 18 octombrie, ora 20:00",
+              "where": "Galeria Ora0",
+              "text": "Duminică, 18 octombrie, de la 20:00, la Galeria Ora0, Alex Ștefănescu vine cu o comedie muzicală existențială pe voce și chitară acustică. Piese originale, umor și povești despre drumul unui om de la naștere până la moarte.",
+              "link": "https://www.iabilet.ro/bilete-brasov-concert-alex-stefanescu-ia-ti-o-viata-131746/"
+            }
+          ]
+        },
+        {
+          "name": "Concerte în curând",
+          "emoji": "🔜",
+          "lead": "Pune deja în calendar: Omul cu Șobolani, byron și Timpuri Noi la Rockstadt, apoi Puya la Kruhnen Musik Halle.",
+          "items": [
+            {
+              "title": "Omul cu Șobolani: lansare de album Distopia",
+              "when": "sâmbătă, 24 octombrie, ora 20:00",
+              "where": "Rockstadt",
+              "text": "Sâmbătă, 24 octombrie, de la 20:00, la Rockstadt, Omul cu Șobolani lansează albumul Distopia. Piesele vin live, cu întrebarea din spatele lor: ce le spunem copiilor despre lumea în care cresc?",
+              "link": "https://www.facebook.com/events/1600968141404289/"
+            },
+            {
+              "title": "byron 7305",
+              "when": "sâmbătă, 31 octombrie, ora 19:00",
+              "where": "Rockstadt",
+              "text": "Sâmbătă, 31 octombrie, de la 19:00, la Rockstadt, byron împlinesc 20 de ani, adică 7.305 zile, și vin cu un playlist care trece prin toată discografia lor. Seara e gândită ca un omagiu cluburilor care i-au crescut, iar Rockstadt e unul dintre ele.",
+              "link": "https://www.facebook.com/events/1152796397312410/"
+            },
+            {
+              "title": "Timpuri Noi",
+              "when": "sâmbătă, 7 noiembrie, ora 20:00",
+              "where": "Rockstadt",
+              "text": "Sâmbătă, 7 noiembrie, de la 20:00, la Rockstadt, Timpuri Noi țin un concert maraton de peste două ore. Cântă piesele celebre compuse de Dan Iliescu în cei peste 40 de ani ai trupei.",
+              "link": "https://www.facebook.com/events/2249023468999491/"
+            },
+            {
+              "title": "Puya: Adevărul Gol-Goluț",
+              "when": "vineri, 13 noiembrie, ora 20:00",
+              "where": "Kruhnen Musik Halle",
+              "text": "Vineri, 13 noiembrie, de la 20:00, la Kruhnen Musik Halle, Puya nu vine nici cu un concert clasic, nici cu stand-up. După 30 de ani de parcurs artistic, aduce povești reale, umor direct și muzică, ca o conversație deschisă cu publicul.",
+              "link": "https://www.facebook.com/events/1719787719009110/"
+            }
+          ]
+        },
+        {
+          "name": "Evenimente",
+          "emoji": "🕺",
+          "lead": "Cinema Astra se umple de horror și fantasy la Dracula Film Festival, Reduta are teatru aproape în fiecare seară, iar printre ele găsești ateliere, lansări de carte și stand-up.",
+          "items": [
+            {
+              "title": "BOSCH PRO Tour",
+              "when": "luni, 12 octombrie, de la ora 10:00",
+              "where": "TECHNO PRO Brașov",
+              "text": "Luni, 12 octombrie, de la ora 10:00, la TECHNO PRO Brașov, ai o zi întreagă în care pui mâna pe sculele BOSCH Professional, le încerci pe bune și te iei la întrecere în concursurile practice de la stațiile de testare. Mâncarea vine de la food truck, iar la final sunt premii.",
+              "link": "https://www.facebook.com/events/1451347543591482/"
+            },
+            {
+              "title": "Lansare de carte: Împăcare pe Via Transilvanica, de Anca Iosif",
+              "when": "luni, 12 octombrie, ora 18:30",
+              "where": "Cărturești Piața Sfatului",
+              "text": "Luni, 12 octombrie, de la 18:30, la Cărturești Piața Sfatului, Anca Iosif își lansează cartea. A mers singură o lună pe Via Transilvanica și a scris despre asta un jurnal amuzant și tandru; moderează Vlad Drăgoi. Intrarea e liberă.",
+              "link": "https://www.facebook.com/events/1007848992320094/"
+            },
+            {
+              "title": "Mizerabilii, premieră la Reduta",
+              "when": "luni, 12 octombrie, ora 19:00",
+              "where": "Centrul Cultural Reduta",
+              "text": "Luni, 12 octombrie, de la 19:00, la Centrul Cultural Reduta, are loc premiera Mizerabilii. E o poveste despre cădere și renaștere, vină și iertare, minciună și adevăr, iubire și revoluție, cu actori noi în personaje vechi.",
+              "link": "https://www.facebook.com/events/844236318299430/"
+            },
+            {
+              "title": "Maestrul și Măiastra",
+              "when": "marți, 13 octombrie, ora 19:00",
+              "where": "Centrul Cultural Reduta",
+              "text": "Marți, 13 octombrie, de la 19:00, la Centrul Cultural Reduta, o piesă de teatru cu muzică live și proiecții spune povestea de dragoste dintre Maria Tănase și Constantin Brâncuși. Se aud și romanțe din repertoriul Mariei Tănase.",
+              "link": "https://www.facebook.com/events/2575903696187613/"
+            },
+            {
+              "title": "Săptămâna PSI 2026, ediția de toamnă",
+              "when": "marți-joi, 13-15 octombrie, ora 19:00",
+              "where": "Cărturești Piața Sfatului",
+              "text": "De marți până joi, 13-15 octombrie, de la 19:00, la Cărturești Piața Sfatului, ai trei seri cu psihoterapeuți și psihologi, fiecare pornind de la o carte. Temele sunt certurile din cuplu, alegerile și regretele, și loialitățile invizibile din iubire.",
+              "link": "https://www.facebook.com/events/1624490802712272/"
+            },
+            {
+              "title": "Petale de viață & Trăiri, seară caritabilă",
+              "when": "joi, 15 octombrie, ora 17:00",
+              "where": "C.A.T.T.I.A.",
+              "text": "Joi, 15 octombrie, de la 17:00, la C.A.T.T.I.A., e o seară caritabilă cu cele 35 de tablouri ale Ramonei Ghețău, care și-a regăsit drumul prin pictură după un accident vascular. Muzica de cameră vine de la Kronstadt Quartet.",
+              "link": "https://art-well.ro/events/eveniment-cultural-caritabil-si-expozitie-petale-de-viata-trairi/"
+            },
+            {
+              "title": "Dracula Film Festival, ediția a XIV-a",
+              "when": "joi-duminică, 15-18 octombrie",
+              "where": "Cinema Astra",
+              "text": "De joi până duminică, 15-18 octombrie, Cinema Astra găzduiește patru zile de horror și fantasy la Dracula Film Festival. Sunt competiții de lung și scurtmetraj, o Zi Spielberg prezentată de Irina-Margareta Nistor și un cine-concert în premieră mondială semnat de Costin Chioreanu.",
+              "link": "https://www.facebook.com/events/1070907512489401/"
+            },
+            {
+              "title": "DevOps de la zero, webinar online gratuit",
+              "when": "vineri, 16 octombrie, ora 11:00 sau 18:30",
+              "where": "online",
+              "text": "Vineri, 16 octombrie, la 11:00 sau la 18:30, online și gratuit, Alexandru Dumitriu, inginer DevOps, construiește live un website din GitHub până în AWS, fără să ai nevoie de experiență. Pentru cititorii Salut Brașov, înscrierile rămân deschise până pe 14 octombrie.",
+              "link": "https://cmdlevelup.ro/?sursa=salutbrasov"
+            },
+            {
+              "title": "Limite și libertăți în creștere și învățare, cu Oana Moraru",
+              "when": "vineri, 16 octombrie, ora 17:00",
+              "where": "C.A.T.T.I.A.",
+              "text": "Vineri, 16 octombrie, de la 17:00, la C.A.T.T.I.A., Oana Moraru ține o conferință pentru părinți și profesori. Vorbește despre cum crești copii autonomi și responsabili fără să confunzi libertatea cu lipsa limitelor, iar apoi urmează două ore de întrebări și răspunsuri.",
+              "link": "https://www.iabilet.ro/bilete-conferinta-de-parenting-limite-si-libertati-in-crestere-si-invatare-130324/"
+            },
+            {
+              "title": "Zilele Teatrului Particular cu Dorina Roman",
+              "when": "vineri-duminică, 16-18 octombrie, ora 19:00 (duminică la 18:00)",
+              "where": "Centrul Cultural Reduta",
+              "text": "De vineri până duminică, 16-18 octombrie, la Centrul Cultural Reduta, Dorina Roman joacă trei comedii, câte una pe seară: Iubito, dezbracă-te!, Adio, Țeavă! și Sarmale cu dragoste. Spectacolele încep la 19:00, iar duminică la 18:00.",
+              "link": "https://www.facebook.com/events/1300476514857905/"
+            },
+            {
+              "title": "Delta Sălbatică, proiecție specială",
+              "when": "vineri, 16 octombrie, ora 19:00",
+              "where": "Cinema City AFI Brașov",
+              "text": "Vineri, 16 octombrie, de la 19:00, la Cinema City AFI Brașov, Caravana Națională Delta Sălbatică aduce o proiecție specială. O prinzi cu o săptămână înainte ca filmul să intre în cinematografele din toată țara.",
+              "link": "https://www.facebook.com/events/1065346353047885/"
+            },
+            {
+              "title": "Atelier de pictură cu acuarele inspirat de Gustav Klimt",
+              "when": "sâmbătă, 17 octombrie, ora 10:30",
+              "where": "Muzeul de Artă Brașov",
+              "text": "Sâmbătă, 17 octombrie, de la 10:30, la Muzeul de Artă Brașov, e un atelier pentru adulți cu acuarele și foiță aurie, inspirat de Gustav Klimt. E gândit inclusiv pentru cei care n-au mai pus mâna pe pensulă din clasa a II-a.",
+              "link": "https://www.facebook.com/events/1035645792574571/"
+            },
+            {
+              "title": "Atelier de păpuși japoneze Daruma",
+              "when": "sâmbătă, 17 octombrie, ora 10:30",
+              "where": "Cărturești Piața Sfatului",
+              "text": "Sâmbătă, 17 octombrie, de la 10:30, la Cărturești Piața Sfatului, modelezi din lut o păpușă Daruma, talismanul japonez al perseverenței, și îi încredințezi o dorință pentru ultimele luni din an. Se intră doar cu înscriere și sunt zece locuri.",
+              "link": "https://www.facebook.com/events/3025624937607783/"
+            },
+            {
+              "title": "Steaua fără nume, de Mihail Sebastian",
+              "when": "sâmbătă, 17 octombrie, ora 19:00",
+              "where": "Teatrul Sică Alexandrescu",
+              "text": "Sâmbătă, 17 octombrie, de la 19:00, la Teatrul Sică Alexandrescu, se joacă piesa lui Mihail Sebastian despre o stea, o iubire și o gară. E scrisă predominant comic, dar atinge teme mari ale umanității.",
+              "link": "https://www.facebook.com/events/2147122509242073/"
+            },
+            {
+              "title": "Emo Reunion: Fallen Leaves Tour",
+              "when": "sâmbătă, 17 octombrie, ora 21:00",
+              "where": "Rockstadt",
+              "text": "Sâmbătă, 17 octombrie, de la 21:00, la Rockstadt, e noapte de dans pe hiturile emo, pop-punk și alternative din playlistul Emo Reunion: Paramore, My Chemical Romance, Fall Out Boy, Linkin Park, blink-182 și mulți alții.",
+              "link": "https://www.facebook.com/events/2949417175408216/"
+            },
+            {
+              "title": "Ziua Recoltei la Ferma Cățean",
+              "when": "duminică, 18 octombrie, între orele 11:00 și 17:00",
+              "where": "Ferma Cățean",
+              "text": "Duminică, 18 octombrie, între 11:00 și 17:00, Ferma Cățean își deschide porțile pentru ultima zi la fermă din acest an. Ai mâncare bună gătită pe foc, producători locali și o după-amiază liniștită afară; poți veni cu toată familia, inclusiv cu câinele. Intrarea e liberă.",
+              "link": "https://www.facebook.com/events/1588559069411317"
+            },
+            {
+              "title": "Visuri-Mozaic, atelier de art-terapie",
+              "when": "duminică, 18 octombrie, ora 15:00",
+              "where": "strada Aurora nr. 5",
+              "text": "Duminică, 18 octombrie, de la 15:00, pe strada Aurora nr. 5, faci un colaj din fotografii, ale organizatorilor sau aduse de tine, apoi scrii pornind de la el și discuți simbolurile care ies la iveală. Intrarea e liberă.",
+              "link": "https://forms.gle/a8dUydQgboKzd1AT7"
+            },
+            {
+              "title": "Stand-up cu Victor Băra, Tudor Costina și Paul Szabo",
+              "when": "duminică, 18 octombrie, ora 20:00",
+              "where": "O'Peter's Irish Pub",
+              "text": "Duminică, 18 octombrie, de la 20:00, la O'Peter's Irish Pub, Victor Băra, Tudor Costina și Paul Szabo fac stand-up. Trei comedianți, o seară la pub și un motiv bun să lași telefonul deoparte până la ultima poantă.",
+              "link": "https://www.facebook.com/events/2023906468268578/"
+            }
+          ]
+        },
+        {
+          "name": "Evenimente în curând",
+          "emoji": "🔜",
+          "lead": "Spre final de octombrie vin teatru la Reduta, film de mediu, Dracula Fantasy Con, Games of Transylvania și, în noiembrie, Săptămâna Comediei.",
+          "items": [
+            {
+              "title": "Festivalul Național de Teatru AM-ACTOR, ediția a VI-a",
+              "when": "joi-duminică, 22-25 octombrie",
+              "where": "Centrul Cultural Reduta",
+              "text": "De joi până duminică, 22-25 octombrie, la Centrul Cultural Reduta, vin trupe din Brașov, Mediaș, Medgidia, Roman și Lugoj. Sunt comedie, teatru clasic, one-man show și spectacole pentru copii, după Cehov, Capuana sau Nușici.",
+              "link": "https://www.facebook.com/events/1107377771840383/"
+            },
+            {
+              "title": "Culmea: Film și Educație de Mediu",
+              "when": "joi-sâmbătă, 22-24 octombrie",
+              "where": "Cinema Modern",
+              "text": "De joi până sâmbătă, 22-24 octombrie, la Cinema Modern, Culmea e un festival de film despre mediu pentru copii și tineri. Scurtmetrajele sunt împărțite pe vârste, iar după fiecare proiecție un mediator ghidează discuția.",
+              "link": "https://zilesinopti.ro/evenimente/culmea-film-si-educatie-de-mediu-2026/"
+            },
+            {
+              "title": "Stand-up Mai glumim și noi, cu Niște Oameni",
+              "when": "miercuri, 28 octombrie, ora 20:30",
+              "where": "Centrul Cultural Reduta",
+              "text": "Miercuri, 28 octombrie, de la 20:30, la Centrul Cultural Reduta, Mirică, Ioana Luiza, Virgil Ciulin și Mitran, adică Niște Oameni, pornesc din nou în turneu. Vin cu un show complet nou și patru stiluri diferite de stand-up într-o singură seară.",
+              "link": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-mirica-loana-luiza-virgil-ciulin-si-mitran-mai-glumim-si-noi/"
+            },
+            {
+              "title": "Dracula Fantasy Con 2026",
+              "when": "vineri-duminică, 30 octombrie-1 noiembrie",
+              "where": "Coresi Shopping Resort",
+              "text": "De vineri până duminică, 30 octombrie-1 noiembrie, la Coresi Shopping Resort, vine convenția de fantasy a Dracula Film Festival. Te așteaptă turnee de gaming, board games, Aleea Artiștilor, manga, origami și paradă cosplay. Intrarea e liberă.",
+              "link": "https://www.facebook.com/events/1590489446211839/"
+            },
+            {
+              "title": "Games of Transylvania",
+              "when": "sâmbătă-duminică, 31 octombrie-1 noiembrie, de la ora 10:00",
+              "where": "C.A.T.T.I.A.",
+              "text": "Sâmbătă și duminică, 31 octombrie-1 noiembrie, de la ora 10:00, la C.A.T.T.I.A., are loc prima ediție a festivalului de jocuri video, board games, D&D și VR. Sunt peste 30 de jocuri românești, pe care le testezi cu creatorii lor. Biletele se vând doar online.",
+              "link": "https://www.iabilet.ro/bilete-games-of-transylvania-132347/"
+            },
+            {
+              "title": "Săptămâna Comediei 2026, ediția a XIII-a",
+              "when": "luni-duminică, 2-8 noiembrie",
+              "where": "Teatrul Sică Alexandrescu",
+              "text": "De luni până duminică, 2-8 noiembrie, la Teatrul Sică Alexandrescu, ai o săptămână de comedii aduse de Nottara, Teatrul de Comedie, Excelsior, Teatrul Național București și alte teatre. Printre ele e și un spectacol-concert conceput de Ada Milea.",
+              "link": "https://www.facebook.com/events/2853524865040997/"
+            }
+          ]
+        },
+        {
+          "name": "Expoziții și vernisaje",
+          "emoji": "🖼️",
+          "lead": "Galeria INSPIRATIO deschide o expoziție nouă, iar două expoziții sunt în ultima săptămână.",
+          "items": [
+            {
+              "title": "BALAUR, vernisaj la Galeria INSPIRATIO, și ultimele zile pentru două expoziții",
+              "when": "",
+              "where": "",
+              "text": "Săptămâna asta se deschide BALAUR, expoziția Ralucăi Țincă de la Galeria INSPIRATIO, cu vernisaj pe 16 octombrie, de la ora 18:00. E ultima săptămână pentru Dulcele tărâm al tăcerii, tot la Galeria INSPIRATIO, și pentru Zilele ariei naturale protejate Muntele Tâmpa, la Banca de Cultură Apollonia. Toate expozițiile și vernisajele active din Brașov le găsești pe pagina Salut Brașov.",
+              "link": "https://www.salutbrasov.ro/c/galerii-de-arta-brasov"
+            }
+          ]
+        },
+        {
+          "name": "Activități pentru copii",
+          "emoji": "👨‍👩‍👧‍👦",
+          "lead": "Pentru cei mici sunt ultimele zile de circ, ateliere, teatru de păpuși și dovleci de Halloween la Bran.",
+          "items": [
+            {
+              "title": "Circo Bellucci, ultimele zile",
+              "when": "până duminică, 18 octombrie",
+              "where": "Piața Auto Korona",
+              "text": "Până duminică, 18 octombrie, la Piața Auto Korona din cartierul Bartolomeu, sunt ultimele zile cu Circo Bellucci și Sonny Medini. Biletele se iau online sau de la casa circului, deschisă cu două ore înainte de fiecare spectacol.",
+              "link": "https://www.facebook.com/events/1792440715234897/"
+            },
+            {
+              "title": "Seară cu povești și jocuri",
+              "when": "marți, 13 octombrie, ora 18:00",
+              "where": "Restaurant Ciao Bella",
+              "text": "Marți, 13 octombrie, de la 18:00, la Restaurant Ciao Bella, cei mici intră în lumea poveștilor, a jocurilor și a dansului, supravegheați de o persoană cu experiență, în timp ce părinții se relaxează. Rezervarea e necesară.",
+              "link": "https://www.facebook.com/events/1841213687326750/"
+            },
+            {
+              "title": "Pictură pe sticlă, efect de vitraliu",
+              "when": "miercuri, 14 octombrie, ora 18:00",
+              "where": "ReCreativ Art & Hobby",
+              "text": "Miercuri, 14 octombrie, de la 18:00, la ReCreativ Art & Hobby, pictezi pe sticlă un tablou cu efect de vitraliu, fără să ai nevoie de talent și cu toate materialele incluse. Atelierul e pentru copii peste 8 ani și adulți.",
+              "link": "https://www.facebook.com/events/1055010897402437/"
+            },
+            {
+              "title": "Atelier creativ cu slime pentru copii",
+              "when": "miercuri, 14 octombrie, ora 18:00",
+              "where": "Restaurant Ciao Bella",
+              "text": "Miercuri, 14 octombrie, de la 18:00, la Restaurant Ciao Bella, restaurantul italian cu loc de joacă pentru copii, cei mici fac slime la un atelier creativ.",
+              "link": "https://www.facebook.com/events/4501443293403070/"
+            },
+            {
+              "title": "Caravana dovlecilor de Halloween la Bran",
+              "when": "vineri-duminică, 16-18 octombrie",
+              "where": "Parcul Central Regina Maria din Bran",
+              "text": "De vineri până duminică, 16-18 octombrie, în Parcul Central Regina Maria din Bran, e maraton de sculptat și pictat dovleci, cu animatori, ateliere creative pentru copii și un târg cu peste 30 de artizani. Intrarea e liberă.",
+              "link": "https://zilesinopti.ro/evenimente/caravana-dovlecilor-halloween-bran/"
+            },
+            {
+              "title": "Teatru de Toamnă la PREMS: Izvorul Frumuseții",
+              "when": "sâmbătă, 17 octombrie, ora 11:00",
+              "where": "Grădinița PREMS (strada 13 Decembrie nr. 94)",
+              "text": "Sâmbătă, 17 octombrie, de la 11:00, la Grădinița PREMS (strada 13 Decembrie nr. 94), Teatrul Albinuțele joacă spectacolul de păpuși Izvorul Frumuseții, în regia lui Eugen Frîncu. E deschis și copiilor din afara grădiniței; intrarea e liberă, cu înscriere prealabilă.",
+              "link": "https://scoalaprems.ro/eveniment/"
+            },
+            {
+              "title": "Albă ca Zăpada",
+              "when": "duminică, 18 octombrie, ora 10:30",
+              "where": "Waldkafe",
+              "text": "Duminică, 18 octombrie, de la 10:30, la Waldkafe, povestea clasică e reinterpretată cu umor de trei actori. Copiii răspund, ajută personajele și fac alegeri, ca parte din aventură.",
+              "link": "https://www.iabilet.ro/bilete-brasov-alba-ca-zapada-132504/"
+            }
+          ]
+        },
+        {
+          "name": "Știri locale",
+          "emoji": "🗞️",
+          "lead": "Prin oraș și prin județ: trasee de autobuz schimbate, parcuri și locuri de joacă noi, restaurări și câteva vești bune de la munte.",
+          "items": [
+            {
+              "title": "Autobuzele 2B și 9, deviate în Tractorul; linia 22 ocolește luni",
+              "when": "",
+              "where": "",
+              "text": "Între 12 și 23 octombrie, autobuzele 2B și 9 circulă pe un traseu deviat în Tractorul, pe strada 1 Decembrie, din cauza lucrărilor la canalizarea de pe strada Liviu Rebreanu; opresc în toate stațiile, dar au orare noi, la fel ca linia 2. Luni, 12 octombrie, linia 22 nu trece pe strada Vlad Țepeș pe sensul spre Saturn, ci ocolește prin Nicolae Iorga, Eroilor și 15 Noiembrie.",
+              "link": "https://brasovmetropolitan.ro/2026/10/ratbv-linii-2b-9-deviate-tractorul-liviu-rebreanu-linia-22-vlad-tepes/"
+            },
+            {
+              "title": "Râșnovul primește linie directă spre Poiana Brașov",
+              "when": "",
+              "where": "",
+              "text": "Râșnovul va avea o linie directă de transport public spre Poiana Brașov, linia 132, care a trecut deja de proba de traseu și ar urma să circule din decembrie.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/orasul-rasnov-va-avea-o-legatura-direct-de-transport-cu-poiana-brasov-id219689.html"
+            },
+            {
+              "title": "Miercurea, 15% reducere pentru brașoveni în 25 de restaurante",
+              "when": "",
+              "where": "",
+              "text": "Miercurea, până la jumătatea lui decembrie, 25 de restaurante din Breasla Cârciumarilor le dau brașovenilor 15% reducere, iar prietenii veniți cu ei din alte orașe sunt tratați tot ca localnici; în unele locuri reducerea e doar la anumite produse.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/miercurea-brasovenilor-in-restaurante-id219763.html"
+            },
+            {
+              "title": "Încă un drum de legătură între Brașov și Sânpetru",
+              "when": "",
+              "where": "",
+              "text": "Brașovul și Sânpetru vor avea încă un drum de legătură, de aproape 2 kilometri, prin prelungirea Aleii cu Plopi până la strada Vasile Goldiș, care urmează și ea să fie reabilitată; proiectul e deocamdată la faza documentațiilor.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/o-noua-varianta-de-legatura-intre-brasov-si-sanpetru-id219748.html"
+            },
+            {
+              "title": "Loc de joacă nou și zonă de fitness în Bartolomeu",
+              "when": "",
+              "where": "",
+              "text": "În Bartolomeu, pe strada Gospodarilor, se lucrează la un loc de joacă nou, cu zonă de fitness pentru adulți, pe locul fostului parc, iar montarea castelului, a leagănelor și a celorlalte echipamente ar urma să înceapă săptămâna aceasta, dacă vremea permite.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/loc-de-joaca-nou-si-o-zona-de-fitness-in-bartolomeu-id219718.html"
+            },
+            {
+              "title": "Parc nou lângă pădurea urbană de la CATTIA",
+              "when": "",
+              "where": "",
+              "text": "Lângă pădurea urbană de la CATTIA, în Bartolomeu-Avantgarden, Primăria a început amenajarea unui parc nou, cu terenuri de sport, aparate de fitness, loc pentru evenimente, o zonă pentru câini și un mic habitat pentru păsări.",
+              "link": "https://bizbrasov.ro/2026/10/07/brasov-parc-bartolomeu-sport-fitness/"
+            },
+            {
+              "title": "Marșul „Împreună pentru Siguranța Femeilor”, sâmbătă",
+              "when": "",
+              "where": "",
+              "text": "Sâmbătă, 17 octombrie, de la ora 15:00, Marșul „Împreună pentru Siguranța Femeilor”, ajuns la a XII-a ediție, pleacă de la Aula Universității pe bulevardul Iuliu Maniu, pe lângă Parcul Titulescu, până în Piața Sfatului.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/marsul-impreuna-pentru-siguranta-femeilor-la-a-xii-a-editie-id219753.html"
+            },
+            {
+              "title": "Panouri solare pentru spitale, școli speciale și aeroport",
+              "when": "",
+              "where": "",
+              "text": "Consiliul Județean a aprobat documentația proiectului prin care spitalele județene, școlile speciale și aeroportul vor primi panouri solare pentru autoconsum și baterii de stocare, plus pompe de căldură la fostul complex Agrement Tâmpa.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/pasi-spre-independenta-energetica-la-mai-multe-institutii-publice-din-judetul-brasov-id219713.html"
+            },
+            {
+              "title": "Pistă de biciclete de 3,65 km între Vad și Șercaia",
+              "when": "",
+              "where": "",
+              "text": "Între satul Vad și Șercaia s-a terminat o pistă de biciclete de 3,65 kilometri, făcută prin PNRR, iar din Vad mai sunt circa trei kilometri până la Poienile cu Narcise din Dumbrava Vadului.",
+              "link": "https://bizbrasov.ro/2026/10/05/drum-verde-sate-brasov-narcise-fagaras/"
+            },
+            {
+              "title": "Reduta caută firmă pentru expertize, primul pas spre renovare",
+              "when": "",
+              "where": "",
+              "text": "Centrul Cultural Reduta, nereabilitat de 21 de ani, caută o firmă pentru expertizele tehnice ale clădirii, primul pas spre renovare.",
+              "link": "https://brasovenii.ro/centrul-cultural-reduta-va-fi-reabilitat-dupa-21-de-ani-cat-costa-primele-documentatii"
+            },
+            {
+              "title": "Biserica fortificată din Drăușeni intră la restaurare",
+              "when": "",
+              "where": "",
+              "text": "Biserica fortificată din Drăușeni, monument de importanță națională, intră în Programul Național de Restaurare, dar șantierul, estimat la trei ani, pornește abia după ce statul alocă banii.",
+              "link": "https://bizbrasov.ro/2026/10/06/bijuterie-patrimoniu-biserici-brasov/"
+            },
+            {
+              "title": "Prinde contur Ecomuzeul Poarta Carpaților",
+              "when": "",
+              "where": "",
+              "text": "În zona Bran-Moieciu-Fundata prinde contur Ecomuzeul Poarta Carpaților, un spațiu de circa 2.000 de metri pătrați cu expoziții permanente în interior și în aer liber, ateliere și întâlniri cu meșteșugari și oameni din comunitate.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/ecomuzeul-poarta-carpatilor-spatiu-cultural-viu-al-comunitatilor-bran-moieciu-fundata-id219692.html"
+            },
+            {
+              "title": "Satul Spiridușilor și Satul lui Moș Crăciun se redeschid în noiembrie",
+              "when": "",
+              "where": "",
+              "text": "Satul Spiridușilor din Timișu de Sus, lângă Predeal, se redeschide pe 14 noiembrie, iar Satul lui Moș Crăciun pe 20 noiembrie, cu tururi ghidate de circa 50 de minute.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/satul-spiridusilor-si-satul-lui-mos-craciun-din-timisu-de-sus-isi-redeschid-portile-id219745.html"
+            },
+            {
+              "title": "Zimbrii din Munții Făgăraș au ajuns la Zărnești",
+              "when": "",
+              "where": "",
+              "text": "Zimbrii din Munții Făgăraș au ajuns și la Zărnești: jandarmii montani au întâlnit de câteva ori mai multe exemplare pe trasee, din câte se pare născute deja în sălbăticie.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/zimbrii-din-muntii-fagaras-au-ajuns-la-zarnesti-id219766.html"
+            },
+            {
+              "title": "Salvamont Brașov va avea două echipe canine",
+              "when": "",
+              "where": "",
+              "text": "Salvamont Brașov va avea două echipe canine: două femele Border Collie încep pregătirea alături de viitorii lor conductori și, dacă totul merge după plan, primesc brevetul în martie 2028.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/salvamont-brasov-face-un-nou-pas-in-dezvoltarea-capacitatii-operative-id219714.html"
+            },
+            {
+              "title": "Adăpostul public pentru animale din Triaj, mai bine dotat",
+              "when": "",
+              "where": "",
+              "text": "Adăpostul public pentru animale, mutat din Stupini în Triaj, are acum camere de supraveghere, generator și rezervoare de apă, iar drumul până la el e mai ușor de parcurs; lucrările continuă.",
+              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/conditii-mai-bune-la-adapostul-public-pentru-animale-din-triaj-id219724.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "137",
       "titleExact": "👋 Ce se întâmplă în Brașov în săpt. 5-11 octombrie",
@@ -919,465 +1421,6 @@
             }
           ],
           "lead": "În Tractorul, pe Tudor Arghezi, Brutăria BROD și Pizza Altro împart același spațiu — pâine dimineața, pizza după-amiaza."
-        }
-      ]
-    },
-    {
-      "id": "135",
-      "titleExact": "👋 Ce se întâmplă în Brașov în săpt. 21-27 septembrie",
-      "subtitleExact": "🎺 40 de recomandări: blues trei seri, Alpin Film Festival și Closer la Reduta",
-      "dateExact": "21.09.2026",
-      "week": "21-27 septembrie",
-      "sourceUrl": "https://www.salutbrasov.ro/p/135-blues",
-      "authors": "Alex Vita & Victor Ilioiu",
-      "intro": "Săptămâna 21-27 septembrie stă sub semnul blues-ului: Transilvania Blues Festival ține trei seri la Bastionul Țesătorilor. Alpin Film Festival umple zilele cu documentare de munte în Brașov, Râșnov și Bușteni, cu intrare liberă. Luni, Closer de Patrick Marber e pe afiș la Reduta, iar spre weekend ai JOA Fest la Râșnov, festivalul NOD prin oraș și seri faine la Waldkafe. Dacă tot ieși, mai sunt și ateliere, vernisaje și treabă pentru cei mici.",
-      "sections": [
-        {
-          "name": "Concerte",
-          "emoji": "🎸",
-          "items": [
-            {
-              "title": "JoàFest - Râșnov - Ediția I",
-              "when": "vineri și sâmbătă, 25 și 26 septembrie, de la ora 14:30",
-              "where": "Joà Music Café din Râșnov",
-              "text": "Vineri și sâmbătă, 25 și 26 septembrie, de la 14:30, la Joà Music Café din Râșnov, vine JoàFest. Două zile cu muzică live, teatru, ateliere pentru copii, vinyl seturi și karaoke în curtea Joà, cu Fără Zahăr vineri seara și Nightlosers sâmbătă.",
-              "link": "https://www.facebook.com/events/1059074533683434"
-            },
-            {
-              "title": "Transilvania Blues Festival",
-              "when": "vineri-duminică, 25-27 septembrie, ora 19:00",
-              "where": "Bastionul Țesătorilor",
-              "text": "La Bastionul Țesătorilor, vineri-duminică, 25-27 septembrie de la 19:00: Transilvania Blues Festival. Trei zile de blues în aer liber, cu trupe din Italia, Marea Britanie și Statele Unite. Duminică urcă pe scenă un cine-concert, de la ora 20:00.",
-              "link": "https://www.facebook.com/events/1019154390843899/"
-            },
-            {
-              "title": "Organ Nights cu Paul Cristian",
-              "when": "sâmbătă, 26 septembrie, ora 18:00",
-              "where": "Biserica Neagră",
-              "text": "Sâmbătă, 26 septembrie, te așteaptă la Biserica Neagră, de la 18:00 — Organ Nights cu Paul Cristian. Recital de orgă în seria Organ Nights, cu organistul invitat Paul-Alexandru Cristian.",
-              "link": "https://www.facebook.com/events/1041610331845612/"
-            },
-            {
-              "title": "Cântece de Dor și de Dragoste - Alma Nicole Boiangiu & Ciprian Iacob",
-              "when": "sâmbătă, 26 septembrie, ora 20:00",
-              "where": "Pavilionul Waldkafe",
-              "text": "Notează sâmbătă, 26 septembrie, ora 20:00, la Pavilionul Waldkafe. Jazz și atmosferă cinematică, cu vocea Almei-Nicole Boiangiu (finalistă Vocea României) și pianul lui Ciprian Iacob, compozitor cu 15 ani de experiență în muzică de film și teatru.",
-              "link": "https://www.facebook.com/events/4502525966652145/"
-            },
-            {
-              "title": "Voice Magic - Workshop pentru Voce și Suflet, cu Zeyla Tomlyn",
-              "when": "duminică, 27 septembrie, între orele 15:00 și 19:00",
-              "where": "Pavilionul Waldkafe",
-              "text": "Duminică, 27 septembrie la Pavilionul Waldkafe, ora 15:00–19:00: Voice Magic. Un workshop de cânt liber și circle singing, fără partituri și fără nevoie de experiență muzicală, gândit ca un spațiu sigur de exprimare autentică.",
-              "link": "https://www.facebook.com/events/2213065985929867/"
-            }
-          ],
-          "lead": "Blues trei seri la Bastionul Țesătorilor, JoàFest la Râșnov cu Fără Zahăr și Nightlosers, plus orgă la Biserica Neagră."
-        },
-        {
-          "name": "Concerte în curând",
-          "emoji": "🔜",
-          "items": [
-            {
-              "title": "Pasiuni pastorale, cu Horváth Edit, Béres Melinda și Kostyák Előd",
-              "when": "marți, 29 septembrie, ora 19:00",
-              "where": "Filarmonica Brașov",
-              "text": "Marți, 29 septembrie, de la 19:00, la Filarmonica Brașov, vine Pasiuni pastorale. Trio de pian, vioară și violoncel, cu Weber și Șostakovici, plus trei pagini de Manuel de Falla.",
-              "link": "https://www.facebook.com/events/1073303955080624/"
-            },
-            {
-              "title": "Alexandru Andrieș, Ultimul dans",
-              "when": "sâmbătă, 3 octombrie, ora 19:30",
-              "where": "Sala Patria",
-              "text": "La Sala Patria, sâmbătă, 3 octombrie de la 19:30: Alexandru Andrieș, Ultimul dans. Turneu național prin șapte orașe, cu piese cunoscute, momente-surpriză și povești spuse cu ironie și melancolie.",
-              "link": "https://www.facebook.com/events/1303443981874448/"
-            },
-            {
-              "title": "Robin and The Backstabbers",
-              "when": "sâmbătă, 10 octombrie, ora 20:00",
-              "where": "Rockstadt",
-              "text": "Sâmbătă, 10 octombrie, te așteaptă la Rockstadt, de la 20:00 — Robin and The Backstabbers. Seară de rock alternativ românesc, cu trupa care revine la Rockstadt. Accesul sub 14 ani nu e permis.",
-              "link": "https://rockstadt.ro/event/robin-and-the-backstabbers-brasov-rockstadt-10-octombrie/"
-            }
-          ],
-          "lead": "Urmează Pasiuni pastorale la Filarmonică, Andrieș la Sala Patria și Robin and The Backstabbers la Rockstadt."
-        },
-        {
-          "name": "Evenimente",
-          "emoji": "🕺",
-          "items": [
-            {
-              "title": "Greul pe care îl duc",
-              "when": "joi, 1 octombrie, ora 17:00",
-              "where": "Brașov",
-              "text": "Joi, 1 octombrie, de la 17:00, la Brașov, vine Greul pe care îl duc. Grup de dezvoltare personală pentru femei, prin psihodramă, 7 întâlniri la două săptămâni cu Claudia Bart și Cristina-Mina Dalea.",
-              "link": "https://www.facebook.com/events/2098136804244476"
-            },
-            {
-              "title": "Alpin Film Festival, ediția a 11-a",
-              "when": "luni-duminică, 21-27 septembrie",
-              "where": "Brașov, Râșnov și Bușteni",
-              "text": "La Brașov, Râșnov și Bușteni, luni-duminică, 21-27 septembrie: Alpin Film Festival, ediția a 11-a. 40 de documentare montane din peste 18 țări, plus expoziții de fotografie și prezentări de carte. Intrarea liberă.",
-              "link": "https://www.facebook.com/events/27820690220919129/"
-            },
-            {
-              "title": "Banometru Brașov – Muncești pentru bani sau pentru ce contează pentru tine?",
-              "when": "luni, 21 septembrie, ora 18:00",
-              "where": "Centrul Cultural Reduta",
-              "text": "Luni, 21 septembrie, te așteaptă la Centrul Cultural Reduta, de la 18:00 — Banometru Brașov. Are loc la Centrul Cultural Reduta. Un atelier despre relația ta cu banii, cu exerciții practice care te ajută să vezi mai clar pentru ce muncești de fapt.",
-              "link": "https://www.facebook.com/events/1592098618987477"
-            },
-            {
-              "title": "Closer de Patrick Marber",
-              "when": "luni, 21 septembrie, ora 19:00",
-              "where": "Centrul Cultural Reduta",
-              "text": "Notează luni, 21 septembrie, ora 19:00, la Centrul Cultural Reduta. Premieră cu textul lui Patrick Marber: un scriitor, o stripteuză, o fotografă și un medic, prinși într-un joc de atracții și trădări.",
-              "link": "https://www.facebook.com/events/860376343188619"
-            },
-            {
-              "title": "Deschiderea expoziției Simfonia Timpului",
-              "when": "marți, 22 septembrie, ora 12:00",
-              "where": "Sala Patria",
-              "text": "Marți, 22 septembrie la Sala Patria, ora 12:00: Deschiderea expoziției Simfonia. Istoria Filarmonicii Brașov povestită prin muzică, imagine, patrimoniu și tehnologie. Intrarea liberă.",
-              "link": "https://www.facebook.com/events/1595830695265653/"
-            },
-            {
-              "title": "Book Club #3: Read to Question, Discuss to Connect",
-              "when": "marți, 22 septembrie, ora 18:00",
-              "where": "Cărturești Piața Sfatului",
-              "text": "De la 18:00, la Cărturești Piața Sfatului (marți, 22 septembrie): Book Club #3. Club de lectură în limba engleză cu profesoara Anca Bădulescu, despre Departure(s) de Julian Barnes.",
-              "link": "https://www.facebook.com/events/2023651328356182/"
-            },
-            {
-              "title": "5Rhythms® Emerging Wave cu Dana Costea",
-              "when": "marți, 22 septembrie, ora 18:30",
-              "where": "Centrul Civic",
-              "text": "Marți, 22 septembrie, de la 18:30, la Centrul Civic, vine 5Rhythms® Emerging Wave cu Dana. O clasă de mișcare liberă ghidată, prin cele 5 ritmuri ale metodei 5Rhythms, deschisă oricui, indiferent de experiență. Adresa exactă se trimite celor înscriși.",
-              "link": "https://www.facebook.com/events/1103747252606367/"
-            },
-            {
-              "title": "NOD Festival",
-              "when": "joi-duminică, 24-27 septembrie",
-              "where": "mai multe locuri din oraș",
-              "text": "În intervalul joi-duminică, 24-27 septembrie, la mai multe locuri din oraș, vine NOD Festival. A doua ediție a festivalului care leagă literatura, teatrul și filmul sub umbrela drepturilor de autor. Intrarea liberă.",
-              "link": "https://nodfestival.ro/"
-            },
-            {
-              "title": "Lansarea romanului Lica de Iulian Ciocan",
-              "when": "joi, 24 septembrie, ora 17:00",
-              "where": "Librăria Humanitas",
-              "text": "Joi, 24 septembrie, te așteaptă la Librăria Humanitas, de la 17:00 — Lansarea romanului Lica de Iulian. Prezentarea cărții, dialog cu scriitorul și sesiune de autografe, alături de Romulus Bucur și Mihail Vakulovski. Intrarea liberă.",
-              "link": "https://www.facebook.com/events/1796356304652429/"
-            },
-            {
-              "title": "Vernisaj Brașov, orașul (in)vizibil",
-              "when": "vineri, 25 septembrie, ora 18:00",
-              "where": "Muzeul de Artă Brașov",
-              "text": "Notează vineri, 25 septembrie, ora 18:00, la Muzeul de Artă Brașov. Expoziție colectivă cu 22 de artiști, din proiectul Re:Imagine Brașov: pictură, desen, colaj, fotografie, sculptură și video despre orașul de dincolo de ce se vede. Intrarea liberă.",
-              "link": "https://www.facebook.com/events/1058885370273124"
-            },
-            {
-              "title": "Pe ritmul meu, cu Miruna Szilvasy & Delia Cioara",
-              "when": "vineri, 25 septembrie, ora 19:00",
-              "where": "Pavilionul Waldkafe",
-              "text": "Vineri, 25 septembrie la Pavilionul Waldkafe, ora 19:00: Pe ritmul meu. O întâlnire între femei unde muzica live și psihologia se împletesc, pentru a explora ce ritm ne conduce viața și cum ne putem regăsi propriul ritm.",
-              "link": "https://www.facebook.com/events/1078701461202920/"
-            },
-            {
-              "title": "Mono printing fun, atelier de desen și imprimat pentru adulți",
-              "when": "sâmbătă, 26 septembrie, ora 10:30",
-              "where": "Muzeul de Artă",
-              "text": "De la 10:30, la Muzeul de Artă (sâmbătă, 26 septembrie): Mono printing fun. Tehnici simple de desen și imprimare, pas cu pas, inclusiv pentru cei care n-au mai pus mâna pe o pensulă din clasa a cincea.",
-              "link": "https://www.facebook.com/events/1093402779900008"
-            },
-            {
-              "title": "Sketch Society, episodul 9",
-              "when": "sâmbătă, 26 septembrie, ora 20:00",
-              "where": "Galeria Ora0",
-              "text": "Sâmbătă, 26 septembrie, de la 20:00, la Galeria Ora0, vine Sketch Society, episodul 9. Seară de sketch-uri din teatru, stand-up și improvizație, în care unele momente sunt scrise, iar altele se nasc pe loc.",
-              "link": "https://www.facebook.com/events/1423329819768260/"
-            },
-            {
-              "title": "Atelier de linogravură și design repetitiv",
-              "when": "duminică, 27 septembrie, ora 11:00",
-              "where": "HB2 Studio",
-              "text": "La HB2 Studio, duminică, 27 septembrie de la 11:00: Atelier de linogravură și design. Curs introductiv de print manual, cu dălți, cuttere și role, din care pleci acasă cu imprimeul tău. Pentru adulți începători.",
-              "link": "https://www.tickettailor.com/events/monthofsundays/2413019"
-            },
-            {
-              "title": "Prânz la fermă",
-              "when": "duminică, 27 septembrie, între orele 11:00 și 17:00",
-              "where": "Ferma Cățean",
-              "text": "Duminică, 27 septembrie, te așteaptă la Ferma Cățean, de la 11:00–17:00 — Prânz la fermă. O zi de familie la fermă, cu vizite, dresaj ecvestru și mâncăruri tradiționale din zonă. Prânzul se servește în trei reprize (11:30-13:00, 13:30-15:00, 15:30-17:00), cu înscriere pe loc, în limita locurilor disponibile.",
-              "link": "https://www.facebook.com/events/1091939280144874"
-            }
-          ],
-          "lead": "Alpin Film Festival ține toată săptămâna, Closer e luni la Reduta, iar NOD și vernisajul de la Muzeul de Artă completează poza."
-        },
-        {
-          "name": "Evenimente în curând",
-          "emoji": "🔜",
-          "items": [
-            {
-              "title": "Vise-Mozaic, atelier de art-terapie",
-              "when": "joi, 1 octombrie, ora 18:30",
-              "where": "Strada Aurora nr",
-              "text": "Joi, 1 octombrie, de la 18:30, la Strada Aurora nr, vine Vise-Mozaic, atelier de art-terapie. 5. Asamblezi un colaj din fotografii, un mozaic ca metaforă a visului fragmentat, apoi scrii pe baza lui și discutați împreună. Intrarea liberă.",
-              "link": "https://www.facebook.com/events/1783253919582452"
-            },
-            {
-              "title": "Campionatul Național de Salsa, Bachata și Caribbean Show",
-              "when": "duminică, 4 octombrie, ora 08:00",
-              "where": "Inventa Club",
-              "text": "La Inventa Club, duminică, 4 octombrie de la 08:00: Campionatul Național de Salsa. Cei mai buni dansatori din țară se bat pentru titlurile naționale la salsa, bachata și caribbean show. Copiii intră gratuit.",
-              "link": "https://www.facebook.com/events/1517989729769157/"
-            },
-            {
-              "title": "Stand Up & Crowd Work cu Gabriel Gherghe",
-              "when": "duminică, 4 octombrie, ora 19:00",
-              "where": "O'Peter's Irish Pub",
-              "text": "Duminică, 4 octombrie, te așteaptă la O'Peter's Irish Pub, de la 19:00 — Stand Up & Crowd Work cu Gabriel. Stand-up în prima parte, apoi crowd work, unde nimic nu e pregătit dinainte și totul se joacă cu publicul.",
-              "link": "https://www.facebook.com/events/956610350119754/"
-            },
-            {
-              "title": "Nocturna, experiență gastronomică multisenzorială",
-              "when": "miercuri, 7 octombrie, ora 18:00",
-              "where": "Pensiunea Doina din Săcele",
-              "text": "Notează miercuri, 7 octombrie, ora 18:00, la Pensiunea Doina din Săcele. Cină în patru acte, cu 14 preparate și momente în care gustul se întâlnește cu sunetul, mirosul și întunericul.",
-              "link": "https://solomonexperience.com/eveniment-1.html#event-1"
-            }
-          ],
-          "lead": "În octombrie: art-terapie pe Aurora, campionatul de salsa la Inventa și Nocturna la Pensiunea Doina."
-        },
-        {
-          "name": "Expoziții și vernisaje",
-          "emoji": "🖼️",
-          "items": [
-            {
-              "title": "Săpt",
-              "when": "",
-              "where": "",
-              "text": "Săpt. asta se deschid Zilele ariei naturale protejate Muntele Tâmpa, la Banca de Cultură Apollonia, și Brașov, orașul (in)vizibil, la Muzeul de Artă. Expozițiile Interferențe (Galeria Europa) și Șoaptele Naturii (Biblioteca Județeană George Barițiu) se închid pe 30 septembrie."
-            }
-          ],
-          "lead": "Se deschid Zilele Tâmpei la Apollonia și Brașov, orașul (in)vizibil la Muzeul de Artă; Interferențe și Șoaptele Naturii se închid pe 30 septembrie."
-        },
-        {
-          "name": "Activități pentru copii",
-          "emoji": "👨‍👩‍👧‍👦",
-          "items": [
-            {
-              "title": "Curs de desen și pictură pentru copii de 7-14 ani",
-              "when": "luni, 21 septembrie, ora 17:30",
-              "where": "HB2 Studio",
-              "text": "Luni, 21 septembrie, de la 17:30, la HB2 Studio, vine Curs de desen și pictură pentru. Încep înscrierile la atelierul de desen și pictură, în fiecare luni, pentru grupa de 7-14 ani.",
-              "link": "https://www.facebook.com/events/1251899873692297/"
-            },
-            {
-              "title": "Atelierul de lectură Cărturino",
-              "when": "miercuri, 23 septembrie, ora 17:00",
-              "where": "Cărturești Piața Sfatului",
-              "text": "La Cărturești Piața Sfatului, miercuri, 23 septembrie de la 17:00: Atelierul de lectură Cărturino. Club de lectură pentru copii și părinți, unde se citește din Vrăjitorița Jazzmina de Florin Bican. Recomandat pentru 4-8 ani.",
-              "link": "https://www.facebook.com/events/1807279773609536/"
-            },
-            {
-              "title": "Atelier de psihoeducație pentru copii, stima de sine",
-              "when": "vineri, 25 septembrie, ora 18:00",
-              "where": "Cărturești Piața Sfatului",
-              "text": "Vineri, 25 septembrie, te așteaptă la Cărturești Piața Sfatului, de la 18:00 — Atelier de psihoeducație pentru. Sesiune de educație prin joacă pentru copii de 7-10 ani, despre părerea pe care o ai despre tine. Adu-ți plușul preferat.",
-              "link": "https://www.facebook.com/events/1661153712225728/"
-            },
-            {
-              "title": "Petrecerea copiilor",
-              "when": "vineri, 25 septembrie, ora 18:30",
-              "where": "Restaurant Ciao Bella",
-              "text": "Notează vineri, 25 septembrie, ora 18:30, la Restaurant Ciao Bella. Animatori, jocuri și distracție pentru cei mici, de la 3 la 8 ani, cât părinții stau liniștiți la masă.",
-              "link": "https://www.facebook.com/events/1417451543825025/"
-            },
-            {
-              "title": "Chimia distractivă pentru copii",
-              "when": "duminică, 27 septembrie, ora 12:00",
-              "where": "Restaurant Ciao Bella",
-              "text": "Duminică, 27 septembrie la Restaurant Ciao Bella, ora 12:00: Chimia distractivă pentru copii. Popcorn care dansează, un ocean întunecat și o demonstrație cu pasta de dinți a crocodilului. Un atelier care transformă știința în distracție.",
-              "link": "https://www.facebook.com/events/1769114134238828/"
-            }
-          ],
-          "lead": "Desen la HB2, lectură Cărturino, psihoeducație și chimie distractivă — săptămâna e generoasă cu cei mici."
-        },
-        {
-          "name": "Știri locale",
-          "emoji": "🗞️",
-          "items": [
-            {
-              "title": "Trafic închis pe DJ 103B lângă Budila, ocolire prin Teliu",
-              "when": "",
-              "where": "",
-              "text": "De luni, 21 septembrie, traficul se închide complet pe DJ 103B lângă Budila, unde vechiul pod se demolează și se construiește unul nou; ocolirea merge prin Teliu, Cărpiniș și Tărlungeni.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/incep-lucrarile-de-demolare-a-vechiului-pod-de-la-budila-in-locul-caruia-va-fi-ridicat-un-pod-nou-id219247.html"
-            },
-            {
-              "title": "Strada Morii rămâne închisă până pe 26 septembrie",
-              "when": "",
-              "where": "",
-              "text": "Strada Morii, între De Mijloc și Lungă, rămâne închisă până pe 26 septembrie pentru reabilitarea rețelei de apă, cu ocolire pe strada Câmpului.",
-              "link": "https://www.monitorulexpres.ro/2026/09/17/strada-morii-inchisa-pana-in-26-septembrie/"
-            },
-            {
-              "title": "Trenul Dacia Brașov–Viena, pe orar modificat",
-              "when": "",
-              "where": "",
-              "text": "Trenul Dacia, care leagă Brașovul de Viena, circulă după un orar modificat între 21 septembrie și 12 decembrie, din cauza unor lucrări la calea ferată din Ungaria.",
-              "link": "https://bizbrasov.ro/2026/09/18/tren-international-brasov-viena-program/"
-            },
-            {
-              "title": "Autostrada Brașov–Făgăraș a intrat în consultare publică",
-              "when": "",
-              "where": "",
-              "text": "Proiectul autostrăzii Brașov-Făgăraș, aproape 50 de kilometri prin Codlea, Dumbrăvița, Șinca, Mândra și Șercaia, a intrat în consultare publică.",
-              "link": "https://bizbrasov.ro/2026/09/18/proiectul-autostrazii-brasov-fagaras/"
-            },
-            {
-              "title": "A13 Brașov–Bacău, încă în studiu de fezabilitate",
-              "when": "",
-              "where": "",
-              "text": "Autostrada A13 Brașov-Bacău, circa 174 de kilometri în cinci loturi, e încă în studiu de fezabilitate : prin județul nostru traseul are aproximativ 37 de kilometri, prin extravilanul localităților Codlea, Hălchiu, Brașov, Bod, Sânpetru, Hărman, Prejmer și Teliu.",
-              "link": "https://www.monitorulexpres.ro/2026/09/19/case-in-calea-autostrazii-a13-brasov-bacau/"
-            },
-            {
-              "title": "BEI finanțează modernizarea căii ferate Brașov–Sighișoara",
-              "when": "",
-              "where": "",
-              "text": "Banca Europeană de Investiții a semnat finanțarea pentru calea ferată Brașov-Sighișoara : 113 kilometri modernizați, pe care trenurile de călători vor putea merge cu până la 160 km/h.",
-              "link": "https://bizbrasov.ro/2026/09/14/banca-imprumut-cale-ferata-brasov/"
-            },
-            {
-              "title": "Legătura Hărmanului–Sânpetru a intrat în proiectare",
-              "when": "",
-              "where": "",
-              "text": "Noua legătură rutieră dintre strada Hărmanului și Sânpetru, circa 2,8 kilometri cu două benzi pe sens, pistă de biciclete și pasaj pe sub centură, a intrat în proiectare.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/noua-legatura-brasov-sanpetru-intra-in-proiectare-id219193.html"
-            },
-            {
-              "title": "Începe dezafectarea Stadionului Tineretului",
-              "when": "",
-              "where": "",
-              "text": "Începe dezafectarea Stadionului Tineretului, în locul căruia se ridică o arenă nouă de 9.716 locuri, cu 19 luni durată de execuție.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/incepe-dezafectarea-stadionului-tineretului-id219203.html"
-            },
-            {
-              "title": "Șantiere la creșe, grădinițe și școli în mai multe cartiere",
-              "when": "",
-              "where": "",
-              "text": "Brașovul are șantiere la creșe, grădinițe și școli în Tractorul, Bartolomeu, Stupini și Coresi, iar creșele din Avantgarden și Stupini sunt anunțate pentru primăvara lui 2027.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/noi-crese-gradinite-si-scoli-in-brasov-id219208.html"
-            },
-            {
-              "title": "Strada Ioan Socec se reconfigurează odată cu noul complex",
-              "when": "",
-              "where": "",
-              "text": "Strada Ioan Socec se reconfigurează odată cu noul complex preșcolar din Tractorul: aliniament nou, trotuare, căi de acces și parcări, plus sistematizarea curții colegiului Nicolae Titulescu.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/strada-ioan-socec-reconfigurata-id219287.html"
-            },
-            {
-              "title": "Modernizare în cartierul Uzina 2: trotuare și treceri noi",
-              "when": "",
-              "where": "",
-              "text": "În cartierul Uzina 2 continuă modernizarea : treceri de pietoni în locuri unde nu existau, trotuare reparate și mese de ping-pong montate, iar în perioada următoare vin aparate de fitness în aer liber, limitatoare de viteză și oglinzi în intersecții.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/continua-lucrarile-de-modernizare-in-uzina-2-id219285.html"
-            },
-            {
-              "title": "Zonă pietonală nouă în Râșnov, între Florilor și Brazilor",
-              "when": "",
-              "where": "",
-              "text": "Râșnovul are o zonă pietonală nouă pe porțiunea dintre străzile Florilor și Brazilor, unde mașinile nu mai au acces, iar riveranii intră doar dinspre Brazilor.",
-              "link": "https://newsbv.ro/o-noua-zona-pietonala-in-rasnov/"
-            },
-            {
-              "title": "Uber și Bolt nu mai pot prelua curse de la aeroport",
-              "when": "",
-              "where": "",
-              "text": "Șoferii Uber și Bolt din Brașov pot duce pasageri la aeroport, dar nu mai au voie să preia curse de acolo : legea le permite asta doar celor cu domiciliul în Ghimbav.",
-              "link": "https://bzb.ro/stire/lovitura-pentru-soferii-uberbolt-doar-daca-au-domiciliul-in-ghimbav-mai-pot-opera-curse-de-la-aeroportul-brasov-a223996"
-            },
-            {
-              "title": "Telescaunul Ruia a intrat în revizie înainte de iarnă",
-              "when": "",
-              "where": "",
-              "text": "Telescaunul Ruia a intrat în revizie înainte de sezonul de iarnă, așa că bicicletele urcă spre bikepark cu telecabina Capra Neagră de luni până vineri, iar telegondola circulă în weekend.",
-              "link": "https://bizbrasov.ro/2026/09/17/program-transport-cablu-bikepark/"
-            },
-            {
-              "title": "Ofertis își deschide al șaptelea magazin, pe Griviței",
-              "when": "",
-              "where": "",
-              "text": "Rețeaua brașoveană Ofertis și-a deschis al șaptelea magazin din județ, pe bulevardul Griviței.",
-              "link": "https://bizbrasov.ro/2026/09/17/ofertis-retea-magazine-judet-brasov/"
-            },
-            {
-              "title": "EDS închide tipografia din Ghimbav pe 31 decembrie",
-              "when": "",
-              "where": "",
-              "text": "Grupul german EDS închide pe 31 decembrie tipografia din Ghimbav, cea mai mare tipografie comercială din România, unde lucrează 84 de oameni.",
-              "link": "https://bizbrasov.ro/2026/09/14/eds-germani-inchidere-tipografie-ghimbav/"
-            },
-            {
-              "title": "Înscrieri deschise pentru 900 de voluntari la FOTE 2027",
-              "when": "",
-              "where": "",
-              "text": "S-au deschis înscrierile pentru cei aproximativ 900 de voluntari de la Festivalul Olimpic al Tineretului European, pe care Brașovul îl găzduiește în februarie 2027.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/s-au-deschis-inscrierile-pentru-voluntari-la-fote-2027-id219189.html"
-            },
-            {
-              "title": "Zilele Sfântului Mihai la Săcele, până pe 27 septembrie",
-              "when": "",
-              "where": "",
-              "text": "Săcele ține Zilele Sfântului Mihai până pe 27 septembrie, ediția a 30-a a sărbătorii comunității maghiare ceangăiești, cu ateliere, expoziții, parada lămpioanelor din dovleac și concerte.",
-              "link": "https://newsbv.ro/zilele-sfantului-mihai-la-sacele/"
-            },
-            {
-              "title": "Compost din piețe în 24 de ore, pentru serele școlilor",
-              "when": "",
-              "where": "",
-              "text": "Un echipament montat într-o piață din Brașov transformă deșeurile biodegradabile în îngrășământ în 24 de ore, iar compostul ajunge la serele școlilor din oraș.",
-              "link": "https://www.radiobrasovfm.ro/stiri-din-brasov/din-gunoi-adunat-in-pietele-publice-ingrasamant-in-doar-24-de-ore-id219173.html"
-            },
-            {
-              "title": "Rezultatele Școlilor Active, prezentate de Fundația Comunitară",
-              "when": "",
-              "where": "",
-              "text": "Fundația Comunitară Brașov a prezentat rezultatele primei generații de Școli Active, programul derulat în școlile din Budila, Crizbav și Racoș: peste jumătate dintre copiii porniți cu dificultăți la citit-scris și matematică au urcat cel puțin o treaptă la ambele.",
-              "link": "https://fundatiacomunitarabrasov.ro/2026/09/18/rezultate-fondul-scolilor-active-un-an-de-progres-pentru-copiii-din-trei-comunitati-scolare-rurale-din-judetul-brasov/"
-            },
-            {
-              "title": "Castelul Bran, în top 10 castele din Europa",
-              "when": "",
-              "where": "",
-              "text": "Castelul Bran a intrat în primele 10 cele mai populare castele și palate din Europa, un clasament TUI Musement făcut după numărul de recenzii de pe Google.",
-              "link": "https://bizbrasov.ro/2026/09/19/castelul-bran-cele-mai-populare/"
-            }
-          ],
-          "lead": "Poduri, autostrăzi, stadion nou și o zonă pietonală la Râșnov: ce se clădește (și ce se închide) pe lângă casă."
-        },
-        {
-          "name": "Nou în Brașov",
-          "emoji": "🆕",
-          "items": [
-            {
-              "title": "Dze Best",
-              "when": "",
-              "where": "Bulevardul 15 Noiembrie 30, în Centrul Civic",
-              "text": "Pe Bulevardul 15 Noiembrie 30, în Centrul Civic a apărut Dze Best. Restaurantul georgian s-a mutat din centrul istoric pe Bulevardul 15 Noiembrie 30, în Centrul Civic. Meniu cu poze și mâncare cinstită.",
-              "link": "https://instagram.com/dze_best"
-            },
-            {
-              "title": "KinetoHub",
-              "when": "",
-              "where": "Nicolae Labiș 33, lângă cafeneaua Freya",
-              "text": "Pe Nicolae Labiș 33, lângă cafeneaua Freya a apărut KinetoHub. Cel mai nou cabinet de kinetoterapie din oraș, pe Nicolae Labiș 33, lângă cafeneaua Freya. Recuperare, prevenție și programe pre și post-partum.",
-              "link": "https://instagram.com/kinetohub.ro"
-            }
-          ],
-          "lead": "Dze Best s-a mutat în Centrul Civic, iar pe Nicolae Labiș a apărut KinetoHub, lângă cafeneaua Freya."
         }
       ]
     }
