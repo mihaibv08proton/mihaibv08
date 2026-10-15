@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-10-15T13:12:55+03:00",
+    "updatedAt": "2026-10-15T19:01:02+03:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -32,25 +32,18 @@
           "category": "sale"
         },
         {
-          "title": "Primus Sport IV Preschool −30.3%",
-          "text": "Was €76 / now €53 (−30.26%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers −30%",
-          "text": "Was €70 / now €49 (−30%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers",
-          "category": "kids_sale"
-        },
-        {
           "title": "Primus Ludo School Preschool −30.5%",
           "text": "Was €82 / now €57 (−30.49%). Automatic sale/kids clearance on vivobarefoot.com/eu. In stock.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool",
           "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Womens −30%",
+          "text": "Was €130 / now €91 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens",
+          "category": "sale"
         }
       ],
       "gyh": [
