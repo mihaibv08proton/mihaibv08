@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-11-03T13:12:25+02:00",
+    "updatedAt": "2026-11-04T00:25:33+02:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,48 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-11-04",
+      "xPosts": [],
+      "cupoane": [
+        {
+          "title": "Gobi Wavey Mule Womens Obsidian −30%",
+          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Stone −30%",
+          "text": "Was €70 / now €49 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Glacial Green −30%",
+          "text": "Was €82 / now €57 (−30%), colour Glacial Green. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Honey Gold −30%",
+          "text": "Was €82 / now €57 (−30%), colour Honey Gold. Automatic sale price on vivobarefoot.com/eu. In stock (limited sizes).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool Stone −30%",
+          "text": "Was €76 / now €53 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. Other colours full price or under 30% (Skyway/Apricot 25%, Ombre ~20%). In stock.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-11-03",
       "xPosts": [],
@@ -119,48 +161,6 @@
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789271"
         }
       ]
-    },
-    {
-      "date": "2026-11-01",
-      "xPosts": [],
-      "cupoane": [
-        {
-          "title": "Gobi Wavey Mule Womens Obsidian −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers Stone −30%",
-          "text": "Was €70 / now €49 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Kids Glacial Green −30%",
-          "text": "Was €82 / now €57 (−30%), colour Glacial Green. Automatic sale price on vivobarefoot.com/eu. In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Kids Honey Gold −30%",
-          "text": "Was €82 / now €57 (−30%), colour Honey Gold. Automatic sale price on vivobarefoot.com/eu. In stock (limited sizes).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool Stone −30%",
-          "text": "Was €76 / now €53 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. Other colours full price or under 30% (Skyway/Apricot 25%, Ombre ~20%). In stock.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": []
     }
   ]
 }
