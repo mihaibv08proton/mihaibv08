@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-11-10T13:27:12+02:00",
+    "updatedAt": "2026-11-10T18:58:01+02:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -18,38 +18,892 @@
       "xPosts": [],
       "cupoane": [
         {
-          "title": "Gobi Wavey Mule Womens Obsidian −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Gobi Wavey Mule Womens Obsidian −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
           "category": "sale"
         },
         {
-          "title": "Primus Sport IV Toddlers Stone −30%",
-          "text": "Was €70 / now €49 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Primus Sport IV Toddlers Stone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Sizes limited on PDP (no size selected). Twilight Mauve listed separately at the same −40%.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Glacial Green −30%",
-          "text": "Was €82 / now €57 (−30%), colour Glacial Green. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Glacial Green. Sizes limited on PDP. Deep Ocean listed separately at −40% (€82→€49).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Honey Gold −30%",
-          "text": "Was €82 / now €57 (−30%), colour Honey Gold. Automatic sale price on vivobarefoot.com/eu. In stock (limited sizes).",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Honey Gold. In stock (limited sizes).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
           "category": "kids_sale"
         },
         {
-          "title": "Primus Sport IV Preschool Stone −30%",
-          "text": "Was €76 / now €53 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. Other colours full price or under 30% (Skyway/Apricot 25%, Ombre ~20%). In stock.",
+          "title": "Primus Sport IV Preschool Stone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Skyway, Ombre and Apricot checked at full price €76.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Mens Dune −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-mens?colour=Dune",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Moc Lace Up Leather Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-moc-lace-up-leather-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Mens Triple Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-mens?colour=Triple+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Mens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-mens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Mens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-mens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Mens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-mens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Mens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-mens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Mens Obsidian-Cherry Tomato −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iv-all-weather-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Mens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-mens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Mens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-mens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Mens Obsidian −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Mens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Sandal Mens Glacier Grey −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-sandal-mens?colour=Glacier+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Mens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-mens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Mens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Mens Blue Tint −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-mens?colour=Blue+Tint",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Mens Moss −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-mens?colour=Moss",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Mens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-mens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-mens-aw22?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Mens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-mens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Mens Dark Shadow −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Mens Suede Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-mens?colour=Suede+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Womens Sand-Fig −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-womens?colour=Sand-Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Knit Womens Eclipse −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-knit-womens?colour=Eclipse",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Womens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-womens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Womens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-womens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid Womens Obsidian Leopard −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-womens?colour=Obsidian+Leopard",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Womens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-womens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Womens Dark Shadow −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Natural Womens Fig −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-natural-womens?colour=Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Womens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-womens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Sandal Womens Limestone −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-sandal-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Slide Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-slide-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Womens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Womens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-womens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Womens Tan −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-womens?colour=Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Womens Bracken −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-womens?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid JJF Womens Shadow Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Womens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-womens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Womens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Womens Bright White-Grey −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-womens?colour=Bright+White-Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Hydra ESC Womens Obsidian-Safety Yellow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/hydra-esc-womens?colour=Obsidian-Safety+Yellow",
+          "category": "sale"
+        },
+        {
+          "title": "Asana Yin Ballerina Knit Womens Obsidian −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/asana-yin-ballerina-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Dune Sneaker JJF Womens Shadow Green −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-dune-sneaker-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Warmlined Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-warmlined-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Womens Graphite −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-womens?colour=Graphite",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Womens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-womens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Womens Pebble −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-womens?colour=Pebble",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Womens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Womens Ultimate Grey −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-womens-aw22?colour=Ultimate+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Womens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-womens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG x Earthed Womens Black Iris −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-x-earthed-womens?colour=Black+Iris",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG Womens Flintstone −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-womens?colour=Flintstone",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra III Bloom Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iii-bloom-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra IV JJF Womens Shadow Green −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iv-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Womens Bright White −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-womens?colour=Bright+White",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Mid Leather Womens Dark Shadow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-mid-leather-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sock Boot Womens Obsidian −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Womens Arctic Wolf-Gum −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-womens?colour=Arctic+Wolf-Gum",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Womens Limestone −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Chelsea Womens Bark −40%",
+          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
+          "category": "sale"
+        },
+        {
+          "title": "Pilgrim Womens Dark Tan −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Geo Court III Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/geo-court-iii-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Preschool Flintstone −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-preschool?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Pre-School Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Preschool Safari −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-preschool?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Pre-School Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Utility Pre-School Midnight −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-utility-pre-school?colour=Midnight",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gaia Preschool Peach Melba −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gaia-preschool?colour=Peach+Melba",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Pre-School Umber −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-pre-school?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Preschool Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Preschool Electric Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-preschool?colour=Electric+Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Toddlers Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Toddlers Safari −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-toddlers?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Twilight Mauve −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Twilight+Mauve",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Toddlers Ombre −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-toddlers?colour=Ombre",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Toddlers Rose −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-toddlers?colour=Rose",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Toddlers Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG X Muddy Puddles Toddlers Grasshopper −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-x-muddy-puddles-toddlers?colour=Grasshopper",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Juniors Flintstone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-juniors?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Juniors Outer Space −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-juniors?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Juniors Auburn −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-juniors?colour=Auburn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Boot Juniors Limestone −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-juniors?colour=Limestone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Juniors Acorn −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-juniors?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Juniors Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Juniors Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-juniors-aw23?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Juniors Peyote −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-juniors?colour=Peyote",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra Bloom Kids Obsidian-White −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-kids-ss23?colour=Obsidian-White",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Kids Flintstone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-kids?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Kids Outer Space −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-kids?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Kids Obsidian −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Kids Stone −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-kids?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Deep Ocean −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Kids Umber −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Kids Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker AT Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Kids Peyote −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
         }
       ],
@@ -68,38 +922,892 @@
       "xPosts": [],
       "cupoane": [
         {
-          "title": "Gobi Wavey Mule Womens Obsidian −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Gobi Wavey Mule Womens Obsidian −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
           "category": "sale"
         },
         {
-          "title": "Primus Sport IV Toddlers Stone −30%",
-          "text": "Was €70 / now €49 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Primus Sport IV Toddlers Stone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Sizes limited on PDP (no size selected). Twilight Mauve listed separately at the same −40%.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Glacial Green −30%",
-          "text": "Was €82 / now €57 (−30%), colour Glacial Green. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Glacial Green. Sizes limited on PDP. Deep Ocean listed separately at −40% (€82→€49).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Honey Gold −30%",
-          "text": "Was €82 / now €57 (−30%), colour Honey Gold. Automatic sale price on vivobarefoot.com/eu. In stock (limited sizes).",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Honey Gold. In stock (limited sizes).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
           "category": "kids_sale"
         },
         {
-          "title": "Primus Sport IV Preschool Stone −30%",
-          "text": "Was €76 / now €53 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. Other colours full price or under 30% (Skyway/Apricot 25%, Ombre ~20%). In stock.",
+          "title": "Primus Sport IV Preschool Stone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Skyway, Ombre and Apricot checked at full price €76.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Mens Dune −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-mens?colour=Dune",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Moc Lace Up Leather Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-moc-lace-up-leather-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Mens Triple Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-mens?colour=Triple+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Mens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-mens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Mens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-mens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Mens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-mens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Mens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-mens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Mens Obsidian-Cherry Tomato −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iv-all-weather-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Mens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-mens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Mens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-mens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Mens Obsidian −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Mens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Sandal Mens Glacier Grey −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-sandal-mens?colour=Glacier+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Mens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-mens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Mens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Mens Blue Tint −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-mens?colour=Blue+Tint",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Mens Moss −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-mens?colour=Moss",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Mens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-mens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-mens-aw22?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Mens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-mens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Mens Dark Shadow −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Mens Suede Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-mens?colour=Suede+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Womens Sand-Fig −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-womens?colour=Sand-Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Knit Womens Eclipse −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-knit-womens?colour=Eclipse",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Womens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-womens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Womens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-womens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid Womens Obsidian Leopard −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-womens?colour=Obsidian+Leopard",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Womens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-womens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Womens Dark Shadow −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Natural Womens Fig −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-natural-womens?colour=Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Womens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-womens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Sandal Womens Limestone −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-sandal-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Slide Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-slide-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Womens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Womens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-womens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Womens Tan −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-womens?colour=Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Womens Bracken −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-womens?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid JJF Womens Shadow Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Womens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-womens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Womens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Womens Bright White-Grey −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-womens?colour=Bright+White-Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Hydra ESC Womens Obsidian-Safety Yellow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/hydra-esc-womens?colour=Obsidian-Safety+Yellow",
+          "category": "sale"
+        },
+        {
+          "title": "Asana Yin Ballerina Knit Womens Obsidian −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/asana-yin-ballerina-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Dune Sneaker JJF Womens Shadow Green −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-dune-sneaker-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Warmlined Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-warmlined-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Womens Graphite −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-womens?colour=Graphite",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Womens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-womens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Womens Pebble −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-womens?colour=Pebble",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Womens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Womens Ultimate Grey −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-womens-aw22?colour=Ultimate+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Womens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-womens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG x Earthed Womens Black Iris −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-x-earthed-womens?colour=Black+Iris",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG Womens Flintstone −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-womens?colour=Flintstone",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra III Bloom Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iii-bloom-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra IV JJF Womens Shadow Green −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iv-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Womens Bright White −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-womens?colour=Bright+White",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Mid Leather Womens Dark Shadow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-mid-leather-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sock Boot Womens Obsidian −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Womens Arctic Wolf-Gum −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-womens?colour=Arctic+Wolf-Gum",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Womens Limestone −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Chelsea Womens Bark −40%",
+          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
+          "category": "sale"
+        },
+        {
+          "title": "Pilgrim Womens Dark Tan −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Geo Court III Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/geo-court-iii-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Preschool Flintstone −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-preschool?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Pre-School Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Preschool Safari −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-preschool?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Pre-School Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Utility Pre-School Midnight −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-utility-pre-school?colour=Midnight",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gaia Preschool Peach Melba −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gaia-preschool?colour=Peach+Melba",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Pre-School Umber −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-pre-school?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Preschool Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Preschool Electric Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-preschool?colour=Electric+Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Toddlers Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Toddlers Safari −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-toddlers?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Twilight Mauve −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Twilight+Mauve",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Toddlers Ombre −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-toddlers?colour=Ombre",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Toddlers Rose −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-toddlers?colour=Rose",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Toddlers Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG X Muddy Puddles Toddlers Grasshopper −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-x-muddy-puddles-toddlers?colour=Grasshopper",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Juniors Flintstone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-juniors?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Juniors Outer Space −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-juniors?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Juniors Auburn −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-juniors?colour=Auburn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Boot Juniors Limestone −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-juniors?colour=Limestone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Juniors Acorn −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-juniors?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Juniors Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Juniors Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-juniors-aw23?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Juniors Peyote −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-juniors?colour=Peyote",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra Bloom Kids Obsidian-White −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-kids-ss23?colour=Obsidian-White",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Kids Flintstone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-kids?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Kids Outer Space −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-kids?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Kids Obsidian −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Kids Stone −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-kids?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Deep Ocean −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Kids Umber −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Kids Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker AT Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Kids Peyote −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
         }
       ],
@@ -125,38 +1833,892 @@
       "xPosts": [],
       "cupoane": [
         {
-          "title": "Gobi Wavey Mule Womens Obsidian −30%",
-          "text": "Was €150 / now €105 (−30%). Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Gobi Wavey Mule Womens Obsidian −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
           "category": "sale"
         },
         {
-          "title": "Primus Sport IV Toddlers Stone −30%",
-          "text": "Was €70 / now €49 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "title": "Primus Sport IV Toddlers Stone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Sizes limited on PDP (no size selected). Twilight Mauve listed separately at the same −40%.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Glacial Green −30%",
-          "text": "Was €82 / now €57 (−30%), colour Glacial Green. Automatic sale price on vivobarefoot.com/eu. In stock.",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Glacial Green. Sizes limited on PDP. Deep Ocean listed separately at −40% (€82→€49).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
           "category": "kids_sale"
         },
         {
           "title": "Primus Sport III Kids Honey Gold −30%",
-          "text": "Was €82 / now €57 (−30%), colour Honey Gold. Automatic sale price on vivobarefoot.com/eu. In stock (limited sizes).",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Honey Gold. In stock (limited sizes).",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
           "category": "kids_sale"
         },
         {
-          "title": "Primus Sport IV Preschool Stone −30%",
-          "text": "Was €76 / now €53 (−30%), colour Stone only. Automatic sale price on vivobarefoot.com/eu. Other colours full price or under 30% (Skyway/Apricot 25%, Ombre ~20%). In stock.",
+          "title": "Primus Sport IV Preschool Stone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Skyway, Ombre and Apricot checked at full price €76.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Mens Dune −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-mens?colour=Dune",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Moc Lace Up Leather Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-moc-lace-up-leather-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Mens Triple Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-mens?colour=Triple+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Mens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-mens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Mens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-mens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Mens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-mens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Mens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-mens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Mens Obsidian-Cherry Tomato −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iv-all-weather-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Mens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-mens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Mens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-mens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Mens Obsidian −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Mens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Sandal Mens Glacier Grey −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-sandal-mens?colour=Glacier+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Mens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-mens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Mens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Mens Blue Tint −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-mens?colour=Blue+Tint",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Mens Moss −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-mens?colour=Moss",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Mens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-mens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-mens-aw22?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Mens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-mens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Mens Dark Shadow −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Mens Suede Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-mens?colour=Suede+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Womens Sand-Fig −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-womens?colour=Sand-Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Knit Womens Eclipse −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-knit-womens?colour=Eclipse",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Womens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-womens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Womens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-womens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid Womens Obsidian Leopard −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-womens?colour=Obsidian+Leopard",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Womens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-womens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Womens Dark Shadow −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Natural Womens Fig −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-natural-womens?colour=Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Womens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-womens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Sandal Womens Limestone −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-sandal-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Slide Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-slide-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Womens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Womens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-womens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Womens Tan −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-womens?colour=Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Womens Bracken −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-womens?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid JJF Womens Shadow Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Womens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-womens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Womens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Womens Bright White-Grey −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-womens?colour=Bright+White-Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Hydra ESC Womens Obsidian-Safety Yellow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/hydra-esc-womens?colour=Obsidian-Safety+Yellow",
+          "category": "sale"
+        },
+        {
+          "title": "Asana Yin Ballerina Knit Womens Obsidian −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/asana-yin-ballerina-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Dune Sneaker JJF Womens Shadow Green −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-dune-sneaker-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Warmlined Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-warmlined-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Womens Graphite −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-womens?colour=Graphite",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Womens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-womens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Womens Pebble −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-womens?colour=Pebble",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Womens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Womens Ultimate Grey −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-womens-aw22?colour=Ultimate+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Womens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-womens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG x Earthed Womens Black Iris −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-x-earthed-womens?colour=Black+Iris",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG Womens Flintstone −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-womens?colour=Flintstone",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra III Bloom Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iii-bloom-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra IV JJF Womens Shadow Green −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iv-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Womens Bright White −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-womens?colour=Bright+White",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Mid Leather Womens Dark Shadow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-mid-leather-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sock Boot Womens Obsidian −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Womens Arctic Wolf-Gum −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-womens?colour=Arctic+Wolf-Gum",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Womens Limestone −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Chelsea Womens Bark −40%",
+          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
+          "category": "sale"
+        },
+        {
+          "title": "Pilgrim Womens Dark Tan −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Geo Court III Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/geo-court-iii-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Preschool Flintstone −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-preschool?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Pre-School Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Preschool Safari −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-preschool?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Pre-School Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Utility Pre-School Midnight −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-utility-pre-school?colour=Midnight",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gaia Preschool Peach Melba −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gaia-preschool?colour=Peach+Melba",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Pre-School Umber −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-pre-school?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Preschool Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Preschool Electric Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-preschool?colour=Electric+Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Toddlers Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Toddlers Safari −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-toddlers?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Twilight Mauve −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Twilight+Mauve",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Toddlers Ombre −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-toddlers?colour=Ombre",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Toddlers Rose −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-toddlers?colour=Rose",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Toddlers Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG X Muddy Puddles Toddlers Grasshopper −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-x-muddy-puddles-toddlers?colour=Grasshopper",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Juniors Flintstone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-juniors?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Juniors Outer Space −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-juniors?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Juniors Auburn −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-juniors?colour=Auburn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Boot Juniors Limestone −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-juniors?colour=Limestone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Juniors Acorn −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-juniors?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Juniors Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Juniors Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-juniors-aw23?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Juniors Peyote −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-juniors?colour=Peyote",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra Bloom Kids Obsidian-White −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-kids-ss23?colour=Obsidian-White",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Kids Flintstone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-kids?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Kids Outer Space −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-kids?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Kids Obsidian −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Kids Stone −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-kids?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Deep Ocean −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Kids Umber −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Kids Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker AT Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Kids Peyote −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
         }
       ],
