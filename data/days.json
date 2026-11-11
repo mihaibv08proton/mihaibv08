@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-11-11T18:56:29+02:00",
+    "updatedAt": "2026-11-12T00:17:09+02:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -13,6 +13,867 @@
     ]
   },
   "days": [
+    {
+      "date": "2026-11-12",
+      "xPosts": [],
+      "cupoane": [
+        {
+          "title": "Gobi Wavey Mule Womens Obsidian −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Stone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Sizes limited on PDP (no size selected). Twilight Mauve listed separately at the same −40%.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Glacial Green −30%",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Glacial Green. Sizes limited on PDP. Deep Ocean listed separately at −40% (€82→€49).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Honey Gold −30%",
+          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Honey Gold. In stock (limited sizes).",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Preschool Stone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Skyway, Ombre and Apricot checked at full price €76.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Mens Dune −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-mens?colour=Dune",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Moc Lace Up Leather Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-moc-lace-up-leather-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Mens Triple Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-mens?colour=Triple+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Mens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-mens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Mens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-mens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Mens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-mens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Mens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-mens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Mens Obsidian-Cherry Tomato −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iv-all-weather-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Mens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-mens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Mens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-mens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Mens Obsidian −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Mens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Mens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Sandal Mens Glacier Grey −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-sandal-mens?colour=Glacier+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Mens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-mens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Mens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Mens Blue Tint −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-mens?colour=Blue+Tint",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Mens Moss −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-mens?colour=Moss",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-mens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Mens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-mens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Mens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-mens-aw22?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Mens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-mens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Mens Dark Shadow −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-mens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Mens Suede Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-mens?colour=Suede+Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Mens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Ora Sandal Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Leather Womens Sand-Fig −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-womens?colour=Sand-Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Knit Womens Eclipse −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-knit-womens?colour=Eclipse",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid II Womens Glacial Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-womens?colour=Glacial+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II Womens Dark Olive −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-womens?colour=Dark+Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Natural White −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens-aw25?colour=Natural+White",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid Womens Obsidian Leopard −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-womens?colour=Obsidian+Leopard",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail FG 3.5 Womens Insignia Blue −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-womens?colour=Insignia+Blue",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Flow Womens Dark Shadow −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-flow-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Natural Womens Fig −40%",
+          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-natural-womens?colour=Fig",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus II Grounding Womens Obsidian Cracked Leather −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-womens?colour=Obsidian+Cracked+Leather",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Sandal Womens Limestone −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-sandal-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Yin Slide Womens Skyway −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-yin-slide-womens?colour=Skyway",
+          "category": "sale"
+        },
+        {
+          "title": "Sensus Womens Limestone −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/sensus-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength II Womens Arctic Wolf −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-womens?colour=Arctic+Wolf",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Winter II SG Womens Tan −40%",
+          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-womens?colour=Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Low Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Leather AT Womens Bracken −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-womens?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Explorer Mid JJF Womens Shadow Green −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit JJF Womens Obsidian Camo −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-womens?colour=Obsidian+Camo",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Flex Womens Obsidian −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-flex-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Strength Womens Bright White-Grey −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-strength-womens?colour=Bright+White-Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Hydra ESC Womens Obsidian-Safety Yellow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/hydra-esc-womens?colour=Obsidian-Safety+Yellow",
+          "category": "sale"
+        },
+        {
+          "title": "Asana Yin Ballerina Knit Womens Obsidian −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/asana-yin-ballerina-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Dune Sneaker JJF Womens Shadow Green −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-dune-sneaker-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Warmlined Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-warmlined-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Hiber Womens Graphite −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-womens?colour=Graphite",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Womens Cherry Tomato −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-womens?colour=Cherry+Tomato",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail III All Weather FG Womens Pebble −40%",
+          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-womens?colour=Pebble",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite Knit Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT II JJF Womens Shadow Green −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Womens Ultimate Grey −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-womens-aw22?colour=Ultimate+Grey",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite III Womens Navy −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-womens-ss22?colour=Navy",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Trail Flow Mid Womens Obsidian −40%",
+          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG x Earthed Womens Black Iris −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-x-earthed-womens?colour=Black+Iris",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Lite WR SG Womens Flintstone −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-womens?colour=Flintstone",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra III Bloom Womens Obsidian −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iii-bloom-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra IV JJF Womens Shadow Green −40%",
+          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-iv-jjf-womens?colour=Shadow+Green",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Leather Womens Bright White −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-womens?colour=Bright+White",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Mid Leather Womens Dark Shadow −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-mid-leather-womens?colour=Dark+Shadow",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sock Boot Womens Obsidian −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Motus Studio Sneaker Womens Arctic Wolf-Gum −40%",
+          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-womens?colour=Arctic+Wolf-Gum",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi II Sneaker Premium Canvas Womens Ivory −40%",
+          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens?colour=Ivory",
+          "category": "sale"
+        },
+        {
+          "title": "Gobi Boot Womens Limestone −40%",
+          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-womens?colour=Limestone",
+          "category": "sale"
+        },
+        {
+          "title": "Pilgrim Womens Tan −40%",
+          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Tan",
+          "category": "sale"
+        },
+        {
+          "title": "Geo Court III Womens Obsidian −40%",
+          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/geo-court-iii-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra II Preschool Flintstone −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-preschool?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Pre-School Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Preschool Safari −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-preschool?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Pre-School Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-pre-school?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Utility Pre-School Midnight −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-utility-pre-school?colour=Midnight",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gaia Preschool Peach Melba −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gaia-preschool?colour=Peach+Melba",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Pre-School Umber −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-pre-school?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Preschool Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Preschool Obsidian −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-preschool?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Preschool Electric Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-preschool?colour=Electric+Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Toddlers Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Pluma Knit Toddlers Safari −40%",
+          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/pluma-knit-toddlers?colour=Safari",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Toddlers Twilight Mauve −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Twilight+Mauve",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Toddlers Ombre −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-toddlers?colour=Ombre",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi T Bar Toddlers Rose −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-toddlers?colour=Rose",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Toddlers Obsidian −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-toddlers?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG X Muddy Puddles Toddlers Grasshopper −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-x-muddy-puddles-toddlers?colour=Grasshopper",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Juniors Flintstone −39%",
+          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-juniors?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Juniors Outer Space −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-juniors?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker Boot AT Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Juniors Auburn −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-juniors?colour=Auburn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Boot Juniors Limestone −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-boot-juniors?colour=Limestone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Juniors Acorn −40%",
+          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-juniors?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Juniors Obsidian −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Juniors Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Wyn School Juniors Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/wyn-school-juniors-aw23?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Juniors Peyote −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-juniors?colour=Peyote",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Lumi FG Juniors Obsidian −40%",
+          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra Bloom Kids Obsidian-White −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-kids-ss23?colour=Obsidian-White",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Ultra II Kids Flintstone −40%",
+          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-ii-kids?colour=Flintstone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Explore AT Kids Outer Space −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/explore-at-kids?colour=Outer+Space",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport IV Kids Stone −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-kids?colour=Stone",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Sport III Kids Deep Ocean −40%",
+          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Gobi Hiber Kids Umber −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Winterised Kids Acorn −40%",
+          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-kids?colour=Acorn",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Animal-Free Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo Hi Kids Obsidian −40%",
+          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Ludo School Kids Obsidian −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Primus Trail Knit FG Kids Peyote −40%",
+          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
+          "category": "kids_sale"
+        }
+      ],
+      "gyh": []
+    },
     {
       "date": "2026-11-11",
       "xPosts": [],
@@ -571,17 +1432,10 @@
           "category": "sale"
         },
         {
-          "title": "Gobi Chelsea Womens Bark −40%",
-          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
-          "category": "sale"
-        },
-        {
-          "title": "Pilgrim Womens Dark Tan −40%",
+          "title": "Pilgrim Womens Tan −40%",
           "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Tan",
           "category": "sale"
         },
         {
@@ -869,13 +1723,6 @@
           "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker AT Kids Acorn −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
           "category": "kids_sale"
         },
         {
@@ -1454,17 +2301,10 @@
           "category": "sale"
         },
         {
-          "title": "Gobi Chelsea Womens Bark −40%",
-          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
-          "category": "sale"
-        },
-        {
-          "title": "Pilgrim Womens Dark Tan −40%",
+          "title": "Pilgrim Womens Tan −40%",
           "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
+          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Tan",
           "category": "sale"
         },
         {
@@ -1752,13 +2592,6 @@
           "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker AT Kids Acorn −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
           "category": "kids_sale"
         },
         {
@@ -1776,896 +2609,6 @@
           "summary": "**Mulțumire și mesajul inițial**\n• Autorul începe cu membrii, nu cu piața. Mulțumește pentru calmul din ultimele două săptămâni de scăderi dure.\n• Membrii nu au cedat și nu au vândut în pierdere la cel mai prost moment.\n• Joi, 5 noiembrie, a arătat profilul real de risc al fiecăruia. A fost confruntarea cu piața reală, nu cu graficele de pe YouTube.\n• Autorul vede două categorii de investitori în comunitate.\n• Prima categorie: portofolii agresive. Unele acțiuni au scăzut cu peste 50–60%. Acești investitori înțeleg companiile și momentumul. Nu au vrut să vândă poziții importante. Unii au cumpărat în această perioadă.\n• A doua categorie: investitori care au aflat că nu pot duce volatilitatea. Au cumpărat RKLB, ONDS, ASTS, NBIS, IREN sau LEU. Autorul spune că nu este o rușine, ci o informație despre ei.\n• Un portofoliu pe care nu îl poți ține în perioade grele nu produce rezultatul pentru care l-ai construit.\n\n**Reacția pieței (luni, 9 noiembrie)**\n• Wall Street a avut cea mai bună sesiune din aprilie. Recuperarea a venit din tehnologie și din companii mici.\n• S&P 500: 7.549,94 puncte, +2,35%.\n• Nasdaq Composite: 25.253,14 puncte, +2,74%.\n• Dow Jones: 52.389,75 puncte, +2,15%.\n• Russell 2000: 2.840,81 puncte, +3,15%.\n• Toate cele 11 sectoare ale S&P 500 au crescut. Russell 2000 a depășit indicii mari. Cumpărătorii au revenit și la companiile mici.\n• Catalizator: petrolul. Brent a scăzut cu circa 5,85%, la 92,57 USD pe baril. Președintele Trump a vorbit despre evitarea unor noi atacuri asupra Iranului. Discuțiile diplomatice continuă. Energia mai ieftină a redus temporar temerile de inflație.\n• Indicele semiconductorilor: circa +6,9%. NVDA a închis în scădere cu 4,2%, din cauza unei investigații interne despre posibile riscuri de securitate. Acuzațiile aflate în investigație nu sunt fapte demonstrate. Autorul nu trage nicio concluzie. Sectorul AI a recuperat fără Nvidia.\n• VIX: scădere de peste 22%, spre 20 de puncte, de la circa 25.\n• US10Y: circa 4,86–4,87%. US2Y: circa 4,54–4,55%. Diferența 10Y minus 2Y: circa +32 puncte de bază.\n• Randamentele nu au scăzut mult. Revenirea vine din reducerea temerilor geopolitice și din cumpărări după corecție. Nu vine dintr-o relaxare reală a condițiilor financiare.\n• Politică SUA: autorul menționează anomalii în alegerile din SUA. Mai multe departamente de stat au început să descopere fraude. Rezultatele din câteva state se pot întoarce în favoarea Republicanilor. În Texas sunt voci care o contestă pe Hinojosa, aflată în conflict politic cu Musk. Cei care suferă sunt oamenii din Texas, care pot rămâne fără locuri de muncă.\n\n**Calendar și macro (marți, 10 noiembrie, ora României)**\n• Ora 15:30: inflația CPI pentru octombrie (Bureau of Labor Statistics). Wall Street se deschide la 16:30.\n• Ora 20:00: licitație Treasury pe 10 ani.\n• Ora 00:00 miercuri: conferința CoreWeave pe rezultatele trimestriale.\n• Vineri, NFP: 165.000 de locuri de muncă noi, față de circa 65.000 consens. Șomajul: 4,1%.\n• Piața dă circa 80–85% probabilitate pentru o majorare a dobânzii Fed în decembrie. Este o probabilitate implicită de piață, nu o decizie oficială.\n• Scenariul 1: CPI sub consens. Randamentele Treasury pot scădea. Este favorabil companiilor Growth.\n• Scenariul 2: CPI conform consensului. Volatilitate inițială, apoi selecție. Piața poate continua consolidarea.\n• Scenariul 3: CPI peste consens. Cresc randamentele și VIX. Presiunea revine pe evaluările din AI.\n• Pentru Oracle, Nebius și IREN, reacția obligațiunilor poate conta cât cifra CPI.\n• Autorul nu recomandă anticiparea agresivă a CPI prin creșterea expunerii. Observă cifra și reacția pieței. Cifra poate ieși bine și piața poate cădea oricum, sau invers.\n\n**SpaceX (SPCX)**\n• SPCX a recuperat 5,81%. Rămâne una dintre prioritățile investiționale ale autorului.\n• Închidere: 142,07 USD. Volum: 103,48 milioane de acțiuni.\n• Autorul vede orice scenariu ca favorabil pentru SpaceX:\n• Restricții mai dure la exporturile Nvidia către China: mai multe cipuri rămân disponibile pentru SpaceX.\n• Democrații câștigă: autorizațiile sunt mai grele pentru toți. SpaceX are propria energie și propriile turbine.\n• Blocaj în centrele de date: centrele SpaceX sunt deja în construcție. Cererea rămâne. Prețurile puterii de calcul cresc.\n• Prea multe centre de date pe Pământ: doar SpaceX le poate duce în spațiu.\n• Puterea de calcul devine ieftină: costurile de operare pentru Grok Bot scad, iar cererea explodează.\n• Puterea de calcul rămâne scumpă: Google plătește deja SpaceX 920 de milioane USD pe lună.\n• Se sparge bula AI: SpaceX are cu 51 de miliarde USD mai mult numerar decât datorii. Poate cumpăra GPU-uri la preț de lichidare.\n• Anthropic se retrage din înțelegere: Grok Bot preia puterea de calcul rămasă.\n• Criză de energie: soarele este gratuit pe orbită. Criză de cipuri: Terafab. Dobânzi mai mari: 51 de miliarde USD numerar net. Recesiune: Starlink nu se taie. Război: Starshield. Buget NASA redus: doar SpaceX asigură misiuni pe Lună cu buget limitat.\n• Starship explodează: are 33 de motoare, mai multe date și următorul zbor vine mai repede. Prețul scade: primești mai multe acțiuni pentru aceeași sumă.\n• Nivel tehnic: suport 135,37–136,51 USD (minimul și deschiderea sesiunii). Prima rezistență: maximul de 143,20 USD.\n• Depășirea 143,20 USD cu volume consistente este semnal favorabil. Pierderea suportului arată slăbirea recuperării.\n• Fundamental: Starlink, lansări, contracte comerciale și guvernamentale, investiții în infrastructură, generare de numerar.\n\n**Portofoliu: infrastructura AI**\n• Oracle (ORCL): închidere 119,79 USD, +3,18%. Interval 114,91–120,26 USD. Volum circa 27,75 milioane. Capitalizare circa 373,5 mld. USD. P/E istoric circa 18,8. Valoarea companiei circa 505,5 mld. USD.\n• ORCL, niveluri: suport apropiat 114,91; suport inferior 109,21 (minim recent verificat); rezistență imediată 120,26 USD.\n• Oracle investește masiv în OCI. Autorul urmărește veniturile cloud, conversia contractelor, investițiile în centre de date, datoria și fluxul de numerar liber. Întrebarea: extinderea AI justifică finanțarea, la dobânzi mari?\n• Vertiv (VRT): închidere 200,43 USD, +9,61%. Interval 188,01–203,30 USD. Autorul nu atribuie creșterea unui singur catalizator fără confirmare.\n• VRT: capitalizare circa 77,2 mld. USD. P/E istoric circa 37,5. P/E forward circa 21,7. Venituri pe 12 luni circa 13,1 mld. USD.\n• VRT, niveluri: suport 188,01; rezistență 203,30 USD. Depășirea maximului sesiunii este constructivă. Revenirea sub 188 USD arată pierderea impulsului.\n• AMD: închidere 508,58 USD, +13,26%. Interval 468,21–515,18 USD. Volatilitatea rămâne ridicată.\n• AMD: autorul urmărește menținerea peste 468 USD și depășirea maximului de 515,18 USD. Fundamental: veniturile Data Center, marjele, competitivitatea acceleratoarelor AI.\n• Broadcom (AVGO): componentă importantă a expunerii AI. Urmărește comenzile, marjele, integrarea software și numerarul. Autorul nu dă variație zilnică fără cotație finală verificată.\n• Nebius (NBIS): închidere 141,57 USD, +9,33%. Maxim 143,39. Minim 128,51 USD. Poziție sensibilă la investițiile AI. Finanțarea, ritmul construcției și marjele contează.\n• Raportarea NBIS este indicată pentru 12 noiembrie, nu pentru seara de 9 noiembrie.\n• Restul portofoliului: monitorizare obișnuită. Tesla: autonomie, energie, robotică, marje. Meta: cheltuieli AI față de numerarul din publicitate. SoFi și Robinhood: dobânzi, activitatea investitorilor, apetit pentru risc. IREN: investiții AI, finanțare, diluare. Ondas: contracte, comenzi, conversia în venituri. Centrus Energy: infrastructura nucleară și cererea de combustibil.\n\n**Rocket Lab (RKLB), trimestrul 3**\n• Venituri: 267,8 mil. USD, +73% anual, circa +14,5% trimestrial. Consens circa 257 mil. USD.\n• Pierdere netă GAAP: 79,7 mil. USD. EPS GAAP: −0,12 USD. Pierderea ajustată pe acțiune a fost mai mare decât estimarea de circa 0,07 USD.\n• Marjă brută GAAP: circa 33,6%. Cash flow operațional trimestrial: +7,2 mil. USD. Cash: 4,45 mld. USD. Backlog: 3,57 mld. USD, +52% față de trimestrul anterior.\n• Aproape 1 mld. USD contracte noi de lansare. Total 117 lansări contractate. Neutron: 16 misiuni contractate, peste 515 mil. USD în contractele semnate în trimestru. Prețul de bază al unei lansări Neutron: 70 mil. USD pentru unele misiuni.\n• Prima lansare Neutron: cel mai devreme în 2027. Amânarea este risc pentru calendarul veniturilor și pentru încredere.\n• Ghidaj trimestrul 4: venituri 270–290 mil. USD; marjă brută GAAP 34–36%; marjă brută ajustată 39–41%; pierdere EBITDA ajustată 14–20 mil. USD.\n• RKLB: închidere 58,86 USD, +10,91%. After-hours circa 54,99 USD (circa −6,6%). Este cotație after-hours, nu preț final.\n• Concluzie: creștere comercială și backlog solide. Pierderea netă, cheltuielile și amânarea Neutron explică reacția negativă. Autorul urmărește conversia contractelor în venituri și respectarea calendarului Neutron.\n\n**AST SpaceMobile (ASTS), trimestrul 3**\n• Venituri: 42,32 mil. USD, +187% anual, circa +34% trimestrial.\n• Pierdere atribuită acționarilor ordinari: 132,38 mil. USD. EPS GAAP: −0,44 USD (estimare 0,45). Cheltuieli operaționale: 211 mil. USD. Cash: circa 3,2 mld. USD. Veniturile au fost sub consensul de circa 46 mil. USD.\n• Ghidaj venituri 2026: 150–200 mil. USD.\n• Pe nouă luni: cash operațional utilizat circa 314,5 mil. USD. Achiziții de proprietăți și echipamente circa 1,15 mld. USD. Cifrele sunt cumulative.\n• Operațional: obiectiv de venituri reconfirmat. Servicii intermitente în piețele prioritare înainte de finalul anului. Acorduri de lansare pentru peste 100 de sateliți BlueBird în 2027–2028. Racheta proprie Blacklift: prima lansare spre finalul lui 2028. Mecanism de finanțare de circa 1 mld. USD pentru proiecte din Japonia, fără diluare.\n• ASTS: închidere 36,89 USD, +14,10%. After-hours circa 36,62 USD (−0,74%).\n• Riscul principal pentru investitori: financiar și operațional, nu doar tehnologic. Profitabilitatea depinde de lansări, servicii și monetizarea rețelei.\n\n**Filozofie: marea triere a pieței**\n• Multe povești despre «puncte critice», «noduri strategice» și acțiuni care cresc cu 10.000% au fost aberații. Autorul citează OKLO, RGTI, AAOI și Intel. Creșterile bazate pe avântul pieței au făcut faimoase unele persoane.\n• Majoritatea au fost acțiuni speculative bazate pe trenduri. Regula: te bucuri de creștere, încasezi profitul și ieși când trendul se rupe.\n• Pe măsură ce prețul crește, toți devin experți, țintele devin absurde. Apoi acțiunile cad cu 60%, 70%, 80%. Apoi apar scuzele: «prețul meu mediu e mai jos», «mi-am luat profitul», «e doar o poziție mică», «țin pe termen lung».\n• Autorul recunoaște că unele afirmații pot fi adevărate. Exemplu: situația lui cu Ondas, după ce a înțeles ce dezvoltă compania și câte companii a cumpărat.\n• Nu confunda o tranzacție reușită cu o investiție excelentă. ALAB sau CREDO au crescut cu 300%. Asta nu le face acțiuni de ținut 10 ani. Marchează profitul.\n• Faza de «curățenie» este probabil mult mai avansată decât cred oamenii. Multe acțiuni neprofitabile au scăzut cu 60–80% și poate nu își vor reveni.\n• Piața separă afacerile care merită capital de companiile care au profitat de lichiditate și entuziasm. Nu pot exista 500 de companii care să devină următorul mare câștigător AI.\n• Rolul investitorului pe termen lung s-a schimbat. Nu întreba «ce acțiune crește cu 500%». Întreabă «ce afaceri merită deținute după ce entuziasmul dispare».\n• Caută: calitate, venituri reale, câștiguri reale, bilanțuri solide, afaceri eficiente. Caută companii cu 30–40% sub maxime, dar cu activitatea de bază intactă. Exemplu: Vertiv, cumpărată la prețuri foarte joase.\n• Panica există pe piață și va mai exista. În acest moment un investitor cu strategie riguroasă ar trebui să devină atent.\n• Autorul preferă companii consacrate, cu capitalizare medie sau mare. Nu caută micro-companii prăbușite cu 80%. Nu dă listă de acțiuni aici, pentru că lista este pe Kajabi. Dă cadrul de analiză.\n• Următorul câștig vine din identificarea afacerilor care au meritat entuziasmul de la început.\n\n**Concluzie**\n• Prioritatea zilei: CPI la 15:30.\n• Nivele S&P 500: 7.549,94 (primul nivel pentru menținerea impulsului); zona 7.376–7.354 (reper inferior important).\n• Nivele Nasdaq: 25.253,14 (referință imediată); zona 24.579–24.315 (închiderile dinaintea recuperării).\n• Sunt repere din cotații verificate, nu niveluri garantate.\n• Autorul rămâne constructiv pe tehnologie pe termen lung. Două sesiuni pozitive nu încheie corecția. AMD +13%, Nebius +9%, Vertiv aproape +10% și Russell 2000 +3% sunt evoluții încurajatoare, nu garanții.\n• Rocket Lab și ASTS arată că prețul și fundamentul pot transmite mesaje diferite pe termen scurt.\n• Deviza: încredere în proces, disciplină în execuție, protejarea capitalului înaintea oricărei oportunități.\n• Autorul felicită membrii. Următoarea întâlnire: video săptămânal și raportarea CPI.",
           "recommendations": "• Investitori cu portofolii agresive care duc volatilitatea: continuați exact așa.\n• Investitori care nu pot duce volatilitatea (RKLB, ONDS, ASTS, NBIS, IREN, LEU): pe o revenire a prețurilor, rebalansați o parte din expunere către companii consacrate. Exemple: Google, Amazon, Vistra, Walmart, NVIDIA, Apple.\n• Nu vindeți tot. Nu faceți mișcări bruște. Aduceți portofoliul la un nivel de volatilitate suportabil.\n• Nu anticipați agresiv CPI prin creșterea expunerii înaintea publicării. Observați cifra și reacția pieței.\n• Înainte de CPI: fără creșteri impulsive ale expunerii. Fără utilizarea excesivă a marjei. Atenție la concentrarea în companii dependente de investițiile AI.\n• SPCX: rămâne prioritate investițională. Urmăriți suportul 135,37–136,51 USD și rezistența 143,20 USD. Depășirea 143,20 USD cu volume este semnal favorabil. Pierderea suportului slăbește recuperarea.\n• ORCL: suport 114,91 și 109,21 USD; rezistență 120,26 USD. Urmăriți veniturile cloud, datoria și fluxul de numerar liber.\n• VRT: suport 188,01 USD; rezistență 203,30 USD. Sub 188 USD impulsul slăbește.\n• AMD: urmăriți menținerea peste 468 USD și depășirea 515,18 USD.\n• RKLB: urmăriți conversia contractelor în venituri și calendarul Neutron (2027). ASTS: riscul este financiar și operațional.\n• Profit pe acțiunile speculative: când trendul se rupe, marchează profitul și ieși. Nu confunda o tranzacție reușită cu o investiție excelentă.\n• Pe termen lung, caută calitate: venituri reale, câștiguri reale, bilanțuri solide, companii cu 30–40% sub maxime cu activitatea de bază intactă.\n• Preferă companii consacrate, cu capitalizare medie sau mare. Nu căuta micro-companii prăbușite cu 80% doar pentru preț.\n• Întreabă «ce afaceri merită deținute după ce entuziasmul a dispărut», nu «ce acțiune crește cu 500%».\n• Nivele de urmărit: S&P 500 7.549,94 (impuls) și 7.376–7.354 (reper inferior); Nasdaq 25.253,14 și 24.579–24.315. Nu sunt niveluri garantate.\n• Calendar: CPI marți 15:30; licitație Treasury 10 ani la 20:00; CoreWeave miercuri 00:00; NBIS pe 12 noiembrie.\n• Nu declara corecția încheiată după două sesiuni pozitive.\n• Mesaj final: încredere în proces, disciplină în execuție, protejarea capitalului înaintea oricărei oportunități.",
           "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789219"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "xPosts": [],
-      "cupoane": [
-        {
-          "title": "Gobi Wavey Mule Womens Obsidian −40%",
-          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-wavey-mule-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers Stone −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Sizes limited on PDP (no size selected). Twilight Mauve listed separately at the same −40%.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Stone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Kids Glacial Green −30%",
-          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Glacial Green. Sizes limited on PDP. Deep Ocean listed separately at −40% (€82→€49).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Glacial+Green",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Kids Honey Gold −30%",
-          "text": "Was €82 / now €57 (−30%). Automatic sale price on vivobarefoot.com/eu, colour Honey Gold. In stock (limited sizes).",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Honey+Gold",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Preschool Stone −39%",
-          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu, colour Stone. Skyway, Ombre and Apricot checked at full price €76.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-preschool?colour=Stone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker Ora Sandal Mens Dune −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-mens?colour=Dune",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus Moc Lace Up Leather Mens Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-moc-lace-up-leather-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Leather Mens Triple Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-mens?colour=Triple+Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Strength II Mens Arctic Wolf −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-mens?colour=Arctic+Wolf",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Mid II Mens Glacial Green −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-mens?colour=Glacial+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Textile AT II Mens Dark Olive −40%",
-          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-mens?colour=Dark+Olive",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Premium Canvas Mens Natural White −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens-aw25?colour=Natural+White",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail FG 3.5 Mens Insignia Blue −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-mens?colour=Insignia+Blue",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Flow Mens Obsidian-Cherry Tomato −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite 3.5 Mens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-iv-all-weather-mens?colour=Dark+Shadow",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus II Grounding Mens Obsidian Cracked Leather −40%",
-          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-mens?colour=Obsidian+Cracked+Leather",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus Mens Limestone −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-mens?colour=Limestone",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Winter II SG Mens Obsidian −40%",
-          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Textile AT Mens Obsidian −40%",
-          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Leather AT Low Mens Obsidian −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Sandal Mens Glacier Grey −40%",
-          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-sandal-mens?colour=Glacier+Grey",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite Knit JJF Mens Obsidian Camo −40%",
-          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-mens?colour=Obsidian+Camo",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Flex Mens Obsidian −40%",
-          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-flex-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Strength Mens Blue Tint −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-strength-mens?colour=Blue+Tint",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Mens Cherry Tomato −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mens?colour=Cherry+Tomato",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail III All Weather FG Mens Moss −40%",
-          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-mens?colour=Moss",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite Knit Mens Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Textile AT II JJF Mens Shadow Green −40%",
-          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-mens?colour=Shadow+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Knit FG Mens Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-mens-aw22?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite III Mens Navy −40%",
-          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-mens-ss22?colour=Navy",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Mid Mens Dark Shadow −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-mens?colour=Dark+Shadow",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Studio Sneaker Leather Mens Suede Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-mens?colour=Suede+Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Premium Canvas Mens Ivory −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-mens?colour=Ivory",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Ora Sandal Womens Skyway −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-ora-sandal-womens?colour=Skyway",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Leather Womens Sand-Fig −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-leather-womens?colour=Sand-Fig",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Flow Knit Womens Eclipse −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-flow-knit-womens?colour=Eclipse",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Mid II Womens Glacial Green −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-ii-womens?colour=Glacial+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Textile AT II Womens Dark Olive −40%",
-          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-womens?colour=Dark+Olive",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Premium Canvas Womens Natural White −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens-aw25?colour=Natural+White",
-          "category": "sale"
-        },
-        {
-          "title": "Explorer Mid Womens Obsidian Leopard −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/explorer-mid-womens?colour=Obsidian+Leopard",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail FG 3.5 Womens Insignia Blue −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-fg-3-5-womens?colour=Insignia+Blue",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Flow Womens Dark Shadow −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-flow-womens?colour=Dark+Shadow",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite Knit Natural Womens Fig −40%",
-          "text": "Was €150 / now €90 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-natural-womens?colour=Fig",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite 3.5 Womens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus II Grounding Womens Obsidian Cracked Leather −40%",
-          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-ii-grounding-womens?colour=Obsidian+Cracked+Leather",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus Yin Sandal Womens Limestone −40%",
-          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-yin-sandal-womens?colour=Limestone",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus Yin Slide Womens Skyway −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-yin-slide-womens?colour=Skyway",
-          "category": "sale"
-        },
-        {
-          "title": "Sensus Womens Limestone −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/sensus-womens?colour=Limestone",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Strength II Womens Arctic Wolf −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-strength-ii-womens?colour=Arctic+Wolf",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Winter II SG Womens Tan −40%",
-          "text": "Was €250 / now €150 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-winter-ii-sg-womens?colour=Tan",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Leather AT Low Womens Obsidian −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-low-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Leather AT Womens Bracken −40%",
-          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-leather-at-womens?colour=Bracken",
-          "category": "sale"
-        },
-        {
-          "title": "Explorer Mid JJF Womens Shadow Green −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-womens?colour=Shadow+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite Knit JJF Womens Obsidian Camo −40%",
-          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-jjf-womens?colour=Obsidian+Camo",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Flex Womens Obsidian −40%",
-          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-flex-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Strength Womens Bright White-Grey −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-strength-womens?colour=Bright+White-Grey",
-          "category": "sale"
-        },
-        {
-          "title": "Hydra ESC Womens Obsidian-Safety Yellow −40%",
-          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/hydra-esc-womens?colour=Obsidian-Safety+Yellow",
-          "category": "sale"
-        },
-        {
-          "title": "Asana Yin Ballerina Knit Womens Obsidian −40%",
-          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/asana-yin-ballerina-knit-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Dune Sneaker JJF Womens Shadow Green −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-dune-sneaker-jjf-womens?colour=Shadow+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Boot Warmlined Womens Obsidian −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-boot-warmlined-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Hiber Womens Graphite −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-womens?colour=Graphite",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Womens Cherry Tomato −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-womens?colour=Cherry+Tomato",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail III All Weather FG Womens Pebble −40%",
-          "text": "Was €145 / now €87 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-iii-all-weather-fg-womens?colour=Pebble",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite Knit Womens Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-knit-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Tracker Textile AT II JJF Womens Shadow Green −40%",
-          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-ii-jjf-womens?colour=Shadow+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Knit FG Womens Ultimate Grey −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-womens-aw22?colour=Ultimate+Grey",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite III Womens Navy −40%",
-          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-iii-womens-ss22?colour=Navy",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Flow Mid Womens Obsidian −40%",
-          "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-flow-mid-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Magna Lite WR SG x Earthed Womens Black Iris −40%",
-          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-x-earthed-womens?colour=Black+Iris",
-          "category": "sale"
-        },
-        {
-          "title": "Magna Lite WR SG Womens Flintstone −40%",
-          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/magna-lite-wr-sg-womens?colour=Flintstone",
-          "category": "sale"
-        },
-        {
-          "title": "Ultra III Bloom Womens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-iii-bloom-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Ultra IV JJF Womens Shadow Green −40%",
-          "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-iv-jjf-womens?colour=Shadow+Green",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Studio Sneaker Leather Womens Bright White −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-leather-womens?colour=Bright+White",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Studio Mid Leather Womens Dark Shadow −40%",
-          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-mid-leather-womens?colour=Dark+Shadow",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Studio Sock Boot Womens Obsidian −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sock-boot-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Motus Studio Sneaker Womens Arctic Wolf-Gum −40%",
-          "text": "Was €140 / now €84 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/motus-studio-sneaker-womens?colour=Arctic+Wolf-Gum",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi II Sneaker Premium Canvas Womens Ivory −40%",
-          "text": "Was €170 / now €102 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-ii-sneaker-premium-canvas-womens?colour=Ivory",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Boot Womens Limestone −40%",
-          "text": "Was €180 / now €108 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-boot-womens?colour=Limestone",
-          "category": "sale"
-        },
-        {
-          "title": "Gobi Chelsea Womens Bark −40%",
-          "text": "Was €185 / now €111 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-chelsea-womens?colour=Bark",
-          "category": "sale"
-        },
-        {
-          "title": "Pilgrim Womens Dark Tan −40%",
-          "text": "Was €220 / now €132 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/pilgrim-womens?colour=Dark+Tan",
-          "category": "sale"
-        },
-        {
-          "title": "Geo Court III Womens Obsidian −40%",
-          "text": "Was €160 / now €96 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/geo-court-iii-womens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Ultra II Preschool Flintstone −41%",
-          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-ii-preschool?colour=Flintstone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker Boot AT Pre-School Obsidian −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-pre-school?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Pluma Knit Preschool Safari −41%",
-          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/pluma-knit-preschool?colour=Safari",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Pre-School Obsidian −39%",
-          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-pre-school?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Utility Pre-School Midnight −39%",
-          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-utility-pre-school?colour=Midnight",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gaia Preschool Peach Melba −40%",
-          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gaia-preschool?colour=Peach+Melba",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Hiber Pre-School Umber −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-pre-school?colour=Umber",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Animal-Free Preschool Obsidian −40%",
-          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-preschool?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Preschool Obsidian −40%",
-          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-preschool?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Wyn School Preschool Obsidian −39%",
-          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/wyn-school-preschool?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Lumi FG Preschool Electric Obsidian −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-preschool?colour=Electric+Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker Boot AT Toddlers Obsidian −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-toddlers?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Pluma Knit Toddlers Safari −40%",
-          "text": "Was €60 / now €36 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/pluma-knit-toddlers?colour=Safari",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Toddlers Twilight Mauve −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-toddlers?colour=Twilight+Mauve",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Toddlers Ombre −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-toddlers?colour=Ombre",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi T Bar Toddlers Rose −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-t-bar-toddlers?colour=Rose",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo Hi Toddlers Obsidian −40%",
-          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-toddlers?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Lumi FG X Muddy Puddles Toddlers Grasshopper −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-x-muddy-puddles-toddlers?colour=Grasshopper",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Ultra II Juniors Flintstone −39%",
-          "text": "Was €76 / now €46 (−39%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-ii-juniors?colour=Flintstone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Explore AT Juniors Outer Space −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/explore-at-juniors?colour=Outer+Space",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker Boot AT Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Juniors Auburn −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-juniors?colour=Auburn",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Boot Juniors Limestone −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-boot-juniors?colour=Limestone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo Hi Winterised Juniors Acorn −40%",
-          "text": "Was €106 / now €64 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-juniors?colour=Acorn",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Animal-Free Juniors Obsidian −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo Hi Juniors Obsidian −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Juniors Obsidian −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Wyn School Juniors Obsidian −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/wyn-school-juniors-aw23?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Trail Knit FG Juniors Peyote −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-juniors?colour=Peyote",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Lumi FG Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Ultra Bloom Kids Obsidian-White −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-kids-ss23?colour=Obsidian-White",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Ultra II Kids Flintstone −40%",
-          "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/ultra-ii-kids?colour=Flintstone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Explore AT Kids Outer Space −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/explore-at-kids?colour=Outer+Space",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport IV Kids Stone −40%",
-          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iv-kids?colour=Stone",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Sport III Kids Deep Ocean −40%",
-          "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Hiber Kids Umber −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo Hi Winterised Kids Acorn −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-winterised-kids?colour=Acorn",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Animal-Free Kids Obsidian −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-animal-free-kids?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo Hi Kids Obsidian −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-hi-kids?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Ludo School Kids Obsidian −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-ludo-school-kids?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Tracker AT Kids Acorn −40%",
-          "text": "Was €100 / now €60 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-at-kids?colour=Acorn",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Primus Trail Knit FG Kids Peyote −40%",
-          "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
-          "category": "kids_sale"
-        }
-      ],
-      "gyh": [
-        {
-          "title": "09.11.2026 Increderea in proces se vede mai ales in peroade dificile",
-          "date": "09.11.2026",
-          "summary": "**Mesajul principal**\n• Autorul vrea să înceapă săptămâna cu o discuție onestă despre scăderile pieței.\n• În spatele fiecărui portofoliu sunt ani de muncă și economii. Cifrele de pe ecran contează pentru siguranța familiei.\n• Autorul nu spune doar «aveți răbdare». El rămâne alături de membri și își păstrează încrederea în investițiile pe termen lung, fără să ignore riscurile.\n• Încrederea în procesul GrowYourWealth nu depinde de o singură săptămână bursieră. Ea se bazează pe analiza companiilor, perspectivele lor, prețul plătit și administrarea riscului.\n• Încrederea nu înseamnă certitudine. Înseamnă un mod de a decide când nu poți anticipa piața.\n\n**Istoria**\n• Piața americană a trecut prin crize și recesiuni. Marile scăderi ale indicilor largi au fost recuperate. Unele reveniri au fost spectaculoase.\n• Exemplu: finalul dificil din 2018 a fost urmat de o revenire amplă în 2019. În alte episoade, recuperarea a cerut ani.\n• Sentimentul de azi nu descrie neapărat perspectivele următorilor ani. Revenirea poate începe înainte ca știrile să devină liniștitoare.\n• Revenirea unui indice diversificat nu garantează recuperarea fiecărei acțiuni. Indicii își schimbă componența.\n\n**Prețul acțiunii și afacerea**\n• Pe termen scurt, cotațiile depind de dobânzi, lichiditate, fluxuri instituționale, știri și așteptări.\n• O companie poate crește bine, iar acțiunea poate scădea. Creșterea afacerii nu garantează randament bun pentru acționar.\n• O companie excelentă poate fi investiție dificilă dacă prețul presupune deja rezultate aproape perfecte.\n• În AI, infrastructura energetică, autonomie și tehnologie spațială riscurile sunt: necesar de capital, competiție dură, riscuri de execuție, diluare.\n• Un contract nu este numerar încasat. Veniturile mai mari nu înseamnă profitabilitate. Dezvoltarea unei industrii nu garantează succesul fiecărui participant.\n• Întrebarea corectă: «ce s-a schimbat în afacere și ce justifică evaluarea actuală?».\n\n**Răbdarea nu înseamnă să păstrăm orice**\n• Autorul nu cere să cumperi orice scădere sau să păstrezi o companie indiferent de informațiile noi.\n• Volatilitatea nu este pierdere permanentă de capital. Pierderea permanentă vine din deteriorarea competitivității, datorii nesustenabile sau finanțare nefavorabilă.\n• Încrederea într-o investiție trebuie explicată fără expresia «își va reveni».\n• Schimbarea opiniei când se schimbă faptele înseamnă consecvență cu procesul.\n\n**Cinci lucruri concrete (autorul)**\n• 1. Protejează libertatea de a investi pe termen lung: separă banii pentru cheltuieli apropiate și neprevăzute de capitalul expus bursei. Exemple: divorț, sănătate, pierderea locului de muncă; autorul dă și o poveste din weekend despre tineri arestați pentru droguri și bunuri puse sub sechestru.\n• 2. Verifică concentrarea reală a portofoliului. Cipurile, furnizorii de infrastructură și centrele de date pot depinde de aceleași investiții în AI. Levierul poate forța vânzarea la momentul nepotrivit.\n• 3. Scrie motivele pentru care deții fiecare companie: de ce o deții, ce trebuie să demonstreze, ce îți invalidează teza.\n• 4. Nu confunda disconfortul cu informație nouă. Întreabă: s-a schimbat ceva în afacere sau reacționez la preț? Decizia îmbunătățește portofoliul sau îmi liniștește neliniștea câteva ore?\n• 5. Protejează-ți atenția. Nu verifica cotațiile continuu. Urmărește rezultatele și comunicările relevante.\n\n**Calendar 9–13 noiembrie 2026 (ora României)**\n• Săptămâna 9–13 noiembrie testează încrederea pieței. Pot veni mișcări puternice în ambele direcții.\n• Trezoreria SUA răscumpără datorie proprie de până la 95 mld. USD în următoarele 3 luni. Asta aduce lichiditate nouă. Efectul este favorabil.\n• Bursa americană regulată: 16:30–23:00.\n• Luni 9.11, 20:00: licitație Treasury 3 ani. După închidere: Rocket Lab (RKLB) și actualizarea AST SpaceMobile, conferințe la 00:00 (marți în România).\n• Marți 10.11, 15:30: CPI octombrie. 20:00: licitație Treasury 10 ani. Marți seara SUA / miercuri 00:00 România: conferința CoreWeave.\n• Miercuri 11.11: Veterans Day. Bursa de acțiuni este deschisă. SIFMA recomandă închiderea pieței de obligațiuni.\n• Joi 12.11: Nebius, înainte de deschidere (conferință 15:00). 15:30: cereri șomaj și rezultate/conferință Ondas. 20:00: licitație Treasury 30 ani. 23:30: conferințe Cisco și Applied Materials.\n• Vineri 13.11, 15:30: PPI octombrie.\n• Nu este ședință FOMC săptămâna aceasta. Următoarea: 8–9 decembrie.\n\n**CPI și obligațiuni**\n• Consens Bloomberg pentru CPI: +0,3% lunar la indicele general și +0,2% la indicele de bază. Sunt estimări, nu rezultate.\n• Autorul urmărește dacă temperarea este doar în energie sau și în servicii, locuințe și bunuri. O ameliorare largă ar reduce presiunea asupra dobânzilor.\n• Mecanism: inflația schimbă așteptările despre Fed, apoi randamentele, apoi valoarea profiturilor viitoare. Companiile cu profituri îndepărtate sunt cele mai sensibile.\n• Randamente mai mici nu sunt automat veste bună. Dacă scad pentru că inflația se temperează fără deteriorarea economiei, acțiunile sunt susținute. Dacă scad pe frica de recesiune, beneficiul poate fi anulat de reducerea estimărilor de profit.\n• Marți CPI (15:30) și licitația pe 10 ani (20:00) se suprapun. O licitație slabă poate inversa o parte din mișcarea favorabilă.\n• Autorul urmărește prețul de adjudecare față de piață, participarea cumpărătorilor și partea rămasă dealerilor, comparat cu licitațiile precedente.\n• Miercuri acțiunile se tranzacționează, dar piața obligațiunilor are închidere recomandată. Mișcarea Nasdaq nu are confirmare simultană din Treasury.\n• Joi: șomajul se judecă pe tendință și revizuiri. Vineri: PPI arată presiunile la producători, nu inflația consumatorului.\n\n**Infrastructura AI**\n• CoreWeave: autorul nu se oprește la venituri sau contracte anunțate. Urmărește capacitatea disponibilă clienților, investițiile, costul datoriei și conversia contractelor în încasări.\n• Nebius și IREN: cât din dezvoltare se finanțează din numerar propriu și angajamente ale clienților, și cât cere finanțare suplimentară.\n• Nebius: separă capacitatea planificată, instalată și cea care produce venituri. Urmărește energia, livrarea echipamentelor, gradul de utilizare, finanțarea.\n• Un indicator anualizat al veniturilor nu este venit recunoscut sau numerar încasat.\n• Cisco: indicii despre comenzile de echipamente de rețea pentru AI. Broadcom: ritmul livrărilor și marje. Cererea sectorială nu implică aceeași evoluție pentru fiecare furnizor.\n• Applied Materials: semnale despre investițiile producătorilor de semiconductori, memoria avansată, tehnologii de fabricație. Pentru AMD și Broadcom este perspectivă asupra lanțului, nu confirmare a vânzărilor lor. Contează restricțiile comerciale.\n\n**Spațiu și sisteme autonome**\n• Rocket Lab (RKLB): luni după închidere, conferință marți 00:00. Urmărește lansările, marjele, conversia comenzilor în venituri, progresul Neutron, bugetul și calendarul.\n• AST SpaceMobile (ASTS): actualizare în aceeași seară. Urmărește producția și desfășurarea sateliților, testarea, autorizările, activarea comercială, lichiditatea. Acordurile preliminare, contractele definitive și veniturile recunoscute se analizează separat.\n• Ondas (ONDS): conferință joi 15:30. Separă creșterea organică de achiziții. Urmărește livrările, încasările, marja brută, consumul de numerar și rezultatul pe acțiune.\n\n**Riscuri fără oră fixă**\n• Tensiunile SUA–Iran și incidentele maritime cer atenție și disciplină. Conform Reuters din 8 noiembrie, unele incidente nu au fost confirmate independent. Declarațiile nu sunt fapte militare verificate.\n• Mecanism: o perturbare a transportului ridică petrolul, costurile logistice și anticipațiile de inflație. Asta complică un CPI altfel favorabil.\n• Progresul diplomatic poate reduce prima de risc. Declarațiile se disting de normalizarea efectivă a fluxurilor.\n• Urmărește anunțuri americane privind politica comercială, exporturile de tehnologie și infrastructura energetică. Sunt riscuri de monitorizat, nu decizii așteptate. O declarație politică nu este o măsură adoptată.\n\n**Trei scenarii**\n• Favorabil: inflația se temperează, piața muncii nu cedează, licitațiile merg bine, raportările confirmă monetizarea. Revenirea este solidă dacă participă mai multe companii și sectoare.\n• Intermediar: date amestecate, randamente oscilante. Selecția contează mai mult decât indicele. Piața recompensează execuția și finanțarea solidă.\n• Advers: inflație peste așteptări, energie mai scumpă, licitații slabe, investiții mai rapide decât monetizarea. Presiune pe evaluări, estimări reduse, finanțare mai scumpă.\n• Indicatori de urmărit: randamentele SUA la 2, 10 și 30 ani; diferența 10 ani minus 2 ani; dolarul și petrolul; VIX și MOVE; numărul companiilor care participă la mișcarea pieței.\n• Piața nu are nevoie de toate știrile bune ca să se stabilizeze. Are nevoie ca datele susțină așteptările din prețuri.\n\n**Încheiere**\n• Autorul nu promite că săptămâna viitoare va fi mai bună sau că recuperarea vine repede.\n• Teama este firească. Deciziile trebuie să țină cont de ea, fără să fie conduse doar de ea.\n• Autorul rămâne alături de membri, cu aceeași seriozitate.",
-          "recommendations": "• Nu cumpăra orice scădere. Nu păstra orice companie indiferent de informațiile noi.\n• Separă banii pentru cheltuieli apropiate și neprevăzute de capitalul expus bursei. Lichiditatea oferă siguranță și evită vânzările forțate.\n• Verifică concentrarea portofoliului. Cipurile, infrastructura și centrele de date pot depinde de același scenariu AI.\n• Fii atent la levier. Poate forța vânzarea exact când nu vrei.\n• Scrie pentru fiecare companie: de ce o deții, ce trebuie să demonstreze, ce îți invalidează teza.\n• Înainte de o schimbare majoră întreabă: s-a schimbat ceva în afacere sau reacționez la preț? Decizia îmbunătățește portofoliul sau doar îmi reduce neliniștea?\n• Poți păstra, reduce sau cumpăra, după caz. Nu există o decizie unică pentru toți.\n• Limitează verificarea cotațiilor. Urmărește rezultatele, bilanțurile și comunicările.\n• Toleranța la risc diferă. Autorul a sugerat constant unora Microsoft, Google și Amazon. Pentru profil agresiv a indicat în ultima perioadă doar RKLB, SPCX și ONDAS.\n• Nu presupune revenire imediată. Nu presupune nici că pesimismul de azi descrie următorii ani.\n• Urmărește: CPI marți 10.11 (15:30), licitațiile Treasury 3/10/30 ani, randamentele 2/10/30 ani, curba 10 minus 2 ani, dolarul, petrolul, VIX, MOVE, participarea largă la mișcare.\n• Urmărește rezultatele: RKLB și ASTS (luni seara), CoreWeave (miercuri 00:00), Nebius (joi 15:00), Ondas (joi 15:30), Cisco și Applied Materials (joi 23:30).\n• Verifică la companii: numerar încasat față de contracte, profitabilitate, diluare, finanțare, valoare pe acțiune.\n• Nu trata declarațiile politice sau militare neconfirmate ca fapte.\n• Rămâi deschis unei reveniri, fără să-ți bazezi deciziile pe obligația ca ea să înceapă imediat.\n• Nu există ședință FOMC săptămâna aceasta. Următoarea: 8–9 decembrie.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789221"
-        },
-        {
-          "title": "08.11.2026 O saptamana foarte dificila by AM",
-          "date": "08.11.2026",
-          "summary": "**Format și sursă**\n• Materialul este un video de duminică, prezentat de Alex (AM). Durata: 61:40.\n• Sursa: doar video. Pagina nu are text scris. Rezumatul vine din transcrierea audio. Ce nu este clar are marcajul «(neclar)».\n• Autorul vrea să discute mai mult despre analiza tehnică: zone de intrare și niveluri pe grafice.\n\n**Mesajul principal**\n• Săptămâna a fost foarte dificilă pentru piață.\n• Probabilitatea mai mare este ca piața să revină. Autorul nu vrea să spună sigur că revenirea începe acum.\n• Autorul vrea să vadă cum se așază piața după weekend.\n• Autorul nu a făcut achiziții majore. El preferă să cumpere puțin mai sus, dacă structura pieței este stabilă.\n• Autorul nu folosește tot cash-ul.\n\n**Politică și sistemul financiar**\n• Autorul vede negativ venirea democraților la putere în America, din cauza doctrinei lor sociale.\n• Autorul consideră importantă sancțiunea dată lui Donald Trump la vot.\n• Autorul crede că democrații au șanse mari să câștige alegerile prezidențiale din 2028 (neclar).\n• Democrații au un discurs anti-AI. O declarație a unei guvernatoare (statul: Texas, neclar) a pus presiune mare pe indici, mai ales pe Nasdaq.\n• O bancă din Paraguay a dat faliment. Aproape 60% din populația țării nu poate accesa fondurile.\n• Autorul spune că sistemul financiar are formă fractală. Ce apare la nivel micro poate apărea și la nivel macro. Sistemul financiar trebuie urmărit atent în perioada următoare.\n• Circa 7 fonduri au avut probleme. Unele au fost lichidate joi, în ziua scăderii mari.\n• Autorul vede aici un semnal de încredere structurală: sistemul elimină excesul.\n• Piața a avut o lăcomie neobișnuită și mult levier (marjă). Un cont cu marjă mare poate fi lichidat la o scădere amplă. Autorul crede că acest lucru s-a întâmplat și cu fondul lui Leopold.\n\n**Nasdaq 100**\n• Nasdaq a făcut un «sweep de lichiditate» la rezistența marcată anterior. Apoi a urmat corecția.\n• Nasdaq a căzut sub o zonă vitală. Acest lucru a declanșat algoritmii de tranzacționare.\n• Zona de acumulare: 29.000–29.600 (neclar; graficul arată circa 28.240–28.670).\n• Miercuri zona a fost străpunsă. Joi, declarația guvernatoarei și algoritmii cu gamma negativă au produs scăderea.\n• Scăderea de la maxim: circa 14% (neclar; graficul arată −16,29%).\n• Vineri multe sectoare au revenit spectaculos.\n• Autorul se așteaptă la o mică pauză în scădere. Pot urma zile de scădere și un nou test al zonei de 30 (neclar).\n\n**Opțiuni put și VIX**\n• Joi piața a avut unul dintre cele mai mari volume de opțiuni put din istorie.\n• Volumele de opțiuni au crescut colosal. Autorul consideră acest lucru nedorit.\n• În astfel de momente market makerii intervin.\n• VIX a depășit zona de 24.\n• Semnal: VIX peste 25, Fear & Greed Index sub 25 și volum foarte mare de opțiuni put.\n\n**Calendar macro**\n• Pe 10 noiembrie 2026 apar inflația și inflația de bază (core).\n• Datele arată direcția posibilă a Federal Reserve.\n• Dacă inflația crește, pot urma alte zile de scădere.\n\n**S&P 500**\n• S&P 500 nu a căzut din zonă. Situația lui este încă bună.\n• Zona de circa 7.400 (neclar) pare să reziste acum.\n• Scenariul autorului: încă o zi de scădere, apoi o creștere spre 7.600.\n• După aceea S&P 500 poate rupe zona în jos, dacă apar evenimente negative.\n\n**Administratori de fonduri**\n• Puțini administratori de fonduri bat S&P 500 «buy and hold».\n• BlackRock quant: circa +12% de la începutul anului. Autorul spune că este puțin pentru BlackRock.\n• Administratori plătiți cu 100.000 EUR pe an nu bat un investitor simplu în S&P 500.\n• Autorul are un indice de tehnologie la Banca Transilvania. Investește 25 EUR în fiecare lună, automat. Randamentul este circa 24–25% (neclar).\n• Concluzia autorului: «buy and hold» constant, fără să urmărești graficul, bate o pagină întreagă de administratori de fonduri.\n\n**Vistra (VST)**\n• Vistra a avut un raport foarte bun. Managementul este foarte capabil și protejează prețul energiei.\n• Autorul nu a anticipat discursul anti-AI al democraților. El spune că trebuia să îl anticipeze.\n• Declarația guvernatoarei a afectat prețul VST, fără legătură directă cu compania.\n• Autorul a cumpărat o tranșă mică de VST.\n• Orizontul pentru VST este 3–5 ani. Același orizont este valabil pentru AMD și ORCL.\n• VST a respins din zona marcată. Raportul este bun și solid, ceea ce nu este caracteristic pentru VST. VST pare să intre într-un trend.\n• VST are un gap creat de declarația guvernatoarei. Dacă VST recapătă gap-ul, graficul și potențialul sunt foarte bullish.\n• Autorul vrea o închidere peste gap și o consolidare în zona de 140.\n• CoreWeave (CRWV) este menționat în contextul alegerilor (neclar).\n\n**Teme structurale și alocare**\n• Teme structurale: energia pentru AI, cloud-ul și stocarea datelor, tokenizarea activelor cu Ethereum.\n• Ponderea unei teme depinde de cazul fiecărui investitor și de piața disponibilă.\n• Exemplu: VST și ORCL au o pondere mai mare. ETH, un ETF de ETH sau Bitmine (BMNR) au o pondere mai mică, pentru că volatilitatea și riscul sunt mari.\n\n**Robinhood (HOOD)**\n• Autorul propune Robinhood ca temă nouă, pe termen lung, cu volatilitate mare.\n• HOOD poate avea o perioadă mai lungă de scădere. Un raport arată că retailul din crypto nu mai tranzacționează mult, pentru că a fost lichidat.\n• Teza: familiile bogate din America transferă averea la copii. Copiii mută conturile de la Charles Schwab sau de la brokerii băncilor mari la Robinhood.\n• Prețul este circa 80 USD. Capitalizarea este circa 73 mld. USD.\n• HOOD poate scădea mai mult sau poate sta o perioadă pe lateral.\n• Autorul crede că urmează un raport slab. Dacă HOOD ratează din nou profitul net, autorul ia tema în portofoliu.\n\n**META**\n• Autorul consideră circul făcut de Alexander Wang cu Muse de-a dreptul senzațional (neclar).\n• META a avut un raport foarte prost.\n• Estimare EPS: 6,5. Raportat: circa 3,8. Surpriză negativă de circa 40%.\n• Următorul raport este în februarie 2027. Estimarea EPS este circa 8,3. META emite multe acțiuni noi. Efectul emisiunii apare în raportul din februarie.\n• Autorul se așteaptă la un raport prost. Toată piața se așteaptă la fel.\n• Dacă META nu taie capex-ul, autorul crede că META scade (circa 7,1%, neclar).\n• Zona superioară importantă: 700–750.\n• Zone de recumpărare: 680, apoi 550–570.\n\n**AMD**\n• AMD este la o medie mobilă lentă (neclar: circa 200 de zile).\n• Autorul se aștepta ca zona să fie puternică.\n• Autorul a închis niște covered calls cu un investitor. O parte a fost exercitată. Problema a fost redusă.\n• Mulți investitori sunt blocați de covered calls.\n• Autorul se așteaptă ca AMD să revină. Atunci vrea să vândă din nou covered calls, ca să recupereze suma.\n\n**Oracle (ORCL), SoFi (SOFI), SpaceX (SPCX), Palantir (PLTR)**\n• ORCL a avut un gap foarte mare. A respins și a recâștigat zona marcată. Cineva a semnalat un posibil double bottom. Autorul spune: «could be».\n• SOFI: în zona de gap se declanșează de obicei ordine de cumpărare.\n• SPCX: mesajul anterior al autorului a fost că SPCX cade 100% sub 130.\n• SPCX a rupt 130. În ziua respectivă s-au declanșat foarte multe ordine de cumpărare.\n• Cine a cumpărat SPCX în aceste zone trebuie să aibă răbdare cu prețul și cu repoziționarea retailului.\n• PLTR a avut un raport senzațional. Prețul revine spre zona gap-ului pozitiv de la raportul anterior. Reacția în acea zonă este importantă.\n\n**Eos Energy (EOSE, neclar), AppLovin (APP)**\n• EOSE a reacționat bine la raport și la venirea democraților. Este o poziție de urmărit.\n• Autorul citează cifre: 600 mil. USD (neclar), venituri de 8 mil. USD și 104 mil. USD (neclar). Proiecțiile sunt foarte bune.\n• Autorul a ieșit din APP cu anumiți investitori, după raportul pozitiv, peste prețul de achiziție.\n• Gap-ul de la APP îl încurcă pe autor.\n• APP are volatilitate mare și este considerată supraevaluată: capitalizare 180 mld. USD, venituri 5 mld. USD.\n• APP are profitabilitate mare, dar concurenții apar. Unul dintre ei este Apple.\n\n**Rocket Lab (RKLB), AST SpaceMobile (ASTS)**\n• La RKLB autorul vrea o formație de bottom, ca un reverse head and shoulders.\n• Autorul vrea să aștepte raportul RKLB. Emisiunile de acțiuni pot slăbi raportul.\n• Pozițiile începute la circa 50 USD au risc de calculat.\n• RKLB are premium. În acest sector investitorul cumpără povestea viitorului.\n• Alocă în spațiu doar dacă ai convingere.\n• ASTS a venit în a doua zonă.\n• Tranșe ASTS: una în zona de 54, una în zona de 32.\n• Zona roșie de la ASTS este 14. Autorul vede acolo un posibil bottom.\n• ASTS poate ajunge la 14 și apoi la 50 în trei luni.\n\n**Constellation Energy (CEG)**\n• CEG este în consolidare. Graficul este similar cu VST.\n• Zone CEG: 260, apoi 230 și 200.\n• Dacă raportul CEG este bun, CEG și VST pot crește împreună.\n\n**Cloudflare (NET), CrowdStrike (CRWD), securitate cibernetică**\n• Autorul vrea NET și CRWD în portofoliu pe termen lung.\n• Autorul așteaptă o corecție în acest sector.\n• Viitorul securității cibernetice este securitatea API-urilor. NET poate lua o cotă mare din această piață.\n• NET: capitalizare circa 90 mld. USD, venituri circa 2 mld. USD (neclar). Prețul se poate înjumătăți.\n• Un trigger negativ, de exemplu un atac cibernetic, poate crea momentul de intrare.\n\n**Alte companii**\n• La începutul anului lista autorului a avut Netflix (NFLX). Autorul spune că a fost un pariu foarte prost.\n• UnitedHealth (UNH) a fost cumpărată în zona de 400 USD. Autorul se așteaptă la o revenire în zona de 344.\n• Intel (INTC) este supravândut. INTC trebuie să respingă din zona actuală. Dacă nu respinge, toată structura semiconductorilor este afectată.\n• ServiceNow (NOW, neclar): autorul a vândut pe toată zona. Raportul nu a fost extraordinar. NOW poate să mai scadă.\n• Arm (ARM): raport foarte solid. Zona actuală de 170–180 este foarte interesantă. Zona de 140 este următoarea.\n• IREN: raport foarte bun. IREN se apropie de a treia zonă.\n• Ondas (ONDS) s-a apropiat de zonă, dar nu a atins-o încă.\n• Nebius (NBIS): zone la 160 și 120. NBIS este o poziție satelit, cu pondere de 5–10% din portofoliu.\n• Micron (MU) este o companie bună, vândută. Autorul vrea să o prindă pe scădere (neclar).\n• Alphabet (GOOGL) nu a atins prima zonă. A trecut direct în a doua zonă. Sentimentul este negativ. GOOGL poate continua să scadă, după problemele de la META.\n• Broadcom (AVGO) a stat în prima zonă. Zona relevantă acum este 300. La 1,4 trilioane USD capitalizare plasamentul este decent, nu extraordinar.\n• AVGO: dacă zona de 300 cade, scăderea poate fi mai agresivă. Zona de 260 este importantă.\n• Tesla (TSLA): autorul se aștepta la un preț mai jos. TSLA poate vizita o zonă inferioară. TSLA are nevoie de catalizatori foarte mari.\n• Amazon (AMZN): autorul modifică prima zonă. Zone: 235, 220 și 200 (199). Free cash flow-ul a fost negativ, dar acțiunea rezistă foarte bine.\n• Pentru robotică autorul preferă un jucător mare ca AMZN, nu companii mici.\n\n**Metoda de alocare pe zone**\n• O companie mare are tranșe mai înguste. O companie volatilă are tranșe mai largi.\n• În această perioadă tranșele trebuie lărgite.\n• Exemplu: 15% din poziție în prima zonă, 40% în a doua, 40% în a treia.\n• Dacă a treia zonă nu este atinsă, ai deja circa 55% din poziție plasată.\n• Alocă pe fiecare zonă după probabilitatea ca prețul să ajungă acolo. Exemplu: 15%, 45%, 35%.\n• Lasă ordine limită în piață, la începutul sau la mijlocul zonelor.\n\n**Concluzie**\n• Săptămâna trecută a fost una dintre săptămânile bune pentru intrare pe companiile de risc.\n• Fondurile au investit pe datorie. Ele nu mai pot acoperi datoria și vând acțiunile. Lichiditatea iese din piață.\n• Autorul nu este negativ. El verifică unde plasează capitalul și ce risc ajustat își asumă.\n• Până în 2024 autorul a vândut poziții la corecții, ca să recumpere mai jos. Autorul spune că a fost o greșeală.\n• Orizontul investitorului: 10–15 ani, pentru independență financiară.\n• Atenție la Iran. Următoarele 3–5 săptămâni pot aduce o escaladare.",
-          "recommendations": "• Așteaptă să treacă weekendul. Vezi cum se așază piața înainte de achiziții majore.\n• Cumpără mai degrabă puțin mai sus, dacă structura pieței este stabilă.\n• Nu folosi tot cash-ul.\n• Atenție la alocarea totală și la poziția de cash.\n• Rămâi pe pozițiile alese. Nu face mișcări în portofoliu când nu mai poți suporta pierderea. Autorul spune că mișcările în portofoliu sunt cea mai proastă soluție.\n• Nu vinde la corecții ca să recumperi mai jos. Autorul a făcut această greșeală până în 2024.\n• Urmărește inflația și inflația de bază pe 10 noiembrie 2026. Dacă inflația crește, pot urma zile de scădere.\n• Lărgește tranșele în această perioadă. Alocă pe zone după probabilitate. Lasă ordine limită în zone.\n• Nu folosi levier mare. Marja mare poate duce la lichidare.\n• Nasdaq: zona de acumulare 29.000–29.600 (neclar; graficul arată circa 28.240–28.670). Posibil nou test al zonei de 30 (neclar).\n• S&P 500: zona de circa 7.400 (neclar) pare să reziste. Scenariu: o zi de scădere, apoi creștere spre 7.600. Ruptura în jos este posibilă la evenimente negative.\n• VST: autorul a cumpărat o tranșă mică. Orizont 3–5 ani. Urmărește închiderea peste gap și consolidarea în zona de 140.\n• VST și ORCL: pondere mai mare în portofoliu. ETH, ETF ETH sau BMNR: pondere mai mică.\n• HOOD: temă nouă pe termen lung. Preț circa 80 USD. Ai răbdare. Dacă HOOD ratează din nou profitul net, autorul ia tema în portofoliu.\n• META: dacă revine în zona 700–750, poți reduce ușor poziția. Recumpără la 680 și la 550–570. Raportul din februarie 2027 poate fi prost. Dacă META nu taie capex-ul, META poate scădea.\n• AMD: autorul se așteaptă la revenire. La revenire vinde din nou covered calls, ca să recuperezi suma.\n• ORCL: urmărește un posibil double bottom.\n• SOFI: urmărește reacția în zona de gap.\n• SPCX: cine a cumpărat sub 130 să aibă răbdare.\n• PLTR: urmărește reacția în zona gap-ului de la raportul anterior.\n• EOSE (neclar): poziție de urmărit, doar cu tranșe foarte mici.\n• APP: autorul a ieșit din poziție.\n• RKLB: așteaptă raportul și o formație de bottom. Calculează riscul pentru pozițiile de la circa 50 USD. Alocă doar dacă ai convingere în sectorul spațial.\n• ASTS: tranșe în zona de 54 și în zona de 32. Zona de 14 este un posibil bottom.\n• CEG: zone 260, 230, 200. Urmărește raportul.\n• NET și CRWD: așteaptă o corecție în sector. Construiește pozițiile pe un trigger negativ.\n• UNH: autorul se așteaptă la o revenire în zona de 344.\n• INTC: trebuie să respingă din zona actuală. Dacă nu respinge, semiconductorii sunt afectați.\n• NOW (neclar): autorul a vândut.\n• ARM: zona 170–180 este interesantă acum. Următoarea zonă este 140.\n• IREN: urmărește a treia zonă.\n• ONDS: zona nu a fost atinsă încă.\n• NBIS: zone la 160 și 120. Poziție satelit de 5–10% din portofoliu.\n• MU: prinde-o pe scădere (neclar).\n• GOOGL: poate continua să scadă. Urmărește a doua zonă.\n• AVGO: zona de 300 este relevantă. Zona de 260 este importantă dacă 300 cade.\n• TSLA: poate vizita o zonă inferioară.\n• AMZN: zone 235, 220 și 200 (199). Pentru tema roboticii preferă AMZN în locul companiilor mici.\n• Fiecare investitor decide după venituri, cash, portofoliu, alocare totală și obiective.\n• Urmărește atent sistemul financiar în perioada următoare.\n• Atenție la Iran. Următoarele 3–5 săptămâni pot aduce o escaladare.",
-          "sourceUrl": "https://www.growyourwealth.ro/products/grow-your-wealth/categories/2160165880/posts/2197789223"
         }
       ]
     }
