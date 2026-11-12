@@ -4,7 +4,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-11-12T13:38:00+02:00",
+    "updatedAt": "2026-11-12T18:48:53+02:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
@@ -113,13 +113,6 @@
           "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-flow-mens?colour=Obsidian-Cherry+Tomato",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Lite 3.5 Mens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
           "category": "sale"
         },
         {
@@ -725,13 +718,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Tracker Boot AT Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Primus Sport III Juniors Auburn −40%",
           "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -788,13 +774,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Lumi FG Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Ultra Bloom Kids Obsidian-White −40%",
           "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -827,13 +806,6 @@
           "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Hiber Kids Umber −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
           "category": "kids_sale"
         },
         {
@@ -870,6 +842,69 @@
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Bracken −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens-ss22?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Mens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-mens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Midnight −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Midnight",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Obsidian −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Womens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-womens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Trail II FG Womens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-trail-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Asana III Womens Olive −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-asana-iii-womens?colour=Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Womens Terracotta −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-womens?colour=Terracotta",
+          "category": "sale"
         }
       ],
       "gyh": [
@@ -985,13 +1020,6 @@
           "category": "sale"
         },
         {
-          "title": "Primus Lite 3.5 Mens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
           "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
           "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -1594,13 +1622,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Tracker Boot AT Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Primus Sport III Juniors Auburn −40%",
           "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -1657,13 +1678,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Lumi FG Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Ultra Bloom Kids Obsidian-White −40%",
           "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -1696,13 +1710,6 @@
           "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Hiber Kids Umber −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
           "category": "kids_sale"
         },
         {
@@ -1739,6 +1746,69 @@
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Bracken −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens-ss22?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Mens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-mens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Midnight −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Midnight",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Obsidian −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Womens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-womens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Trail II FG Womens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-trail-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Asana III Womens Olive −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-asana-iii-womens?colour=Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Womens Terracotta −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-womens?colour=Terracotta",
+          "category": "sale"
         }
       ],
       "gyh": [
@@ -1854,13 +1924,6 @@
           "category": "sale"
         },
         {
-          "title": "Primus Lite 3.5 Mens Obsidian −40%",
-          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
           "title": "Primus Lite IV All Weather Mens Dark Shadow −40%",
           "text": "Was €130 / now €78 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -2463,13 +2526,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Tracker Boot AT Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/tracker-boot-at-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Primus Sport III Juniors Auburn −40%",
           "text": "Was €88 / now €53 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -2526,13 +2582,6 @@
           "category": "kids_sale"
         },
         {
-          "title": "Lumi FG Juniors Obsidian −40%",
-          "text": "Was €112 / now €67 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/lumi-fg-juniors?colour=Obsidian",
-          "category": "kids_sale"
-        },
-        {
           "title": "Ultra Bloom Kids Obsidian-White −40%",
           "text": "Was €70 / now €42 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -2565,13 +2614,6 @@
           "text": "Was €82 / now €49 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-sport-iii-kids?colour=Deep+Ocean",
-          "category": "kids_sale"
-        },
-        {
-          "title": "Gobi Hiber Kids Umber −40%",
-          "text": "Was €94 / now €56 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/gobi-hiber-kids?colour=Umber",
           "category": "kids_sale"
         },
         {
@@ -2608,6 +2650,69 @@
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-fg-kids?colour=Peyote",
           "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Bracken −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens-ss22?colour=Bracken",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Mens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-mens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Lite 3.5 Mens Midnight −40%",
+          "text": "Was €120 / now €72 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-lite-3-5-mens?colour=Midnight",
+          "category": "sale"
+        },
+        {
+          "title": "Ultra Bloom Preschool Ocean Wave −41%",
+          "text": "Was €64 / now €38 (−41%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/ultra-bloom-preschool?colour=Ocean+Wave",
+          "category": "kids_sale"
+        },
+        {
+          "title": "Tracker II FG Womens Obsidian −40%",
+          "text": "Was €230 / now €138 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Addis Womens Triple Black −40%",
+          "text": "Was €155 / now €93 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/addis-womens?colour=Triple+Black",
+          "category": "sale"
+        },
+        {
+          "title": "Magna Trail II FG Womens Obsidian −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/magna-trail-ii-fg-womens?colour=Obsidian",
+          "category": "sale"
+        },
+        {
+          "title": "Primus Asana III Womens Olive −40%",
+          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/primus-asana-iii-womens?colour=Olive",
+          "category": "sale"
+        },
+        {
+          "title": "Tracker Textile AT Womens Terracotta −40%",
+          "text": "Was €200 / now €120 (−40%). Automatic sale price on vivobarefoot.com/eu.",
+          "store": "Vivobarefoot",
+          "link": "https://www.vivobarefoot.com/eu/tracker-textile-at-womens?colour=Terracotta",
+          "category": "sale"
         }
       ],
       "gyh": [
