@@ -4943,6 +4943,7 @@ Comparat cu **Partea 2 — News Site Builder** din `/workspace/setup-export/BOTO
 9. **Exemplul de `meta.updatedAt` din schemă e snapshot-ul de la 13:12:40**, nu valoarea live `18:44:28` — greșit dacă Partea 2 e folosită ca stare de pornire.
 
 Nimic din cele de mai sus nu e un dezacord de regulă locked (template, 5 chei GYH, oglindirea cupoanelor, fără Slack/Mihai); sunt omisiuni sau stare depășită față de cerința «100% complete» după seara 20.11 și după faptele suplimentare.
+
 ~~~~~~~~~~
 
 ## 8.3 Colector Grow Your Wealth (GYH) — `setup-export/round2/gyh.md` (md5 `e3881d849c44c160c61a2c8b4524471d`, 708 linii, 145107 bytes)
