@@ -1,0 +1,151 @@
+{
+  "source": "@claudeai",
+  "watermarkBefore": "2103515655760982273",
+  "pulledAt": "2026-09-29T00:24:49+03:00",
+  "edition": "2026-09-29",
+  "note": "2 postări noi: (1) thread lansare Claude Sonnet 5.5 (8 tweet-uri, root=2104633115620823187); (2) thread early experiments Sonnet 5.5 (8 tweet-uri). Video→thumbnail; foto în thread. Twiscan skip; x.com SSR ProfileOriginals + status-page thread expand + fxtwitter. 16 imagini descărcate.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusId": "2104633115620823187",
+      "statusUrl": "https://x.com/claudeai/status/2104633115620823187",
+      "createdAt": "2026-09-28T18:03:31Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+          "images": [
+            "img/x/HTUthyeWIAAInna.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically.\n\nIt’s a faster, lower-cost complement to Claude Opus 5.5, strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets.",
+          "images": [
+            "img/x/HTUlY04XkAAMqSy.png"
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Sonnet 5.5 is priced the same as Sonnet 5, but it typically needs far fewer tokens to do the same work. In our testing, it costs up to 30% less per task than its predecessor.\n\nIt also generates output more than 30% faster, making it our fastest Sonnet model to date.",
+          "images": [
+            "img/x/cd0x4KPMloYl69q8.jpg"
+          ]
+        },
+        {
+          "n": 4,
+          "text": "On several benchmarks, Sonnet 5.5 at Low or Medium effort beats Sonnet 5’s best score for about a tenth of the cost.",
+          "images": [
+            "img/x/HTUltNJWQAAaZDk.png",
+            "img/x/HTUltNTXUAA7oiF.png",
+            "img/x/HTUltNSXUAEbYU4.png",
+            "img/x/HTUltNSXoAAyqfl.png"
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Sonnet 5.5 also has a knack for design. It adds polish to user interfaces and follows templates to create slides that need minimal editing.",
+          "images": [
+            "img/x/qUwkFHoavQ--zV-e.jpg"
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Like Opus 5.5, Sonnet 5.5 writes more clearly than our previous generation of models. Its speed also makes it well suited to fast iteration and collaboration on less complex tasks."
+        },
+        {
+          "n": 7,
+          "text": "On our automated behavioral audit, Sonnet 5.5 improves on or matches Sonnet 5 on most measures of alignment and honesty. \n\nIt’s also the first Sonnet model with cyber safeguards and fallbacks like those on our most capable models. Routine software development is unaffected."
+        },
+        {
+          "n": 8,
+          "text": "Claude Sonnet 5.5 is available everywhere today; Claude Haiku 5.5 will join the family in the coming weeks.\n\nRead more: https://www.anthropic.com/claude-sonnet-5-5"
+        }
+      ],
+      "images": [
+        "img/x/HTUthyeWIAAInna.jpg",
+        "img/x/HTUlY04XkAAMqSy.png",
+        "img/x/cd0x4KPMloYl69q8.jpg",
+        "img/x/HTUltNJWQAAaZDk.png",
+        "img/x/HTUltNTXUAA7oiF.png",
+        "img/x/HTUltNSXUAEbYU4.png",
+        "img/x/HTUltNSXoAAyqfl.png",
+        "img/x/qUwkFHoavQ--zV-e.jpg"
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusId": "2104674987164782598",
+      "statusUrl": "https://x.com/claudeai/status/2104674987164782598",
+      "createdAt": "2026-09-28T20:49:54Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "A thread of early experiments with Claude Sonnet 5.5.\n\nA fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.",
+          "images": [
+            "img/x/in4Hl4l6NzD9hpWU.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "@LEJ_limited gave Sonnet 5.5 a 60×46 pixel emoji and asked for a 3D model he could print. A few hours later, it was on his desk.",
+          "images": [
+            "img/x/JHAsRySZZHxncjWp.jpg",
+            "img/x/HTVMlS9WwAInArg.jpg"
+          ]
+        },
+        {
+          "n": 3,
+          "text": "The history of the dinosaurs in under a minute by @kevin_t_ngo, animated in JavaScript from the same prompt, Sonnet 5 vs Sonnet 5.5.",
+          "images": [
+            "img/x/TD7mNCoBCisJfNtH.jpg"
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Light through a forest canopy, rendered in real time by @measure_plan. Visuals and sound are written in code.",
+          "images": [
+            "img/x/iNGOqSBXSBgqBsho.jpg"
+          ]
+        },
+        {
+          "n": 5,
+          "text": "A working flowchart tool that looks like doodles on graph paper, by @kevin_t_ngo. Drag shapes, connect them, or sketch on top.",
+          "images": [
+            "img/x/JWLOVKYbatOO0FYP.jpg"
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Pixel-art forest creatures by @measure_plan, every frame drawn in code.",
+          "images": [
+            "img/x/HTVMv1xXQAAXCMP.jpg"
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5.",
+          "images": [
+            "img/x/tAtttz1D3DAqZ-iX.jpg"
+          ]
+        },
+        {
+          "n": 8,
+          "text": "What are you exploring with Sonnet 5.5?"
+        }
+      ],
+      "images": [
+        "img/x/in4Hl4l6NzD9hpWU.jpg",
+        "img/x/JHAsRySZZHxncjWp.jpg",
+        "img/x/HTVMlS9WwAInArg.jpg",
+        "img/x/TD7mNCoBCisJfNtH.jpg",
+        "img/x/iNGOqSBXSBgqBsho.jpg",
+        "img/x/JWLOVKYbatOO0FYP.jpg",
+        "img/x/HTVMv1xXQAAXCMP.jpg",
+        "img/x/tAtttz1D3DAqZ-iX.jpg"
+      ]
+    }
+  ]
+}

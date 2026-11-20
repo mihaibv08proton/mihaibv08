@@ -1,0 +1,92 @@
+{
+  "edition": "2026-10-06",
+  "pulledAt": "2026-10-06T00:06:25+03:00",
+  "summary": {
+    "claudeai": {
+      "count": 0,
+      "topStatusId": null
+    },
+    "LindaRaschke": {
+      "count": 4,
+      "topStatusId": "2107111928828977294"
+    },
+    "ClaudeDevs": {
+      "count": 0,
+      "topStatusId": null
+    }
+  },
+  "note": "4 postări noi @LindaRaschke (single charts). @claudeai și @ClaudeDevs 0. Watermark-uri neactualizate (LIVE neconfirmat).",
+  "xPosts": [
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2107104362484945298",
+      "statusUrl": "https://x.com/LindaRaschke/status/2107104362484945298",
+      "createdAt": "2026-10-05T13:43:22Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "ADSK- nice early impulse off OP, CLF, ORCL on early buys as well.",
+          "images": [
+            "img/x/HT3wCtUWkAAdUzh.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HT3wCtUWkAAdUzh.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2107104571726418144",
+      "statusUrl": "https://x.com/LindaRaschke/status/2107104571726418144",
+      "createdAt": "2026-10-05T13:44:12Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Short CVX.",
+          "images": [
+            "img/x/HT3wYBZXgAAPU4x.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HT3wYBZXgAAPU4x.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2107104961322701292",
+      "statusUrl": "https://x.com/LindaRaschke/status/2107104961322701292",
+      "createdAt": "2026-10-05T13:45:45Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "FDX, GS, COP  under early selling pressure as well."
+        }
+      ],
+      "images": []
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2107111928828977294",
+      "statusUrl": "https://x.com/LindaRaschke/status/2107111928828977294",
+      "createdAt": "2026-10-05T14:13:26Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "hg (COPPER) need range expansion to confirm upside BO from 3-bar balance. then can turn daily swing back UP.",
+          "images": [
+            "img/x/HT32_R2WoAAgBYS.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HT32_R2WoAAgBYS.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source": "claudeai",
+  "watermarkBefore": "2102840851538080172",
+  "pulledAt": "2026-09-26T00:21:27+03:00",
+  "edition": "2026-09-26",
+  "note": "1 postare nouă: thread favorites Opus 5.5 (8 tweet-uri, root=2103515655760982273) — quote-uri comunitate + CTA weekend. Watermark încă pe ProfileOriginals (completeness OK). Twiscan 0; x.com SSR + fxtwitter. 0 imagini noi (fără foto statică proprie).",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2103515655760982273",
+      "date": "2026-09-25T16:03:08Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Claude Opus 5.5 has been out for a few days. Some of our favorite things people have explored and discovered with it so far:\n\nhttps://x.com/RyanSael/status/2102591147927654847?s=20",
+          "url": "https://x.com/claudeai/status/2103515655760982273"
+        },
+        {
+          "index": 2,
+          "text": "https://x.com/hayashimon1/status/2102576886182453454?s=20",
+          "url": "https://x.com/claudeai/status/2103515657761411465"
+        },
+        {
+          "index": 3,
+          "text": "https://x.com/onofumi_AI/status/2102568200122884553?s=20",
+          "url": "https://x.com/claudeai/status/2103515660571824289"
+        },
+        {
+          "index": 4,
+          "text": "https://x.com/victormustar/status/2102707412704919910?s=20",
+          "url": "https://x.com/claudeai/status/2103515663801393201"
+        },
+        {
+          "index": 5,
+          "text": "https://x.com/techartist_/status/2102503719762018434?s=20",
+          "url": "https://x.com/claudeai/status/2103515665822789667"
+        },
+        {
+          "index": 6,
+          "text": "https://x.com/redp314/status/2102475701844676747?s=20",
+          "url": "https://x.com/claudeai/status/2103515668171853944"
+        },
+        {
+          "index": 7,
+          "text": "https://x.com/scheemunai/status/2103059885361598633?s=20",
+          "url": "https://x.com/claudeai/status/2103515670428238179"
+        },
+        {
+          "index": 8,
+          "text": "What are you going to explore with Opus 5.5 this weekend?",
+          "url": "https://x.com/claudeai/status/2103515672777290083"
+        }
+      ]
+    }
+  ]
+}

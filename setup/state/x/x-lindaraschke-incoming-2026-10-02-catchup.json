@@ -1,0 +1,89 @@
+{
+  "source": "@LindaRaschke",
+  "watermarkBefore": "2105718311275380910",
+  "pulledAt": "2026-10-02T23:10:03+03:00",
+  "edition": "2026-10-02-catchup",
+  "note": "Evening catch-up after freeze. 4 postări noi (single, charts): Coffee Buy Day; Sugar upside BO; Cocoa softs (2 PNG); DAX overnight Buy Day (2 PNG). SSR ProfileOriginals + fxtwitter. Skip 6 media id_str phantoms (not tweets). 6 imagini.",
+  "posts": [
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2105990624268677618",
+      "statusUrl": "https://x.com/LindaRaschke/status/2105990624268677618",
+      "createdAt": "2026-10-02T11:57:46Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Coffee: (Should have posted this glorious Buy Day  setup last night...)!",
+          "images": [
+            "img/x/HTn7Fi7X0AAtQ8c.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HTn7Fi7X0AAtQ8c.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2105990951143448936",
+      "statusUrl": "https://x.com/LindaRaschke/status/2105990951143448936",
+      "createdAt": "2026-10-02T11:59:04Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Sugar upside BO from 3 bar, though move started yesterday...",
+          "images": [
+            "img/x/HTn7f7pXkAAk5qA.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HTn7f7pXkAAk5qA.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2105991280001962415",
+      "statusUrl": "https://x.com/LindaRaschke/status/2105991280001962415",
+      "createdAt": "2026-10-02T12:00:23Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Cocoa more up.  Its all about the softs. (somehow that does not sound right....)...",
+          "images": [
+            "img/x/HTn7yFVXYAA5_Qd.png",
+            "img/x/HTn7zL8XoAAZ8Ht.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HTn7yFVXYAA5_Qd.png",
+        "img/x/HTn7zL8XoAAZ8Ht.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusId": "2105991728155292029",
+      "statusUrl": "https://x.com/LindaRaschke/status/2105991728155292029",
+      "createdAt": "2026-10-02T12:02:10Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "DAX - low to high in overnight session after Buy Day. already back to the 240 EMA ...moral is:  do not ever go to bed.",
+          "images": [
+            "img/x/HTn7_ZWWMAALU3k.png",
+            "img/x/HTn8OPeXAAEomLX.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HTn7_ZWWMAALU3k.png",
+        "img/x/HTn8OPeXAAEomLX.png"
+      ]
+    }
+  ]
+}

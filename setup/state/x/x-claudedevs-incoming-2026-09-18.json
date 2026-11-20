@@ -1,0 +1,32 @@
+{
+  "source": "ClaudeDevs",
+  "watermarkBefore": "2100270861555228770",
+  "pulledAt": "2026-09-18T00:25:00+03:00",
+  "edition": "2026-09-18",
+  "note": "Doar postări cu id > watermark. Newlines păstrate. images pe tweets[].images[] cu căi relative img/x/.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2100633571543367691",
+      "date": "2026-09-17T17:10:45Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Today we're rolling out Projects in Claude Code on desktop and web.\n\nA project is one conversation with Claude. It splits the work into threads itself, runs them as parallel cloud sessions, passes context between them, and keeps going when you leave.\n\nIn beta for select users.",
+          "url": "https://x.com/ClaudeDevs/status/2100633571543367691"
+        },
+        {
+          "index": 2,
+          "text": "Available today for Pro and Max users who already run cloud sessions and haven't used Claude Projects yet.\n\nIf you've used Projects before, we're rolling out to you slightly later so your existing ones move over cleanly. \n\nWant access now anyway? Join the waitlist:\n\nhttps://claude.com/form/projects",
+          "url": "https://x.com/ClaudeDevs/status/2100633572969484743"
+        },
+        {
+          "index": 3,
+          "text": "Threads run in the cloud, even when your computer is not online. Support for local workflows is coming very soon.\n\nMore in the docs: https://code.claude.com/docs/en/claude-projects",
+          "url": "https://x.com/ClaudeDevs/status/2100633574022230474"
+        }
+      ]
+    }
+  ]
+}

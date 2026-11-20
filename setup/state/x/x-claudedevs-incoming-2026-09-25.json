@@ -1,0 +1,53 @@
+{
+  "source": "ClaudeDevs",
+  "watermarkBefore": "2102871550974427462",
+  "pulledAt": "2026-09-25T00:19:49+03:00",
+  "edition": "2026-09-25",
+  "note": "3 postări noi: (1) single note-tweet billable blocks 2103170368794185758; (2) single quote clarificare cloud credits 2102940480736821610; (3) thread Projects local 2 tweet-uri root=2102893178273874102. Twiscan 0; x.com SSR ProfileOriginals + status SSR pentru thread. 0 imagini noi (fără foto statică).",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2103170368794185758",
+      "date": "2026-09-24T17:11:05Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Today, we'll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We've seen some coordinated attacks on our systems in recent weeks, and this is one layer of defense.\n\nIn recent testing, 99.7% of accounts using Claude Code, Claude​.ai, or Cowork did not hit any of these newly \"billable blocks.\" The classifiers behind the blocks we’re resuming charging for today are tuned to have a <0.1% false positive rate. We know that's not 0%, and we're going to keep improving them so they interrupt your work less often. If you think a request has been blocked incorrectly, please report it with /feedback in Claude Code. https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback#how-refusals-are-billed",
+          "url": "https://x.com/ClaudeDevs/status/2103170368794185758"
+        }
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "date": "2026-09-24T01:57:36Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Sorry for any confusion! Cloud sessions run on your Pro or Max plan, like the rest of Claude Code. This promo is an optional one-time credit that your cloud sessions spend first, before falling back onto your normal plan usage. \n\nWe hope you enjoy the credits!",
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610"
+        }
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102893178273874102",
+      "date": "2026-09-23T22:49:38Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "We've just added local support to Projects in Claude Code, so threads can now run on your own machine.",
+          "url": "https://x.com/ClaudeDevs/status/2102893178273874102"
+        },
+        {
+          "index": 2,
+          "text": "We're working through the waitlist, and are giving access to Projects to more Pro and Max users. If you used Claude projects before, we're still working on migrating you over.\n\nThe early access waitlist if you haven't signed up yet:\n\nhttps://claude.com/form/projects",
+          "url": "https://x.com/ClaudeDevs/status/2102893179662106684"
+        }
+      ]
+    }
+  ]
+}

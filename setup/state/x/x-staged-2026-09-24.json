@@ -1,0 +1,168 @@
+[
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2102740388888924412",
+    "date": "2026-09-23T12:42:30Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "$ on day 10 of extended un up - trend is so strong that the previous three pushes on 240 just missed correcting to EMA.",
+        "url": "https://x.com/LindaRaschke/status/2102740388888924412",
+        "images": [
+          "img/x/HS5vF3EWEAA38av.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS5vF3EWEAA38av.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2102742875989737479",
+    "date": "2026-09-23T12:52:23Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Rus on sell short day.  Trends for the day started last night.",
+        "url": "https://x.com/LindaRaschke/status/2102742875989737479",
+        "images": [
+          "img/x/HS5xbYXXYAA7B8U.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS5xbYXXYAA7B8U.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2102755290785493267",
+    "date": "2026-09-23T13:41:43Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Bonds: 106'27 key swing low.",
+        "url": "https://x.com/LindaRaschke/status/2102755290785493267",
+        "images": [
+          "img/x/HS58ihJXAAAYxef.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS58ihJXAAAYxef.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2102756496488411141",
+    "date": "2026-09-23T13:46:30Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "SPs:  3 bars down off OP after NR7.  same concept as open DRIVE.",
+        "url": "https://x.com/LindaRaschke/status/2102756496488411141",
+        "images": [
+          "img/x/HS59wttWkAAPusq.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS59wttWkAAPusq.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2102756779683942767",
+    "date": "2026-09-23T13:47:38Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "MCD - Sell signal off OP.",
+        "url": "https://x.com/LindaRaschke/status/2102756779683942767",
+        "images": [
+          "img/x/HS5-HEzXEAE_rsu.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS5-HEzXEAE_rsu.png"
+    ]
+  },
+  {
+    "handle": "ClaudeDevs",
+    "statusUrl": "https://x.com/ClaudeDevs/status/2102839691154427983",
+    "date": "2026-09-23T19:17:05Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "We made claude​.ai 3x faster in two weeks.\n\nHere’s how we use Claude to measure, debug and improve performance. Prompts and methods included.\n\nhttps://claude.dev/blog/how-we-made-claude-ai-faster/",
+        "url": "https://x.com/ClaudeDevs/status/2102839691154427983"
+      }
+    ]
+  },
+  {
+    "handle": "claudeai",
+    "statusUrl": "https://x.com/claudeai/status/2102840851538080172",
+    "date": "2026-09-23T19:21:42Z",
+    "thread": true,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:\n\n- Add connectors and plugins like Slack and Notion\n- Buy agents and products from companies like Cursor and CrowdStrike\n- Scale with service partners like Accenture and Deloitte",
+        "url": "https://x.com/claudeai/status/2102840851538080172",
+        "images": [
+          "img/x/HS7KXGZWYAABcx9.jpg"
+        ]
+      },
+      {
+        "index": 2,
+        "text": "Browse the marketplace: https://claude.com/marketplace\n\nAnd if you're building for Claude, list your tools, agents or services here: https://claude.com/blog/claude-marketplace",
+        "url": "https://x.com/claudeai/status/2102840855258452037"
+      }
+    ],
+    "images": [
+      "img/x/HS7KXGZWYAABcx9.jpg"
+    ]
+  },
+  {
+    "handle": "ClaudeDevs",
+    "statusUrl": "https://x.com/ClaudeDevs/status/2102871550974427462",
+    "date": "2026-09-23T21:23:41Z",
+    "thread": true,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed.\n\nExisting subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.",
+        "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
+        "images": [
+          "img/x/HS7mgHtacAAYOqU.jpg"
+        ]
+      },
+      {
+        "index": 2,
+        "text": "Cloud sessions run on Anthropic-hosted infrastructure, so the work keeps going even without your computer running. Start one at https://claude.ai/code, from the Code tab in the Claude mobile app, from the desktop app, or with claude --cloud in the CLI.",
+        "url": "https://x.com/ClaudeDevs/status/2102871552849322082"
+      },
+      {
+        "index": 3,
+        "text": "The credit is separate from your usage limits, and it applies automatically once you start a cloud session.\n\nIf you hit a limit locally, keep going in the cloud until your credit runs out. One credit per account, for cloud sessions only.",
+        "url": "https://x.com/ClaudeDevs/status/2102871554069774451"
+      },
+      {
+        "index": 4,
+        "text": "Follow the link below to claim the credit or run /claim-credit in the CLI. You’ll need GitHub connected to start a session. Claim by Oct 7. Terms apply.\n\nhttps://claude.ai/code/claim-credit/10",
+        "url": "https://x.com/ClaudeDevs/status/2102871555244257518"
+      }
+    ],
+    "images": [
+      "img/x/HS7mgHtacAAYOqU.jpg"
+    ]
+  }
+]

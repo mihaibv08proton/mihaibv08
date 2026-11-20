@@ -1,0 +1,94 @@
+{
+  "source": "claudeai",
+  "watermarkBefore": "2101017902316982783",
+  "pulledAt": "2026-09-23T00:29:47+03:00",
+  "edition": "2026-09-23",
+  "note": "2 postări noi: (1) thread Opus 5.5 8 tweet-uri root=2102435511222890900; (2) early explorations 2102471866635919731 (video, fără foto statică — SSR ProfileOriginals nu a arătat reply-uri suplimentare). Twiscan 0 azi; x.com SSR. 7 imagini descărcate.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2102471866635919731",
+      "date": "2026-09-22T18:55:29Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "A thread of early explorations with Claude Opus 5.5:\n\nA short story about a watermelon created by @kevin_t_ngo.",
+          "url": "https://x.com/claudeai/status/2102471866635919731"
+        }
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2102435511222890900",
+      "date": "2026-09-22T16:31:01Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+          "url": "https://x.com/claudeai/status/2102435511222890900"
+        },
+        {
+          "index": 2,
+          "text": "Opus 5.5 is our first model since we called for pacing the frontier. As with previous models, it was tested by external evaluators before release, including METR and Frontier Design.\n\nOn our most comprehensive alignment test, it achieves the strongest score to date.",
+          "url": "https://x.com/claudeai/status/2102435514855158124"
+        },
+        {
+          "index": 3,
+          "text": "Opus 5.5 is a major step up from Opus 5, leading on agentic coding, computer use, and knowledge work.",
+          "url": "https://x.com/claudeai/status/2102435517165912464",
+          "images": [
+            "img/x/HS1ZEbkXAAABmav.png"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Opus 5.5 requires less compute to serve than Opus 5, and its pricing reflects that.\n\nOur tests show that at default settings it will cost 40% less than Opus 5 on typical workloads.",
+          "url": "https://x.com/claudeai/status/2102435522190717210",
+          "images": [
+            "img/x/HS1XWO4XQAAsB0k.png"
+          ]
+        },
+        {
+          "index": 5,
+          "text": "At its default effort setting, Opus 5.5 delivers frontier results for a fraction of the cost per task, often beating other models running at their highest settings.\n\nIt also generates output more than 30% faster than Opus 5.",
+          "url": "https://x.com/claudeai/status/2102435525399331254",
+          "images": [
+            "img/x/HS1XbkUX0AAlGO-.png",
+            "img/x/HS1XbkSXYAA9vyn.jpg",
+            "img/x/HS1XbkVXsAAmOBR.png",
+            "img/x/HS1XbkrWwAA4ltz.png"
+          ]
+        },
+        {
+          "index": 6,
+          "text": "Opus 5.5 communicates more naturally, addressing some of the most common feedback we heard on Opus 5. \n\nIt puts the most important information up front and follows the writing rules you give it, which makes long sessions easier to follow.",
+          "url": "https://x.com/claudeai/status/2102435529044250670",
+          "images": [
+            "img/x/HS1Xh76WMAATuWk.png"
+          ]
+        },
+        {
+          "index": 7,
+          "text": "Together, these advances make Opus 5.5 a noticeably better collaborator. We’re excited to see what you build and discover.\n\nRead more: https://anthropic.com/claude-opus-5-5",
+          "url": "https://x.com/claudeai/status/2102435535889523157"
+        },
+        {
+          "index": 8,
+          "text": "One more thing: we’re increasing five-hour usage limits on Pro, Max, and Team plans. We’re also providing subscription users a rate limit reset, which you can save and use whenever you choose.",
+          "url": "https://x.com/claudeai/status/2102435538120691886"
+        }
+      ],
+      "images": [
+        "img/x/HS1ZEbkXAAABmav.png",
+        "img/x/HS1XWO4XQAAsB0k.png",
+        "img/x/HS1XbkUX0AAlGO-.png",
+        "img/x/HS1XbkSXYAA9vyn.jpg",
+        "img/x/HS1XbkVXsAAmOBR.png",
+        "img/x/HS1XbkrWwAA4ltz.png",
+        "img/x/HS1Xh76WMAATuWk.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source": "claudeai",
+  "watermarkBefore": "2100632677904744716",
+  "pulledAt": "2026-09-19T00:20:00+03:00",
+  "edition": "2026-09-19",
+  "note": "Thread showcase builds. Tweets 2–5 = quote replies; text esențial din quoted author. Fără foto media.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2101017902316982783",
+      "date": "2026-09-18T18:37:57Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "A thread of our favorite things people built with Claude recently:\n\nhttps://x.com/kevin_t_ngo/status/2100238648218427563?s=20\n\n(quote @kevin_t_ngo: I made a website with 25 mini rooms, each with Claude keeping people company.\n\nCreated with Claude Opus 5.)",
+          "url": "https://x.com/claudeai/status/2101017902316982783",
+          "quotedStatusUrl": "https://x.com/kevin_t_ngo/status/2100238648218427563"
+        },
+        {
+          "index": 2,
+          "text": "@ann_nnng: jellyfishes in p5.js, made by claude opus 5 on TypingMind\n\none animal a day, until i've got enough sea creatures to build my own lil aquarium",
+          "url": "https://x.com/claudeai/status/2101017903906607400",
+          "quotedStatusUrl": "https://x.com/ann_nnng/status/2093217880896852284"
+        },
+        {
+          "index": 3,
+          "text": "@prasenx: claude built this sedona sunset you can walk in the browser\nevery rock and sound generated in code \nnothing was downloaded",
+          "url": "https://x.com/claudeai/status/2101017905462722619",
+          "quotedStatusUrl": "https://x.com/prasenx/status/2091551772880085268"
+        },
+        {
+          "index": 4,
+          "text": "@aleksksaa: your app deserves better than a boring spinner \n\ni built Whimsy loaders - pixel loaders that actually spark joy, open-source🌸\n\nhttps://whimsically.app",
+          "url": "https://x.com/claudeai/status/2101017907136258511",
+          "quotedStatusUrl": "https://x.com/aleksksaa/status/2060045788676345888"
+        },
+        {
+          "index": 5,
+          "text": "@yanliudesign: Created a gemstone brush in Claude for the trend: put gemstone stickers on anything and make it sparkle!!! 💎\n\nPick your gems, draw whatever you want, and add a little sparkle to anything.￼￼￼￼￼￼ ✨\n\n⛓️‍💥Try it yourself, link in the comments￼",
+          "url": "https://x.com/claudeai/status/2101017908843352238",
+          "quotedStatusUrl": "https://x.com/yanliudesign/status/2100063749403263006"
+        },
+        {
+          "index": 6,
+          "text": "What are you building this weekend?",
+          "url": "https://x.com/claudeai/status/2101017910365901059"
+        }
+      ]
+    }
+  ]
+}

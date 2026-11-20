@@ -1,0 +1,96 @@
+{
+  "source": "ClaudeDevs",
+  "watermarkBefore": "2103170368794185758",
+  "pulledAt": "2026-09-26T00:21:27+03:00",
+  "edition": "2026-09-26",
+  "note": "4 postări noi: (1) thread plugins portal 5 tweet-uri root=2103577007938228300; (2) thread graceful 5h limit 2 tweet-uri root=2103561342057943314 (video, fără foto statică); (3) single Opus 5.5 task cost calculator 2103548467729887677; (4) single Claude FM broadcast 2103529951408562569. Watermark încă pe ProfileOriginals. Skip ClaudreDevrs 2103448485735379284 (author ≠ ClaudeDevs). Twiscan 0; x.com SSR + fxtwitter. 2 imagini descărcate.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2103577007938228300",
+      "date": "2026-09-25T20:06:55Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "It’s now easier to build plugins for Claude.\n\nWe built a new portal to submit your plugin, track review, and see usage.\n\nPlugins package MCP and skills, and are becoming the way to build for Claude. MCP usage across Claude products is up 110x this year!\n\nhttps://claude.com/blog/build-plugins-for-claude",
+          "url": "https://x.com/ClaudeDevs/status/2103577007938228300"
+        },
+        {
+          "index": 2,
+          "text": "Two ways to submit:\n\n- Single MCP connector: point to your remote MCP server\n- Plugin bundle: combine MCP servers and skills in a GitHub repo\n\nYou make submissions directly in Claude: https://claude.ai/directory/manage/new",
+          "url": "https://x.com/ClaudeDevs/status/2103577009645289578",
+          "images": [
+            "img/x/HTFnzlFXEAAcPFG.jpg"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Once you're live, usage analytics show installs by product and version, so you can prioritize fixes and features. You can also see how often your listing is viewed and which searches lead people to it.",
+          "url": "https://x.com/ClaudeDevs/status/2103577013420499405",
+          "images": [
+            "img/x/HTFn10JWcAAiotL.jpg"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Plugins are the main way for third-party developers to create extensions for Claude. Over the coming weeks, one discovery experience will roll out across Claude and Claude Code.\n\nRead the blog to learn more: https://claude.com/blog/build-plugins-for-claude",
+          "url": "https://x.com/ClaudeDevs/status/2103577016326914186"
+        },
+        {
+          "index": 5,
+          "text": "Go build plugins for Claude!\n\nhttps://claude.com/docs/build/overview",
+          "url": "https://x.com/ClaudeDevs/status/2103577017748766835"
+        }
+      ],
+      "images": [
+        "img/x/HTFnzlFXEAAcPFG.jpg",
+        "img/x/HTFn10JWcAAiotL.jpg"
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
+      "date": "2026-09-25T19:04:40Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can.",
+          "url": "https://x.com/ClaudeDevs/status/2103561342057943314"
+        },
+        {
+          "index": 2,
+          "text": "As we roll this out, it's available for:\n\n- Pro plans once a week\n- Max and Team Premium plans each time a 5-hour session limit is hit.\n\nIf you need to keep going past the wrap-up, you can continue with extra usage.",
+          "url": "https://x.com/ClaudeDevs/status/2103561343391735842"
+        }
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "date": "2026-09-25T18:13:31Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Opus 5.5 is 20% cheaper per input and output token than Opus 5, and 60% cheaper on cache reads. So what does that actually do to the cost of a task in Claude Code? \n\nWe ran the numbers, and built a calculator so you can run yours from /usage:\n\nhttps://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+          "url": "https://x.com/ClaudeDevs/status/2103548467729887677"
+        }
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2103529951408562569",
+      "date": "2026-09-25T16:59:56Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Claude FM 🎵 music for thinking and building https://x.com/i/broadcasts/1YGNrbqpRvNGw",
+          "url": "https://x.com/ClaudeDevs/status/2103529951408562569"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+async function open(url){const t=await (await fetch('http://127.0.0.1:9334/json/new?'+url,{method:'PUT'})).json();const ws=new WebSocket(t.webSocketDebuggerUrl);await new Promise(r=>ws.onopen=r);let id=0;const pend={};ws.onmessage=m=>{const d=JSON.parse(m.data);if(d.id&&pend[d.id]){pend[d.id](d);delete pend[d.id]}};return expr=>new Promise(r=>{const i=++id;pend[i]=r;ws.send(JSON.stringify({id:i,method:'Runtime.evaluate',params:{expression:expr,returnByValue:true,awaitPromise:true}}))}).then(d=>d.result&&d.result.result&&d.result.result.value)}
+(async()=>{for(const u of process.argv.slice(2)){const p=await open(u);await sleep(15000);const t=await p('document.body.innerText');require('fs').writeFileSync('txt_'+u.replace(/[^a-z0-9]/gi,'_')+'.txt',t);console.log('==',u,t.length);}
+process.exit(0)})();

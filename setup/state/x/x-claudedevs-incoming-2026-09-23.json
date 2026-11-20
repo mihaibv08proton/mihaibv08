@@ -1,0 +1,46 @@
+{
+  "source": "ClaudeDevs",
+  "watermarkBefore": "2100633571543367691",
+  "pulledAt": "2026-09-23T00:29:47+03:00",
+  "edition": "2026-09-23",
+  "note": "2 postări originale: thread Opus/Code limits (2 tweet-uri) + tips session. ID 2102435511222890900 din SSR = tweet @claudeai quotat, nu original ClaudeDevs — sărit. Twiscan 0; x.com SSR. 1 imagine.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102491840612380934",
+      "date": "2026-09-22T20:14:51Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Try these in your first Opus 5.5 session:\n\n→ Hand over a whole task. Define \"done\" and when to check in.\n→ Drop \"think carefully\". It always thinks first.\n→ After a long run, check what it needs to go further.\n\nOur playbook: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+          "url": "https://x.com/ClaudeDevs/status/2102491840612380934"
+        }
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102438800836489554",
+      "date": "2026-09-22T16:44:06Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Opus 5.5 performs at the level of Fable 5.1. It's ~30% faster and ~40% cheaper than Opus 5 per task.\n\nIn Claude Code:\n- 5-hour session limits increase 20% today\n- Opus 5.5 is priced lower, so it goes 25% further within limits\n- Pro, Max, and Team users get a reset to use anytime",
+          "url": "https://x.com/ClaudeDevs/status/2102438800836489554",
+          "images": [
+            "img/x/HS1bH5zaUAAFcD9.png"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "If you're on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22.\n\nOpus 5.5 is the default for paid plans. It's priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
+          "url": "https://x.com/ClaudeDevs/status/2102438803013333469"
+        }
+      ],
+      "images": [
+        "img/x/HS1bH5zaUAAFcD9.png"
+      ]
+    }
+  ]
+}

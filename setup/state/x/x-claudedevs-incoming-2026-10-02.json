@@ -1,0 +1,64 @@
+{
+  "source": "@ClaudeDevs",
+  "watermarkBefore": "2105391694741119047",
+  "pulledAt": "2026-10-02T00:11:42+03:00",
+  "edition": "2026-10-02",
+  "note": "1 postare nouă: thread Claude Code mods (7 tweet-uri, root=2105721434807083061) — Token Weather, Blast Radius, Replay Theater + directory/playground. 4 video→thumbnail. Skip reply rohit3a (2105721857760788695). SSR ProfileOriginals + status expand + fxtwitter. 4 thumbnails.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2105721434807083061",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "createdAt": "2026-10-01T18:08:07Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "You can now mod Claude Code:\n\n- Change how it behaves\n- Customize the UI\n- Swap in your own features\n\nWrite one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.\n\nA few examples:",
+          "images": [
+            "img/x/Q9dFvgbOG4e1ZxIc.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Token Weather adds a forecast of your context window: how full it is, plus a sparkline of your last 12 turns.",
+          "images": [
+            "img/x/GRPpr0kErx8FGkEv.jpg"
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Blast Radius catches risky shell commands like rm -rf, git reset --hard, or a force push before they run. It shows what the command would touch in a side pane.",
+          "images": [
+            "img/x/ESm4JRalgOHBmEXu.jpg"
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Replay Theater records every file edit Claude makes in a turn. Run /replay to step through the diffs one at a time in a docked pane.",
+          "images": [
+            "img/x/hQLRrRnvVDs-rQDq.jpg"
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Keep mods to yourself, or submit them to the Claude directory if others might find them useful. Mods run with the same access to your machine as Claude Code itself, so make sure to only install mods from sources you trust.\n\nhttps://claude.ai/directory"
+        },
+        {
+          "n": 6,
+          "text": "We're adding pre-built sample mods to the Claude Code Playground repo you can riff off of, if you need some inspiration.\n\nLearn more in our getting started guide: https://claude.dev/blog/getting-started-with-claude-code-mods/"
+        },
+        {
+          "n": 7,
+          "text": "We’ve used mods to build features like /diff and AGENTS.md support. We hope you find them as useful (and fun) as we do, and can't wait to see what you build!\n\nhttps://claude.com/blog/claude-code-mods"
+        }
+      ],
+      "images": [
+        "img/x/Q9dFvgbOG4e1ZxIc.jpg",
+        "img/x/GRPpr0kErx8FGkEv.jpg",
+        "img/x/ESm4JRalgOHBmEXu.jpg",
+        "img/x/hQLRrRnvVDs-rQDq.jpg"
+      ]
+    }
+  ]
+}

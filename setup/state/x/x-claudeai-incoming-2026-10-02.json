@@ -1,0 +1,29 @@
+{
+  "source": "@claudeai",
+  "watermarkBefore": "2105370680485417401",
+  "pulledAt": "2026-10-02T00:11:42+03:00",
+  "edition": "2026-10-02",
+  "note": "1 postare nouă: thread 2 tweet-uri (root=2105721630051692804) — promo 50% usage limits pe design/deck/doc până Oct 15; quote propriu vechi (fără media nouă). Skip replies alți autori pe status page (ishuagra02). SSR ProfileOriginals + status expand + fxtwitter. 0 imagini.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusId": "2105721630051692804",
+      "statusUrl": "https://x.com/claudeai/status/2105721630051692804",
+      "createdAt": "2026-10-01T18:08:53Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing.",
+          "images": []
+        },
+        {
+          "n": 2,
+          "text": "Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans.\n\nHow it works and full terms: https://support.claude.com/en/articles/17274727",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  ]
+}

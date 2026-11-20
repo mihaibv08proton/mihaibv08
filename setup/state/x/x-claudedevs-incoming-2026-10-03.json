@@ -1,0 +1,32 @@
+{
+  "source": "@ClaudeDevs",
+  "watermarkBefore": "2105721434807083061",
+  "pulledAt": "2026-10-03T00:10:25+03:00",
+  "edition": "2026-10-03",
+  "note": "1 postare nouă: thread Claude Code plugin \"You should Know\" (2 tweet-uri, root=2106118517447876618); video→thumbnail. Skip reply LucasNavallo 2106118791671554051. SSR ProfileOriginals + status expand + fxtwitter. 1 thumbnail.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2106118517447876618",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2106118517447876618",
+      "createdAt": "2026-10-02T20:25:59Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "We're adding a new plugin to Claude Code: You should Know.\n\nIt scans Claude's output for important information you might miss to help keep you in the loop.\n\nEnable it with:\n\n/plugin enable cc-plugin-you-should-know@builtin",
+          "images": [
+            "img/x/re-zKSZJxfNzWR7l.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "\"You should know\" is a mod that works by spinning off a sideagent to observe Claude's output.\n\nRead more about mods in our newest blog post: https://claude.dev/blog/getting-started-with-claude-code-mods/"
+        }
+      ],
+      "images": [
+        "img/x/re-zKSZJxfNzWR7l.jpg"
+      ]
+    }
+  ]
+}

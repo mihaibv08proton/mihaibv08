@@ -1,0 +1,32 @@
+{
+  "source": "@claudeai",
+  "watermarkBefore": "2104674987164782598",
+  "pulledAt": "2026-10-01T00:19:29+03:00",
+  "edition": "2026-10-01",
+  "note": "1 postare nouă: thread Claude Founder House (2 tweet-uri, root=2105370680485417401) SF Tech Week Oct 6–8 + Stockholm Oct 14; video→thumbnail. Skip replies alți autori pe status page (dustinng_gs). SSR ProfileOriginals + status expand + fxtwitter. 1 thumbnail.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusId": "2105370680485417401",
+      "statusUrl": "https://x.com/claudeai/status/2105370680485417401",
+      "createdAt": "2026-09-30T18:54:20Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).\n\nCome for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you.",
+          "images": [
+            "img/x/0QfMbNV__8T9wGZD.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Register for San Francisco: https://www.anthropic.com/events/claude-founder-house-san-francisco\n\nRegister for Stockholm: https://www.anthropic.com/events/claude-founder-house-stockholm"
+        }
+      ],
+      "images": [
+        "img/x/0QfMbNV__8T9wGZD.jpg"
+      ]
+    }
+  ]
+}

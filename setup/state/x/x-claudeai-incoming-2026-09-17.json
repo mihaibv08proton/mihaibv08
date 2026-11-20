@@ -1,0 +1,109 @@
+{
+  "source": "claudeai",
+  "watermarkBefore": null,
+  "note": "Watermark @claudeai: nimic în ziar (doar RohOnChain). Pull test = postări recente noi. Thread computer-use tweet 2 fără statusUrl (text din thread public; URL lipsă). | Newlines păstrate; images[] adăugat unde există foto; fără RohOnChain.",
+  "pulledAt": "2026-09-17T10:30:00+03:00",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2100258490740539730",
+      "date": "2026-09-16T16:20:19Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Claude Cowork and chat are merging into one Claude.\n\nAsk a quick question or hand over a report, and Claude takes it from there, even after you close your laptop. If something's unclear, Claude asks—you keep the final say.\n\nRolling out to Pro and Max over the next few weeks.",
+          "url": "https://x.com/claudeai/status/2100258490740539730"
+        },
+        {
+          "index": 2,
+          "text": "You can also now make decks, docs, and designs in your conversation.\n\nDraft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place.",
+          "url": "https://x.com/claudeai/status/2100258492590207079"
+        },
+        {
+          "index": 3,
+          "text": "Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.\n\nWhen it's ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.",
+          "url": "https://x.com/claudeai/status/2100258494221812123"
+        },
+        {
+          "index": 4,
+          "text": "If you've been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.\n\nClaude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://claude.com/blog/cowork-is-now-claude",
+          "url": "https://x.com/claudeai/status/2100258495543071016"
+        }
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2099876514330206578",
+      "date": "2026-09-15T15:02:29Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Salesforce in Claude is now available in beta.\n\nIt brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation.",
+          "url": "https://x.com/claudeai/status/2099876514330206578"
+        },
+        {
+          "index": 2,
+          "text": "Learn more about Salesforce in Claude: https://claude.com/blog/salesforce-in-claude",
+          "url": "https://x.com/claudeai/status/2099876515840245772"
+        }
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2098138736642933143",
+      "date": "2026-09-10T19:57:11Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.\n\nRSVP at https://luma.com/claudecommunity?tag=build%20day",
+          "url": "https://x.com/claudeai/status/2098138736642933143"
+        }
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2097718980437831935",
+      "date": "2026-09-09T16:09:13Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.\n\nEnterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.\n\nGet started: https://claude.com/platform/marketplace",
+          "url": "https://x.com/claudeai/status/2097718980437831935",
+          "images": [
+            "https://pbs.twimg.com/media/HRyXbO5aUAE2G9n.jpg?name=orig"
+          ]
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HRyXbO5aUAE2G9n.jpg?name=orig"
+      ]
+    },
+    {
+      "handle": "claudeai",
+      "statusUrl": "https://x.com/claudeai/status/2095226833293685100",
+      "date": "2026-09-02T19:06:19Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "images": [
+            "https://pbs.twimg.com/media/HRO9mchaQAANgRA.jpg?name=orig"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Available in beta on Pro and Max plans, in the desktop app on macOS. If you're new to computer use, turn it on in Settings → General → Computer use. How it works, and how to use it safely:"
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HRO9mchaQAANgRA.jpg?name=orig"
+      ]
+    }
+  ]
+}

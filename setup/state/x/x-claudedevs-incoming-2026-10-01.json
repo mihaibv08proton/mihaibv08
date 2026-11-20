@@ -1,0 +1,28 @@
+{
+  "source": "@ClaudeDevs",
+  "watermarkBefore": "2104687805876367793",
+  "pulledAt": "2026-10-01T00:19:29+03:00",
+  "edition": "2026-10-01",
+  "note": "1 postare nouă (single): Claude.dev new home for developers + video. Thumbnail ca imagine. Skip 2104701177141264485 author=IceSolst (quote RT pe timeline). Skip replies alți autori pe status page. SSR ProfileOriginals + fxtwitter. 1 thumbnail.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2105391694741119047",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2105391694741119047",
+      "createdAt": "2026-09-30T20:17:50Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "https://Claude.dev is our new home for developers building with Claude. \n\nYou'll find engineering deep dives, Claude Code and API guides, tips from the teams building Claude, and some fun easter eggs.",
+          "images": [
+            "img/x/eVcBmx8_2vyTsv-I.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/eVcBmx8_2vyTsv-I.jpg"
+      ]
+    }
+  ]
+}

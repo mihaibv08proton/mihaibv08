@@ -1,0 +1,58 @@
+{
+  "source": "@ClaudeDevs",
+  "watermarkBefore": "2103577007938228300",
+  "pulledAt": "2026-09-29T00:24:49+03:00",
+  "edition": "2026-09-29",
+  "note": "2 postări noi: (1) thread Sonnet 5.5 for Claude Code (5 tweet-uri, quote la @claudeai); (2) single eval design & hillclimbing article. SKIP RT @claudeai Sonnet intro pe timeline. SSR + status-page thread + fxtwitter. 1 imagini (video thumb).",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2104641318555353400",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "createdAt": "2026-09-28T18:36:07Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goes further too.\n\nUse it for well-scoped everyday tasks like fixing bugs and quickly iterating on features.",
+          "images": [
+            "img/x/pEpWuexI0XLeEyzW.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Price is the same as Sonnet 5: $2/$10 per million tokens with cache reads at $0.20.\n\nThinking is always on but you can use `between_tools` to turn off upfront thinking.\n\nHere’s our Sonnet 5.5 migration guide: https://platform.claude.com/docs/en/models/sonnet-5-5/migration-guide."
+        },
+        {
+          "n": 3,
+          "text": "We recommend starting with Opus for large projects and Sonnet for tasks where you need to balance quality with speed and cost. Claude apps default to medium effort, while Platform is at high. Cranking Sonnet to max loses some of the balance (and you might want to consider Opus)."
+        },
+        {
+          "n": 4,
+          "text": "We’re extending preserved thinking with Sonnet 5.5 to curb distillation attacks via account-switching. Thinking stays in the original org that generated it, so if you switch accounts mid-session, Claude will reread the session and generate new thinking. https://platform.claude.com/docs/en/build-with-claude/preserved-thinking"
+        },
+        {
+          "n": 5,
+          "text": "Sonnet 5.5 is available now in the Claude Platform and Claude Code.\n\nWe granted all Pro, Max, and Team users a reset last Tuesday. If you haven’t used it yet, you can still apply it whenever you want, before Oct 22. https://clau.de/reset"
+        }
+      ],
+      "images": [
+        "img/x/pEpWuexI0XLeEyzW.jpg"
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2104676099083190435",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2104676099083190435",
+      "createdAt": "2026-09-28T20:54:19Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Claude can now help you build evaluations and hillclimb on them.\n\nIn this article, we share guidance on eval design & skills that Claude Code can use to improve your applications.\n\nhttps://claude.dev/blog/automating-eval-design-and-hillclimbing/"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

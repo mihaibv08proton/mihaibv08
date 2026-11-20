@@ -1,0 +1,96 @@
+{
+  "source": "@claudeai",
+  "watermarkBefore": "2105721630051692804",
+  "pulledAt": "2026-10-03T00:10:25+03:00",
+  "edition": "2026-10-03",
+  "note": "1 postare nouă: thread inventive things / Opus 5.5 demos (10 tweet-uri, root=2106125468365918268); video→thumbnail. Skip reply zenoware 2106125855584141329. Skip birdwatch id 2105728121878040832 (nu e tweet). SSR ProfileOriginals + status expand + fxtwitter. 9 thumbnails.",
+  "posts": [
+    {
+      "handle": "claudeai",
+      "statusId": "2106125468365918268",
+      "statusUrl": "https://x.com/claudeai/status/2106125468365918268",
+      "createdAt": "2026-10-02T20:53:36Z",
+      "thread": true,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Lots of inventive things made with Claude these past few weeks. A few of our favorites:\n\nA working watermill, built with Opus 5.5.",
+          "images": [
+            "img/x/7XO-gsduGRB63T3x.jpg"
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Embossed cards, made with Opus 5.5.",
+          "images": [
+            "img/x/KaZwP9bRIBIKsMEs.jpg"
+          ]
+        },
+        {
+          "n": 3,
+          "text": "A 3D site that flies you from outside the Milky Way down to Jupiter’s moons, Opus 5.5.",
+          "images": [
+            "img/x/Qe4GMU7MTsWfMeVc.jpg"
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Water, simulated in the browser.",
+          "images": [
+            "img/x/FK4EXlMDjxkrVNaN.jpg"
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Poems, illustrated in Claude Code.",
+          "images": [
+            "img/x/9S_3pUIgfh_PPnL4.jpg"
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Claude Code and a camera, left running overnight on Old Street.",
+          "images": [
+            "img/x/cY1N7RPYJ2bubuJa.jpg"
+          ]
+        },
+        {
+          "n": 7,
+          "text": "A pixel walk through Seattle that follows the real weather and time of day.",
+          "images": [
+            "img/x/H5_l1w6B8-h1VHU_.jpg"
+          ]
+        },
+        {
+          "n": 8,
+          "text": "A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5.",
+          "images": [
+            "img/x/WKh5nSFzmgW3dcBX.jpg"
+          ]
+        },
+        {
+          "n": 9,
+          "text": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5.",
+          "images": [
+            "img/x/v1YJJYplKWAb44Ui.jpg"
+          ]
+        },
+        {
+          "n": 10,
+          "text": "What are you exploring with Claude this weekend?"
+        }
+      ],
+      "images": [
+        "img/x/7XO-gsduGRB63T3x.jpg",
+        "img/x/KaZwP9bRIBIKsMEs.jpg",
+        "img/x/Qe4GMU7MTsWfMeVc.jpg",
+        "img/x/FK4EXlMDjxkrVNaN.jpg",
+        "img/x/9S_3pUIgfh_PPnL4.jpg",
+        "img/x/cY1N7RPYJ2bubuJa.jpg",
+        "img/x/H5_l1w6B8-h1VHU_.jpg",
+        "img/x/WKh5nSFzmgW3dcBX.jpg",
+        "img/x/v1YJJYplKWAb44Ui.jpg"
+      ]
+    }
+  ]
+}

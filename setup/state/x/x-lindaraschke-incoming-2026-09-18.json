@@ -1,0 +1,104 @@
+{
+  "source": "LindaRaschke",
+  "watermarkBefore": "2100383073774760150",
+  "pulledAt": "2026-09-18T00:25:00+03:00",
+  "edition": "2026-09-18",
+  "note": "Doar postări cu id > watermark. Newlines păstrate. images pe tweets[].images[] cu căi relative img/x/.",
+  "posts": [
+    {
+      "handle": "LindaRaschke",
+      "statusUrl": "https://x.com/LindaRaschke/status/2100661003730002163",
+      "date": "2026-09-17T18:59:46Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Rus shoddy trend down while NAZ holding best - kudos to semis.",
+          "url": "https://x.com/LindaRaschke/status/2100661003730002163",
+          "images": [
+            "img/x/HScL47KWkAAoMKQ.png",
+            "img/x/HScMCPUWgAEQLxd.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HScL47KWkAAoMKQ.png",
+        "img/x/HScMCPUWgAEQLxd.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusUrl": "https://x.com/LindaRaschke/status/2100660074683171246",
+      "date": "2026-09-17T18:56:04Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Crude had the best trend UP off 8 AM reading after first 30 minutes...",
+          "url": "https://x.com/LindaRaschke/status/2100660074683171246",
+          "images": [
+            "img/x/HScLFX3XoAAeI-6.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HScLFX3XoAAeI-6.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusUrl": "https://x.com/LindaRaschke/status/2100659892625252717",
+      "date": "2026-09-17T18:55:21Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "GC and bonds US session...not so interesting!",
+          "url": "https://x.com/LindaRaschke/status/2100659892625252717",
+          "images": [
+            "img/x/HScKtNhXMAAaR1U.png",
+            "img/x/HScK0YoXMAECtTz.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HScKtNhXMAAaR1U.png",
+        "img/x/HScK0YoXMAECtTz.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusUrl": "https://x.com/LindaRaschke/status/2100659431058944420",
+      "date": "2026-09-17T18:53:31Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Do you ever go back and review how the US session traded relative to the overnight session? (I start all US sessions at 8 AM EST.)  SP and SI 15 min",
+          "url": "https://x.com/LindaRaschke/status/2100659431058944420",
+          "images": [
+            "img/x/HScKKkZXMAA5Bpk.png",
+            "img/x/HScKNBmXYAAYIL3.png"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/HScKKkZXMAA5Bpk.png",
+        "img/x/HScKNBmXYAAYIL3.png"
+      ]
+    },
+    {
+      "handle": "LindaRaschke",
+      "statusUrl": "https://x.com/LindaRaschke/status/2100651587886522677",
+      "date": "2026-09-17T18:22:21Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "7713.50 was OP...Will it or wont it...SPs have refused to trade there all day.  zzzzzzzzzzzzzzzzzzz",
+          "url": "https://x.com/LindaRaschke/status/2100651587886522677"
+        }
+      ]
+    }
+  ]
+}

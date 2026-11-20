@@ -1,0 +1,56 @@
+{
+  "source": "ClaudeDevs",
+  "watermarkBefore": "2102491840612380934",
+  "pulledAt": "2026-09-24T00:34:37+03:00",
+  "edition": "2026-09-24",
+  "note": "2 postări noi: (1) thread Cloud sessions 4 tweet-uri root=2102871550974427462 (+1 foto); (2) single 3x faster claude.ai 2102839691154427983 (link card, fără foto statică). Twiscan 0; x.com SSR ProfileOriginals. 1 imagine descărcată.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102871550974427462",
+      "date": "2026-09-23T21:23:41Z",
+      "thread": true,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed.\n\nExisting subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.",
+          "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
+          "images": [
+            "img/x/HS7mgHtacAAYOqU.jpg"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Cloud sessions run on Anthropic-hosted infrastructure, so the work keeps going even without your computer running. Start one at https://claude.ai/code, from the Code tab in the Claude mobile app, from the desktop app, or with claude --cloud in the CLI.",
+          "url": "https://x.com/ClaudeDevs/status/2102871552849322082"
+        },
+        {
+          "index": 3,
+          "text": "The credit is separate from your usage limits, and it applies automatically once you start a cloud session.\n\nIf you hit a limit locally, keep going in the cloud until your credit runs out. One credit per account, for cloud sessions only.",
+          "url": "https://x.com/ClaudeDevs/status/2102871554069774451"
+        },
+        {
+          "index": 4,
+          "text": "Follow the link below to claim the credit or run /claim-credit in the CLI. You’ll need GitHub connected to start a session. Claim by Oct 7. Terms apply.\n\nhttps://claude.ai/code/claim-credit/10",
+          "url": "https://x.com/ClaudeDevs/status/2102871555244257518"
+        }
+      ],
+      "images": [
+        "img/x/HS7mgHtacAAYOqU.jpg"
+      ]
+    },
+    {
+      "handle": "ClaudeDevs",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2102839691154427983",
+      "date": "2026-09-23T19:17:05Z",
+      "thread": false,
+      "tweets": [
+        {
+          "index": 1,
+          "text": "We made claude​.ai 3x faster in two weeks.\n\nHere’s how we use Claude to measure, debug and improve performance. Prompts and methods included.\n\nhttps://claude.dev/blog/how-we-made-claude-ai-faster/",
+          "url": "https://x.com/ClaudeDevs/status/2102839691154427983"
+        }
+      ]
+    }
+  ]
+}

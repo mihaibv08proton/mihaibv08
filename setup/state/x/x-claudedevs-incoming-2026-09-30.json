@@ -1,0 +1,28 @@
+{
+  "source": "@ClaudeDevs",
+  "watermarkBefore": "2104676099083190435",
+  "pulledAt": "2026-09-30T00:12:13+03:00",
+  "edition": "2026-09-30",
+  "note": "1 postare nouă (single): guide building with Sonnet 5.5 + video. Thumbnail ca imagine. Skip RT/author≠ClaudeDevs (2104633115620823187=@claudeai, 2104701177141264485=@IceSolst). Video notat. 1 thumbnail descărcat.",
+  "posts": [
+    {
+      "handle": "ClaudeDevs",
+      "statusId": "2104687805876367793",
+      "statusUrl": "https://x.com/ClaudeDevs/status/2104687805876367793",
+      "createdAt": "2026-09-28T21:40:50Z",
+      "thread": false,
+      "tweets": [
+        {
+          "n": 1,
+          "text": "Claude Sonnet 5.5 is out! We wrote a guide for building with it:\n\n• choosing between Sonnet 5.5 and Opus 5.5\n• migrating from Sonnet 5 and tuning effort\n• using it in Claude Code\n\nhttps://claude.dev/blog/building-with-claude-sonnet-5-5/",
+          "images": [
+            "img/x/xhLxqQ74Siz5FXXj.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "img/x/xhLxqQ74Siz5FXXj.jpg"
+      ]
+    }
+  ]
+}

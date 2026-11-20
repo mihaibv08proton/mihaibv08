@@ -1,0 +1,131 @@
+[
+  {
+    "handle": "ClaudeDevs",
+    "statusUrl": "https://x.com/ClaudeDevs/status/2102893178273874102",
+    "date": "2026-09-23T22:49:38Z",
+    "thread": true,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "We've just added local support to Projects in Claude Code, so threads can now run on your own machine.",
+        "url": "https://x.com/ClaudeDevs/status/2102893178273874102"
+      },
+      {
+        "index": 2,
+        "text": "We're working through the waitlist, and are giving access to Projects to more Pro and Max users. If you used Claude projects before, we're still working on migrating you over.\n\nThe early access waitlist if you haven't signed up yet:\n\nhttps://claude.com/form/projects",
+        "url": "https://x.com/ClaudeDevs/status/2102893179662106684"
+      }
+    ]
+  },
+  {
+    "handle": "ClaudeDevs",
+    "statusUrl": "https://x.com/ClaudeDevs/status/2102940480736821610",
+    "date": "2026-09-24T01:57:36Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Sorry for any confusion! Cloud sessions run on your Pro or Max plan, like the rest of Claude Code. This promo is an optional one-time credit that your cloud sessions spend first, before falling back onto your normal plan usage. \n\nWe hope you enjoy the credits!",
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610"
+      }
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2103096354109288488",
+    "date": "2026-09-24T12:16:59Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "DAX sets early overnight tone with \"test reject\" on look below PDL.",
+        "url": "https://x.com/LindaRaschke/status/2103096354109288488",
+        "images": [
+          "img/x/HS-yzIrXkAAYy3Y.png",
+          "img/x/HS-y-P3XMAAyJVd.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS-yzIrXkAAYy3Y.png",
+      "img/x/HS-y-P3XMAAyJVd.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2103101465476624681",
+    "date": "2026-09-24T12:37:17Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "My longer term timing indicator, (which I have been updating monthly), is a long ways away from a Buy (buy shares for your investment portfolio). It has remained in high risk/liquidation mode since the middle of August.",
+        "url": "https://x.com/LindaRaschke/status/2103101465476624681",
+        "images": [
+          "img/x/HS-3AAPXsAASOSd.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HS-3AAPXsAASOSd.png"
+    ]
+  },
+  {
+    "handle": "ClaudeDevs",
+    "statusUrl": "https://x.com/ClaudeDevs/status/2103170368794185758",
+    "date": "2026-09-24T17:11:05Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Today, we'll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We've seen some coordinated attacks on our systems in recent weeks, and this is one layer of defense.\n\nIn recent testing, 99.7% of accounts using Claude Code, Claude​.ai, or Cowork did not hit any of these newly \"billable blocks.\" The classifiers behind the blocks we’re resuming charging for today are tuned to have a <0.1% false positive rate. We know that's not 0%, and we're going to keep improving them so they interrupt your work less often. If you think a request has been blocked incorrectly, please report it with /feedback in Claude Code. https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback#how-refusals-are-billed",
+        "url": "https://x.com/ClaudeDevs/status/2103170368794185758"
+      }
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2103210414318535018",
+    "date": "2026-09-24T19:50:13Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "Follow up on GME... Day 12 on extended run with a bit of range expansion....Gotta love this game!",
+        "url": "https://x.com/LindaRaschke/status/2103210414318535018",
+        "images": [
+          "img/x/HTAaajtXkAACLu_.png"
+        ]
+      }
+    ],
+    "images": [
+      "img/x/HTAaajtXkAACLu_.png"
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2103212789498081445",
+    "date": "2026-09-24T19:59:39Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "GME, A, ILMN, LLY PRGO - a few of the Buy signals I had in the first 10 minutes.  ABT, ETSY, FDX, MNST just a few of the Shorts. These early dogpile footprints - so obvious, right? MCD was a gem of a short yesterday. Thanks to my TS scan...",
+        "url": "https://x.com/LindaRaschke/status/2103212789498081445"
+      }
+    ]
+  },
+  {
+    "handle": "LindaRaschke",
+    "statusUrl": "https://x.com/LindaRaschke/status/2103213001998286986",
+    "date": "2026-09-24T20:00:30Z",
+    "thread": false,
+    "tweets": [
+      {
+        "index": 1,
+        "text": "We all need moments like this!",
+        "url": "https://x.com/LindaRaschke/status/2103213001998286986"
+      }
+    ]
+  }
+]
