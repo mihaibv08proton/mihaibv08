@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-20",
+  "checked_at": "~15:39-15:45 Europe/Bucharest",
+  "baseline": "/workspace/prop-firms-2026-11-19.json (md5 66f1c52196d47e8046a3209ee11de80a)",
+  "verdict": "NONE",
+  "verdict_note": "Nicio reducere nouă și niciun BF/CM. FYI: Lucid a scumpit prețurile de listă PRO/Flex 25K/50K, VAULT rămâne 30% (scumpire, nu promo).",
+  "black_friday_cyber_monday": "Niciun anunț oficial BF/CM pe site-uri sau pe X (4 conturi), nici teasere cu cifre.",
+  "firms": {
+    "lucid": {
+      "verdict": "NONE (FYI scumpire)",
+      "code": "VAULT 30% (W/ COUPON AT CHECKOUT), fără dată de final",
+      "prices": {
+        "PRO": "$116→$81.20, $180→$126, $272→$190.40, $365→$255.50",
+        "Flex": "$76→$53.20, $126→$88.20, $215→$150.50, $323→$226.10",
+        "Daily": "$86→$60.20, $122→$85.40, $200→$140, $286→$200.20",
+        "Direct": "$329→$230.30, $515→$360.50, $700→$490, $836→$585.20"
+      },
+      "x": "@TradingLucid: doar reply 2123524175436619944, fără reduceri",
+      "url": "https://lucidtrading.com/",
+      "change_vs_19_11": "PRO 25K $108→$116 (cu VAULT $75.60→$81.20), PRO 50K $172→$180 ($120.40→$126), Flex 25K $65→$76 ($45.50→$53.20), Flex 50K $115→$126 ($80.50→$88.20). VAULT tot 30%. Checkout VAULT netestat."
+    },
+    "fundednext_futures": {
+      "verdict": "NONE",
+      "banner": "Direct: Up to 47% Off · FNDIRECT; Reset is Not Applicable • New users get 47% Off • Recurring users get 40% Off • No Code Usage Limit",
+      "direct_prices_first_purchase_47": "50K $284.99→$149.99, 100K $584.99→$309.99, 150K $754.99→$399.99",
+      "direct_prices_recurring_40": "50K $169.99, 100K $349.99, 150K $449.99 (100K/150K recurring doar pe X)",
+      "direct_18_11": "50K $283.99→$169.99 (40%); 100K/150K nu existau",
+      "period": "Nicio dată de final pe site sau pe X",
+      "covers": "Evaluare Futures Direct (one-time fee); reset nu se aplică",
+      "unchanged": "FNFLEX First 2: 47% / After 2: 40% (Flex 50K $141.99→$74.99, 100K $273.99→$144.99, 150K $490.99→$259.99); RAPID 25K $125.99→$64.99, 50K $299.99→$149.99, 100K $483.99→$249.99",
+      "not_verified": "Checkout FNDIRECT fără login netestat",
+      "x": "@FundedNext 2123468288680435836, 2123736348221936013 (info Direct, fără discount nou); @fnfutures 2123464563157073923 reply",
+      "urls": [
+        "https://fundednext.com/futures",
+        "https://fundednext.com/futures/direct"
+      ],
+      "out_of_scope": "November offer 41% / Stellar / Labs = CFD",
+      "status": "Neschimbat față de 19.11: FNDIRECT 47%/40%, FNFLEX 47%/40%, RAPID de la $64.99, fără dată de final.",
+      "out_of_scope_changes": "Reducerile de bundle din selectorul de cantitate (5th 10%/10th 20%) au dispărut; bloc Labs waitlist."
+    },
+    "tradeify": {
+      "verdict": "NONE",
+      "nov": "couponInfo/couponDetails identice (site republicat 20.11 06:14 GMT, fără schimbări la cupoane)",
+      "banner": "GET 30% OFF WITH CODE \"NOV\" - 45% OFF 25K ACCOUNTS (EXCLUDING MIAMI) • ENDS 30 NOVEMBER, 11:59PM EST",
+      "growth": "$99→$54, $145→$102, $255→$179, $369→$258",
+      "select": "$109→$60, $165→$116, $265→$186, $369→$258, $525→$368",
+      "lightning": "$345→$190, $492→$344, $660→$462, $796→$557",
+      "checkout_verified_no_login": [
+        "Growth 25K $99.00 − $44.55 = $54.45 (NOV aplicat, browser 20.11)"
+      ],
+      "miami_2_0": "neschimbat: 30% NOV, 10K $113→$79, 25K $219→$153, 50K $376→$263, Sale ends December 10",
+      "x": "@Tradeify: fără reduceri; 2123472740879319133 — Select 300K devine plan permanent (info)",
+      "urls": [
+        "https://tradeify.co/",
+        "https://tradeify.co/inter-miami-cf"
+      ]
+    }
+  },
+  "ignored": [
+    "FundedNext CFD/Labs/bundle",
+    "Tradeify PTL",
+    "Buy 5 save 5%"
+  ],
+  "raw": "/workspace/pf2011/"
+}

@@ -1,0 +1,554 @@
+{
+  "edition": "2026-11-20",
+  "liveCommit": "6cb7f3ecca69a90c50cb8299f69be822e1649384",
+  "confirmedBy": "News Site Builder",
+  "watermarkPostId": "2197789725",
+  "watermarkTitleExact": "01.01.2026 PCE raceste inflatia...",
+  "watermarkDateExact": "01.01.2026",
+  "reason": "Numeric high-water mark stays 2197789725. Do not replace the watermark with a smaller newer listing id.",
+  "alreadyPublishedPostIds": [
+    "2197789190",
+    "2197789192",
+    "2197789197",
+    "2197789201",
+    "2197789202",
+    "2197789203",
+    "2197789207",
+    "2197789210",
+    "2197789214",
+    "2197789217",
+    "2197789219",
+    "2197789221",
+    "2197789223",
+    "2197789226",
+    "2197789227",
+    "2197789229",
+    "2197789232",
+    "2197789235",
+    "2197789237",
+    "2197789271",
+    "2197789725",
+    "2197789722",
+    "2197789717",
+    "2197789716",
+    "2197789713",
+    "2197789710",
+    "2197789705",
+    "2197789702",
+    "2197789699",
+    "2197789695",
+    "2197789686",
+    "2197789683",
+    "2197789681",
+    "2197789634",
+    "2197789505",
+    "2197789421",
+    "2197789417",
+    "2197789413",
+    "2197789408",
+    "2197789402",
+    "2197789400",
+    "2197789398",
+    "2197789395",
+    "2197789391",
+    "2197789388",
+    "2197789387",
+    "2197789385",
+    "2197789330",
+    "2197789319",
+    "2197789274",
+    "2197789272"
+  ],
+  "alreadyPublished": [
+    {
+      "postId": "2197789190",
+      "dateExact": "20.11.2026",
+      "titleExact": "20.11.2026 Corectiile se adancesc, chiar si cu startul Anthropic",
+      "edition": "2026-11-20",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789192",
+      "dateExact": "19.11.2026",
+      "titleExact": "19.11.2026 Corecția de pe tehnologie este dură, dar nu schimbă direcția pe termen lung",
+      "edition": "2026-11-19",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789197",
+      "dateExact": "18.11.2026",
+      "titleExact": "18.11.2026 Nvidia depășește estimările, iar piața își caută echilibrul",
+      "edition": "2026-11-18",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789201",
+      "dateExact": "17.11.2026",
+      "titleExact": "17.11.2026 Nasdaq intra in corectie si NVIDIA inca nu a raportat",
+      "edition": "2026-11-17",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789202",
+      "dateExact": "16.11.2026",
+      "titleExact": "16.11.2026 Săptămâna în care piața testează inteligența artificială.",
+      "edition": "2026-11-16",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789203",
+      "dateExact": "15.11.2026",
+      "titleExact": "15.11.2026 Cum arata piata!? by AM",
+      "edition": "2026-11-15",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789207",
+      "dateExact": "14.11.2026",
+      "titleExact": "14.11.2026 Nvidia nu mai vinde doar cipuri, ea finanțează jumătate din industrie...",
+      "edition": "2026-11-14",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789210",
+      "dateExact": "13.11.2026",
+      "titleExact": "13.11.2026 Wall Street rezistă șocului Nvidia, dar Nebius și Ondas plătesc nota...",
+      "edition": "2026-11-13",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789214",
+      "dateExact": "12.11.2026",
+      "titleExact": "12.11.2026 Wall Street revine puternic, iar portofoliile își refac drumul...",
+      "edition": "2026-11-12",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789217",
+      "dateExact": "11.11.2026",
+      "titleExact": "11.11.2026 CoreWave reporneste \"motorul\" AI-ului",
+      "edition": "2026-11-11",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789219",
+      "dateExact": "10.11.2026",
+      "titleExact": "10.11.2026 Piata revine spectaculos, dar ne confruntam astazi cu raportarea CPI.",
+      "edition": "2026-11-10",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789221",
+      "dateExact": "09.11.2026",
+      "titleExact": "09.11.2026 Increderea in proces se vede mai ales in peroade dificile",
+      "edition": "2026-11-09",
+      "slot": "midday"
+    },
+    {
+      "postId": "2197789223",
+      "dateExact": "08.11.2026",
+      "titleExact": "08.11.2026 O saptamana foarte dificila by AM",
+      "edition": "2026-11-09",
+      "slot": "midnight"
+    },
+    {
+      "postId": "2197789226",
+      "dateExact": "07.11.2026",
+      "titleExact": "07.11.2026 Piata recupereaza o parte din pierderi",
+      "edition": "2026-11-07",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789227",
+      "dateExact": "06.11.2026",
+      "titleExact": "06.11.2026 Cea mai dura sesiune din ultimile 19 luni.",
+      "edition": "2026-11-06",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789229",
+      "dateExact": "05.11.2026",
+      "titleExact": "05.11.2026 Companiile care au nevoie de finantare, se corecteaza agresiv.",
+      "edition": "2026-11-05",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789232",
+      "dateExact": "04.11.2026",
+      "titleExact": "04.11.2026 Democratii castiga alegerile iar AMD raporteaza stelar!!!",
+      "edition": "2026-11-04",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789235",
+      "dateExact": "03.11.2026",
+      "titleExact": "03.11.2026 Cine plateste pentru revolutia AI???",
+      "edition": "2026-11-03",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789237",
+      "dateExact": "02.11.2026",
+      "titleExact": "02.11.2026 Noiembrie incepe cu mid term elections si un sentiment negativ pe Piete",
+      "edition": "2026-11-02",
+      "slot": "1300"
+    },
+    {
+      "postId": "2197789725",
+      "dateExact": "01.01.2026",
+      "titleExact": "01.01.2026 PCE raceste inflatia..."
+    },
+    {
+      "postId": "2197789722",
+      "dateExact": "02.10.2026",
+      "titleExact": "02.10.2026 Astazi avem raportul NFP"
+    },
+    {
+      "postId": "2197789717",
+      "dateExact": "03.10.2026",
+      "titleExact": "03.10.2026 Raportul NFP este bun pentru cresterea Pietei."
+    },
+    {
+      "postId": "2197789716",
+      "dateExact": "04.10.2026",
+      "titleExact": "04.10.2026 Pozitii in care avem incredere by AM"
+    },
+    {
+      "postId": "2197789713",
+      "dateExact": "05.10.2026",
+      "titleExact": "05.10.2026 29% versus 17,5%"
+    },
+    {
+      "postId": "2197789710",
+      "dateExact": "06.10.2026",
+      "titleExact": "06.10.2026 SPCX decoleaza, concentrare vs diversificare, ETF/dividende vs Growth"
+    },
+    {
+      "postId": "2197789705",
+      "dateExact": "07.10.2026",
+      "titleExact": "07.10.2026 NU INTRAM IN STAREA DE EUFORIE/FOMO!!!"
+    },
+    {
+      "postId": "2197789702",
+      "dateExact": "08.10.2026",
+      "titleExact": "08.10.2026 Nu cumparam actiuni pe orice zi de scadere a Pietei."
+    },
+    {
+      "postId": "2197789699",
+      "dateExact": "09.10.2026",
+      "titleExact": "09.10.2026 Zilele de corectie sunt bune si sanatoase"
+    },
+    {
+      "postId": "2197789695",
+      "dateExact": "10.10.2026",
+      "titleExact": "10.10.2026 Am vândut ASTS, am redirecționat banii și vă explic calm de ce."
+    },
+    {
+      "postId": "2197789686",
+      "dateExact": "11.10.2026",
+      "titleExact": "11.10.2026 La ce se uita mari jucatori!? By AM"
+    },
+    {
+      "postId": "2197789272",
+      "dateExact": "31.10.2026",
+      "titleExact": "31.10.2026 Una dintre cele mai dure zile de corecție pe care le-am văzut by AM"
+    },
+    {
+      "postId": "2197789271",
+      "dateExact": "1.11.2026",
+      "titleExact": "1.11.2026 Materialul Video de Duminica by AM"
+    }
+  ],
+  "listingHeadPostId": "2197789190",
+  "q4DailyFolderId": "2160165880",
+  "nextRunRule": "NEW = not in alreadyPublishedPostIds (51) AND above listing head 2197789190 in Q4 2160165880 newest-first; never filter by id/date; watermark max 2197789725 unchanged.",
+  "priorLiveCommit": "257eb53",
+  "confirmedAt": "2026-11-20T13:14:06+02:00",
+  "history": [
+    {
+      "commit": "5a62e85",
+      "note": "05.10 midnight edition, GYH 0"
+    },
+    {
+      "commit": "39e2d50",
+      "note": "05.10 midday: added 2197789713"
+    },
+    {
+      "commit": "1641921",
+      "note": "06.10 midday: added 2197789710"
+    },
+    {
+      "commit": "3fba4fa",
+      "note": "07.10 midday: added 2197789705"
+    },
+    {
+      "edition": "2026-10-07",
+      "liveCommit": "3fba4fa",
+      "postId": "2197789705",
+      "confirmedAt": "2026-10-07T13:19:00+03:00"
+    },
+    {
+      "edition": "2026-10-08",
+      "liveCommit": "a3590c8",
+      "postId": "2197789702",
+      "confirmedAt": "2026-10-08T13:35:00+03:00"
+    },
+    {
+      "edition": "2026-10-09",
+      "liveCommit": "3a80f6e",
+      "postId": "2197789699",
+      "confirmedAt": "2026-10-09T13:21:00+03:00"
+    },
+    {
+      "edition": "2026-10-10",
+      "liveCommit": "c0ee207",
+      "postId": "2197789695",
+      "confirmedAt": "2026-10-10T13:39:00+03:00"
+    },
+    {
+      "edition": "2026-10-12",
+      "postId": "2197789683",
+      "title": "12.10.2026 Incep raportarile pentru Q3",
+      "commit": "eedd7c8"
+    },
+    {
+      "edition": "2026-10-13",
+      "postId": "2197789681",
+      "title": "13.10.2026 Piata redevine selectiva",
+      "commit": "bf1f9b7"
+    },
+    {
+      "edition": "2026-10-14",
+      "postId": "2197789634",
+      "title": "14.10.2026 Cand voi face EXIT???",
+      "commit": "b5b58e6"
+    },
+    {
+      "edition": "2026-10-15",
+      "postId": "2197789505",
+      "title": "15.10.2026 Începe să semene a 2022, iar acum se cerne sita.",
+      "commit": "3ed7f21"
+    },
+    {
+      "edition": "2026-10-16",
+      "postId": "2197789421",
+      "title": "16.10.2026 Ramanem concentrati. Material de MINDSET!!!",
+      "commit": "b7a4c44"
+    },
+    {
+      "edition": "2026-10-17",
+      "postId": "2197789417",
+      "title": "17.10.2026 Portofoliul a pierdut 400.000 USD dar tinta este aceiasi.",
+      "commit": "c74c511"
+    },
+    {
+      "edition": "2026-10-18",
+      "postId": "2197789413",
+      "title": "18.10.2026 Am intrat in extrem fear by AM",
+      "commit": "b00a706"
+    },
+    {
+      "edition": "2026-10-19",
+      "postId": "2197789408",
+      "title": "19.10.2026 Piata poate reveni agresiv oricand!!!",
+      "commit": "b43f665"
+    },
+    {
+      "edition": "2026-10-20",
+      "postId": "2197789402",
+      "title": "20.10.2026 Scaderile ne invata sa controlam emotiile.",
+      "liveCommit": "9991a3e"
+    },
+    {
+      "edition": "2026-10-21",
+      "postId": "2197789400",
+      "title": "21.10.2026 SpaceX confirma mesajul transmis in materialul de luni: CUMPARATI ACTIUNI !!!",
+      "liveCommit": "f714687"
+    },
+    {
+      "edition": "2026-10-22",
+      "postId": "2197789398",
+      "title": "22.10.2026 Tesla si META ne strica ziua, chiar daca SPCX ne-a ridicat moralul ieri.",
+      "liveCommit": "b41da6d"
+    },
+    {
+      "edition": "2026-10-23",
+      "postId": "2197789395",
+      "title": "23.10.2026 Ultimul material înainte de vacanță, scris exact în mijlocul corecției",
+      "commit": "122958f"
+    },
+    {
+      "edition": "2026-10-24",
+      "postId": "2197789391",
+      "title": "23.10.2026 Două alegeri în zece zile și un singur domino, petrolul by AM",
+      "commit": "8fddd79"
+    },
+    {
+      "edition": "2026-10-25",
+      "postId": "2197789388",
+      "title": "25.10.2026 Risk on si Risk OFF by AM",
+      "commit": "f7d0cc7"
+    },
+    {
+      "edition": "2026-10-26-midday",
+      "postId": "2197789387",
+      "title": "26.10.2026 O săptămână în care vreau să citesc dincolo de prima reacție a pieței by AM",
+      "commit": "09f5caf"
+    },
+    {
+      "edition": "2026-10-27-midday",
+      "postId": "2197789385",
+      "title": "27.10.2026 China se prăbușește, retailul se joacă cu focul by AM",
+      "commit": "ee8e257"
+    },
+    {
+      "edition": "2026-10-28-midday",
+      "postId": "2197789330",
+      "title": "27.10.2026 Israelul rămâne fără majoritate, Warsh urcă la microfon, iar raportările ne arată cine duce greul...",
+      "commit": "13184dd"
+    },
+    {
+      "edition": "2026-10-29-midday",
+      "postId": "2197789319",
+      "title": "29.10.2026 Atenție mare la capcane, pentru că piața este plină de ele...by AM",
+      "commit": "67b3d80"
+    },
+    {
+      "edition": "2026-10-30-midday",
+      "postId": "2197789274",
+      "title": "30.10.2026 Prea mult haos într-o singură săptămână by AM",
+      "commit": "0e7299a"
+    },
+    {
+      "edition": "2026-10-31-midday",
+      "postId": "2197789272",
+      "title": "31.10.2026 Una dintre cele mai dure zile de corecție pe care le-am văzut by AM",
+      "commit": "70d0eb7"
+    },
+    {
+      "commit": "4a30812",
+      "note": "02.11 midnight: added 2197789271"
+    },
+    {
+      "edition": "2026-11-02",
+      "liveCommit": "4a30812",
+      "listingHeadPostId": "2197789271",
+      "confirmedAt": "2026-11-02T00:34:00+02:00"
+    },
+    {
+      "edition": "2026-11-02",
+      "liveCommit": "0cd1189",
+      "listingHeadPostId": "2197789237",
+      "confirmedAt": "2026-11-02T13:19+02:00"
+    },
+    {
+      "edition": "2026-11-03",
+      "liveCommit": "20f3a2b",
+      "listingHeadPostId": "2197789235",
+      "confirmedAt": "2026-11-03T13:14+02:00"
+    },
+    {
+      "edition": "2026-11-05",
+      "liveCommit": "2a03f49",
+      "note": "05.11 midday: added 2197789229"
+    },
+    {
+      "edition": "2026-11-06",
+      "liveCommit": "e30f5b0",
+      "note": "06.11 midday: added 2197789227"
+    },
+    {
+      "edition": "2026-11-07",
+      "liveCommit": "e29a2eb",
+      "note": "07.11 midday: added 2197789226"
+    },
+    {
+      "edition": "2026-11-09",
+      "liveCommit": "a161688",
+      "note": "09.11 midnight: added 2197789223"
+    },
+    {
+      "at": "2026-11-09T13:42:00+02:00",
+      "event": "LIVE midday 09.11 ed65f47 +2197789221",
+      "from": "gyh-watermark-2026-11-09-live.json"
+    },
+    {
+      "at": "2026-11-10T13:32:00+02:00",
+      "event": "LIVE midday 10.11 99c56b7 +2197789219",
+      "from": "gyh-watermark-2026-11-09-midday-live.json"
+    },
+    {
+      "at": "2026-11-11T13:18:00+02:00",
+      "event": "midday LIVE 0ef297d",
+      "added": "2197789217",
+      "prevLock": "gyh-watermark-2026-11-10-midday-live.json",
+      "prevLockMd5": "3213299ba5ff75d1bb6663a24a6df8c3"
+    },
+    {
+      "at": "2026-11-12T13:39:00+02:00",
+      "event": "midday LIVE 23861f1",
+      "added": "2197789214",
+      "prevLock": "gyh-watermark-2026-11-11-midday-live.json",
+      "prevLockMd5": "493bdebc19f57d54f783d01dcd883586"
+    },
+    {
+      "prevLock": "/workspace/gyh-watermark-2026-11-12-midday-live.json",
+      "prevMd5": "0bddb2512679354115105b264af306ba",
+      "at": "2026-11-13T13:24:58+02:00",
+      "added": "2197789210"
+    },
+    {
+      "prevLock": "/workspace/gyh-watermark-2026-11-13-midday-live.json",
+      "prevMd5": "cc6f403fc5e1ea3aa21da479784e9807",
+      "at": "2026-11-14T19:51:21+02:00",
+      "added": "2197789207"
+    },
+    {
+      "at": "2026-11-15T13:33:31+02:00",
+      "event": "LIVE midday 15.11 e146ca9 (parent 41bfd4f): added 2197789203; 46 ids"
+    },
+    {
+      "at": "2026-11-16T13:16:23.254318+02:00",
+      "event": "LIVE midday 16.11 f054e90 (parent bdc79e3): +2197789202",
+      "fromLockMd5": "21a2cb4b59efc2cb0a92a68f0b6f4944"
+    },
+    {
+      "at": "2026-11-17T13:15:59.289166+02:00",
+      "event": "LIVE midday 17.11 5c72bf2 (parent 4eb44e1): +2197789201",
+      "fromLockMd5": "53e0668c164f4712ca732b05980d6c4a"
+    },
+    {
+      "at": "2026-11-18T13:09:00+02:00",
+      "event": "LIVE midday 18.11 confirmed",
+      "liveCommit": "920dcb0",
+      "addedPostId": "2197789197"
+    },
+    {
+      "at": "2026-11-19T13:18:00+02:00",
+      "event": "LIVE midday 19.11 confirmed",
+      "liveCommit": "257eb53",
+      "addedPostId": "2197789192"
+    },
+    {
+      "at": "2026-11-20T13:14:06+02:00",
+      "event": "LIVE midday 20.11 6cb7f3e (parent a7c4aa2): +2197789190",
+      "liveCommit": "6cb7f3e",
+      "addedPostId": "2197789190"
+    }
+  ],
+  "middayPatch": {
+    "brief": "/workspace/gyh-brief-2026-11-20-1300.json",
+    "briefMd5": "de78507c3c85e177753ae6d8fc3d0373",
+    "room": "/workspace/gyh-brief-20-11-corectiile-se-adancesc-room.txt",
+    "roomMd5": "5743cb2f53dd4ef9e9b4171320b67f3d",
+    "postId": "2197789190"
+  },
+  "midnightPatch": {
+    "postId": "2197789223",
+    "brief": "/workspace/gyh-brief-2026-11-09.json",
+    "briefMd5": "156964c5904588e1c62222edc2b53433"
+  },
+  "slot": "midday",
+  "liveCommitParent": "a7c4aa2",
+  "q4FolderId": "2160165880"
+}
