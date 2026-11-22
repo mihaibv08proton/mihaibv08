@@ -558,13 +558,6 @@
           "category": "sale"
         },
         {
-          "title": "Primus Trail Knit SG JJF Mens Bone Brown −40%",
-          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-sg-jjf-mens?colour=Bone+Brown",
-          "category": "sale"
-        },
-        {
           "title": "Hydra ESC JJF Mens Red Clay −40%",
           "text": "Was €210 / now €126 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -1522,13 +1515,6 @@
           "text": "Was €190 / now €114 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
           "link": "https://www.vivobarefoot.com/eu/explorer-mid-jjf-mens?colour=Obsidian",
-          "category": "sale"
-        },
-        {
-          "title": "Primus Trail Knit SG JJF Mens Bone Brown −40%",
-          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-sg-jjf-mens?colour=Bone+Brown",
           "category": "sale"
         },
         {
@@ -2492,13 +2478,6 @@
           "category": "sale"
         },
         {
-          "title": "Primus Trail Knit SG JJF Mens Bone Brown −40%",
-          "text": "Was €175 / now €105 (−40%). Automatic sale price on vivobarefoot.com/eu.",
-          "store": "Vivobarefoot",
-          "link": "https://www.vivobarefoot.com/eu/primus-trail-knit-sg-jjf-mens?colour=Bone+Brown",
-          "category": "sale"
-        },
-        {
           "title": "Hydra ESC JJF Mens Red Clay −40%",
           "text": "Was €210 / now €126 (−40%). Automatic sale price on vivobarefoot.com/eu.",
           "store": "Vivobarefoot",
@@ -2907,7 +2886,7 @@
     "titleRo": "BOTO TIMES",
     "timezone": "Europe/Bucharest",
     "windowDays": 3,
-    "updatedAt": "2026-11-22T00:21:03+02:00",
+    "updatedAt": "2026-11-22T18:43:24+02:00",
     "brand": "mihaibv08",
     "sections": [
       "x",
